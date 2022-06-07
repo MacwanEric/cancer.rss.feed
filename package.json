@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/osmoscraft/osmosfeed-template#readme",
   "dependencies": {
-    "@osmoscraft/osmosfeed": "^1.2.2"
+    #"@osmoscraft/osmosfeed": "^1.2.2"
+    "@MacwanEric/cancer.rssfeed": "^1.2.2"
   }
 }
