@@ -4,7 +4,7 @@
 #########################
 
 # `cacheUrl`: A URL that contains previous build output. (required)
-cacheUrl: https://<github_username>.github.io/<github_repo>/cache.json
+cacheUrl: https://macwaneric.github.io/cancer.rss.feed/cache.json
 
 # `sources`: An array of RSS subscriptions. (required)
 sources:
