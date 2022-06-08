@@ -10,7 +10,8 @@ cacheUrl: https://macwaneric.github.io/cancer.rss.feed/cache.json
 sources:
   # `href`: A URL that returns content in RSS 1.0, RSS 2.0, or Atom format. (required for each source)
   - href: https://rss.app/feeds/epZdxRZ8KpjwgnkE.xml
-  - href: https://rss.app/feeds/VE1dIPOdskDNEXrK.xml  
+  # clonal hematopoiesis
+  - href: https://pubmed.ncbi.nlm.nih.gov/rss/search/1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15/?limit=15&utm_campaign=pubmed-2&fc=20220608002300  
 
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "CancerFeed"
