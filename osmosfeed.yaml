@@ -11,7 +11,9 @@ sources:
   # `href`: A URL that returns content in RSS 1.0, RSS 2.0, or Atom format. (required for each source)
   - href: https://rss.app/feeds/epZdxRZ8KpjwgnkE.xml
   # clonal hematopoiesis
-  - href: https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622  
+  - href: https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622
+  #cancer#tumor#evolution#somatic
+  - href: https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801
 
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "CancerFeed"
