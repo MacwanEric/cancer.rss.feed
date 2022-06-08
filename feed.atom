@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2022-06-08T04:13:59.918Z</updated>
+    <updated>2022-06-08T04:24:32.684Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
@@ -18,13 +18,83 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nodal interferon exposure drives tumour-specific tolerance]]></title>
-        <id>f7b727d0b37e029d75b7b872a8c65499</id>
-        <link href="https://www.nature.com/articles/s41568-022-00489-8"/>
-        <updated>2022-06-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nature Reviews Cancer - Reticker-Flynn et al. show that exposure of melanoma cells to interferons and immune cells within lymph nodes leads to immune tolerance that promotes metastasis of both...]]></summary>
+        <title type="html"><![CDATA[Inflammation in Myeloid Malignancies: From Bench to Bedside]]></title>
+        <id>pubmed:35663100</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35663100/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myeloid malignancies, stemming from a somatically mutated hematopoietic clone, can cause a wide variety of clinical consequences, including pancytopenia in myelodysplastic syndrome, overproduction of three myeloid lineages in myeloproliferative neoplasm, and the rapid growth of immature hematopoietic cells in acute myeloid leukemia (AML). It is becoming clear that inflammation is a hallmark feature of clonal myeloid conditions, ranging from clonal hematopoiesis of indeterminate potential to AML....]]></summary>
         <author>
-            <name>Nature</name>
+            <name>Eli M Soyfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Development of plasma cell dyscrasias in a patient with chronic myeloid leukemia: A case report]]></title>
+        <id>pubmed:35663063</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35663063/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: This case highlights that gene translocation may contribute to initiation and sustainability of clonal proliferation. Moreover, the treatment with tyrosine kinase inhibitor and cytogenetic change may contribute to progression from monoclonal gammopathy of undetermined significance to smoldering multiple myeloma and eventually to multiple myeloma.]]></summary>
+        <author>
+            <name>Na Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis: Mutation-specific adaptation to environmental change]]></title>
+        <id>pubmed:35659875</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35659875/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) describes a widespread expansion of genetically variant hematopoietic cells that increases exponentially with age and is associated with increased risks of cancers, cardiovascular disease, and other maladies. Here, we discuss how environmental contexts associated with CHIP, such as old age, infections, chemotherapy, or cigarette smoking, alter tissue microenvironments to facilitate the selection and expansion of specific CHIP mutant clones....]]></summary>
+        <author>
+            <name>Marcus A Florez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PPM1D in Solid and Hematologic Malignancies: Friend and Foe?]]></title>
+        <id>pubmed:35657598</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35657598/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-06-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the face of constant genomic insults, the DNA damage response (DDR) is initiated to preserve genome integrity; its disruption is a classic hallmark of cancer. Protein Phosphatase Mg2+/Mn2+-Dependent 1D (PPM1D) is a central negative regulator of the DDR that is mutated or amplified in many solid cancers. PPM1D overexpression is associated with increased proliferative and metastatic behavior in multiple solid tumor types and patients with PPM1D-mutated malignancies have poorer prognoses. Recent...]]></summary>
+        <author>
+            <name>Linda Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somatic Mutations and Clonal Hematopoiesis as Drivers of Age-Related Cardiovascular Risk]]></title>
+        <id>pubmed:35657494</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35657494/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-06-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PURPOSE OF REVIEW: Clonal hematopoiesis of indeterminate potential (CHIP) has been identified as a novel cardiovascular risk factor. Here we review the relationship of lifestyle and environmental risk factors predisposing to somatic mutations and CHIP and provide an overview on age-related cardiovascular outcomes.]]></summary>
+        <author>
+            <name>Bernhard Haring</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis and mosaicism revealed by a multi-tissue analysis of constitutional TP53 Status]]></title>
+        <id>pubmed:35654360</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35654360/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-06-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: We demonstrated an effective approach and tools for discerning germline TP53 status.]]></summary>
+        <author>
+            <name>Danielle Castillo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardiovascular risk factors and molecular routes underlying endothelial dysfunction: Novel opportunities for primary prevention]]></title>
+        <id>pubmed:35643340</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35643340/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-06-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the major challenges of cardiovascular primary prevention approach is the absence of early biomarkers of endothelial dysfunction which may be useful for identifying at-risk subjects. Endothelial dysfunction is a systemic disorder in which traditional cardiovascular risk factors, such as aging, gender, hypertension, smoking, hyperglycemia, and dyslipidemia, as well as emerging risk determinants, such as fetal factors, gut microbiome alteration, clonal hematopoiesis, air pollution, and...]]></summary>
+        <author>
+            <name>Giuditta Benincasa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relationship of HIF‑1α expression with apoptosis and cell cycle in bone marrow mesenchymal stem cells from patients with myelodysplastic syndrome]]></title>
+        <id>pubmed:35642674</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35642674/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-06-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndrome (MDS) is a group of abnormal clonal disorders with ineffective hematopoiesis, which are incurable with conventional therapy. Of note, MDS features an abnormal bone marrow microenvironment, which is related to its incidence. The hypoxia‑inducible factor‑1α (HIF‑1α) transcriptional signature is generally activated in bone marrow stem/progenitor cells of patients with MDS. To analyze the expression of HIF‑1α in bone marrow mesenchymal stem cells (BM‑MSCs) and the apoptosis...]]></summary>
+        <author>
+            <name>Beibei Qu</name>
         </author>
     </entry>
     <entry>
@@ -37,6 +107,16 @@
 — VIB Conferences (@VIBConferences) May 30, 2022]]></summary>
         <author>
             <name>@VIBConferences</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent advances in hematopoietic cell transplantation for inherited bone marrow failure syndromes]]></title>
+        <id>pubmed:35633493</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35633493/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-05-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inherited bone marrow failure syndromes (IBMFSs) are a group of rare genetic disorders characterized by bone marrow failure with unique phenotypes and predisposition to cancer. Classical IBMFSs primarily include Fanconi anemia with impaired DNA damage repair, dyskeratosis congenita with telomere maintenance dysfunction, and Diamond-Blackfan anemia with aberrant ribosomal protein biosynthesis. Recently, comprehensive genetic analyses have been implemented for the definitive diagnosis of classic...]]></summary>
+        <author>
+            <name>Hirotoshi Sakaguchi</name>
         </author>
     </entry>
     <entry>
@@ -63,16 +143,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nonsense-mediated RNA decay: an emerging modulator of malignancy]]></title>
-        <id>8d6d36d2922578f6dbce923c700d8678</id>
-        <link href="https://www.nature.com/articles/s41568-022-00481-2"/>
-        <updated>2022-05-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nature Reviews Cancer - Nonsense-mediated RNA decay (NMD) is a highly conserved RNA surveillance pathway that selectively degrades both normal and mutant mRNAs harbouring stop codons in specific...]]></summary>
-        <author>
-            <name>Nature</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[@UlrikeHarjes: This Review by @MarcusDGon @cantleylab is part of the @NatureRevCancer series on #Diet & #SystemicMetabolism in cancer:  do love this topic in general plus I am handling research at @NatureMedicine now.. get in touch if you have something of interest☺️]]></title>
         <id>fe13755a2693ea65459e5e21df097d2a</id>
         <link href="https://twitter.com/UlrikeHarjes/status/1529747629936193537"/>
@@ -96,13 +166,33 @@ I do love this topic in general plus I am handling research at @NatureMedicine n
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Developing dietary interventions as therapy for cancer]]></title>
-        <id>c101257deaef49ddfc3d6ae6922f3232</id>
-        <link href="https://www.nature.com/articles/s41568-022-00485-y"/>
-        <updated>2022-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nature Reviews Cancer - This Review discusses the metabolic alterations and vulnerabilities across multiple types of cancer, and describes how these could potentially be targeted using diet in...]]></summary>
+        <title type="html"><![CDATA[Longitudinal profiling of clonal hematopoiesis provides insight into clonal dynamics]]></title>
+        <id>pubmed:35610705</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35610705/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-05-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Targeted smMIPS sequencing can sensitively measure clonal dynamics in CHIP. Mutations that reached the conventional threshold for CHIP (2% frequency) tended to continue growing, indicating that after CHIP is acquired, it is generally not lost. The ability to cost-effectively profile CHIP longitudinally will enable future studies to investigate why some CHIP clones expand, and how their dynamics relate to health outcomes at a biobank scale.]]></summary>
         <author>
-            <name>Nature</name>
+            <name>Md Mesbah Uddin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of Telomeres in Human Disease]]></title>
+        <id>pubmed:35609925</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35609925/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-05-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Telomere biology was first studied in maize, ciliates, yeast, and mice, and in recent decades, it has informed understanding of common disease mechanisms with broad implications for patient care. Short telomere syndromes are the most prevalent premature aging disorders, with prominent phenotypes affecting the lung and hematopoietic system. Less understood are a newly recognized group of cancer-prone syndromes that are associated with mutations that lengthen telomeres. A large body of new data...]]></summary>
+        <author>
+            <name>Mary Armanios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Erythroid lineage Jak2V617F expression promotes atherosclerosis through erythrophagocytosis and macrophage ferroptosis]]></title>
+        <id>pubmed:35587375</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35587375/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-05-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Elevated hematocrit is associated with cardiovascular risk; however, the causality and mechanisms are unclear. The JAK2V617F (Jak2VF) mutation increases cardiovascular risk in myeloproliferative disorders and in clonal hematopoiesis (CH). Jak2VF mice with elevated white blood cells, platelets and red blood cells (RBCs) display accelerated atherosclerosis and macrophage erythrophagocytosis. To investigate whether selective erythroid Jak2VF expression promotes atherosclerosis, we developed...]]></summary>
+        <author>
+            <name>Wenli Liu</name>
         </author>
     </entry>
     <entry>
@@ -117,16 +207,6 @@ I do love this topic in general plus I am handling research at @NatureMedicine n
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digging for treasures in the tumour interactome]]></title>
-        <id>7a839bbf574698d860220c4191201c86</id>
-        <link href="https://www.nature.com/articles/s41568-022-00487-w"/>
-        <updated>2022-05-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nature Reviews Cancer - In this Tools of the Trade article, Amir Giladi describes the development and use of PIC-seq, which enables the direct enrichment and analysis of conjugates of physically...]]></summary>
-        <author>
-            <name>Nature</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[@NatureRevCancer: As part of our overall commitment to diversity, equity and inclusion at Springer Nature, we’d like to better understand what DEI means within the global research community. Take the survey here]]></title>
         <id>9590a971b00448cd312078183965b21d</id>
         <link href="https://twitter.com/NatureRevCancer/status/1526560254091313156"/>
@@ -135,6 +215,36 @@ I do love this topic in general plus I am handling research at @NatureMedicine n
 — NatureReviewsCancer (@NatureRevCancer) May 17, 2022]]></summary>
         <author>
             <name>@NatureRevCancer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myelodysplastic syndromes are multiclonal diseases derived from hematopoietic stem and progenitor cells]]></title>
+        <id>pubmed:35578364</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35578364/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-05-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndromes (MDS) are generally considered as a group of clonal diseases derived from hematopoietic stem cells, but a number of studies have suggested that they are derived from myeloid progenitor cells. We aimed to identify the cell of origin in MDS by single-cell analyses. Targeted single-cell RNA sequencing, covering six frequently mutated genes (U2AF1, SF3B1, TET2, ASXL1, TP53, and DNMT3A) in MDS, was developed and performed on individual cells isolated from the CD34^(+) and...]]></summary>
+        <author>
+            <name>Bingqing Luo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selinexor synergizes with azacitidine to eliminate myelodysplastic syndrome cells through p53 nuclear accumulation]]></title>
+        <id>pubmed:35576022</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35576022/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-05-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndromes (MDS) are clonal malignancies of multipotent hematopoietic stem cells, characterized by ineffective hematopoiesis leading to cytopenia. Hypomethylating agents, including azacitidine, have been used for treating MDS with some success; however, the overall survival rate remains poor and, therefore, finding new therapies is necessary. Selinexor, which exerts anticancer effects against some hematologic tumors, is a nuclear export protein inhibitor that blocks cell...]]></summary>
+        <author>
+            <name>Yixuan Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stem Cells, Hematopoiesis and Lineage Tracing: Transplantation-Centric Views and Beyond]]></title>
+        <id>pubmed:35573680</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35573680/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1zqXPI1EmDrm_7WpQW0bDRZ9OdbT3aeKQOHCAn2dfl9BITok15&amp;fc=20220608002300&amp;ff=20220608002431&amp;v=2.17.6"/>
+        <updated>2022-05-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An appropriate production of mature blood cells, or hematopoiesis, is essential for organismal health and homeostasis. In this developmental cascade, hematopoietic stem cells (HSCs) differentiate into intermediate progenitor types, that subsequently give rise to the many distinct blood cell lineages. Here, we describe tools and methods that permit for temporal and native clonal-level HSC lineage tracing in the mouse, and that can now be combined with emerging single-cell molecular analyses. We...]]></summary>
+        <author>
+            <name>Anna Konturek-Ciesla</name>
         </author>
     </entry>
     <entry>
@@ -171,26 +281,6 @@ I do love this topic in general plus I am handling research at @NatureMedicine n
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tools for the next generation]]></title>
-        <id>9182f1ae9abca7f95fd9b8e04c30b182</id>
-        <link href="https://www.nature.com/articles/s41568-022-00484-z"/>
-        <updated>2022-05-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nature Reviews Cancer - This month, Nature Reviews Cancer launches Tools of the Trade articles, in which early career researchers can discuss the methods or techniques that they use to conduct...]]></summary>
-        <author>
-            <name>Nature</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hunting down rare drug-tolerant cycling cells with Watermelon]]></title>
-        <id>b875e79b55953771afb10c854b7648be</id>
-        <link href="https://www.nature.com/articles/s41568-022-00483-0"/>
-        <updated>2022-05-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nature Reviews Cancer - In this Tools of the Trade article, Yaara Oren describes the development and use of the Watermelon system to simultaneously track the lineage, transcriptional profile and...]]></summary>
-        <author>
-            <name>Nature</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[@VarunVenkatara2: Very happy that our latest Perspective is now online @NatureRevCancer ! We discuss implications of malignant, multicellular networks and potential therapeutic strategies how to disconnect them. Thanks to everyone involved ! #CancerNeuroscience #TumorMicrotubes #neurotwitter]]></title>
         <id>43e2d5ccebc9030f737d656f47ac9d98</id>
         <link href="https://twitter.com/VarunVenkatara2/status/1520050291986604033"/>
@@ -221,26 +311,6 @@ I do love this topic in general plus I am handling research at @NatureMedicine n
 — NatureReviewsCancer (@NatureRevCancer) April 29, 2022]]></summary>
         <author>
             <name>@NatureRevCancer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disconnecting multicellular networks in brain tumours]]></title>
-        <id>2a6980bc2c1465ad1a7f52b1b9c73253</id>
-        <link href="https://www.nature.com/articles/s41568-022-00475-0"/>
-        <updated>2022-04-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nature Reviews Cancer - This Perspective discusses the role of multicellular tumour networks, formed by tumour microtubes and tunnelling nanotubes, in brain tumours. It also discusses their...]]></summary>
-        <author>
-            <name>Nature</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An inhospitable site]]></title>
-        <id>14a77a2cd028150219e3b4e4a82a21d3</id>
-        <link href="https://www.nature.com/articles/s41568-022-00482-1"/>
-        <updated>2022-04-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nature Reviews Cancer - Crist et al. set out to investigate what makes the colonization of skeletal muscle by disseminated tumour cells (DTCs) so rare and found that this niche enforces persistent...]]></summary>
-        <author>
-            <name>Nature</name>
         </author>
     </entry>
     <entry>
@@ -290,16 +360,6 @@ I do love this topic in general plus I am handling research at @NatureMedicine n
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Polyamines in cancer: integrating organismal metabolism and antitumour immunity]]></title>
-        <id>ee79fa6d373c1b221091d188ee6c0d51</id>
-        <link href="https://www.nature.com/articles/s41568-022-00473-2"/>
-        <updated>2022-04-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nature Reviews Cancer - This Perspective discusses how polyamines, polyamine metabolism, the microbiota and the diet interconnect to establish a tumour microenvironment that facilitates the...]]></summary>
-        <author>
-            <name>Nature</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[@NatureRevCancer: In the April issue of @NatureRevCancer | Comment, Reimagining cancer research with art, by @CancerSciArtist, Stefani Shoreibah & @tdanino  @natrescancer @Columbia]]></title>
         <id>06ff7641d8f5fcc0dff91f835ac3bbc1</id>
         <link href="https://twitter.com/NatureRevCancer/status/1518967636561956865"/>
@@ -321,16 +381,6 @@ I do love this topic in general plus I am handling research at @NatureMedicine n
 — NatureReviewsCancer (@NatureRevCancer) April 25, 2022]]></summary>
         <author>
             <name>@NatureRevCancer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tracking dormant disseminated tumour cells]]></title>
-        <id>004d9bfa993d2020a98acb937a1a3eb7</id>
-        <link href="https://www.nature.com/articles/s41568-022-00480-3"/>
-        <updated>2022-04-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nature Reviews Cancer - In this Tools of the Trade article, Ana Luísa Correia describes the development and use of a tracker of dormant disseminated tumour cells to investigate the...]]></summary>
-        <author>
-            <name>Nature</name>
         </author>
     </entry>
 </feed>
