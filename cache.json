@@ -210,8 +210,48 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220901212122&utm_source=axios&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.17.7&utm_medium=rss&utm_campaign=pubmed-2",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&ff=20220902211826&v=2.17.8&utm_source=axios&fc=20220608003622",
       "articles": [
+        {
+          "id": "pubmed:36051022",
+          "author": "Takamasa Katagiri",
+          "description": "The phenotypic changes in hematopoietic stem progenitor cells (HSPCs) with somatic mutations of malignancy-related genes in patients with acquired aplastic anemia (AA) are poorly understood. As our initial study showed increased CXCR4 expression on HLA allele-lacking (HLA[-]) HSPCs that solely support hematopoiesis in comparison to redundant HLA(+) HSPCs in AA patients, we screened the HSPCs of patients with various types of bone marrow (BM) failure to investigate their CXCR4 expression. In...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36051022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-09-02T10:00:00.000Z",
+          "wordCount": 2977,
+          "title": "Hematopoietic stem progenitor cells with malignancy-related gene mutations in patients with acquired aplastic anemia are characterized by the increased expression of CXCR4",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36049115",
+          "author": "Megan A Evans",
+          "description": "Somatic mosaicism - the occurrence of multiple genetically distinct cell clones within the same tissue - is an evitable consequence of human aging. The hematopoietic system is no exception to this, where studies have revealed the presence of expanded blood cell clones carrying mutations in preleukemic driver genes and/or genetic alterations in chromosomes. This phenomenon is referred to as clonal hematopoiesis and is remarkably prevalent in elderly individuals. Whilst clonal hematopoiesis...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36049115/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-09-01T10:00:00.000Z",
+          "wordCount": 1158,
+          "title": "Clonal Hematopoiesis, Somatic Mosaicism, and Age-Associated Disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36046215",
+          "author": "Mette Soerensen",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is common in the elderly and has been reported to associate with accelerated epigenetic age (AgeAccel), especially intrinsic (ie, cell-type independent) AgeAccel and to a lesser degree extrinsic AgeAccel, which reflects the immune-cell composition of the peripheral blood. We investigated the association between CHIP occurrence and AgeAccel in 154 Danish twin pairs aged 73-90 years (mean 79), using both individual-level and intrapair...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36046215/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-09-01T10:00:00.000Z",
+          "wordCount": 1700,
+          "title": "Clonal Hematopoiesis and Epigenetic Age Acceleration in Elderly Danish Twins",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36046050",
+          "author": "Chiara Caprioli",
+          "description": "[This corrects the article DOI: 10.3389/fonc.2021.796477.].",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36046050/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-09-01T10:00:00.000Z",
+          "wordCount": 1086,
+          "title": "Corrigendum: Single-cell technologies to decipher the immune microenvironment in myeloid neoplasms: Perspectives and opportunities",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:36049115",
           "author": "Megan A Evans",
@@ -246,10 +286,30 @@
           "id": "pubmed:36045390",
           "author": "Razan Mohty",
           "description": "Myelodysplastic syndromes (MDS) are a heterogeneous clonal disease of myeloid neoplasms characterized by ineffective hematopoiesis, variable degree of cytopenias, and an increased risk of progression to acute myeloid leukemia (AML). Molecular and genetic characterization of MDS has led to a better understanding of the disease pathophysiology and is leading to the development of novel therapies. Targeted and immune therapies have shown promising results in different hematologic malignancies....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36045390/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-08-31T10:00:00.000Z",
+          "wordCount": 1515,
+          "title": "Treatment of myelodysplastic syndromes in the era of precision medicine and immunomodulatory drugs: a focus on higher-risk disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36045390",
+          "author": "Razan Mohty",
+          "description": "Myelodysplastic syndromes (MDS) are a heterogeneous clonal disease of myeloid neoplasms characterized by ineffective hematopoiesis, variable degree of cytopenias, and an increased risk of progression to acute myeloid leukemia (AML). Molecular and genetic characterization of MDS has led to a better understanding of the disease pathophysiology and is leading to the development of novel therapies. Targeted and immune therapies have shown promising results in different hematologic malignancies....",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36045390/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220901212122&v=2.17.7",
           "publishedOn": "2022-08-31T10:00:00.000Z",
           "wordCount": 1489,
           "title": "Treatment of myelodysplastic syndromes in the era of precision medicine and immunomodulatory drugs: a focus on higher-risk disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36040522",
+          "author": "Catherine H Marshall",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) refers to the expansion of cells of hematopoietic lineage that carry acquired somatic alterations associated with hematologic malignancies. The most commonly altered genes giving rise to CHIP are DNMT3A, TET2, and ASXL1. However, advanced sequencing technologies have resulted in highly sensitive detection of clonal hematopoiesis beyond these known driver genes. In practice, CHIP is commonly identified as an incidental finding in liquid and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36040522/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-08-30T10:00:00.000Z",
+          "wordCount": 1105,
+          "title": "Clonal hematopoiesis of indeterminate potential in patients with solid tumor malignancies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -280,6 +340,66 @@
           "publishedOn": "2022-08-30T10:00:00.000Z",
           "wordCount": 1068,
           "title": "Clonal hematopoiesis of indeterminate potential in patients with solid tumor malignancies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36018819",
+          "author": "Anqi Wang",
+          "description": "Little is known regarding the potential relationship between clonal hematopoiesis (CH) of indeterminate potential (CHIP), which is the expansion of hematopoietic stem cells with somatic mutations, and risk of prostate cancer, the fifth leading cause of cancer death of men worldwide. We evaluated the association of age-related CHIP with overall and aggressive prostate cancer risk in two large whole-exome sequencing studies of 75 047 European ancestry men, including 7663 prostate cancer cases,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36018819/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-08-26T10:00:00.000Z",
+          "wordCount": 1935,
+          "title": "Clonal hematopoiesis and risk of prostate cancer in large samples of European ancestry men",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36018052",
+          "author": "Akira Matsuda",
+          "description": "CONCLUSIONS: Dysmegakaryopoiesis without micromegakaryocytes and a transient increase of less than 5% in bone marrow blast count may be signs of hematologic improvement with eltrombopag for patients with AA.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36018052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-08-26T10:00:00.000Z",
+          "wordCount": 1581,
+          "title": "Dysmegakaryopoiesis and Transient Mild Increase in Bone Marrow Blasts in Patients With Aplastic Anemia Treated With Eltrombopag May Be Signs of Hematologic Improvement and Not Portend Clonal Evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36013314",
+          "author": "Charles Gaulin",
+          "description": "Hematopoietic stem cell aging, through the acquisition of somatic mutations, gives rise to clonal hematopoiesis (CH). While a high prevalence of CH has been described in otherwise healthy older adults, CH confers an increased risk of both hematologic and non-hematologic diseases. Classification of CH into clonal hematopoiesis of indeterminate potential (CHIP) and clonal cytopenia of undetermined significance (CCUS) further describes this neoplastic myeloid precursor state and stratifies...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36013314/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-08-26T10:00:00.000Z",
+          "wordCount": 1554,
+          "title": "Molecular Pathways in Clonal Hematopoiesis: From the Acquisition of Somatic Mutations to Transformation into Hematologic Neoplasm",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36010665",
+          "author": "Anna Stein",
+          "description": "The azanucleosides decitabine and azacytidine are used widely in the treatment of myeloid neoplasia and increasingly in the context of combination therapies. Although they were long regarded as being largely interchangeable in their function as hypomethylating agents, the azanucleosides actually have different mechanisms of action; decitabine interferes primarily with the methylation of DNA and azacytidine with that of RNA. Here, we examine the role of DNA methylation in the lineage commitment...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36010665/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-08-26T10:00:00.000Z",
+          "wordCount": 2253,
+          "title": "How Azanucleosides Affect Myeloid Cell Fate",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36010306",
+          "author": "Cristin Roma",
+          "description": "Targeted sequencing of circulating cell-free DNA (cfDNA) is used in routine clinical diagnostics for the identification of predictive biomarkers in cancer patients in an advanced stage. The presence of KRAS mutations associated with clonal hematopoiesis of indeterminate potential (CHIP) might represent a confounding factor. We used an amplicon-based targeted sequencing panel, covering selected regions of 52 genes, for circulating cell-free total nucleic acid (cfTNA) analysis of 495 plasma...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36010306/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-08-26T10:00:00.000Z",
+          "wordCount": 1611,
+          "title": "Low Impact of Clonal Hematopoiesis on the Determination of RAS Mutations by Cell-Free DNA Testing in Routine Clinical Diagnostics",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36009574",
+          "author": "Trine B Opstad",
+          "description": "Inherited and acquired mutations in hematopoietic stem cells can cause clonal expansion with increased risk of cardiovascular disease (CVD), a condition known for the clonal hematopoiesis of indeterminate potential (CHIP). Inherited genetic variants in two CHIP-associated genome loci, the telomerase gene telomerase enzyme reverse transcriptase (TERT) (rs7705526) and the epigenetic regulator ten-eleven translocation 2 (TET2) (rs2454206), were investigated in 1001 patients with stable coronary...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36009574/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-08-26T10:00:00.000Z",
+          "wordCount": 1748,
+          "title": "TERT and TET2 Genetic Variants Affect Leukocyte Telomere Length and Clinical Outcome in Coronary Artery Disease Patients-A Possible Link to Clonal Hematopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -706,6 +826,16 @@
           "id": "pubmed:36008542",
           "author": "Roberta Ranieri",
           "description": "Nucleophosmin 1 (NPM1) is a nucleus-cytoplasmic shuttling protein which is predominantly located in the nucleolus and exerts multiple functions, including regulation of centrosome duplication, ribosome biogenesis and export, histone assembly, maintenance of genomic stability and response to nucleolar stress. NPM1 mutations are the most common genetic alteration in acute myeloid leukemia (AML), detected in about 30-35% of adult AML and more than 50% of AML with normal karyotype. Because of its...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36008542/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-08-25T10:00:00.000Z",
+          "wordCount": 1554,
+          "title": "Current status and future perspectives in targeted therapy of NPM1-mutated AML",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36008542",
+          "author": "Roberta Ranieri",
+          "description": "Nucleophosmin 1 (NPM1) is a nucleus-cytoplasmic shuttling protein which is predominantly located in the nucleolus and exerts multiple functions, including regulation of centrosome duplication, ribosome biogenesis and export, histone assembly, maintenance of genomic stability and response to nucleolar stress. NPM1 mutations are the most common genetic alteration in acute myeloid leukemia (AML), detected in about 30-35% of adult AML and more than 50% of AML with normal karyotype. Because of its...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36008542/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220901212122&v=2.17.7",
           "publishedOn": "2022-08-25T10:00:00.000Z",
           "wordCount": 1554,
@@ -770,6 +900,16 @@
           "publishedOn": "2022-08-25T10:00:00.000Z",
           "wordCount": 1517,
           "title": "Current status and future perspectives in targeted therapy of NPM1-mutated AML",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:35996953",
+          "author": "Isabel N X Lim",
+          "description": "Acute myeloid leukemia (AML) is a heterogeneous disease of impaired myeloid differentiation and a caricature of normal hematopoiesis. Leukemic stem cells (LSCs) are responsible for long-term clonal propagation in AML just as hematopoietic stem cells (HSCs) sustain lifelong hematopoiesis. LSCs are often resistant to standard chemotherapy and are responsible for clinical relapse. Although AML is highly heterogeneous, determinants of stemness are prognostic for AML patient survival and can predict...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/35996953/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-08-23T10:00:00.000Z",
+          "wordCount": 1417,
+          "title": "Lipids and the cancer stemness regulatory system in acute myeloid leukemia",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -870,6 +1010,16 @@
           "publishedOn": "2022-08-23T10:00:00.000Z",
           "wordCount": 1140,
           "title": "Lipids and the cancer stemness regulatory system in acute myeloid leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:35990601",
+          "author": "Suzana Tesanovic",
+          "description": "While the underlying genetic alterations and biology of acute myeloid leukemia (AML), an aggressive hematologic malignancy characterized by clonal expansion of undifferentiated myeloid cells, have been gradually unraveled in the last decades, translation into clinical treatment approaches has only just begun. High relapse rates remain a major challenge in AML therapy and are to a large extent attributed to the persistence of treatment-resistant leukemic stem cells (LSCs). The Hedgehog (HH)...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/35990601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220902211826&v=2.17.8",
+          "publishedOn": "2022-08-22T10:00:00.000Z",
+          "wordCount": 1647,
+          "title": "Hedgehog/GLI signaling in hematopoietic development and acute myeloid leukemia-From bench to bedside",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -7841,634 +7991,44 @@
           "wordCount": 1556,
           "title": "CSF3R T618I mutant myelodysplastic/myeloproliferative neoplasm in the elderly: An age-related disease with unfavorable prognosis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220719211909&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1672,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220718212208&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1672,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220718212208&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1672,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220717211412&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1672,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220717211412&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1672,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787546",
-          "author": "Florian Hagenbourger",
-          "description": "PURPOSE OF REVIEW: Dysregulated apoptosis contributes to the pathogenesis of many hematologic malignancies. BH3-mimetics, antagonists of antiapoptotic BCL-2 proteins, represent novel, and promising cancer drugs. While the acute myelosuppressive effects of Venetoclax, the first Food and Drug Administration approved BCL-2 inhibitor, are fairly well described, little is known about side effects of novel BH3-mimetics and effects of chronic Venetoclax treatment.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787546/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220717211412&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1468,
-          "title": "No time to die? Intrinsic apoptosis signaling in hematopoietic stem and progenitor cells and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220716212224&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1662,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220716212224&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1672,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787546",
-          "author": "Florian Hagenbourger",
-          "description": "PURPOSE OF REVIEW: Dysregulated apoptosis contributes to the pathogenesis of many hematologic malignancies. BH3-mimetics, antagonists of antiapoptotic BCL-2 proteins, represent novel, and promising cancer drugs. While the acute myelosuppressive effects of Venetoclax, the first Food and Drug Administration approved BCL-2 inhibitor, are fairly well described, little is known about side effects of novel BH3-mimetics and effects of chronic Venetoclax treatment.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787546/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220716212224&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1468,
-          "title": "No time to die? Intrinsic apoptosis signaling in hematopoietic stem and progenitor cells and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220715211735&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1662,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220715211735&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1672,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787546",
-          "author": "Florian Hagenbourger",
-          "description": "PURPOSE OF REVIEW: Dysregulated apoptosis contributes to the pathogenesis of many hematologic malignancies. BH3-mimetics, antagonists of antiapoptotic BCL-2 proteins, represent novel, and promising cancer drugs. While the acute myelosuppressive effects of Venetoclax, the first Food and Drug Administration approved BCL-2 inhibitor, are fairly well described, little is known about side effects of novel BH3-mimetics and effects of chronic Venetoclax treatment.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787546/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220715211735&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1468,
-          "title": "No time to die? Intrinsic apoptosis signaling in hematopoietic stem and progenitor cells and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787092",
-          "author": "Chandan Saha",
-          "description": "INTRODUCTION: Myelofibrosis, a life shortening clonal disorder, presents with a constellation of features: bone marrow fibrosis, abnormal blood counts, extramedullary hematopoiesis, splenomegaly, thrombohemorrhagic complications, and constitutional symptoms. Until recently Ruxolitinib, a JAK1 and 2 inhibitor, has been the only targeted therapy available for transplant-ineligible patients requiring treatment for splenomegaly and disease-related symptoms. However, most patients discontinue...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787092/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220715211735&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1121,
-          "title": "Fedratinib, the first selective JAK2 inhibitor approved for treatment of myelofibrosis - an option beyond ruxolitinib",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220714212604&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1662,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220714212604&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1672,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787546",
-          "author": "Florian Hagenbourger",
-          "description": "PURPOSE OF REVIEW: Dysregulated apoptosis contributes to the pathogenesis of many hematologic malignancies. BH3-mimetics, antagonists of antiapoptotic BCL-2 proteins, represent novel, and promising cancer drugs. While the acute myelosuppressive effects of Venetoclax, the first Food and Drug Administration approved BCL-2 inhibitor, are fairly well described, little is known about side effects of novel BH3-mimetics and effects of chronic Venetoclax treatment.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787546/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220714212604&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1468,
-          "title": "No time to die? Intrinsic apoptosis signaling in hematopoietic stem and progenitor cells and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787092",
-          "author": "Chandan Saha",
-          "description": "INTRODUCTION: Myelofibrosis, a life shortening clonal disorder, presents with a constellation of features: bone marrow fibrosis, abnormal blood counts, extramedullary hematopoiesis, splenomegaly, thrombohemorrhagic complications, and constitutional symptoms. Until recently Ruxolitinib, a JAK1 and 2 inhibitor, has been the only targeted therapy available for transplant-ineligible patients requiring treatment for splenomegaly and disease-related symptoms. However, most patients discontinue...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787092/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220714212604&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1121,
-          "title": "Fedratinib, the first selective JAK2 inhibitor approved for treatment of myelofibrosis - an option beyond ruxolitinib",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35786159",
-          "author": "Ali A Rizvi",
-          "description": "INTRODUCTION: Atherosclerosis can be considered a chronic inflammatory process that stands out as a dominant cause of cardiovascular disease (CVD). Since blood lipids are the leading risk factor for atherosclerosis development, lowering low-density lipoprotein cholesterol (LDL-C) and other apolipoprotein B-containing lipoproteins reduces the risk of future cardiovascular events. However, there has been significant progress in developing lipid-lowering drugs for aggressive management of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35786159/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220714212604&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1435,
-          "title": "Current and emerging drugs for the treatment of atherosclerosis: the evidence to date",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220713211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1662,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220713211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1672,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787546",
-          "author": "Florian Hagenbourger",
-          "description": "PURPOSE OF REVIEW: Dysregulated apoptosis contributes to the pathogenesis of many hematologic malignancies. BH3-mimetics, antagonists of antiapoptotic BCL-2 proteins, represent novel, and promising cancer drugs. While the acute myelosuppressive effects of Venetoclax, the first Food and Drug Administration approved BCL-2 inhibitor, are fairly well described, little is known about side effects of novel BH3-mimetics and effects of chronic Venetoclax treatment.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787546/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220713211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1468,
-          "title": "No time to die? Intrinsic apoptosis signaling in hematopoietic stem and progenitor cells and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787092",
-          "author": "Chandan Saha",
-          "description": "INTRODUCTION: Myelofibrosis, a life shortening clonal disorder, presents with a constellation of features: bone marrow fibrosis, abnormal blood counts, extramedullary hematopoiesis, splenomegaly, thrombohemorrhagic complications, and constitutional symptoms. Until recently Ruxolitinib, a JAK1 and 2 inhibitor, has been the only targeted therapy available for transplant-ineligible patients requiring treatment for splenomegaly and disease-related symptoms. However, most patients discontinue...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787092/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220713211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1121,
-          "title": "Fedratinib, the first selective JAK2 inhibitor approved for treatment of myelofibrosis - an option beyond ruxolitinib",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35786159",
-          "author": "Ali A Rizvi",
-          "description": "INTRODUCTION: Atherosclerosis can be considered a chronic inflammatory process that stands out as a dominant cause of cardiovascular disease (CVD). Since blood lipids are the leading risk factor for atherosclerosis development, lowering low-density lipoprotein cholesterol (LDL-C) and other apolipoprotein B-containing lipoproteins reduces the risk of future cardiovascular events. However, there has been significant progress in developing lipid-lowering drugs for aggressive management of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35786159/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220713211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1435,
-          "title": "Current and emerging drugs for the treatment of atherosclerosis: the evidence to date",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220712211231&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1662,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220712211231&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1672,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787546",
-          "author": "Florian Hagenbourger",
-          "description": "PURPOSE OF REVIEW: Dysregulated apoptosis contributes to the pathogenesis of many hematologic malignancies. BH3-mimetics, antagonists of antiapoptotic BCL-2 proteins, represent novel, and promising cancer drugs. While the acute myelosuppressive effects of Venetoclax, the first Food and Drug Administration approved BCL-2 inhibitor, are fairly well described, little is known about side effects of novel BH3-mimetics and effects of chronic Venetoclax treatment.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787546/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220712211231&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1468,
-          "title": "No time to die? Intrinsic apoptosis signaling in hematopoietic stem and progenitor cells and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787092",
-          "author": "Chandan Saha",
-          "description": "INTRODUCTION: Myelofibrosis, a life shortening clonal disorder, presents with a constellation of features: bone marrow fibrosis, abnormal blood counts, extramedullary hematopoiesis, splenomegaly, thrombohemorrhagic complications, and constitutional symptoms. Until recently Ruxolitinib, a JAK1 and 2 inhibitor, has been the only targeted therapy available for transplant-ineligible patients requiring treatment for splenomegaly and disease-related symptoms. However, most patients discontinue...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787092/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220712211231&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1121,
-          "title": "Fedratinib, the first selective JAK2 inhibitor approved for treatment of myelofibrosis - an option beyond ruxolitinib",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35786159",
-          "author": "Ali A Rizvi",
-          "description": "INTRODUCTION: Atherosclerosis can be considered a chronic inflammatory process that stands out as a dominant cause of cardiovascular disease (CVD). Since blood lipids are the leading risk factor for atherosclerosis development, lowering low-density lipoprotein cholesterol (LDL-C) and other apolipoprotein B-containing lipoproteins reduces the risk of future cardiovascular events. However, there has been significant progress in developing lipid-lowering drugs for aggressive management of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35786159/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220712211231&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1435,
-          "title": "Current and emerging drugs for the treatment of atherosclerosis: the evidence to date",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220711211933&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1662,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220711211933&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1603,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787546",
-          "author": "Florian Hagenbourger",
-          "description": "PURPOSE OF REVIEW: Dysregulated apoptosis contributes to the pathogenesis of many hematologic malignancies. BH3-mimetics, antagonists of antiapoptotic BCL-2 proteins, represent novel, and promising cancer drugs. While the acute myelosuppressive effects of Venetoclax, the first Food and Drug Administration approved BCL-2 inhibitor, are fairly well described, little is known about side effects of novel BH3-mimetics and effects of chronic Venetoclax treatment.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787546/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220711211933&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1454,
-          "title": "No time to die? Intrinsic apoptosis signaling in hematopoietic stem and progenitor cells and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787092",
-          "author": "Chandan Saha",
-          "description": "INTRODUCTION: Myelofibrosis, a life shortening clonal disorder, presents with a constellation of features: bone marrow fibrosis, abnormal blood counts, extramedullary hematopoiesis, splenomegaly, thrombohemorrhagic complications, and constitutional symptoms. Until recently Ruxolitinib, a JAK1 and 2 inhibitor, has been the only targeted therapy available for transplant-ineligible patients requiring treatment for splenomegaly and disease-related symptoms. However, most patients discontinue...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787092/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220711211933&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1121,
-          "title": "Fedratinib, the first selective JAK2 inhibitor approved for treatment of myelofibrosis - an option beyond ruxolitinib",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35786159",
-          "author": "Ali A Rizvi",
-          "description": "INTRODUCTION: Atherosclerosis can be considered a chronic inflammatory process that stands out as a dominant cause of cardiovascular disease (CVD). Since blood lipids are the leading risk factor for atherosclerosis development, lowering low-density lipoprotein cholesterol (LDL-C) and other apolipoprotein B-containing lipoproteins reduces the risk of future cardiovascular events. However, there has been significant progress in developing lipid-lowering drugs for aggressive management of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35786159/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220711211933&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1435,
-          "title": "Current and emerging drugs for the treatment of atherosclerosis: the evidence to date",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220710211548&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1662,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220710211548&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1614,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787546",
-          "author": "Florian Hagenbourger",
-          "description": "PURPOSE OF REVIEW: Dysregulated apoptosis contributes to the pathogenesis of many hematologic malignancies. BH3-mimetics, antagonists of antiapoptotic BCL-2 proteins, represent novel, and promising cancer drugs. While the acute myelosuppressive effects of Venetoclax, the first Food and Drug Administration approved BCL-2 inhibitor, are fairly well described, little is known about side effects of novel BH3-mimetics and effects of chronic Venetoclax treatment.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787546/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220710211548&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1453,
-          "title": "No time to die? Intrinsic apoptosis signaling in hematopoietic stem and progenitor cells and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787092",
-          "author": "Chandan Saha",
-          "description": "Introduction: Myelofibrosis, a life shortening clonal disorder, presents with a constellation of features: bone marrow fibrosis, abnormal blood counts, extramedullary hematopoiesis, splenomegaly, thrombohemorrhagic complications and constitutional symptoms. Until recently Ruxolitinib, a JAK1 and 2 inhibitor, has been the only targeted therapy available for transplant-ineligible patients requiring treatment for splenomegaly and disease related symptoms. However, most patients discontinue...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787092/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220710211548&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1118,
-          "title": "Fedratinib, the first selective JAK2 inhibitor approved for treatment of myelofibrosis - an option beyond ruxolitinib",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35786159",
-          "author": "Ali A Rizvi",
-          "description": "INTRODUCTION: Atherosclerosis can be considered a chronic inflammatory process that stands out as a dominant cause of cardiovascular disease (CVD). Since blood lipids are the leading risk factor for atherosclerosis development, lowering low-density lipoprotein cholesterol (LDL-C) and other apolipoprotein B-containing lipoproteins reduces the risk of future cardiovascular events. However, there has been significant progress in developing lipid-lowering drugs for aggressive management of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35786159/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220710211548&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1435,
-          "title": "Current and emerging drugs for the treatment of atherosclerosis: the evidence to date",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220709212311&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1662,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220709212311&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1614,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787546",
-          "author": "Florian Hagenbourger",
-          "description": "PURPOSE OF REVIEW: Dysregulated apoptosis contributes to the pathogenesis of many hematologic malignancies. BH3-mimetics, antagonists of antiapoptotic BCL-2 proteins, represent novel, and promising cancer drugs. While the acute myelosuppressive effects of Venetoclax, the first Food and Drug Administration approved BCL-2 inhibitor, are fairly well described, little is known about side effects of novel BH3-mimetics and effects of chronic Venetoclax treatment.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787546/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220709212311&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1453,
-          "title": "No time to die? Intrinsic apoptosis signaling in hematopoietic stem and progenitor cells and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787092",
-          "author": "Chandan Saha",
-          "description": "Introduction: Myelofibrosis, a life shortening clonal disorder, presents with a constellation of features: bone marrow fibrosis, abnormal blood counts, extramedullary hematopoiesis, splenomegaly, thrombohemorrhagic complications and constitutional symptoms. Until recently Ruxolitinib, a JAK1 and 2 inhibitor, has been the only targeted therapy available for transplant-ineligible patients requiring treatment for splenomegaly and disease related symptoms. However, most patients discontinue...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787092/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220709212311&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1118,
-          "title": "Fedratinib, the first selective JAK2 inhibitor approved for treatment of myelofibrosis - an option beyond ruxolitinib",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35786159",
-          "author": "Ali A Rizvi",
-          "description": "INTRODUCTION: Atherosclerosis can be considered a chronic inflammatory process that stands out as a dominant cause of cardiovascular disease (CVD). Since blood lipids are the leading risk factor for atherosclerosis development, lowering low-density lipoprotein cholesterol (LDL-C) and other apolipoprotein B-containing lipoproteins reduces the risk of future cardiovascular events. However, there has been significant progress in developing lipid-lowering drugs for aggressive management of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35786159/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220709212311&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1435,
-          "title": "Current and emerging drugs for the treatment of atherosclerosis: the evidence to date",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220708210406&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1662,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220708210406&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1614,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787546",
-          "author": "Florian Hagenbourger",
-          "description": "PURPOSE OF REVIEW: Dysregulated apoptosis contributes to the pathogenesis of many hematologic malignancies. BH3-mimetics, antagonists of antiapoptotic BCL-2 proteins, represent novel, and promising cancer drugs. While the acute myelosuppressive effects of Venetoclax, the first Food and Drug Administration approved BCL-2 inhibitor, are fairly well described, little is known about side effects of novel BH3-mimetics and effects of chronic Venetoclax treatment.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787546/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220708210406&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1453,
-          "title": "No time to die? Intrinsic apoptosis signaling in hematopoietic stem and progenitor cells and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787092",
-          "author": "Chandan Saha",
-          "description": "Introduction: Myelofibrosis, a life shortening clonal disorder, presents with a constellation of features: bone marrow fibrosis, abnormal blood counts, extramedullary hematopoiesis, splenomegaly, thrombohemorrhagic complications and constitutional symptoms. Until recently Ruxolitinib, a JAK1 and 2 inhibitor, has been the only targeted therapy available for transplant-ineligible patients requiring treatment for splenomegaly and disease related symptoms. However, most patients discontinue...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787092/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220708210406&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1118,
-          "title": "Fedratinib, the first selective JAK2 inhibitor approved for treatment of myelofibrosis - an option beyond ruxolitinib",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35786159",
-          "author": "Ali A Rizvi",
-          "description": "INTRODUCTION: Atherosclerosis can be considered a chronic inflammatory process that stands out as a dominant cause of cardiovascular disease (CVD). Since blood lipids are the leading risk factor for atherosclerosis development, lowering low-density lipoprotein cholesterol (LDL-C) and other apolipoprotein B-containing lipoproteins reduces the risk of future cardiovascular events. However, there has been significant progress in developing lipid-lowering drugs for aggressive management of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35786159/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220708210406&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1435,
-          "title": "Current and emerging drugs for the treatment of atherosclerosis: the evidence to date",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220707211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1662,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220707211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1609,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787546",
-          "author": "Florian Hagenbourger",
-          "description": "PURPOSE OF REVIEW: Dysregulated apoptosis contributes to the pathogenesis of many hematologic malignancies. BH3-mimetics, antagonists of antiapoptotic BCL-2 proteins, represent novel, and promising cancer drugs. While the acute myelosuppressive effects of Venetoclax, the first Food and Drug Administration approved BCL-2 inhibitor, are fairly well described, little is known about side effects of novel BH3-mimetics and effects of chronic Venetoclax treatment.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787546/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220707211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1451,
-          "title": "No time to die? Intrinsic apoptosis signaling in hematopoietic stem and progenitor cells and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787092",
-          "author": "Chandan Saha",
-          "description": "Introduction: Myelofibrosis, a life shortening clonal disorder, presents with a constellation of features: bone marrow fibrosis, abnormal blood counts, extramedullary hematopoiesis, splenomegaly, thrombohemorrhagic complications and constitutional symptoms. Until recently Ruxolitinib, a JAK1 and 2 inhibitor, has been the only targeted therapy available for transplant-ineligible patients requiring treatment for splenomegaly and disease related symptoms. However, most patients discontinue...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787092/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220707211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1118,
-          "title": "Fedratinib, the first selective JAK2 inhibitor approved for treatment of myelofibrosis - an option beyond ruxolitinib",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35786159",
-          "author": "Ali A Rizvi",
-          "description": "INTRODUCTION: Atherosclerosis can be considered a chronic inflammatory process that stands out as a dominant cause of cardiovascular disease (CVD). Since blood lipids are the leading risk factor for atherosclerosis development, lowering low-density lipoprotein cholesterol (LDL-C) and other apolipoprotein B-containing lipoproteins reduces the risk of future cardiovascular events. However, there has been significant progress in developing lipid-lowering drugs for aggressive management of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35786159/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220707211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1423,
-          "title": "Current and emerging drugs for the treatment of atherosclerosis: the evidence to date",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788175",
-          "author": "Neil A Robertson",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) increases rapidly in prevalence beyond age 60 and has been associated with increased risk for malignancy, heart disease and ischemic stroke. CHIP is driven by somatic mutations in hematopoietic stem and progenitor cells (HSPCs). Because mutations in HSPCs often drive leukemia, we hypothesized that HSPC fitness substantially contributes to transformation from CHIP to leukemia. HSPC fitness is defined as the proliferative advantage over cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788175/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220706212003&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1662,
-          "title": "Longitudinal dynamics of clonal hematopoiesis identifies gene-specific fitness effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220706212003&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1605,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787546",
-          "author": "Florian Hagenbourger",
-          "description": "PURPOSE OF REVIEW: Dysregulated apoptosis contributes to the pathogenesis of many hematologic malignancies. BH3-mimetics, antagonists of antiapoptotic BCL-2 proteins, represent novel, and promising cancer drugs. While the acute myelosuppressive effects of Venetoclax, the first Food and Drug Administration approved BCL-2 inhibitor, are fairly well described, little is known about side effects of novel BH3-mimetics and effects of chronic Venetoclax treatment.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787546/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220706212003&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1447,
-          "title": "No time to die? Intrinsic apoptosis signaling in hematopoietic stem and progenitor cells and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787092",
-          "author": "Chandan Saha",
-          "description": "Introduction: Myelofibrosis, a life shortening clonal disorder, presents with a constellation of features: bone marrow fibrosis, abnormal blood counts, extramedullary hematopoiesis, splenomegaly, thrombohemorrhagic complications and constitutional symptoms. Until recently Ruxolitinib, a JAK1 and 2 inhibitor, has been the only targeted therapy available for transplant-ineligible patients requiring treatment for splenomegaly and disease related symptoms. However, most patients discontinue...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787092/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220706212003&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1118,
-          "title": "Fedratinib, the first selective JAK2 inhibitor approved for treatment of myelofibrosis - an option beyond ruxolitinib",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35786159",
-          "author": "Ali A Rizvi",
-          "description": "INTRODUCTION: Atherosclerosis can be considered a chronic inflammatory process that stands out as a dominant cause of cardiovascular disease (CVD). Since blood lipids are the leading risk factor for atherosclerosis development, lowering low-density lipoprotein cholesterol (LDL-C) and other apolipoprotein B-containing lipoproteins reduces the risk of future cardiovascular events. However, there has been significant progress in developing lipid-lowering drugs for aggressive management of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35786159/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220706212003&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1423,
-          "title": "Current and emerging drugs for the treatment of atherosclerosis: the evidence to date",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787548",
-          "author": "Sergio Barajas",
-          "description": "PURPOSE OF REVIEW: Human aging is associated with an exponential increase in the occurrence of clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with increased risks of de novo and therapy-related hematologic neoplasms and serves as a reservoir for leukemic relapse. Somatic mutations in the TP53 gene, which encodes the tumor suppressor protein p53, rank in the top five among genes that were mutated in CHIP. TP53 mutations in CHIP are associated with an increased...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220705212255&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1366,
-          "title": "Role of p53 in regulation of hematopoiesis in health and disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787546",
-          "author": "Florian Hagenbourger",
-          "description": "PURPOSE OF REVIEW: Dysregulated apoptosis contributes to the pathogenesis of many hematologic malignancies. BH3-mimetics, antagonists of antiapoptotic BCL-2 proteins, represent novel, and promising cancer drugs. While the acute myelosuppressive effects of Venetoclax, the first Food and Drug Administration approved BCL-2 inhibitor, are fairly well described, little is known about side effects of novel BH3-mimetics and effects of chronic Venetoclax treatment.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787546/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220705212255&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1198,
-          "title": "No time to die? Intrinsic apoptosis signaling in hematopoietic stem and progenitor cells and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35787092",
-          "author": "Chandan Saha",
-          "description": "Introduction: Myelofibrosis, a life shortening clonal disorder, presents with a constellation of features: bone marrow fibrosis, abnormal blood counts, extramedullary hematopoiesis, splenomegaly, thrombohemorrhagic complications and constitutional symptoms. Until recently Ruxolitinib, a JAK1 and 2 inhibitor, has been the only targeted therapy available for transplant-ineligible patients requiring treatment for splenomegaly and disease related symptoms. However, most patients discontinue...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35787092/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220705212255&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1069,
-          "title": "Fedratinib, the first selective JAK2 inhibitor approved for treatment of myelofibrosis - an option beyond ruxolitinib",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35786159",
-          "author": "Ali A Rizvi",
-          "description": "INTRODUCTION: Atherosclerosis can be considered a chronic inflammatory process that stands out as a dominant cause of cardiovascular disease (CVD). Since blood lipids are the leading risk factor for atherosclerosis development, lowering low-density lipoprotein cholesterol (LDL-C) and other apolipoprotein B-containing lipoproteins reduces the risk of future cardiovascular events. However, there has been significant progress in developing lipid-lowering drugs for aggressive management of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35786159/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220705212255&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1405,
-          "title": "Current and emerging drugs for the treatment of atherosclerosis: the evidence to date",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&fc=20220608010801&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20220901212122&utm_source=axios&v=2.17.7",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&utm_medium=rss&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&utm_source=axios&v=2.17.8",
       "articles": [
+        {
+          "id": "pubmed:36054881",
+          "author": "Carmelo Gurnari",
+          "description": "CONCLUSION: The risk of sMN in AA is associated with disease severity, lack of response to treatment, and patients' age. sMNs display high-risk morphological, karyotypic, and molecular features. The landscape of acquired somatic mutations is complex and incompletely understood and should be considered with caution in medical management.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36054881/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-09-02T10:00:00.000Z",
+          "wordCount": 1750,
+          "title": "Clinical and Molecular Determinants of Clonal Evolution in Aplastic Anemia and Paroxysmal Nocturnal Hemoglobinuria",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36051087",
+          "author": "Vasiliki Symeonidou",
+          "description": "Acute myeloid leukaemia is prevalent in older patients that are often ineligible for intensive chemotherapy and treatment options remain limited with azacitidine being at the forefront. Azacitidine has been used in the clinic for decades, however, we still lack a complete understanding of the mechanisms by which the drug exerts its anti-tumour effect. To gain insight into the mechanism of action, we defined the mutational profile of sequential samples of patients treated with azacitidine. We did...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36051087/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-09-02T10:00:00.000Z",
+          "wordCount": 2083,
+          "title": "Heterogeneous genetic and non-genetic mechanisms contribute to response and resistance to azacitidine monotherapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36046628",
+          "author": "Elisa Baldelli",
+          "description": "Clonal evolution and lineage plasticity are key contributors to tumor heterogeneity and response to treatment in cancer. However, capturing signal transduction events in coexisting clones remains challenging from a technical perspective. In this study, we developed and tested a signal-transduction-based workflow to isolate and profile coexisting clones within a complex cellular system like non-small cell lung cancers (NSCLCs). Cooccurring clones were isolated under immunohistochemical guidance...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36046628/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-09-01T10:00:00.000Z",
+          "wordCount": 2139,
+          "title": "Analysis of neuroendocrine clones in NSCLCs using an immuno-guided laser-capture microdissection-based approach",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:36046628",
           "author": "Elisa Baldelli",
@@ -8477,6 +8037,26 @@
           "publishedOn": "2022-09-01T10:00:00.000Z",
           "wordCount": 2094,
           "title": "Analysis of neuroendocrine clones in NSCLCs using an immuno-guided laser-capture microdissection-based approach",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36038111",
+          "author": "Tingting Sun",
+          "description": "CONCLUSION: A dualistic classification model was proposed for the classification of HGSOC based on spatial heterogeneity, which may contribute to better managing patients and providing individual treatment for HGSOC patients.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36038111/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-08-29T10:00:00.000Z",
+          "wordCount": 1514,
+          "title": "Dualistic classification of high grade serous ovarian carcinoma has its root in spatial heterogeneity",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36032027",
+          "author": "Ikuo Konishi",
+          "description": "Epithelial ovarian cancer remains the lethal gynecological malignancy in women. The representative histotype is high-grade serous carcinoma (HGSC), and most patients with HGSC present at advanced stages with peritoneal dissemination. Since the peritoneal dissemination is the most important factor for poor prognosis of the patients, complete exploration for its molecular mechanisms is mandatory. In this narrative review, being based on the clinical, pathologic, and genomic findings of HGSC,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36032027/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-08-29T10:00:00.000Z",
+          "wordCount": 1468,
+          "title": "Peritoneal dissemination of high-grade serous ovarian cancer: pivotal roles of chromosomal instability and epigenetic dynamics",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8537,6 +8117,26 @@
           "publishedOn": "2022-08-29T10:00:00.000Z",
           "wordCount": 1400,
           "title": "Peritoneal dissemination of high-grade serous ovarian cancer: pivotal roles of chromosomal instability and epigenetic dynamics",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36028583",
+          "author": "Yuanyuan Jin",
+          "description": "Eltrombopag (EPAG), a thrombopoietin receptor agonist, was approved for the treatment of severe aplastic anemia (SAA) combined with immunosuppressive therapy (IST). However, the effects of real-life use of low doses of EPAG combined with rabbit antithymocyte globulin (ATG)-based IST in Asian patients with SAA are yet unknown. A total of 121 previously untreated Chinese patients with SAA were enrolled in a multicenter registry of the Chinese Eastern Collaboration Group of Anemia (2014-2020): 67...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36028583/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-08-26T10:00:00.000Z",
+          "wordCount": 1602,
+          "title": "A real-word experience of eltrombopag plus rabbit antithymocyte immunoglobulin-based IST in Chinese patients with severe aplastic anemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36013314",
+          "author": "Charles Gaulin",
+          "description": "Hematopoietic stem cell aging, through the acquisition of somatic mutations, gives rise to clonal hematopoiesis (CH). While a high prevalence of CH has been described in otherwise healthy older adults, CH confers an increased risk of both hematologic and non-hematologic diseases. Classification of CH into clonal hematopoiesis of indeterminate potential (CHIP) and clonal cytopenia of undetermined significance (CCUS) further describes this neoplastic myeloid precursor state and stratifies...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36013314/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-08-26T10:00:00.000Z",
+          "wordCount": 1554,
+          "title": "Molecular Pathways in Clonal Hematopoiesis: From the Acquisition of Somatic Mutations to Transformation into Hematologic Neoplasm",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8673,6 +8273,16 @@
           "id": "pubmed:36008001",
           "author": "Judy S Crabtree",
           "description": "In the past two decades since the first sequencing of the human genome, clinical genomics has undergone a renaissance with the advent of next generation sequencing (NGS) technologies. Whole genome sequencing is now increasingly available in the clinical setting at a fraction of the cost of the human genome reference sequence, and with turnaround times as short as 7-10days. Clinical genetics-based management has become more tractable with improved payer reimbursement and increased availability of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36008001/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-08-25T10:00:00.000Z",
+          "wordCount": 1303,
+          "title": "Precision diagnostics in cancer: Predict, prevent, and personalize",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36008001",
+          "author": "Judy S Crabtree",
+          "description": "In the past two decades since the first sequencing of the human genome, clinical genomics has undergone a renaissance with the advent of next generation sequencing (NGS) technologies. Whole genome sequencing is now increasingly available in the clinical setting at a fraction of the cost of the human genome reference sequence, and with turnaround times as short as 7-10days. Clinical genetics-based management has become more tractable with improved payer reimbursement and increased availability of...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36008001/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220901212122&v=2.17.7",
           "publishedOn": "2022-08-25T10:00:00.000Z",
           "wordCount": 1303,
@@ -8737,6 +8347,16 @@
           "publishedOn": "2022-08-25T10:00:00.000Z",
           "wordCount": 1189,
           "title": "Precision diagnostics in cancer: Predict, prevent, and personalize",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:35998218",
+          "author": "Ryan O Schenck",
+          "description": "Recent studies have revealed that normal human tissues accumulate many somatic mutations. In particular, human skin is riddled with mutations, with multiple subclones of variable sizes. Driver mutations are frequent and tend to have larger subclone sizes, suggesting selection. To begin to understand the histories encoded by these complex somatic mutations, we incorporated genomes into a simple agent-based skin-cell model whose prime directive is homeostasis. In this model, stem-cell survival is...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/35998218/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-08-23T10:00:00.000Z",
+          "wordCount": 2512,
+          "title": "Homeostasis limits keratinocyte evolution",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8817,6 +8437,16 @@
           "publishedOn": "2022-08-23T10:00:00.000Z",
           "wordCount": 1492,
           "title": "Homeostasis limits keratinocyte evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:35996174",
+          "author": "Ornella Affinito",
+          "description": "CONCLUSIONS: Our findings suggest ITH as a potential unfavorable prognostic factor in PTC and highlight the dynamic changes in different clinical stages of PTC, providing some clues for the precision medicine and suggesting different diagnostic decisions depending on the clinical stages of patients. Finally, complete clear guidelines to define risk stratification of PTC patients are lacking; thus, this work could contribute to defining patients who need more aggressive treatments and, in turn,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/35996174/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-08-22T10:00:00.000Z",
+          "wordCount": 2578,
+          "title": "Evolution of intra-tumoral heterogeneity across different pathological stages in papillary thyroid carcinoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8917,6 +8547,26 @@
           "publishedOn": "2022-08-22T10:00:00.000Z",
           "wordCount": 1451,
           "title": "Evolution of intra-tumoral heterogeneity across different pathological stages in papillary thyroid carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:35986270",
+          "author": "Yanan Zhai",
+          "description": "CONCLUSIONS: In summary, the single cell RNA data underpinned the tumor heterogeneity not only amongst patient blasts with similar initiating mutations but also between each Dx-Re pair. Our results suggest alternatively and currently unappreciated and unexplored mechanisms leading to therapeutic resistance and AML recurrence.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/35986270/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-08-19T10:00:00.000Z",
+          "wordCount": 3164,
+          "title": "Longitudinal single-cell transcriptomics reveals distinct patterns of recurrence in acute myeloid leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:35986254",
+          "author": "Sandra Hui",
+          "description": "CONCLUSIONS: SCONCE2 jointly estimates copy number profiles and a distance metric for inferring tumor phylogenies in single cell whole genome tumor sequencing across multiple cells, enabling deeper understandings of tumor evolution.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/35986254/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-08-19T10:00:00.000Z",
+          "wordCount": 3012,
+          "title": "SCONCE2: jointly inferring single cell copy number profiles and tumor evolutionary distances",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -9183,6 +8833,16 @@
           "id": "pubmed:35977503",
           "author": "Natalia Miheecheva",
           "description": "Intratumor heterogeneity (ITH) represents a major challenge for anticancer therapies. An integrated, multidimensional, multiregional approach dissecting ITH of the clear cell renal cell carcinoma (ccRCC) tumor microenvironment (TME) is employed at the single-cell level with mass cytometry (CyTOF), multiplex immunofluorescence (MxIF), and single-nucleus RNA sequencing (snRNA-seq) and at the bulk level with whole-exome sequencing (WES), RNA-seq, and methylation profiling. Multiregional analyses...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/35977503/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-08-17T10:00:00.000Z",
+          "wordCount": 2020,
+          "title": "Multiregional single-cell proteogenomic analysis of ccRCC reveals cytokine drivers of intratumor spatial heterogeneity",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:35977503",
+          "author": "Natalia Miheecheva",
+          "description": "Intratumor heterogeneity (ITH) represents a major challenge for anticancer therapies. An integrated, multidimensional, multiregional approach dissecting ITH of the clear cell renal cell carcinoma (ccRCC) tumor microenvironment (TME) is employed at the single-cell level with mass cytometry (CyTOF), multiplex immunofluorescence (MxIF), and single-nucleus RNA sequencing (snRNA-seq) and at the bulk level with whole-exome sequencing (WES), RNA-seq, and methylation profiling. Multiregional analyses...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/35977503/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220901212122&v=2.17.7",
           "publishedOn": "2022-08-17T10:00:00.000Z",
           "wordCount": 2020,
@@ -9327,6 +8987,16 @@
           "publishedOn": "2022-08-17T10:00:00.000Z",
           "wordCount": 1691,
           "title": "Multiregional single-cell proteogenomic analysis of ccRCC reveals cytokine drivers of intratumor spatial heterogeneity",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:35964234",
+          "author": "Jyoti Kumar",
+          "description": "CONCLUSIONS: To our knowledge, this is the first report to provide evidence for clonal evolution of histiocytic sarcoma from blastoid mantle cell lymphoma based on cytogenic and molecular findings. The patient's protracted therapeutic course may have acted as an evolutionary driver promoting this transdifferentiation process.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/35964234/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-08-14T10:00:00.000Z",
+          "wordCount": 1236,
+          "title": "Histiocytic Sarcoma With CCND1 Gene Rearrangement Clonally Related and Transdifferentiated From Mantle Cell Lymphoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -9517,6 +9187,16 @@
           "publishedOn": "2022-08-14T10:00:00.000Z",
           "wordCount": 1184,
           "title": "Histiocytic Sarcoma With CCND1 Gene Rearrangement Clonally Related and Transdifferentiated From Mantle Cell Lymphoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:35960050",
+          "author": "Wen-Wen Li",
+          "description": "CONCLUSION: Polycythemia vera can transform into acute promyelocytic leukemia; therefore, it is important to review bone aspiration and other tests to perform a comprehensive assessment and monitor the disease status, to detect disease progression and intervene early when it transforms into acute promyelocytic leukemia.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/35960050/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220902211825&v=2.17.8",
+          "publishedOn": "2022-08-12T10:00:00.000Z",
+          "wordCount": 2561,
+          "title": "Transformation from polycythemia vera to acute promyelocytic leukemia: Case report and literature review",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -15517,576 +15197,6 @@
           "publishedOn": "2022-07-07T10:00:00.000Z",
           "wordCount": 1543,
           "title": "Multidimensional Molecular Profiling of Metastatic Triple-Negative Breast Cancer and Immune Checkpoint Inhibitor Benefit",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220726212040&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3159,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220725211845&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3159,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220724211605&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3159,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220723212121&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3159,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220723212121&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220722211347&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3159,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220722211347&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220721211948&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3159,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220721211948&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220721211948&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220720211338&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3159,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220720211338&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220720211338&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220719211909&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3159,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220719211909&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220719211909&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220718212208&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3159,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220718212208&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220718212208&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220717211412&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3159,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220717211412&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220717211412&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220716212224&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3159,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220716212224&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220716212224&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220715211735&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3159,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220715211735&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220715211735&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220714212604&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3156,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220714212604&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2642,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220714212604&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220713211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3156,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220713211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2639,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220713211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220712211231&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3156,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220712211231&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2639,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220712211231&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220711211933&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3156,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220711211933&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2639,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220711211933&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220710211548&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3156,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220710211548&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2639,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220710211548&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220709212311&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3148,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220709212311&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2631,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220709212311&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220708210406&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 3148,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220708210406&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 2631,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220708210406&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220707211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1654,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220707211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1359,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220707211901&v=2.17.7",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35788590",
-          "author": "Qiuchen Guo",
-          "description": "Single-cell analysis methods are valuable tools; however, current approaches do not easily enable live cell retrieval. That is a particular issue when further study of cells that were eliminated during experimentation could provide critical information. We report a clonal molecular barcoding method, called SunCatcher, that enables longitudinal tracking and live cell functional analysis. From complex cell populations, we generate single cell-derived clonal populations, infect each with a unique...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35788590/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220706212003&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1654,
-          "title": "Clonal barcoding with qPCR detection enables live cell functional analyses for cancer research",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220706212003&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1359,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220706212003&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1396,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35785618",
-          "author": "Xiaoyan Zhang",
-          "description": "BACKGROUND: Tumor heterogeneity of human colorectal cancer (CRC)-initiating cells (CRCICs) in cancer tissues often represents aggressive features of cancer progression. For high-resolution examination of CRCICs, we performed single-cell whole-exome sequencing (scWES) and bulk cell targeted exome sequencing (TES) of CRCICs to investigate stemness-specific somatic alterations or clonal evolution.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35785618/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220705212255&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1309,
-          "title": "Single-cell sequencing reveals CD133<sup>+</sup>CD44<sup>-</sup>-originating evolution and novel stemness related variants in human colorectal cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:35781188",
-          "author": "Talha Badar",
-          "description": "PURPOSE OF REVIEW: While DDX41 mutation (m) is one of the most prevalent predisposition genes in adult myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML), most patients do not always present with a family history of MDS/AML. In this review, we will be highlighting epidemiological data on DDX41m, roles of DDX41 in oncogenesis, mechanisms of clonal evolution with somatic DDX41m, and clinical phenotypes and management of MDS/AML in patients harboring DDX41m.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/35781188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220705212255&v=2.17.6",
-          "publishedOn": "2022-07-05T10:00:00.000Z",
-          "wordCount": 1353,
-          "title": "Germline and Somatic Defects in DDX41 and its Impact on Myeloid Neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
