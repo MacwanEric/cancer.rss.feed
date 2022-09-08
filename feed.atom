@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2022-09-07T01:26:30.014Z</updated>
+    <updated>2022-09-08T01:22:17.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amplification of RUNX1 in a Patient With AML]]></title>
+        <id>pubmed:36070230</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36070230/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-09-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Acute myeloid leukemia (AML) is a heterogeneous disease, characterized by clonal expansion of undifferentiated myeloid precursors, leading to alterations in hematopoiesis and bone marrow failure. Characteristic chromosomal abnormalities in AML are translocations t(8;21), inv(16), t(15;17), t(9;22), as well as mutations of genes that regulate proliferation and survival (FLT 3, PTPN 11, ETV 6/PDGFB), or genes responsible for differentiation and apoptosis (RUNX-1/RUNX1T1, PML/RARA, KMT2A, CEBPA and...]]></summary>
+        <author>
+            <name>Rodrigo Hurtado</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A research review of experimental animal models with myelodysplastic syndrome]]></title>
+        <id>pubmed:36068448</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36068448/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-09-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndrome (MDS) consists of a group of hematologic tumors that are derived from the clonal proliferation of hematopoietic stem cells, featuring abnormal hematopoietic cell development and ineffective hematopoiesis. Animal models are an important scientific research platform that has been widely applied in the research of human diseases, especially tumors. Animal models with MDS can simulate characteristic human genetic variations and tumor phenotypes. They also provide a reliable...]]></summary>
+        <author>
+            <name>Gen-Wang Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Disease]]></title>
+        <id>pubmed:36067904</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36067904/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-09-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Age is the most important risk factor for cardiovascular disease and appears to be more than a marker of cumulative exposure to other risk factors such as dyslipidemia and hypertension. With aging, genetic mutations occur that are not present in our germline DNA, observed as somatic mosaicism. Hematopoietic stem cells have an increased chance of developing mosaicism because they are highly proliferative, and mutations with survival benefits can establish clonal populations. Age-related clonal...]]></summary>
+        <author>
+            <name>Seyedmohammad Saadatagah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tumor Heterogeneity and Drug Resistance Mutations Using ctDNA in Metastatic <em>EGFR</em> Mutation-Positive Lung Adenocarcinoma: A Case Report]]></title>
+        <id>pubmed:36065405</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36065405/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-09-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For advanced non-small cell lung cancer (NSCLC) patients with epidermal growth factor receptor (EGFR) mutations, EGFR tyrosine kinase inhibitors (TKIs) have been approved as the standard therapy and shown clinical benefits. However, the emergence of drug resistance is inevitable. Tumor heterogeneity was often observed by imaging method to evaluate the progression of primary and metastatic lesions. Tissue biopsy was also unlikely to accurately capture the complete genomic landscape from a single...]]></summary>
+        <author>
+            <name>Jinghua Sun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tumor Heterogeneity and Drug Resistance Mutations Using ctDNA in Metastatic <em>EGFR</em> Mutation-Positive Lung Adenocarcinoma: A Case Report]]></title>
         <id>pubmed:36065405</id>
@@ -14,6 +54,26 @@
         <summary type="html"><![CDATA[For advanced non-small cell lung cancer (NSCLC) patients with epidermal growth factor receptor (EGFR) mutations, EGFR tyrosine kinase inhibitors (TKIs) have been approved as the standard therapy and shown clinical benefits. However, the emergence of drug resistance is inevitable. Tumor heterogeneity was often observed by imaging method to evaluate the progression of primary and metastatic lesions. Tissue biopsy was also unlikely to accurately capture the complete genomic landscape from a single...]]></summary>
         <author>
             <name>Jinghua Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antigen-specific T cells as a potential regulator of hematopoietic stem cell clones]]></title>
+        <id>pubmed:36058863</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36058863/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-09-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hematopoietic stem cells (HSCs) are tissue-specific stem cells that are critical for homeostasis and regeneration of the hematopoietic system. Multiple mechanisms exist that help maintain the size and integrity of the HSC pool after exposure to various insults to provide all lineages of blood cells throughout life. Clonal hematopoiesis, an age-related clonal mosaicism detected in the hematopoietic system and governed by aberrant HSC clones with somatic mutations, has recently been identified as...]]></summary>
+        <author>
+            <name>Masayuki Yamashita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clinical significance of detecting human leukocyte antigen class I allele-lacking leukocytes in aplastic anemia]]></title>
+        <id>pubmed:36058861</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36058861/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-09-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Human leukocyte antigen (HLA) class I allele-lacking [HLA (-)] leukocytes provide compelling evidence that cytotoxic T-lymphocytes are involved in the development of aplastic anemia (AA). However, the clinical significance and precise mechanisms underlying clonal hematopoiesis by HLA (-) hematopoietic stem progenitor cells remain unknown. In HLA (-) cells from patients with AA, we discovered a common nonsense mutation at codon19 (c.19C>T, p.R7X) in exon1 (Exon1^(mut)) of different HLA-A and...]]></summary>
+        <author>
+            <name>Kohei Hosokawa</name>
         </author>
     </entry>
     <entry>
@@ -54,6 +114,16 @@
         <summary type="html"><![CDATA[Human leukocyte antigen (HLA) class I allele-lacking [HLA (-)] leukocytes provide compelling evidence that cytotoxic T-lymphocytes are involved in the development of aplastic anemia (AA). However, the clinical significance and precise mechanisms underlying clonal hematopoiesis by HLA (-) hematopoietic stem progenitor cells remain unknown. In HLA (-) cells from patients with AA, we discovered a common nonsense mutation at codon19 (c.19C>T, p.R7X) in exon1 (Exon1^(mut)) of different HLA-A and...]]></summary>
         <author>
             <name>Kohei Hosokawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hematopoietic stem progenitor cells with malignancy-related gene mutations in patients with acquired aplastic anemia are characterized by the increased expression of CXCR4]]></title>
+        <id>pubmed:36051022</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36051022/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-09-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The phenotypic changes in hematopoietic stem progenitor cells (HSPCs) with somatic mutations of malignancy-related genes in patients with acquired aplastic anemia (AA) are poorly understood. As our initial study showed increased CXCR4 expression on HLA allele-lacking (HLA[-]) HSPCs that solely support hematopoiesis in comparison to redundant HLA(+) HSPCs in AA patients, we screened the HSPCs of patients with various types of bone marrow (BM) failure to investigate their CXCR4 expression. In...]]></summary>
+        <author>
+            <name>Takamasa Katagiri</name>
         </author>
     </entry>
     <entry>
@@ -104,6 +174,26 @@
         <summary type="html"><![CDATA[The phenotypic changes in hematopoietic stem progenitor cells (HSPCs) with somatic mutations of malignancy-related genes in patients with acquired aplastic anemia (AA) are poorly understood. As our initial study showed increased CXCR4 expression on HLA allele-lacking (HLA[-]) HSPCs that solely support hematopoiesis in comparison to redundant HLA(+) HSPCs in AA patients, we screened the HSPCs of patients with various types of bone marrow (BM) failure to investigate their CXCR4 expression. In...]]></summary>
         <author>
             <name>Takamasa Katagiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clinical and Molecular Determinants of Clonal Evolution in Aplastic Anemia and Paroxysmal Nocturnal Hemoglobinuria]]></title>
+        <id>pubmed:36054881</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36054881/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-09-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: The risk of sMN in AA is associated with disease severity, lack of response to treatment, and patients' age. sMNs display high-risk morphological, karyotypic, and molecular features. The landscape of acquired somatic mutations is complex and incompletely understood and should be considered with caution in medical management.]]></summary>
+        <author>
+            <name>Carmelo Gurnari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heterogeneous genetic and non-genetic mechanisms contribute to response and resistance to azacitidine monotherapy]]></title>
+        <id>pubmed:36051087</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36051087/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-09-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Acute myeloid leukaemia is prevalent in older patients that are often ineligible for intensive chemotherapy and treatment options remain limited with azacitidine being at the forefront. Azacitidine has been used in the clinic for decades, however, we still lack a complete understanding of the mechanisms by which the drug exerts its anti-tumour effect. To gain insight into the mechanism of action, we defined the mutational profile of sequential samples of patients treated with azacitidine. We did...]]></summary>
+        <author>
+            <name>Vasiliki Symeonidou</name>
         </author>
     </entry>
     <entry>
@@ -204,6 +294,36 @@
         <summary type="html"><![CDATA[Acute myeloid leukaemia is prevalent in older patients that are often ineligible for intensive chemotherapy and treatment options remain limited with azacitidine being at the forefront. Azacitidine has been used in the clinic for decades, however, we still lack a complete understanding of the mechanisms by which the drug exerts its anti-tumour effect. To gain insight into the mechanism of action, we defined the mutational profile of sequential samples of patients treated with azacitidine. We did...]]></summary>
         <author>
             <name>Vasiliki Symeonidou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis, Somatic Mosaicism, and Age-Associated Disease]]></title>
+        <id>pubmed:36049115</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36049115/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-09-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Somatic mosaicism - the occurrence of multiple genetically distinct cell clones within the same tissue - is an evitable consequence of human aging. The hematopoietic system is no exception to this, where studies have revealed the presence of expanded blood cell clones carrying mutations in preleukemic driver genes and/or genetic alterations in chromosomes. This phenomenon is referred to as clonal hematopoiesis and is remarkably prevalent in elderly individuals. Whilst clonal hematopoiesis...]]></summary>
+        <author>
+            <name>Megan A Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis and Epigenetic Age Acceleration in Elderly Danish Twins]]></title>
+        <id>pubmed:36046215</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36046215/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-09-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) is common in the elderly and has been reported to associate with accelerated epigenetic age (AgeAccel), especially intrinsic (ie, cell-type independent) AgeAccel and to a lesser degree extrinsic AgeAccel, which reflects the immune-cell composition of the peripheral blood. We investigated the association between CHIP occurrence and AgeAccel in 154 Danish twin pairs aged 73-90 years (mean 79), using both individual-level and intrapair...]]></summary>
+        <author>
+            <name>Mette Soerensen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corrigendum: Single-cell technologies to decipher the immune microenvironment in myeloid neoplasms: Perspectives and opportunities]]></title>
+        <id>pubmed:36046050</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36046050/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-09-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[This corrects the article DOI: 10.3389/fonc.2021.796477.].]]></summary>
+        <author>
+            <name>Chiara Caprioli</name>
         </author>
     </entry>
     <entry>
@@ -389,6 +509,16 @@
     <entry>
         <title type="html"><![CDATA[Analysis of neuroendocrine clones in NSCLCs using an immuno-guided laser-capture microdissection-based approach]]></title>
         <id>pubmed:36046628</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36046628/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-09-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal evolution and lineage plasticity are key contributors to tumor heterogeneity and response to treatment in cancer. However, capturing signal transduction events in coexisting clones remains challenging from a technical perspective. In this study, we developed and tested a signal-transduction-based workflow to isolate and profile coexisting clones within a complex cellular system like non-small cell lung cancers (NSCLCs). Cooccurring clones were isolated under immunohistochemical guidance...]]></summary>
+        <author>
+            <name>Elisa Baldelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysis of neuroendocrine clones in NSCLCs using an immuno-guided laser-capture microdissection-based approach]]></title>
+        <id>pubmed:36046628</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36046628/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220906212627&amp;v=2.17.8"/>
         <updated>2022-09-01T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Clonal evolution and lineage plasticity are key contributors to tumor heterogeneity and response to treatment in cancer. However, capturing signal transduction events in coexisting clones remains challenging from a technical perspective. In this study, we developed and tested a signal-transduction-based workflow to isolate and profile coexisting clones within a complex cellular system like non-small cell lung cancers (NSCLCs). Cooccurring clones were isolated under immunohistochemical guidance...]]></summary>
@@ -444,6 +574,16 @@
         <summary type="html"><![CDATA[Clonal evolution and lineage plasticity are key contributors to tumor heterogeneity and response to treatment in cancer. However, capturing signal transduction events in coexisting clones remains challenging from a technical perspective. In this study, we developed and tested a signal-transduction-based workflow to isolate and profile coexisting clones within a complex cellular system like non-small cell lung cancers (NSCLCs). Cooccurring clones were isolated under immunohistochemical guidance...]]></summary>
         <author>
             <name>Elisa Baldelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Treatment of myelodysplastic syndromes in the era of precision medicine and immunomodulatory drugs: a focus on higher-risk disease]]></title>
+        <id>pubmed:36045390</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36045390/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndromes (MDS) are a heterogeneous clonal disease of myeloid neoplasms characterized by ineffective hematopoiesis, variable degree of cytopenias, and an increased risk of progression to acute myeloid leukemia (AML). Molecular and genetic characterization of MDS has led to a better understanding of the disease pathophysiology and is leading to the development of novel therapies. Targeted and immune therapies have shown promising results in different hematologic malignancies....]]></summary>
+        <author>
+            <name>Razan Mohty</name>
         </author>
     </entry>
     <entry>
@@ -529,6 +669,16 @@
     <entry>
         <title type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential in patients with solid tumor malignancies]]></title>
         <id>pubmed:36040522</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36040522/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) refers to the expansion of cells of hematopoietic lineage that carry acquired somatic alterations associated with hematologic malignancies. The most commonly altered genes giving rise to CHIP are DNMT3A, TET2, and ASXL1. However, advanced sequencing technologies have resulted in highly sensitive detection of clonal hematopoiesis beyond these known driver genes. In practice, CHIP is commonly identified as an incidental finding in liquid and...]]></summary>
+        <author>
+            <name>Catherine H Marshall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential in patients with solid tumor malignancies]]></title>
+        <id>pubmed:36040522</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36040522/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220906212627&amp;v=2.17.8"/>
         <updated>2022-08-30T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) refers to the expansion of cells of hematopoietic lineage that carry acquired somatic alterations associated with hematologic malignancies. The most commonly altered genes giving rise to CHIP are DNMT3A, TET2, and ASXL1. However, advanced sequencing technologies have resulted in highly sensitive detection of clonal hematopoiesis beyond these known driver genes. In practice, CHIP is commonly identified as an incidental finding in liquid and...]]></summary>
@@ -604,6 +754,26 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) refers to the expansion of cells of hematopoietic lineage that carry acquired somatic alterations associated with hematologic malignancies. The most commonly altered genes giving rise to CHIP are DNMT3A, TET2, and ASXL1. However, advanced sequencing technologies have resulted in highly sensitive detection of clonal hematopoiesis beyond these known driver genes. In practice, CHIP is commonly identified as an incidental finding in liquid and...]]></summary>
         <author>
             <name>Catherine H Marshall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dualistic classification of high grade serous ovarian carcinoma has its root in spatial heterogeneity]]></title>
+        <id>pubmed:36038111</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36038111/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: A dualistic classification model was proposed for the classification of HGSOC based on spatial heterogeneity, which may contribute to better managing patients and providing individual treatment for HGSOC patients.]]></summary>
+        <author>
+            <name>Tingting Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peritoneal dissemination of high-grade serous ovarian cancer: pivotal roles of chromosomal instability and epigenetic dynamics]]></title>
+        <id>pubmed:36032027</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36032027/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Epithelial ovarian cancer remains the lethal gynecological malignancy in women. The representative histotype is high-grade serous carcinoma (HGSC), and most patients with HGSC present at advanced stages with peritoneal dissemination. Since the peritoneal dissemination is the most important factor for poor prognosis of the patients, complete exploration for its molecular mechanisms is mandatory. In this narrative review, being based on the clinical, pathologic, and genomic findings of HGSC,...]]></summary>
+        <author>
+            <name>Ikuo Konishi</name>
         </author>
     </entry>
     <entry>
@@ -764,6 +934,46 @@
         <summary type="html"><![CDATA[Epithelial ovarian cancer remains the lethal gynecological malignancy in women. The representative histotype is high-grade serous carcinoma (HGSC), and most patients with HGSC present at advanced stages with peritoneal dissemination. Since the peritoneal dissemination is the most important factor for poor prognosis of the patients, complete exploration for its molecular mechanisms is mandatory. In this narrative review, being based on the clinical, pathologic, and genomic findings of HGSC,...]]></summary>
         <author>
             <name>Ikuo Konishi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis and risk of prostate cancer in large samples of European ancestry men]]></title>
+        <id>pubmed:36018819</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36018819/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Little is known regarding the potential relationship between clonal hematopoiesis (CH) of indeterminate potential (CHIP), which is the expansion of hematopoietic stem cells with somatic mutations, and risk of prostate cancer, the fifth leading cause of cancer death of men worldwide. We evaluated the association of age-related CHIP with overall and aggressive prostate cancer risk in two large whole-exome sequencing studies of 75 047 European ancestry men, including 7663 prostate cancer cases,...]]></summary>
+        <author>
+            <name>Anqi Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dysmegakaryopoiesis and Transient Mild Increase in Bone Marrow Blasts in Patients With Aplastic Anemia Treated With Eltrombopag May Be Signs of Hematologic Improvement and Not Portend Clonal Evolution]]></title>
+        <id>pubmed:36018052</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36018052/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Dysmegakaryopoiesis without micromegakaryocytes and a transient increase of less than 5% in bone marrow blast count may be signs of hematologic improvement with eltrombopag for patients with AA.]]></summary>
+        <author>
+            <name>Akira Matsuda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular Pathways in Clonal Hematopoiesis: From the Acquisition of Somatic Mutations to Transformation into Hematologic Neoplasm]]></title>
+        <id>pubmed:36013314</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36013314/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hematopoietic stem cell aging, through the acquisition of somatic mutations, gives rise to clonal hematopoiesis (CH). While a high prevalence of CH has been described in otherwise healthy older adults, CH confers an increased risk of both hematologic and non-hematologic diseases. Classification of CH into clonal hematopoiesis of indeterminate potential (CHIP) and clonal cytopenia of undetermined significance (CCUS) further describes this neoplastic myeloid precursor state and stratifies...]]></summary>
+        <author>
+            <name>Charles Gaulin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Azanucleosides Affect Myeloid Cell Fate]]></title>
+        <id>pubmed:36010665</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36010665/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The azanucleosides decitabine and azacytidine are used widely in the treatment of myeloid neoplasia and increasingly in the context of combination therapies. Although they were long regarded as being largely interchangeable in their function as hypomethylating agents, the azanucleosides actually have different mechanisms of action; decitabine interferes primarily with the methylation of DNA and azacytidine with that of RNA. Here, we examine the role of DNA methylation in the lineage commitment...]]></summary>
+        <author>
+            <name>Anna Stein</name>
         </author>
     </entry>
     <entry>
@@ -1489,6 +1699,26 @@
     <entry>
         <title type="html"><![CDATA[A real-word experience of eltrombopag plus rabbit antithymocyte immunoglobulin-based IST in Chinese patients with severe aplastic anemia]]></title>
         <id>pubmed:36028583</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36028583/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Eltrombopag (EPAG), a thrombopoietin receptor agonist, was approved for the treatment of severe aplastic anemia (SAA) combined with immunosuppressive therapy (IST). However, the effects of real-life use of low doses of EPAG combined with rabbit antithymocyte globulin (ATG)-based IST in Asian patients with SAA are yet unknown. A total of 121 previously untreated Chinese patients with SAA were enrolled in a multicenter registry of the Chinese Eastern Collaboration Group of Anemia (2014-2020): 67...]]></summary>
+        <author>
+            <name>Yuanyuan Jin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular Pathways in Clonal Hematopoiesis: From the Acquisition of Somatic Mutations to Transformation into Hematologic Neoplasm]]></title>
+        <id>pubmed:36013314</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36013314/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hematopoietic stem cell aging, through the acquisition of somatic mutations, gives rise to clonal hematopoiesis (CH). While a high prevalence of CH has been described in otherwise healthy older adults, CH confers an increased risk of both hematologic and non-hematologic diseases. Classification of CH into clonal hematopoiesis of indeterminate potential (CHIP) and clonal cytopenia of undetermined significance (CCUS) further describes this neoplastic myeloid precursor state and stratifies...]]></summary>
+        <author>
+            <name>Charles Gaulin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A real-word experience of eltrombopag plus rabbit antithymocyte immunoglobulin-based IST in Chinese patients with severe aplastic anemia]]></title>
+        <id>pubmed:36028583</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36028583/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220906212627&amp;v=2.17.8"/>
         <updated>2022-08-26T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Eltrombopag (EPAG), a thrombopoietin receptor agonist, was approved for the treatment of severe aplastic anemia (SAA) combined with immunosuppressive therapy (IST). However, the effects of real-life use of low doses of EPAG combined with rabbit antithymocyte globulin (ATG)-based IST in Asian patients with SAA are yet unknown. A total of 121 previously untreated Chinese patients with SAA were enrolled in a multicenter registry of the Chinese Eastern Collaboration Group of Anemia (2014-2020): 67...]]></summary>
@@ -1839,6 +2069,16 @@
     <entry>
         <title type="html"><![CDATA[Precision diagnostics in cancer: Predict, prevent, and personalize]]></title>
         <id>pubmed:36008001</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36008001/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the past two decades since the first sequencing of the human genome, clinical genomics has undergone a renaissance with the advent of next generation sequencing (NGS) technologies. Whole genome sequencing is now increasingly available in the clinical setting at a fraction of the cost of the human genome reference sequence, and with turnaround times as short as 7-10days. Clinical genetics-based management has become more tractable with improved payer reimbursement and increased availability of...]]></summary>
+        <author>
+            <name>Judy S Crabtree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precision diagnostics in cancer: Predict, prevent, and personalize]]></title>
+        <id>pubmed:36008001</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36008001/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220906212627&amp;v=2.17.8"/>
         <updated>2022-08-25T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[In the past two decades since the first sequencing of the human genome, clinical genomics has undergone a renaissance with the advent of next generation sequencing (NGS) technologies. Whole genome sequencing is now increasingly available in the clinical setting at a fraction of the cost of the human genome reference sequence, and with turnaround times as short as 7-10days. Clinical genetics-based management has become more tractable with improved payer reimbursement and increased availability of...]]></summary>
@@ -2084,6 +2324,16 @@
         <summary type="html"><![CDATA[Acute myeloid leukemia (AML) is a heterogeneous disease of impaired myeloid differentiation and a caricature of normal hematopoiesis. Leukemic stem cells (LSCs) are responsible for long-term clonal propagation in AML just as hematopoietic stem cells (HSCs) sustain lifelong hematopoiesis. LSCs are often resistant to standard chemotherapy and are responsible for clinical relapse. Although AML is highly heterogeneous, determinants of stemness are prognostic for AML patient survival and can predict...]]></summary>
         <author>
             <name>Isabel N X Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homeostasis limits keratinocyte evolution]]></title>
+        <id>pubmed:35998218</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35998218/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recent studies have revealed that normal human tissues accumulate many somatic mutations. In particular, human skin is riddled with mutations, with multiple subclones of variable sizes. Driver mutations are frequent and tend to have larger subclone sizes, suggesting selection. To begin to understand the histories encoded by these complex somatic mutations, we incorporated genomes into a simple agent-based skin-cell model whose prime directive is homeostasis. In this model, stem-cell survival is...]]></summary>
+        <author>
+            <name>Ryan O Schenck</name>
         </author>
     </entry>
     <entry>
@@ -2354,6 +2604,16 @@
         <summary type="html"><![CDATA[While the underlying genetic alterations and biology of acute myeloid leukemia (AML), an aggressive hematologic malignancy characterized by clonal expansion of undifferentiated myeloid cells, have been gradually unraveled in the last decades, translation into clinical treatment approaches has only just begun. High relapse rates remain a major challenge in AML therapy and are to a large extent attributed to the persistence of treatment-resistant leukemic stem cells (LSCs). The Hedgehog (HH)...]]></summary>
         <author>
             <name>Suzana Tesanovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolution of intra-tumoral heterogeneity across different pathological stages in papillary thyroid carcinoma]]></title>
+        <id>pubmed:35996174</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35996174/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Our findings suggest ITH as a potential unfavorable prognostic factor in PTC and highlight the dynamic changes in different clinical stages of PTC, providing some clues for the precision medicine and suggesting different diagnostic decisions depending on the clinical stages of patients. Finally, complete clear guidelines to define risk stratification of PTC patients are lacking; thus, this work could contribute to defining patients who need more aggressive treatments and, in turn,...]]></summary>
+        <author>
+            <name>Ornella Affinito</name>
         </author>
     </entry>
     <entry>
@@ -2864,6 +3124,26 @@
         <summary type="html"><![CDATA[PURPOSE OF REVIEW: To discuss the current treatment paradigm, review novel targets, and summarize completed and ongoing clinical trials that may lead to a paradigm shifts in the management of myelofibrosis (MF).]]></summary>
         <author>
             <name>Julian A Waksal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Longitudinal single-cell transcriptomics reveals distinct patterns of recurrence in acute myeloid leukemia]]></title>
+        <id>pubmed:35986270</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35986270/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: In summary, the single cell RNA data underpinned the tumor heterogeneity not only amongst patient blasts with similar initiating mutations but also between each Dx-Re pair. Our results suggest alternatively and currently unappreciated and unexplored mechanisms leading to therapeutic resistance and AML recurrence.]]></summary>
+        <author>
+            <name>Yanan Zhai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SCONCE2: jointly inferring single cell copy number profiles and tumor evolutionary distances]]></title>
+        <id>pubmed:35986254</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35986254/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: SCONCE2 jointly estimates copy number profiles and a distance metric for inferring tumor phylogenies in single cell whole genome tumor sequencing across multiple cells, enabling deeper understandings of tumor evolution.]]></summary>
+        <author>
+            <name>Sandra Hui</name>
         </author>
     </entry>
     <entry>
@@ -3509,6 +3789,16 @@
     <entry>
         <title type="html"><![CDATA[Multiregional single-cell proteogenomic analysis of ccRCC reveals cytokine drivers of intratumor spatial heterogeneity]]></title>
         <id>pubmed:35977503</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35977503/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intratumor heterogeneity (ITH) represents a major challenge for anticancer therapies. An integrated, multidimensional, multiregional approach dissecting ITH of the clear cell renal cell carcinoma (ccRCC) tumor microenvironment (TME) is employed at the single-cell level with mass cytometry (CyTOF), multiplex immunofluorescence (MxIF), and single-nucleus RNA sequencing (snRNA-seq) and at the bulk level with whole-exome sequencing (WES), RNA-seq, and methylation profiling. Multiregional analyses...]]></summary>
+        <author>
+            <name>Natalia Miheecheva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiregional single-cell proteogenomic analysis of ccRCC reveals cytokine drivers of intratumor spatial heterogeneity]]></title>
+        <id>pubmed:35977503</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/35977503/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220906212627&amp;v=2.17.8"/>
         <updated>2022-08-17T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Intratumor heterogeneity (ITH) represents a major challenge for anticancer therapies. An integrated, multidimensional, multiregional approach dissecting ITH of the clear cell renal cell carcinoma (ccRCC) tumor microenvironment (TME) is employed at the single-cell level with mass cytometry (CyTOF), multiplex immunofluorescence (MxIF), and single-nucleus RNA sequencing (snRNA-seq) and at the bulk level with whole-exome sequencing (WES), RNA-seq, and methylation profiling. Multiregional analyses...]]></summary>
@@ -4054,6 +4344,16 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) refers to hematopoiesis from stem cells with mutations in leukemia-associated driver genes. These confer increased stress tolerance and expansive potential to stem cell clones. Patients with CHIP are hematologically healthy. The main risk factor for the development of CHIP is age or chronic inflammatory processes associated with aging, so-called "inflammaging". Therefore, the correlation of age-associated comorbidities with the detection of...]]></summary>
         <author>
             <name>Andreas Burchert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Histiocytic Sarcoma With CCND1 Gene Rearrangement Clonally Related and Transdifferentiated From Mantle Cell Lymphoma]]></title>
+        <id>pubmed:35964234</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/35964234/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220907212214&amp;v=2.17.8"/>
+        <updated>2022-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: To our knowledge, this is the first report to provide evidence for clonal evolution of histiocytic sarcoma from blastoid mantle cell lymphoma based on cytogenic and molecular findings. The patient's protracted therapeutic course may have acted as an evolutionary driver promoting this transdifferentiation process.]]></summary>
+        <author>
+            <name>Jyoti Kumar</name>
         </author>
     </entry>
     <entry>
