@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2022-11-15T01:11:41.833Z</updated>
+    <updated>2022-11-16T01:12:17.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aging drives Tet2+/- &gt;clonal hematopoiesis via IL-1 signaling]]></title>
+        <id>pubmed:36379023</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36379023/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-15T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP), also referred to as aging-related clonal hematopoiesis (ARCH), is defined as an asymptomatic clonal expansion of mutant mature hematopoietic cells over 4% of blood leukocytes. CHIP associates with advanced age and increased risk for hematological malignancy, cardiovascular disease and all-cause mortality. Loss-of-function somatic mutations in TET2 are frequent drivers of CHIP. However, the contribution of aging-associated cooperating...]]></summary>
+        <author>
+            <name>Francisco Caiado</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEDICC2: whole-genome doubling aware copy-number phylogenies for cancer evolution]]></title>
+        <id>pubmed:36376909</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36376909/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-15T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aneuploidy, chromosomal instability, somatic copy-number alterations, and whole-genome doubling (WGD) play key roles in cancer evolution and provide information for the complex task of phylogenetic inference. We present MEDICC2, a method for inferring evolutionary trees and WGD using haplotype-specific somatic copy-number alterations from single-cell or bulk data. MEDICC2 eschews simplifications such as the infinite sites assumption, allowing multiple mutations and parallel evolution, and does...]]></summary>
+        <author>
+            <name>Tom L Kaufmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probing Clonal Hematopoiesis in Liquid Biopsy]]></title>
+        <id>pubmed:36374003</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36374003/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Increased use of liquid biopsy to pinpoint actionable genomic alterations in cancer has been accompanied by a rise in the incidental detection of clonal hematopoiesis. Its clinical significance remains unclear, however, as well as how best to risk-stratify patients for further evaluation and, if necessary, treatment.]]></summary>
+        <author>
+            <name>Clonal Hematopoiesis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Probing Clonal Hematopoiesis in Liquid Biopsy]]></title>
         <id>pubmed:36374003</id>
@@ -14,6 +44,26 @@
         <summary type="html"><![CDATA[Increased use of liquid biopsy to pinpoint actionable genomic alterations in cancer has been accompanied by a rise in the incidental detection of clonal hematopoiesis. Its clinical significance remains unclear, however, as well as how best to risk-stratify patients for further evaluation and, if necessary, treatment.]]></summary>
         <author>
             <name>Clonal Hematopoiesis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIViCdb 2022: evolution of an open-access cancer variant interpretation knowledgebase]]></title>
+        <id>pubmed:36373660</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36373660/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CIViC (Clinical Interpretation of Variants in Cancer; civicdb.org) is a crowd-sourced, public domain knowledgebase composed of literature-derived evidence characterizing the clinical utility of cancer variants. As clinical sequencing becomes more prevalent in cancer management, the need for cancer variant interpretation has grown beyond the capability of any single institution. CIViC contains peer-reviewed, published literature curated and expertly-moderated into structured data units (Evidence...]]></summary>
+        <author>
+            <name>Kilannin Krysiak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic monitoring of cerebrospinal fluid circulating tumor DNA to identify unique genetic profiles of brain metastatic tumors and better predict intracranial tumor responses in non-small cell lung cancer patients with brain metastases: a prospective cohort study (GASTO 1028)]]></title>
+        <id>pubmed:36372873</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36372873/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CSF ctDNA exhibited unique genetic profiles of brain metastases, and dynamic changes in CSF ctDNA could better predict intracranial tumor responses and track clonal evolution during treatment in NSCLC patients with brain metastases.]]></summary>
+        <author>
+            <name>Meichen Li</name>
         </author>
     </entry>
     <entry>
@@ -39,6 +89,16 @@
     <entry>
         <title type="html"><![CDATA[Clonal evolution and expansion associated with therapy resistance and relapse of Colorectal Cancer]]></title>
         <id>pubmed:36371022</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36371022/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Colorectal cancer (CRC) arises by a continuous process of genetic diversification and clonal evolution. Multiple genes and pathways have a role in tumor initiation and progression. The gradual accumulation of genetic and epigenetic processes leads to the establishment of adenoma and cancer. The important 'driver' mutations in tumor suppressor genes (such as TP53, APC, and SMAD4) and oncogenes (such as KRAS, NRAS, MET, and PIK3CA) confer selective growth advantages and cause CRC advancement....]]></summary>
+        <author>
+            <name>S Anupriya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal evolution and expansion associated with therapy resistance and relapse of Colorectal Cancer]]></title>
+        <id>pubmed:36371022</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36371022/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221114201139&amp;v=2.17.8"/>
         <updated>2022-11-12T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Colorectal cancer (CRC) arises by a continuous process of genetic diversification and clonal evolution. Multiple genes and pathways have a role in tumor initiation and progression. The gradual accumulation of genetic and epigenetic processes leads to the establishment of adenoma and cancer. The important 'driver' mutations in tumor suppressor genes (such as TP53, APC, and SMAD4) and oncogenes (such as KRAS, NRAS, MET, and PIK3CA) confer selective growth advantages and cause CRC advancement....]]></summary>
@@ -54,6 +114,16 @@
         <summary type="html"><![CDATA[Colorectal cancer (CRC) arises by a continuous process of genetic diversification and clonal evolution. Multiple genes and pathways have a role in tumor initiation and progression. The gradual accumulation of genetic and epigenetic processes leads to the establishment of adenoma and cancer. The important 'driver' mutations in tumor suppressor genes (such as TP53, APC, and SMAD4) and oncogenes (such as KRAS, NRAS, MET, and PIK3CA) confer selective growth advantages and cause CRC advancement....]]></summary>
         <author>
             <name>S Anupriya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LGL Clonal Expansion and Unexplained Cytopenia: Two Clues Don't Make an Evidence]]></title>
+        <id>pubmed:36358655</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36358655/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal expansions of large granular lymphocytes (LGL) have been reported in a wide spectrum of conditions, with LGL leukemia (LGLL) being the most extreme. However, the boundaries between LGLL and LGL clones are often subtle, and both conditions can be detected in several clinical scenarios, particularly in patients with cytopenias. The intricate overlap of LGL clonal expansion with other disease entities characterized by unexplained cytopenias makes their classification challenging. Indeed,...]]></summary>
+        <author>
+            <name>Giulia Calabretto</name>
         </author>
     </entry>
     <entry>
@@ -99,6 +169,16 @@
     <entry>
         <title type="html"><![CDATA[Multiparametric Longitudinal Profiling of RCAS-tva-Induced PDGFB-Driven Experimental Glioma]]></title>
         <id>pubmed:36358353</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36358353/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Glioblastomas are incurable primary brain tumors harboring a heterogeneous landscape of genetic and metabolic alterations. Longitudinal imaging by MRI and [^(18)F]FET-PET measurements enable us to visualize the features of evolving tumors in a dynamic manner. Yet, close-meshed longitudinal imaging time points for characterizing temporal and spatial metabolic alterations during tumor evolution in patients is not feasible because patients usually present with already established tumors. The...]]></summary>
+        <author>
+            <name>Hannes Becker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiparametric Longitudinal Profiling of RCAS-tva-Induced PDGFB-Driven Experimental Glioma]]></title>
+        <id>pubmed:36358353</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36358353/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221114201139&amp;v=2.17.8"/>
         <updated>2022-11-11T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Glioblastomas are incurable primary brain tumors harboring a heterogeneous landscape of genetic and metabolic alterations. Longitudinal imaging by MRI and [^(18)F]FET-PET measurements enable us to visualize the features of evolving tumors in a dynamic manner. Yet, close-meshed longitudinal imaging time points for characterizing temporal and spatial metabolic alterations during tumor evolution in patients is not feasible because patients usually present with already established tumors. The...]]></summary>
@@ -134,6 +214,36 @@
         <summary type="html"><![CDATA[Glioblastomas are incurable primary brain tumors harboring a heterogeneous landscape of genetic and metabolic alterations. Longitudinal imaging by MRI and [^(18)F]FET-PET measurements enable us to visualize the features of evolving tumors in a dynamic manner. Yet, close-meshed longitudinal imaging time points for characterizing temporal and spatial metabolic alterations during tumor evolution in patients is not feasible because patients usually present with already established tumors. The...]]></summary>
         <author>
             <name>Hannes Becker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis and cardiovascular disease: deciphering interconnections]]></title>
+        <id>pubmed:36355225</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36355225/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cardiovascular and oncological diseases represent the global major causes of death. For both, a novel and far-reaching risk factor has been identified: clonal hematopoiesis (CH). CH is defined as clonal expansion of peripheral blood cells on the basis of somatic mutations, without overt hematological malignancy. The most commonly affected genes are TET2, DNMT3A, ASXL1 and JAK2. By the age of 70, at least 20-50% of all individuals carry a CH clone, conveying a striking clinical impact by...]]></summary>
+        <author>
+            <name>Anna Stein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Jeffrey M. Hoeg Award Lecture: Genomic Aging, Clonal Hematopoiesis, and Cardiovascular Disease]]></title>
+        <id>pubmed:36353993</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36353993/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chronologic age is the dominant risk factor for coronary artery disease but the features of aging promoting coronary artery disease are poorly understood. Advances in human genetics and population-based genetic profiling of blood cells have uncovered the surprising role of age-related subclinical leukemogenic mutations in blood cells, termed "clonal hematopoiesis of indeterminate potential," in coronary artery disease. Such mutations typically occur in DNMT3A, TET2, ASXL1, and JAK2. Murine and...]]></summary>
+        <author>
+            <name>Pradeep Natarajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recurrent missense variants in clonal hematopoiesis-related genes present in the general population]]></title>
+        <id>pubmed:36353970</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36353970/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) consists in an abnormal expansion of a hematopoietic stem cell bearing an advantageous somatic variant. A survey of known recurrent somatic missense variants in DNMT3A, SF3B1, SRSF2 and TP53, some of the most prominent genes underlying CH of indeterminate potential (CHIP), in gnomAD non-cancer database shows the presence of 73 variants. Many of them reach frequencies higher than 0.01% in various populations and, in many cases, are enriched in specific populations....]]></summary>
+        <author>
+            <name>Olivier Ariste</name>
         </author>
     </entry>
     <entry>
@@ -289,6 +399,16 @@
     <entry>
         <title type="html"><![CDATA[Reciprocal interplays between MicroRNAs and pluripotency transcription factors in dictating stemness features in human cancers]]></title>
         <id>pubmed:36354097</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36354097/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The interplay between microRNAs (miRNAs) and pluripotency transcription factors (TFs) orchestrates the acquisition of cancer stem cell (CSC) features during the course of malignant transformation, rendering them essential cancer cell dependencies and therapeutic vulnerabilities. In this review, we discuss emerging themes in tumor heterogeneity, including the clonal evolution and the CSC models and their implications in resistance to cancer therapies, and then provide thorough coverage on the...]]></summary>
+        <author>
+            <name>Radhakrishnan Vishnubalaji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reciprocal interplays between MicroRNAs and pluripotency transcription factors in dictating stemness features in human cancers]]></title>
+        <id>pubmed:36354097</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36354097/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221114201139&amp;v=2.17.8"/>
         <updated>2022-11-10T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[The interplay between microRNAs (miRNAs) and pluripotency transcription factors (TFs) orchestrates the acquisition of cancer stem cell (CSC) features during the course of malignant transformation, rendering them essential cancer cell dependencies and therapeutic vulnerabilities. In this review, we discuss emerging themes in tumor heterogeneity, including the clonal evolution and the CSC models and their implications in resistance to cancer therapies, and then provide thorough coverage on the...]]></summary>
@@ -334,6 +454,26 @@
         <summary type="html"><![CDATA[The interplay between microRNAs (miRNAs) and pluripotency transcription factors (TFs) orchestrates the acquisition of cancer stem cell (CSC) features during the course of malignant transformation, rendering them essential cancer cell dependencies and therapeutic vulnerabilities. In this review, we discuss emerging themes in tumor heterogeneity, including the clonal evolution and the CSC models and their implications in resistance to cancer therapies, and then provide thorough coverage on the...]]></summary>
         <author>
             <name>Radhakrishnan Vishnubalaji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatial genomics maps the structure, nature and evolution of cancer clones]]></title>
+        <id>pubmed:36352222</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36352222/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Genome sequencing of cancers often reveals mosaics of different subclones present in the same tumour^(1-3). Although these are believed to arise according to the principles of somatic evolution, the exact spatial growth patterns and underlying mechanisms remain elusive^(4,5). Here, to address this need, we developed a workflow that generates detailed quantitative maps of genetic subclone composition across whole-tumour sections. These provide the basis for studying clonal growth patterns, and...]]></summary>
+        <author>
+            <name>Artem Lomakin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resistance Mechanisms to Anti-EGFR Therapy in <em>RAS/RAF</em> Wildtype Colorectal Cancer Vary by Regimen and Line of Therapy]]></title>
+        <id>pubmed:36351210</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36351210/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: These findings support a model of resistance whereby transcriptomic mechanisms of resistance predominate in the presence of active cytotoxic chemotherapy combined with EGFRi, with a greater predominance of acquired MAPK mutations after single-agent EGFRi. The proposed model has implications for prospective studies evaluating EGFRi rechallenge strategies guided by acquired MAPK mutations, and highlights the need to address transcriptional mechanisms of resistance.]]></summary>
+        <author>
+            <name>Christine M Parseghian</name>
         </author>
     </entry>
     <entry>
@@ -444,6 +584,36 @@
         <summary type="html"><![CDATA[CONCLUSION: These findings support a model of resistance whereby transcriptomic mechanisms of resistance predominate in the presence of active cytotoxic chemotherapy combined with EGFRi, with a greater predominance of acquired MAPK mutations after single-agent EGFRi. The proposed model has implications for prospective studies evaluating EGFRi rechallenge strategies guided by acquired MAPK mutations, and highlights the need to address transcriptional mechanisms of resistance.]]></summary>
         <author>
             <name>Christine M Parseghian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis and bone marrow inflammation]]></title>
+        <id>pubmed:36347490</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36347490/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) occurs in hematopoietic stem cells with increased risks of progressing to hematologic malignancies. CH mutations are predominantly found in aged populations and correlate with an increased incidence of cardiovascular and other diseases. Increased lines of evidence demonstrate that CH mutations are closely related to the inflammatory bone marrow microenvironment. In this review, we summarize the recent advances in this topic starting from the discovery of CH and its...]]></summary>
+        <author>
+            <name>Xinshu Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genetic basis and molecular profiling in myeloproliferative neoplasms]]></title>
+        <id>pubmed:36347013</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36347013/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BCR::ABL1-negative myeloproliferative neoplasms (MPN) are clonal diseases originating from a single hematopoietic stem cell (HSC) that cause excessive production of mature blood cells. The three subtypes polycythemia vera (PV), essential thrombocythemia (ET) and primary myelofibrosis (PMF) are diagnosed according to the World Health Organization (WHO) and International Consensus Classification (ICC) criteria. Acquired gain-of-function mutations in one of three disease driver genes, JAK2, CALR...]]></summary>
+        <author>
+            <name>Damien Luque Paz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Factors associated with clonal hematopoiesis and interaction with marrow environment]]></title>
+        <id>pubmed:36346484</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36346484/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is an expansion of clones in individuals without any hematologic abnormalities, often carrying the driver mutations implicated in myeloid tumors, such as DNMT3A, TET2, and ASXL1. Most notably, CH is an age-related event, accounting for ~ 10% of cases in people over 60 years old. CH may also be correlated with a previous history of cancer treatment with chemotherapeutic drugs/radiation and infection episodes. The link between aging and CH acquisition is best explained by...]]></summary>
+        <author>
+            <name>Yasuhito Nannya</name>
         </author>
     </entry>
     <entry>
@@ -649,6 +819,26 @@
     <entry>
         <title type="html"><![CDATA[Clonal hematopoiesis, multi-omics and coronary artery disease]]></title>
         <id>pubmed:36339018</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36339018/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Studies of the genetic architecture of cardiovascular disease once focused on heritable germline factors. Newer work has shed light on the role of somatic mutations in blood cells. These mechanistic and multi-omics studies, along with phenotypic analyses, offer the prospect of new precision cardiovascular medicine paradigms.]]></summary>
+        <author>
+            <name>Tetsushi Nakao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis in cardiovascular disease and therapeutic implications]]></title>
+        <id>pubmed:36337911</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36337911/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis arises from somatic mutations that provide a fitness advantage to hematopoietic stem cells and the outgrowth of clones of blood cells. Clonal hematopoiesis commonly involves mutations in genes that are involved in epigenetic modifications, signaling and DNA damage repair. Clonal hematopoiesis has emerged as a major independent risk factor in atherosclerotic cardiovascular disease, thrombosis and heart failure. Studies in mouse models of clonal hematopoiesis have shown an...]]></summary>
+        <author>
+            <name>Alan R Tall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis, multi-omics and coronary artery disease]]></title>
+        <id>pubmed:36339018</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36339018/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221114201139&amp;v=2.17.8"/>
         <updated>2022-11-07T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Studies of the genetic architecture of cardiovascular disease once focused on heritable germline factors. Newer work has shed light on the role of somatic mutations in blood cells. These mechanistic and multi-omics studies, along with phenotypic analyses, offer the prospect of new precision cardiovascular medicine paradigms.]]></summary>
@@ -809,6 +999,16 @@
     <entry>
         <title type="html"><![CDATA[Clinical utility of liquid biopsy-based companion diagnostics in the non-small-cell lung cancer treatment]]></title>
         <id>pubmed:36338524</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36338524/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, technological advances in the detection and biological characterization of circulating tumor DNA (ctDNA) have enabled the implementation of liquid biopsy testing into clinical practice. Methods for analysis of liquid biopsies have rapidly evolved over the past few years and have continued to advance, thus providing details about tumor biological characteristics such as tumor progression, metastasis, tumor heterogeneity, genomic mutation profile, clonal evolution, etc. In tandem with...]]></summary>
+        <author>
+            <name>Yoshiharu Sato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clinical utility of liquid biopsy-based companion diagnostics in the non-small-cell lung cancer treatment]]></title>
+        <id>pubmed:36338524</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36338524/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221114201139&amp;v=2.17.8"/>
         <updated>2022-11-07T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Recently, technological advances in the detection and biological characterization of circulating tumor DNA (ctDNA) have enabled the implementation of liquid biopsy testing into clinical practice. Methods for analysis of liquid biopsies have rapidly evolved over the past few years and have continued to advance, thus providing details about tumor biological characteristics such as tumor progression, metastasis, tumor heterogeneity, genomic mutation profile, clonal evolution, etc. In tandem with...]]></summary>
@@ -889,6 +1089,16 @@
     <entry>
         <title type="html"><![CDATA[Molecular Pathogenesis of Myeloproliferative Neoplasms]]></title>
         <id>pubmed:36336766</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36336766/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PURPOSE OF REVIEW: Myeloproliferative neoplasms (MPNs) are chronic hematological malignancies characterized by increased proliferation of MPN stem and myeloid progenitor cells with or without bone marrow fibrosis that typically lead to increased peripheral blood cell counts. The genetic and cytogenetic alterations that initiate and drive the development of MPNs have largely been defined, and we summarize these here.]]></summary>
+        <author>
+            <name>Benjamin Rolles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular Pathogenesis of Myeloproliferative Neoplasms]]></title>
+        <id>pubmed:36336766</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36336766/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221114201139&amp;v=2.17.8"/>
         <updated>2022-11-06T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[PURPOSE OF REVIEW: Myeloproliferative neoplasms (MPNs) are chronic hematological malignancies characterized by increased proliferation of MPN stem and myeloid progenitor cells with or without bone marrow fibrosis that typically lead to increased peripheral blood cell counts. The genetic and cytogenetic alterations that initiate and drive the development of MPNs have largely been defined, and we summarize these here.]]></summary>
@@ -964,6 +1174,16 @@
         <summary type="html"><![CDATA[PURPOSE OF REVIEW: Myeloproliferative neoplasms (MPNs) are chronic hematological malignancies characterized by increased proliferation of MPN stem and myeloid progenitor cells with or without bone marrow fibrosis that typically lead to increased peripheral blood cell counts. The genetic and cytogenetic alterations that initiate and drive the development of MPNs have largely been defined, and we summarize these here.]]></summary>
         <author>
             <name>Benjamin Rolles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In vivo PDX CRISPR/Cas9 screens reveal mutual therapeutic targets to overcome heterogeneous acquired chemo-resistance]]></title>
+        <id>pubmed:36333584</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36333584/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Resistance towards cancer treatment represents a major clinical obstacle, preventing cure of cancer patients. To gain mechanistic insights, we developed a model for acquired resistance to chemotherapy by treating mice carrying patient derived xenografts (PDX) of acute lymphoblastic leukemia with widely-used cytotoxic drugs for 18 consecutive weeks. In two distinct PDX samples, tumors initially responded to treatment, until stable disease and eventually tumor re-growth evolved under therapy, at...]]></summary>
+        <author>
+            <name>Anna-Katharina Wirth</name>
         </author>
     </entry>
     <entry>
@@ -1064,6 +1284,16 @@
         <summary type="html"><![CDATA[Resistance towards cancer treatment represents a major clinical obstacle, preventing cure of cancer patients. To gain mechanistic insights, we developed a model for acquired resistance to chemotherapy by treating mice carrying patient derived xenografts (PDX) of acute lymphoblastic leukemia with widely-used cytotoxic drugs for 18 consecutive weeks. In two distinct PDX samples, tumors initially responded to treatment, until stable disease and eventually tumor re-growth evolved under therapy, at...]]></summary>
         <author>
             <name>Anna-Katharina Wirth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inferring parameters of cancer evolution in chronic lymphocytic leukemia]]></title>
+        <id>pubmed:36331987</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36331987/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a cancer develops, its cells accrue new mutations, resulting in a heterogeneous, complex genomic profile. We make use of this heterogeneity to derive simple, analytic estimates of parameters driving carcinogenesis and reconstruct the timeline of selective events following initiation of an individual cancer, where two longitudinal samples are available for sequencing. Using stochastic computer simulations of cancer growth, we show that we can accurately estimate mutation rate, time before and...]]></summary>
+        <author>
+            <name>Nathan D Lee</name>
         </author>
     </entry>
     <entry>
@@ -1174,6 +1404,16 @@
         <summary type="html"><![CDATA[As a cancer develops, its cells accrue new mutations, resulting in a heterogeneous, complex genomic profile. We make use of this heterogeneity to derive simple, analytic estimates of parameters driving carcinogenesis and reconstruct the timeline of selective events following initiation of an individual cancer, where two longitudinal samples are available for sequencing. Using stochastic computer simulations of cancer growth, we show that we can accurately estimate mutation rate, time before and...]]></summary>
         <author>
             <name>Nathan D Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomics improves risk stratification of adults with T-cell acute lymphoblastic leukemia patients enrolled in measurable residual disease-oriented trials]]></title>
+        <id>pubmed:36325893</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36325893/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Genetic information has been crucial to understand the pathogenesis of T-cell acute lymphoblastic leukemia (T-ALL) at diagnosis and at relapse, but still nowadays has a limited value in a clinical context. Few genetic markers are associated with the outcome of T-ALL patients, independently of measurable residual disease (MRD) status after therapy. In addition, the prognostic relevance of genetic features may be modulated by the specific treatment used. We analyzed the genetic profile of 145...]]></summary>
+        <author>
+            <name>Celia González-Gil</name>
         </author>
     </entry>
     <entry>
@@ -1294,6 +1534,16 @@
         <summary type="html"><![CDATA[Genetic information has been crucial to understand the pathogenesis of T-cell acute lymphoblastic leukemia (T-ALL) at diagnosis and at relapse, but still nowadays has a limited value in a clinical context. Few genetic markers are associated with the outcome of T-ALL patients, independently of measurable residual disease (MRD) status after therapy. In addition, the prognostic relevance of genetic features may be modulated by the specific treatment used. We analyzed the genetic profile of 145...]]></summary>
         <author>
             <name>Celia González-Gil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over expression of mTOR gene predicts overall survival in myelodysplastic syndromes]]></title>
+        <id>pubmed:36322239</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36322239/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: Our study showed an elevation of TNF and AMPK signalling pathways in MDS. TNF signalling might be mediating the proliferative advantage to myeloid clonal cells (mutation carrying cells) over normal cells, whereas, AMPK signalling could be acting as protector against it (favouring normal cells). Hence it would be interesting to explore the functions and pathways associated with mTOR, AMPK, MAPK8 and JUNB in myelopoiesis related diseases like MDS.]]></summary>
+        <author>
+            <name>Nehakumari Maurya</name>
         </author>
     </entry>
     <entry>
@@ -1424,6 +1674,26 @@
         <summary type="html"><![CDATA[CONCLUSION: Our study showed an elevation of TNF and AMPK signalling pathways in MDS. TNF signalling might be mediating the proliferative advantage to myeloid clonal cells (mutation carrying cells) over normal cells, whereas, AMPK signalling could be acting as protector against it (favouring normal cells). Hence it would be interesting to explore the functions and pathways associated with mTOR, AMPK, MAPK8 and JUNB in myelopoiesis related diseases like MDS.]]></summary>
         <author>
             <name>Nehakumari Maurya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>KIT</em> genetic alterations in breast cancer]]></title>
+        <id>pubmed:36323507</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36323507/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: KIT genetic alterations are vanishingly rare in BC. KIT-altered BCs are of high grade but lack distinctive histological features. Genetic alterations in KIT might be late events in the evolution and/or progression of BC.]]></summary>
+        <author>
+            <name>Mahsa Vahdatinia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single-cell methods in myeloproliferative neoplasms - old questions, new technologies]]></title>
+        <id>pubmed:36322938</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36322938/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-11-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myeloproliferative neoplasms (MPN) are a group of clonal, stem cell derived hematopoietic malignancies driven by aberrant JAK/STAT signalling. Although they are genetically simple diseases, MPNs are phenotypically heterogeneous, reflecting underlying intra-tumoral heterogeneity driven by the interplay of genetic and non-genetic factors. As their evolution is determined by factors that enable certain cellular subsets to outcompete others, techniques that resolve cellular heterogeneity at the...]]></summary>
+        <author>
+            <name>Jennifer M O'Sullivan</name>
         </author>
     </entry>
     <entry>
@@ -1674,6 +1944,16 @@
         <summary type="html"><![CDATA[Myeloproliferative neoplasms (MPN) are a group of clonal, stem cell derived hematopoietic malignancies driven by aberrant JAK/STAT signalling. Although they are genetically simple diseases, MPNs are phenotypically heterogeneous, reflecting underlying intra-tumoral heterogeneity driven by the interplay of genetic and non-genetic factors. As their evolution is determined by factors that enable certain cellular subsets to outcompete others, techniques that resolve cellular heterogeneity at the...]]></summary>
         <author>
             <name>Jennifer M O'Sullivan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increased prevalence of clonal hematopoiesis of indeterminate potential in hospitalized patients with COVID-19]]></title>
+        <id>pubmed:36311800</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36311800/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) leads to higher mortality, carries a cardiovascular risk and alters inflammation. All three aspects harbor overlaps with the clinical manifestation of COVID-19. This study aimed to identify the impact of CHIP on COVID-19 pathophysiology. 90 hospitalized patients were analyzed for CHIP. In addition, their disease course and outcome were evaluated. With a prevalence of 37.8%, the frequency of a CHIP-driver mutation was significantly higher...]]></summary>
+        <author>
+            <name>Judith Schenz</name>
         </author>
     </entry>
     <entry>
@@ -1974,6 +2254,26 @@
         <summary type="html"><![CDATA[Germline genetic defects impairing telomere length maintenance may result in severe medical conditions in humans, from aplastic anemia and myeloid neoplasms to interstitial lung disease and liver cirrhosis, from childhood (dyskeratosis congenita) to old age (pulmonary fibrosis). The molecular mechanisms underlying these clinically distinct disorders are pathologically excessive telomere erosion, limiting cell proliferation and differentiation, tissue regeneration, and increasing genomic...]]></summary>
         <author>
             <name>Vinicius S Carvalho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APOBEC Mutational Signatures in Hormone Receptor-Positive Human Epidermal Growth Factor Receptor 2-Negative Breast Cancers Are Associated With Poor Outcomes on CDK4/6 Inhibitors and Endocrine Therapy]]></title>
+        <id>pubmed:36315915</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36315915/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: APOBEC+ HR+ HER2- patients had shorter TTD on first-line ET plus CDK4/6i relative to APOBEC- patients. Further research is needed to optimize the treatment of APOBEC+ HR+ HER2- BC and to investigate the efficacy of immunotherapeutic strategies in this population.]]></summary>
+        <author>
+            <name>Sarah Sammons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uterine lavage identifies cancer mutations and increased <em>TP53</em> somatic mutation burden in individuals with ovarian cancer]]></title>
+        <id>pubmed:36311816</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36311816/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20221115201214&amp;v=2.17.8"/>
+        <updated>2022-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Current screening methods for ovarian cancer (OC) have failed to demonstrate a significant reduction in mortality. Uterine lavage combined with TP53 ultra-deep sequencing for the detection of disseminated OC cells has emerged as a promising tool, but this approach has not been tested for early-stage disease or non-serous histologies. In addition, lavages carry multiple background mutations, the significance of which is poorly understood. Uterine lavage was collected preoperatively in 34 patients...]]></summary>
+        <author>
+            <name>Talayeh S Ghezelayagh</name>
         </author>
     </entry>
     <entry>
@@ -15704,506 +16004,6 @@
         <summary type="html"><![CDATA[Oncogene amplification on extrachromosomal DNA (ecDNA) is a common event, driving aggressive tumor growth, drug resistance and shorter survival. Currently, the impact of nonchromosomal oncogene inheritance-random identity by descent-is poorly understood. Also unclear is the impact of ecDNA on somatic variation and selection. Here integrating theoretical models of random segregation, unbiased image analysis, CRISPR-based ecDNA tagging with live-cell imaging and CRISPR-C, we demonstrate that...]]></summary>
         <author>
             <name>Joshua T Lange</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic compensation of inherited bone marrow failure]]></title>
-        <id>pubmed:36115694</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115694/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220926212756&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inherited bone marrow failure syndromes (IBMFS) are a heterogeneous group of genetic disorders characterized by insufficient blood cell production and increased risk of transformation to myeloid malignancies. While genetically diverse, IBMFS are collectively defined by a cell-intrinsic hematopoietic stem cell (HSC) fitness defect that impairs HSC self-renewal and hematopoietic differentiation. In IBMFS, HSCs frequently acquire mutations that improve cell fitness, a phenomenon known as somatic...]]></summary>
-        <author>
-            <name>Sofie Lundgren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in VEXAS Syndrome and Erdheim-Chester disease: Inflammatory myeloid diseases]]></title>
-        <id>pubmed:36115693</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115693/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220926212756&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations have been increasingly identified as etiologic for many hematologic and autoinflammatory disorders. VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome and Erdheim-Chester disease (ECD), a type of histiocytosis, can be classified as inflammatory myeloid diseases, characterized by systemic inflammation and multi-organ disease with predisposition to myeloid malignancies. VEXAS is a novel disease caused by UBA1 mutations that was first discovered using a...]]></summary>
-        <author>
-            <name>Pedro E Alcedo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic compensation of inherited bone marrow failure]]></title>
-        <id>pubmed:36115694</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115694/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220925212838&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inherited bone marrow failure syndromes (IBMFS) are a heterogeneous group of genetic disorders characterized by insufficient blood cell production and increased risk of transformation to myeloid malignancies. While genetically diverse, IBMFS are collectively defined by a cell-intrinsic hematopoietic stem cell (HSC) fitness defect that impairs HSC self-renewal and hematopoietic differentiation. In IBMFS, HSCs frequently acquire mutations that improve cell fitness, a phenomenon known as somatic...]]></summary>
-        <author>
-            <name>Sofie Lundgren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in VEXAS Syndrome and Erdheim-Chester disease: Inflammatory myeloid diseases]]></title>
-        <id>pubmed:36115693</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115693/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220925212838&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations have been increasingly identified as etiologic for many hematologic and autoinflammatory disorders. VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome and Erdheim-Chester disease (ECD), a type of histiocytosis, can be classified as inflammatory myeloid diseases, characterized by systemic inflammation and multi-organ disease with predisposition to myeloid malignancies. VEXAS is a novel disease caused by UBA1 mutations that was first discovered using a...]]></summary>
-        <author>
-            <name>Pedro E Alcedo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220925212838&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonality in immune aplastic anemia: Mechanisms of immune escape or malignant transformation]]></title>
-        <id>pubmed:36115690</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115690/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220925212838&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aplastic anemia (AA) is the prototypic bone marrow failure syndrome and can be classified as either acquired or inherited. Inherited forms are due to the effects of germline mutations, while acquired AA is suspected to result from cytotoxic T-cell mediated immune attack on hematopoietic stem and progenitor cells. Once thought to be a purely "benign" condition, clonality in the form of chromosomal abnormalities and single nucleotide variants is now well recognized in AA. Mechanisms underpinning...]]></summary>
-        <author>
-            <name>Jibran Durrani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic compensation of inherited bone marrow failure]]></title>
-        <id>pubmed:36115694</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115694/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220924212455&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inherited bone marrow failure syndromes (IBMFS) are a heterogeneous group of genetic disorders characterized by insufficient blood cell production and increased risk of transformation to myeloid malignancies. While genetically diverse, IBMFS are collectively defined by a cell-intrinsic hematopoietic stem cell (HSC) fitness defect that impairs HSC self-renewal and hematopoietic differentiation. In IBMFS, HSCs frequently acquire mutations that improve cell fitness, a phenomenon known as somatic...]]></summary>
-        <author>
-            <name>Sofie Lundgren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in VEXAS Syndrome and Erdheim-Chester disease: Inflammatory myeloid diseases]]></title>
-        <id>pubmed:36115693</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115693/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220924212455&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations have been increasingly identified as etiologic for many hematologic and autoinflammatory disorders. VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome and Erdheim-Chester disease (ECD), a type of histiocytosis, can be classified as inflammatory myeloid diseases, characterized by systemic inflammation and multi-organ disease with predisposition to myeloid malignancies. VEXAS is a novel disease caused by UBA1 mutations that was first discovered using a...]]></summary>
-        <author>
-            <name>Pedro E Alcedo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220924212455&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonality in immune aplastic anemia: Mechanisms of immune escape or malignant transformation]]></title>
-        <id>pubmed:36115690</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115690/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220924212455&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aplastic anemia (AA) is the prototypic bone marrow failure syndrome and can be classified as either acquired or inherited. Inherited forms are due to the effects of germline mutations, while acquired AA is suspected to result from cytotoxic T-cell mediated immune attack on hematopoietic stem and progenitor cells. Once thought to be a purely "benign" condition, clonality in the form of chromosomal abnormalities and single nucleotide variants is now well recognized in AA. Mechanisms underpinning...]]></summary>
-        <author>
-            <name>Jibran Durrani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic compensation of inherited bone marrow failure]]></title>
-        <id>pubmed:36115694</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115694/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220923212752&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inherited bone marrow failure syndromes (IBMFS) are a heterogeneous group of genetic disorders characterized by insufficient blood cell production and increased risk of transformation to myeloid malignancies. While genetically diverse, IBMFS are collectively defined by a cell-intrinsic hematopoietic stem cell (HSC) fitness defect that impairs HSC self-renewal and hematopoietic differentiation. In IBMFS, HSCs frequently acquire mutations that improve cell fitness, a phenomenon known as somatic...]]></summary>
-        <author>
-            <name>Sofie Lundgren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in VEXAS Syndrome and Erdheim-Chester disease: Inflammatory myeloid diseases]]></title>
-        <id>pubmed:36115693</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115693/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220923212752&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations have been increasingly identified as etiologic for many hematologic and autoinflammatory disorders. VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome and Erdheim-Chester disease (ECD), a type of histiocytosis, can be classified as inflammatory myeloid diseases, characterized by systemic inflammation and multi-organ disease with predisposition to myeloid malignancies. VEXAS is a novel disease caused by UBA1 mutations that was first discovered using a...]]></summary>
-        <author>
-            <name>Pedro E Alcedo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220923212752&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonality in immune aplastic anemia: Mechanisms of immune escape or malignant transformation]]></title>
-        <id>pubmed:36115690</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115690/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220923212752&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aplastic anemia (AA) is the prototypic bone marrow failure syndrome and can be classified as either acquired or inherited. Inherited forms are due to the effects of germline mutations, while acquired AA is suspected to result from cytotoxic T-cell mediated immune attack on hematopoietic stem and progenitor cells. Once thought to be a purely "benign" condition, clonality in the form of chromosomal abnormalities and single nucleotide variants is now well recognized in AA. Mechanisms underpinning...]]></summary>
-        <author>
-            <name>Jibran Durrani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in acquired pure red cell aplasia]]></title>
-        <id>pubmed:36115689</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115689/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220923212752&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acquired pure red cell aplasia (PRCA) is a syndrome characterized by anemia and a marked reduction of erythroid progenitor cells with various etiologies. The 3 major subtypes of PRCA are idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA and thymoma-associated PRCA, which are thought to be caused by a T-cell-mediated mechanism. In these 3 subtypes, an expansion of clonal cytotoxic T cells is often detected. In addition, those T cells recurrently harbor somatic mutations of...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic compensation of inherited bone marrow failure]]></title>
-        <id>pubmed:36115694</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115694/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220922214323&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inherited bone marrow failure syndromes (IBMFS) are a heterogeneous group of genetic disorders characterized by insufficient blood cell production and increased risk of transformation to myeloid malignancies. While genetically diverse, IBMFS are collectively defined by a cell-intrinsic hematopoietic stem cell (HSC) fitness defect that impairs HSC self-renewal and hematopoietic differentiation. In IBMFS, HSCs frequently acquire mutations that improve cell fitness, a phenomenon known as somatic...]]></summary>
-        <author>
-            <name>Sofie Lundgren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in VEXAS Syndrome and Erdheim-Chester disease: Inflammatory myeloid diseases]]></title>
-        <id>pubmed:36115693</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115693/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220922214323&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations have been increasingly identified as etiologic for many hematologic and autoinflammatory disorders. VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome and Erdheim-Chester disease (ECD), a type of histiocytosis, can be classified as inflammatory myeloid diseases, characterized by systemic inflammation and multi-organ disease with predisposition to myeloid malignancies. VEXAS is a novel disease caused by UBA1 mutations that was first discovered using a...]]></summary>
-        <author>
-            <name>Pedro E Alcedo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220922214323&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonality in immune aplastic anemia: Mechanisms of immune escape or malignant transformation]]></title>
-        <id>pubmed:36115690</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115690/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220922214323&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aplastic anemia (AA) is the prototypic bone marrow failure syndrome and can be classified as either acquired or inherited. Inherited forms are due to the effects of germline mutations, while acquired AA is suspected to result from cytotoxic T-cell mediated immune attack on hematopoietic stem and progenitor cells. Once thought to be a purely "benign" condition, clonality in the form of chromosomal abnormalities and single nucleotide variants is now well recognized in AA. Mechanisms underpinning...]]></summary>
-        <author>
-            <name>Jibran Durrani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in acquired pure red cell aplasia]]></title>
-        <id>pubmed:36115689</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115689/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220922214323&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acquired pure red cell aplasia (PRCA) is a syndrome characterized by anemia and a marked reduction of erythroid progenitor cells with various etiologies. The 3 major subtypes of PRCA are idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA and thymoma-associated PRCA, which are thought to be caused by a T-cell-mediated mechanism. In these 3 subtypes, an expansion of clonal cytotoxic T cells is often detected. In addition, those T cells recurrently harbor somatic mutations of...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic compensation of inherited bone marrow failure]]></title>
-        <id>pubmed:36115694</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115694/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220921212429&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inherited bone marrow failure syndromes (IBMFS) are a heterogeneous group of genetic disorders characterized by insufficient blood cell production and increased risk of transformation to myeloid malignancies. While genetically diverse, IBMFS are collectively defined by a cell-intrinsic hematopoietic stem cell (HSC) fitness defect that impairs HSC self-renewal and hematopoietic differentiation. In IBMFS, HSCs frequently acquire mutations that improve cell fitness, a phenomenon known as somatic...]]></summary>
-        <author>
-            <name>Sofie Lundgren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in VEXAS Syndrome and Erdheim-Chester disease: Inflammatory myeloid diseases]]></title>
-        <id>pubmed:36115693</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115693/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220921212429&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations have been increasingly identified as etiologic for many hematologic and autoinflammatory disorders. VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome and Erdheim-Chester disease (ECD), a type of histiocytosis, can be classified as inflammatory myeloid diseases, characterized by systemic inflammation and multi-organ disease with predisposition to myeloid malignancies. VEXAS is a novel disease caused by UBA1 mutations that was first discovered using a...]]></summary>
-        <author>
-            <name>Pedro E Alcedo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220921212429&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonality in immune aplastic anemia: Mechanisms of immune escape or malignant transformation]]></title>
-        <id>pubmed:36115690</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115690/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220921212429&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aplastic anemia (AA) is the prototypic bone marrow failure syndrome and can be classified as either acquired or inherited. Inherited forms are due to the effects of germline mutations, while acquired AA is suspected to result from cytotoxic T-cell mediated immune attack on hematopoietic stem and progenitor cells. Once thought to be a purely "benign" condition, clonality in the form of chromosomal abnormalities and single nucleotide variants is now well recognized in AA. Mechanisms underpinning...]]></summary>
-        <author>
-            <name>Jibran Durrani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in acquired pure red cell aplasia]]></title>
-        <id>pubmed:36115689</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115689/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220921212429&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acquired pure red cell aplasia (PRCA) is a syndrome characterized by anemia and a marked reduction of erythroid progenitor cells with various etiologies. The 3 major subtypes of PRCA are idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA and thymoma-associated PRCA, which are thought to be caused by a T-cell-mediated mechanism. In these 3 subtypes, an expansion of clonal cytotoxic T cells is often detected. In addition, those T cells recurrently harbor somatic mutations of...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic compensation of inherited bone marrow failure]]></title>
-        <id>pubmed:36115694</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115694/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220920214512&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inherited bone marrow failure syndromes (IBMFS) are a heterogeneous group of genetic disorders characterized by insufficient blood cell production and increased risk of transformation to myeloid malignancies. While genetically diverse, IBMFS are collectively defined by a cell-intrinsic hematopoietic stem cell (HSC) fitness defect that impairs HSC self-renewal and hematopoietic differentiation. In IBMFS, HSCs frequently acquire mutations that improve cell fitness, a phenomenon known as somatic...]]></summary>
-        <author>
-            <name>Sofie Lundgren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in VEXAS Syndrome and Erdheim-Chester disease: Inflammatory myeloid diseases]]></title>
-        <id>pubmed:36115693</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115693/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220920214512&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations have been increasingly identified as etiologic for many hematologic and autoinflammatory disorders. VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome and Erdheim-Chester disease (ECD), a type of histiocytosis, can be classified as inflammatory myeloid diseases, characterized by systemic inflammation and multi-organ disease with predisposition to myeloid malignancies. VEXAS is a novel disease caused by UBA1 mutations that was first discovered using a...]]></summary>
-        <author>
-            <name>Pedro E Alcedo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220920214512&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonality in immune aplastic anemia: Mechanisms of immune escape or malignant transformation]]></title>
-        <id>pubmed:36115690</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115690/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220920214512&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aplastic anemia (AA) is the prototypic bone marrow failure syndrome and can be classified as either acquired or inherited. Inherited forms are due to the effects of germline mutations, while acquired AA is suspected to result from cytotoxic T-cell mediated immune attack on hematopoietic stem and progenitor cells. Once thought to be a purely "benign" condition, clonality in the form of chromosomal abnormalities and single nucleotide variants is now well recognized in AA. Mechanisms underpinning...]]></summary>
-        <author>
-            <name>Jibran Durrani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in acquired pure red cell aplasia]]></title>
-        <id>pubmed:36115689</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115689/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220920214512&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acquired pure red cell aplasia (PRCA) is a syndrome characterized by anemia and a marked reduction of erythroid progenitor cells with various etiologies. The 3 major subtypes of PRCA are idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA and thymoma-associated PRCA, which are thought to be caused by a T-cell-mediated mechanism. In these 3 subtypes, an expansion of clonal cytotoxic T cells is often detected. In addition, those T cells recurrently harbor somatic mutations of...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic compensation of inherited bone marrow failure]]></title>
-        <id>pubmed:36115694</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115694/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220919212813&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inherited bone marrow failure syndromes (IBMFS) are a heterogeneous group of genetic disorders characterized by insufficient blood cell production and increased risk of transformation to myeloid malignancies. While genetically diverse, IBMFS are collectively defined by a cell-intrinsic hematopoietic stem cell (HSC) fitness defect that impairs HSC self-renewal and hematopoietic differentiation. In IBMFS, HSCs frequently acquire mutations that improve cell fitness, a phenomenon known as somatic...]]></summary>
-        <author>
-            <name>Sofie Lundgren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in VEXAS Syndrome and Erdheim-Chester disease: Inflammatory myeloid diseases]]></title>
-        <id>pubmed:36115693</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115693/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220919212813&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations have been increasingly identified as etiologic for many hematologic and autoinflammatory disorders. VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome and Erdheim-Chester disease (ECD), a type of histiocytosis, can be classified as inflammatory myeloid diseases, characterized by systemic inflammation and multi-organ disease with predisposition to myeloid malignancies. VEXAS is a novel disease caused by UBA1 mutations that was first discovered using a...]]></summary>
-        <author>
-            <name>Pedro E Alcedo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220919212813&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonality in immune aplastic anemia: Mechanisms of immune escape or malignant transformation]]></title>
-        <id>pubmed:36115690</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115690/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220919212813&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aplastic anemia (AA) is the prototypic bone marrow failure syndrome and can be classified as either acquired or inherited. Inherited forms are due to the effects of germline mutations, while acquired AA is suspected to result from cytotoxic T-cell mediated immune attack on hematopoietic stem and progenitor cells. Once thought to be a purely "benign" condition, clonality in the form of chromosomal abnormalities and single nucleotide variants is now well recognized in AA. Mechanisms underpinning...]]></summary>
-        <author>
-            <name>Jibran Durrani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in acquired pure red cell aplasia]]></title>
-        <id>pubmed:36115689</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115689/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220919212813&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acquired pure red cell aplasia (PRCA) is a syndrome characterized by anemia and a marked reduction of erythroid progenitor cells with various etiologies. The 3 major subtypes of PRCA are idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA and thymoma-associated PRCA, which are thought to be caused by a T-cell-mediated mechanism. In these 3 subtypes, an expansion of clonal cytotoxic T cells is often detected. In addition, those T cells recurrently harbor somatic mutations of...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic compensation of inherited bone marrow failure]]></title>
-        <id>pubmed:36115694</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115694/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220918212726&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inherited bone marrow failure syndromes (IBMFS) are a heterogeneous group of genetic disorders characterized by insufficient blood cell production and increased risk of transformation to myeloid malignancies. While genetically diverse, IBMFS are collectively defined by a cell-intrinsic hematopoietic stem cell (HSC) fitness defect that impairs HSC self-renewal and hematopoietic differentiation. In IBMFS, HSCs frequently acquire mutations that improve cell fitness, a phenomenon known as somatic...]]></summary>
-        <author>
-            <name>Sofie Lundgren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in VEXAS Syndrome and Erdheim-Chester disease: Inflammatory myeloid diseases]]></title>
-        <id>pubmed:36115693</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115693/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220918212726&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations have been increasingly identified as etiologic for many hematologic and autoinflammatory disorders. VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome and Erdheim-Chester disease (ECD), a type of histiocytosis, can be classified as inflammatory myeloid diseases, characterized by systemic inflammation and multi-organ disease with predisposition to myeloid malignancies. VEXAS is a novel disease caused by UBA1 mutations that was first discovered using a...]]></summary>
-        <author>
-            <name>Pedro E Alcedo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220918212726&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonality in immune aplastic anemia: Mechanisms of immune escape or malignant transformation]]></title>
-        <id>pubmed:36115690</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115690/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220918212726&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aplastic anemia (AA) is the prototypic bone marrow failure syndrome and can be classified as either acquired or inherited. Inherited forms are due to the effects of germline mutations, while acquired AA is suspected to result from cytotoxic T-cell mediated immune attack on hematopoietic stem and progenitor cells. Once thought to be a purely "benign" condition, clonality in the form of chromosomal abnormalities and single nucleotide variants is now well recognized in AA. Mechanisms underpinning...]]></summary>
-        <author>
-            <name>Jibran Durrani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somatic mutations in acquired pure red cell aplasia]]></title>
-        <id>pubmed:36115689</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115689/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20220918212726&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acquired pure red cell aplasia (PRCA) is a syndrome characterized by anemia and a marked reduction of erythroid progenitor cells with various etiologies. The 3 major subtypes of PRCA are idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA and thymoma-associated PRCA, which are thought to be caused by a T-cell-mediated mechanism. In these 3 subtypes, an expansion of clonal cytotoxic T cells is often detected. In addition, those T cells recurrently harbor somatic mutations of...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220929220016&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220928214241&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220927212735&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220926212756&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220925212838&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220924212455&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220923212752&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220922214323&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220921212429&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clinical manifestations of clonal hematopoiesis: What has SF3B1-mutant MDS taught us?]]></title>
-        <id>pubmed:36115692</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36115692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20220920214512&amp;v=2.17.8"/>
-        <updated>2022-09-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Large scale high-throughput DNA sequencing studies have identified clonal hematopoiesis (CH) as a clinical phenomenon characterized by a disproportionately large clonal population in the hematopoietic system with a shared mutational background. CH originates through mutations in hematopoietic stem and progenitor cells (HSPCs) which provide a proliferative advantage over unmutated HSPCs and has been characterized as a risk factor for myeloid neoplasm (MN) development. Large population studies...]]></summary>
-        <author>
-            <name>Gabriele Todisco</name>
         </author>
     </entry>
     <entry>
