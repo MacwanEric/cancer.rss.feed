@@ -210,8 +210,18 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&utm_campaign=pubmed-2&fc=20220608003622&ff=20221119201545&v=2.17.8",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20221120201223&v=2.17.8&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&utm_source=axios&utm_campaign=pubmed-2&utm_medium=rss",
       "articles": [
+        {
+          "id": "pubmed:36400843",
+          "author": "Asahi Nakamuta",
+          "description": "Tissue stem cells maintain themselves through self-renewal while constantly supplying differentiating cells. Two distinct models have been proposed as mechanisms of stem cell homeostasis. According to the classical model, there is hierarchy among stem cells, and master stem cells produce stem cells by asymmetric division; whereas, according to the recent model, stem cells are equipotent and neutrally compete. However, the mechanism remains controversial in several tissues and species. Here, we...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36400843/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-18T11:00:00.000Z",
+          "wordCount": 1479,
+          "title": "Stem cell homeostasis regulated by hierarchy and neutral competition",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:36400843",
           "author": "Asahi Nakamuta",
@@ -220,6 +230,26 @@
           "publishedOn": "2022-11-18T11:00:00.000Z",
           "wordCount": 1438,
           "title": "Stem cell homeostasis regulated by hierarchy and neutral competition",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36387170",
+          "author": "Alexander J Ambinder",
+          "description": "Myelodysplastic syndrome and acute myeloid leukemia are heterogeneous myeloid neoplasms which arise from the accumulation of mutations in a myeloid stem cell or progenitor that confer survival or growth advantages. These disease processes are formally differentiated by clinical, laboratory, and morphological presentations, especially with regard to the preponderance of blasts in the peripheral blood or bone marrow (AML); however, they are closely associated through their shared lineage as well...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36387170/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-17T11:00:00.000Z",
+          "wordCount": 1538,
+          "title": "Navigating the contested borders between myelodysplastic syndrome and acute myeloid leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36384248",
+          "author": "Ying Liu",
+          "description": "Not available.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36384248/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-17T11:00:00.000Z",
+          "wordCount": 1140,
+          "title": "Clonal hematopoiesis in diffuse large B-cell lymphoma: clinical impact and genetic relatedness to lymphoma and therapy-related myeloid neoplasm",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -286,6 +316,16 @@
           "id": "pubmed:36379023",
           "author": "Francisco Caiado",
           "description": "Clonal hematopoiesis of indeterminate potential (CHIP), also referred to as aging-related clonal hematopoiesis (ARCH), is defined as an asymptomatic clonal expansion of mutant mature hematopoietic cells over 4% of blood leukocytes. CHIP associates with advanced age and increased risk for hematological malignancy, cardiovascular disease and all-cause mortality. Loss-of-function somatic mutations in TET2 are frequent drivers of CHIP. However, the contribution of aging-associated cooperating...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36379023/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-15T11:00:00.000Z",
+          "wordCount": 1212,
+          "title": "Aging drives Tet2+/- clonal hematopoiesis via IL-1 signaling",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36379023",
+          "author": "Francisco Caiado",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP), also referred to as aging-related clonal hematopoiesis (ARCH), is defined as an asymptomatic clonal expansion of mutant mature hematopoietic cells over 4% of blood leukocytes. CHIP associates with advanced age and increased risk for hematological malignancy, cardiovascular disease and all-cause mortality. Loss-of-function somatic mutations in TET2 are frequent drivers of CHIP. However, the contribution of aging-associated cooperating...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36379023/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221119201545&v=2.17.8",
           "publishedOn": "2022-11-15T11:00:00.000Z",
           "wordCount": 1212,
@@ -330,6 +370,16 @@
           "publishedOn": "2022-11-15T11:00:00.000Z",
           "wordCount": 1124,
           "title": "Aging drives Tet2+/- &gt;clonal hematopoiesis via IL-1 signaling",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36374003",
+          "author": null,
+          "description": "Increased use of liquid biopsy to pinpoint actionable genomic alterations in cancer has been accompanied by a rise in the incidental detection of clonal hematopoiesis. Its clinical significance remains unclear, however, as well as how best to risk-stratify patients for further evaluation and, if necessary, treatment.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36374003/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-14T11:00:00.000Z",
+          "wordCount": 913,
+          "title": "Probing Clonal Hematopoiesis in Liquid Biopsy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -390,6 +440,16 @@
           "publishedOn": "2022-11-14T11:00:00.000Z",
           "wordCount": 839,
           "title": "Probing Clonal Hematopoiesis in Liquid Biopsy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36358655",
+          "author": "Giulia Calabretto",
+          "description": "Clonal expansions of large granular lymphocytes (LGL) have been reported in a wide spectrum of conditions, with LGL leukemia (LGLL) being the most extreme. However, the boundaries between LGLL and LGL clones are often subtle, and both conditions can be detected in several clinical scenarios, particularly in patients with cytopenias. The intricate overlap of LGL clonal expansion with other disease entities characterized by unexplained cytopenias makes their classification challenging. Indeed,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36358655/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-11T11:00:00.000Z",
+          "wordCount": 1869,
+          "title": "LGL Clonal Expansion and Unexplained Cytopenia: Two Clues Don't Make an Evidence",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -480,6 +540,36 @@
           "publishedOn": "2022-11-11T11:00:00.000Z",
           "wordCount": 1171,
           "title": "LGL Clonal Expansion and Unexplained Cytopenia: Two Clues Don't Make an Evidence",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36355225",
+          "author": "Anna Stein",
+          "description": "Cardiovascular and oncological diseases represent the global major causes of death. For both, a novel and far-reaching risk factor has been identified: clonal hematopoiesis (CH). CH is defined as clonal expansion of peripheral blood cells on the basis of somatic mutations, without overt hematological malignancy. The most commonly affected genes are TET2, DNMT3A, ASXL1 and JAK2. By the age of 70, at least 20-50% of all individuals carry a CH clone, conveying a striking clinical impact by...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36355225/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-10T11:00:00.000Z",
+          "wordCount": 1919,
+          "title": "Clonal hematopoiesis and cardiovascular disease: deciphering interconnections",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36353993",
+          "author": "Pradeep Natarajan",
+          "description": "Chronologic age is the dominant risk factor for coronary artery disease but the features of aging promoting coronary artery disease are poorly understood. Advances in human genetics and population-based genetic profiling of blood cells have uncovered the surprising role of age-related subclinical leukemogenic mutations in blood cells, termed \"clonal hematopoiesis of indeterminate potential,\" in coronary artery disease. Such mutations typically occur in DNMT3A, TET2, ASXL1, and JAK2. Murine and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36353993/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-10T11:00:00.000Z",
+          "wordCount": 1154,
+          "title": "2022 Jeffrey M. Hoeg Award Lecture: Genomic Aging, Clonal Hematopoiesis, and Cardiovascular Disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36353970",
+          "author": "Olivier Ariste",
+          "description": "Clonal hematopoiesis (CH) consists in an abnormal expansion of a hematopoietic stem cell bearing an advantageous somatic variant. A survey of known recurrent somatic missense variants in DNMT3A, SF3B1, SRSF2 and TP53, some of the most prominent genes underlying CH of indeterminate potential (CHIP), in gnomAD non-cancer database shows the presence of 73 variants. Many of them reach frequencies higher than 0.01% in various populations and, in many cases, are enriched in specific populations....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36353970/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-10T11:00:00.000Z",
+          "wordCount": 1196,
+          "title": "Recurrent missense variants in clonal hematopoiesis-related genes present in the general population",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -780,6 +870,36 @@
           "publishedOn": "2022-11-10T11:00:00.000Z",
           "wordCount": 1116,
           "title": "Recurrent missense variants in clonal hematopoiesis-related genes present in the general population",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36347490",
+          "author": "Xinshu Xie",
+          "description": "Clonal hematopoiesis (CH) occurs in hematopoietic stem cells with increased risks of progressing to hematologic malignancies. CH mutations are predominantly found in aged populations and correlate with an increased incidence of cardiovascular and other diseases. Increased lines of evidence demonstrate that CH mutations are closely related to the inflammatory bone marrow microenvironment. In this review, we summarize the recent advances in this topic starting from the discovery of CH and its...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36347490/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-08T11:00:00.000Z",
+          "wordCount": 1311,
+          "title": "Clonal hematopoiesis and bone marrow inflammation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36347013",
+          "author": "Damien Luque Paz",
+          "description": "BCR::ABL1-negative myeloproliferative neoplasms (MPN) are clonal diseases originating from a single hematopoietic stem cell (HSC) that cause excessive production of mature blood cells. The three subtypes polycythemia vera (PV), essential thrombocythemia (ET) and primary myelofibrosis (PMF) are diagnosed according to the World Health Organization (WHO) and International Consensus Classification (ICC) criteria. Acquired gain-of-function mutations in one of three disease driver genes, JAK2, CALR...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36347013/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-08T11:00:00.000Z",
+          "wordCount": 1206,
+          "title": "Genetic basis and molecular profiling in myeloproliferative neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36346484",
+          "author": "Yasuhito Nannya",
+          "description": "Clonal hematopoiesis (CH) is an expansion of clones in individuals without any hematologic abnormalities, often carrying the driver mutations implicated in myeloid tumors, such as DNMT3A, TET2, and ASXL1. Most notably, CH is an age-related event, accounting for ~ 10% of cases in people over 60 years old. CH may also be correlated with a previous history of cancer treatment with chemotherapeutic drugs/radiation and infection episodes. The link between aging and CH acquisition is best explained by...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36346484/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-08T11:00:00.000Z",
+          "wordCount": 1353,
+          "title": "Factors associated with clonal hematopoiesis and interaction with marrow environment",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -1136,6 +1256,26 @@
           "id": "pubmed:36339018",
           "author": "Tetsushi Nakao",
           "description": "Studies of the genetic architecture of cardiovascular disease once focused on heritable germline factors. Newer work has shed light on the role of somatic mutations in blood cells. These mechanistic and multi-omics studies, along with phenotypic analyses, offer the prospect of new precision cardiovascular medicine paradigms.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36339018/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-07T11:00:00.000Z",
+          "wordCount": 1383,
+          "title": "Clonal hematopoiesis, multi-omics and coronary artery disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36337911",
+          "author": "Alan R Tall",
+          "description": "Clonal hematopoiesis arises from somatic mutations that provide a fitness advantage to hematopoietic stem cells and the outgrowth of clones of blood cells. Clonal hematopoiesis commonly involves mutations in genes that are involved in epigenetic modifications, signaling and DNA damage repair. Clonal hematopoiesis has emerged as a major independent risk factor in atherosclerotic cardiovascular disease, thrombosis and heart failure. Studies in mouse models of clonal hematopoiesis have shown an...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36337911/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-07T11:00:00.000Z",
+          "wordCount": 1539,
+          "title": "Clonal hematopoiesis in cardiovascular disease and therapeutic implications",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36339018",
+          "author": "Tetsushi Nakao",
+          "description": "Studies of the genetic architecture of cardiovascular disease once focused on heritable germline factors. Newer work has shed light on the role of somatic mutations in blood cells. These mechanistic and multi-omics studies, along with phenotypic analyses, offer the prospect of new precision cardiovascular medicine paradigms.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36339018/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221119201545&v=2.17.8",
           "publishedOn": "2022-11-07T11:00:00.000Z",
           "wordCount": 1383,
@@ -1390,6 +1530,16 @@
           "publishedOn": "2022-11-07T11:00:00.000Z",
           "wordCount": 1441,
           "title": "Clonal hematopoiesis in cardiovascular disease and therapeutic implications",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36336766",
+          "author": "Benjamin Rolles",
+          "description": "PURPOSE OF REVIEW: Myeloproliferative neoplasms (MPNs) are chronic hematological malignancies characterized by increased proliferation of MPN stem and myeloid progenitor cells with or without bone marrow fibrosis that typically lead to increased peripheral blood cell counts. The genetic and cytogenetic alterations that initiate and drive the development of MPNs have largely been defined, and we summarize these here.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36336766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-06T11:00:00.000Z",
+          "wordCount": 1509,
+          "title": "Molecular Pathogenesis of Myeloproliferative Neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8321,114 +8471,34 @@
           "wordCount": 1467,
           "title": "Clonal hematopoiesis and solid neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36138229",
-          "author": "Anna S Nam",
-          "description": "Somatic mutations in cancer genes have been detected in clonal expansions across healthy human tissue, including in clonal hematopoiesis. However, because mutated and wild-type cells are admixed, we have limited ability to link genotypes with phenotypes. To overcome this limitation, we leveraged multi-modality single-cell sequencing, capturing genotype, transcriptomes and methylomes in progenitors from individuals with DNMT3A R882 mutated clonal hematopoiesis. DNMT3A mutations result in myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36138229/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221002212112&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2003,
-          "title": "Single-cell multi-omics of human clonal hematopoiesis reveals that DNMT3A R882 mutations perturb early progenitor states through selective hypomethylation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36138229",
-          "author": "Anna S Nam",
-          "description": "Somatic mutations in cancer genes have been detected in clonal expansions across healthy human tissue, including in clonal hematopoiesis. However, because mutated and wild-type cells are admixed, we have limited ability to link genotypes with phenotypes. To overcome this limitation, we leveraged multi-modality single-cell sequencing, capturing genotype, transcriptomes and methylomes in progenitors from individuals with DNMT3A R882 mutated clonal hematopoiesis. DNMT3A mutations result in myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36138229/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221001214304&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2003,
-          "title": "Single-cell multi-omics of human clonal hematopoiesis reveals that DNMT3A R882 mutations perturb early progenitor states through selective hypomethylation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36138229",
-          "author": "Anna S Nam",
-          "description": "Somatic mutations in cancer genes have been detected in clonal expansions across healthy human tissue, including in clonal hematopoiesis. However, because mutated and wild-type cells are admixed, we have limited ability to link genotypes with phenotypes. To overcome this limitation, we leveraged multi-modality single-cell sequencing, capturing genotype, transcriptomes and methylomes in progenitors from individuals with DNMT3A R882 mutated clonal hematopoiesis. DNMT3A mutations result in myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36138229/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220930214940&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2003,
-          "title": "Single-cell multi-omics of human clonal hematopoiesis reveals that DNMT3A R882 mutations perturb early progenitor states through selective hypomethylation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36138229",
-          "author": "Anna S Nam",
-          "description": "Somatic mutations in cancer genes have been detected in clonal expansions across healthy human tissue, including in clonal hematopoiesis. However, because mutated and wild-type cells are admixed, we have limited ability to link genotypes with phenotypes. To overcome this limitation, we leveraged multi-modality single-cell sequencing, capturing genotype, transcriptomes and methylomes in progenitors from individuals with DNMT3A R882 mutated clonal hematopoiesis. DNMT3A mutations result in myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36138229/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220929220016&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2003,
-          "title": "Single-cell multi-omics of human clonal hematopoiesis reveals that DNMT3A R882 mutations perturb early progenitor states through selective hypomethylation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36138229",
-          "author": "Anna S Nam",
-          "description": "Somatic mutations in cancer genes have been detected in clonal expansions across healthy human tissue, including in clonal hematopoiesis. However, because mutated and wild-type cells are admixed, we have limited ability to link genotypes with phenotypes. To overcome this limitation, we leveraged multi-modality single-cell sequencing, capturing genotype, transcriptomes and methylomes in progenitors from individuals with DNMT3A R882 mutated clonal hematopoiesis. DNMT3A mutations result in myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36138229/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220928214241&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2013,
-          "title": "Single-cell multi-omics of human clonal hematopoiesis reveals that DNMT3A R882 mutations perturb early progenitor states through selective hypomethylation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36138229",
-          "author": "Anna S Nam",
-          "description": "Somatic mutations in cancer genes have been detected in clonal expansions across healthy human tissue, including in clonal hematopoiesis. However, because mutated and wild-type cells are admixed, we have limited ability to link genotypes with phenotypes. To overcome this limitation, we leveraged multi-modality single-cell sequencing, capturing genotype, transcriptomes and methylomes in progenitors from individuals with DNMT3A R882 mutated clonal hematopoiesis. DNMT3A mutations result in myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36138229/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220927212735&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2013,
-          "title": "Single-cell multi-omics of human clonal hematopoiesis reveals that DNMT3A R882 mutations perturb early progenitor states through selective hypomethylation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36138229",
-          "author": "Anna S Nam",
-          "description": "Somatic mutations in cancer genes have been detected in clonal expansions across healthy human tissue, including in clonal hematopoiesis. However, because mutated and wild-type cells are admixed, we have limited ability to link genotypes with phenotypes. To overcome this limitation, we leveraged multi-modality single-cell sequencing, capturing genotype, transcriptomes and methylomes in progenitors from individuals with DNMT3A R882 mutated clonal hematopoiesis. DNMT3A mutations result in myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36138229/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220926212756&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 1651,
-          "title": "Single-cell multi-omics of human clonal hematopoiesis reveals that DNMT3A R882 mutations perturb early progenitor states through selective hypomethylation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36138229",
-          "author": "Anna S Nam",
-          "description": "Somatic mutations in cancer genes have been detected in clonal expansions across healthy human tissue, including in clonal hematopoiesis. However, because mutated and wild-type cells are admixed, we have limited ability to link genotypes with phenotypes. To overcome this limitation, we leveraged multi-modality single-cell sequencing, capturing genotype, transcriptomes and methylomes in progenitors from individuals with DNMT3A R882 mutated clonal hematopoiesis. DNMT3A mutations result in myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36138229/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220925212838&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 1651,
-          "title": "Single-cell multi-omics of human clonal hematopoiesis reveals that DNMT3A R882 mutations perturb early progenitor states through selective hypomethylation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36138229",
-          "author": "Anna S Nam",
-          "description": "Somatic mutations in cancer genes have been detected in clonal expansions across healthy human tissue, including in clonal hematopoiesis. However, because mutated and wild-type cells are admixed, we have limited ability to link genotypes with phenotypes. To overcome this limitation, we leveraged multi-modality single-cell sequencing, capturing genotype, transcriptomes and methylomes in progenitors from individuals with DNMT3A R882 mutated clonal hematopoiesis. DNMT3A mutations result in myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36138229/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220924212455&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 1614,
-          "title": "Single-cell multi-omics of human clonal hematopoiesis reveals that DNMT3A R882 mutations perturb early progenitor states through selective hypomethylation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36138229",
-          "author": "Anna S Nam",
-          "description": "Somatic mutations in cancer genes have been detected in clonal expansions across healthy human tissue, including in clonal hematopoiesis. However, because mutated and wild-type cells are admixed, we have limited ability to link genotypes with phenotypes. To overcome this limitation, we leveraged multi-modality single-cell sequencing, capturing genotype, transcriptomes and methylomes in progenitors from individuals with DNMT3A R882 mutated clonal hematopoiesis. DNMT3A mutations result in myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36138229/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20220923212752&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 1614,
-          "title": "Single-cell multi-omics of human clonal hematopoiesis reveals that DNMT3A R882 mutations perturb early progenitor states through selective hypomethylation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&ff=20221119201544&utm_source=axios&v=2.17.8&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_campaign=pubmed-2&utm_medium=rss&utm_source=axios&ff=20221120201223&v=2.17.8&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
       "articles": [
+        {
+          "id": "pubmed:36379206",
+          "author": "Bogang Wu",
+          "description": "A recent Nature study delineates a stepwise genomic evolution during pancreatic cancer development, employing an engineered mutant Kras and heterozygous Trp53 mouse model that identifies cells undergoing Trp53 loss of heterozygosity (LOH). Genetic progression post-Trp53 LOH involves clonal deletions, then genome doubling and subsequent accumulation of subclonal gains and amplifications.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36379206/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-15T11:00:00.000Z",
+          "wordCount": 1180,
+          "title": "Loss of p53 and genetic evolution in pancreatic cancer: Ordered chaos after the guardian is gone",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36376909",
+          "author": "Tom L Kaufmann",
+          "description": "Aneuploidy, chromosomal instability, somatic copy-number alterations, and whole-genome doubling (WGD) play key roles in cancer evolution and provide information for the complex task of phylogenetic inference. We present MEDICC2, a method for inferring evolutionary trees and WGD using haplotype-specific somatic copy-number alterations from single-cell or bulk data. MEDICC2 eschews simplifications such as the infinite sites assumption, allowing multiple mutations and parallel evolution, and does...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36376909/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-15T11:00:00.000Z",
+          "wordCount": 3333,
+          "title": "MEDICC2: whole-genome doubling aware copy-number phylogenies for cancer evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:36379206",
           "author": "Bogang Wu",
@@ -8497,6 +8567,26 @@
           "publishedOn": "2022-11-15T11:00:00.000Z",
           "wordCount": 1806,
           "title": "MEDICC2: whole-genome doubling aware copy-number phylogenies for cancer evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36373660",
+          "author": "Kilannin Krysiak",
+          "description": "CIViC (Clinical Interpretation of Variants in Cancer; civicdb.org) is a crowd-sourced, public domain knowledgebase composed of literature-derived evidence characterizing the clinical utility of cancer variants. As clinical sequencing becomes more prevalent in cancer management, the need for cancer variant interpretation has grown beyond the capability of any single institution. CIViC contains peer-reviewed, published literature curated and expertly-moderated into structured data units (Evidence...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36373660/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-14T11:00:00.000Z",
+          "wordCount": 2765,
+          "title": "CIViCdb 2022: evolution of an open-access cancer variant interpretation knowledgebase",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36372873",
+          "author": "Meichen Li",
+          "description": "CONCLUSIONS: CSF ctDNA exhibited unique genetic profiles of brain metastases, and dynamic changes in CSF ctDNA could better predict intracranial tumor responses and track clonal evolution during treatment in NSCLC patients with brain metastases.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36372873/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-14T11:00:00.000Z",
+          "wordCount": 2779,
+          "title": "Dynamic monitoring of cerebrospinal fluid circulating tumor DNA to identify unique genetic profiles of brain metastatic tumors and better predict intracranial tumor responses in non-small cell lung cancer patients with brain metastases: a prospective cohort study (GASTO 1028)",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8623,6 +8713,16 @@
           "id": "pubmed:36371022",
           "author": "S Anupriya",
           "description": "Colorectal cancer (CRC) arises by a continuous process of genetic diversification and clonal evolution. Multiple genes and pathways have a role in tumor initiation and progression. The gradual accumulation of genetic and epigenetic processes leads to the establishment of adenoma and cancer. The important 'driver' mutations in tumor suppressor genes (such as TP53, APC, and SMAD4) and oncogenes (such as KRAS, NRAS, MET, and PIK3CA) confer selective growth advantages and cause CRC advancement....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36371022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-12T11:00:00.000Z",
+          "wordCount": 1291,
+          "title": "Clonal evolution and expansion associated with therapy resistance and relapse of Colorectal Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36371022",
+          "author": "S Anupriya",
+          "description": "Colorectal cancer (CRC) arises by a continuous process of genetic diversification and clonal evolution. Multiple genes and pathways have a role in tumor initiation and progression. The gradual accumulation of genetic and epigenetic processes leads to the establishment of adenoma and cancer. The important 'driver' mutations in tumor suppressor genes (such as TP53, APC, and SMAD4) and oncogenes (such as KRAS, NRAS, MET, and PIK3CA) confer selective growth advantages and cause CRC advancement....",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36371022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221119201544&v=2.17.8",
           "publishedOn": "2022-11-12T11:00:00.000Z",
           "wordCount": 1291,
@@ -8687,6 +8787,16 @@
           "publishedOn": "2022-11-12T11:00:00.000Z",
           "wordCount": 1232,
           "title": "Clonal evolution and expansion associated with therapy resistance and relapse of Colorectal Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36358353",
+          "author": "Hannes Becker",
+          "description": "Glioblastomas are incurable primary brain tumors harboring a heterogeneous landscape of genetic and metabolic alterations. Longitudinal imaging by MRI and [^(18)F]FET-PET measurements enable us to visualize the features of evolving tumors in a dynamic manner. Yet, close-meshed longitudinal imaging time points for characterizing temporal and spatial metabolic alterations during tumor evolution in patients is not feasible because patients usually present with already established tumors. The...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36358353/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-11T11:00:00.000Z",
+          "wordCount": 1468,
+          "title": "Multiparametric Longitudinal Profiling of RCAS-tva-Induced PDGFB-Driven Experimental Glioma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8777,6 +8887,16 @@
           "publishedOn": "2022-11-11T11:00:00.000Z",
           "wordCount": 1384,
           "title": "Multiparametric Longitudinal Profiling of RCAS-tva-Induced PDGFB-Driven Experimental Glioma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36354097",
+          "author": "Radhakrishnan Vishnubalaji",
+          "description": "The interplay between microRNAs (miRNAs) and pluripotency transcription factors (TFs) orchestrates the acquisition of cancer stem cell (CSC) features during the course of malignant transformation, rendering them essential cancer cell dependencies and therapeutic vulnerabilities. In this review, we discuss emerging themes in tumor heterogeneity, including the clonal evolution and the CSC models and their implications in resistance to cancer therapies, and then provide thorough coverage on the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36354097/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-10T11:00:00.000Z",
+          "wordCount": 1449,
+          "title": "Reciprocal interplays between MicroRNAs and pluripotency transcription factors in dictating stemness features in human cancers",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8877,6 +8997,26 @@
           "publishedOn": "2022-11-10T11:00:00.000Z",
           "wordCount": 1361,
           "title": "Reciprocal interplays between MicroRNAs and pluripotency transcription factors in dictating stemness features in human cancers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36352222",
+          "author": "Artem Lomakin",
+          "description": "Genome sequencing of cancers often reveals mosaics of different subclones present in the same tumour^(1-3). Although these are believed to arise according to the principles of somatic evolution, the exact spatial growth patterns and underlying mechanisms remain elusive^(4,5). Here, to address this need, we developed a workflow that generates detailed quantitative maps of genetic subclone composition across whole-tumour sections. These provide the basis for studying clonal growth patterns, and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36352222/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-09T11:00:00.000Z",
+          "wordCount": 5369,
+          "title": "Spatial genomics maps the structure, nature and evolution of cancer clones",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36351210",
+          "author": "Christine M Parseghian",
+          "description": "CONCLUSION: These findings support a model of resistance whereby transcriptomic mechanisms of resistance predominate in the presence of active cytotoxic chemotherapy combined with EGFRi, with a greater predominance of acquired MAPK mutations after single-agent EGFRi. The proposed model has implications for prospective studies evaluating EGFRi rechallenge strategies guided by acquired MAPK mutations, and highlights the need to address transcriptional mechanisms of resistance.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36351210/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-09T11:00:00.000Z",
+          "wordCount": 1510,
+          "title": "Resistance Mechanisms to Anti-EGFR Therapy in <em>RAS/RAF</em> Wildtype Colorectal Cancer Vary by Regimen and Line of Therapy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -9093,6 +9233,16 @@
           "id": "pubmed:36338524",
           "author": "Yoshiharu Sato",
           "description": "Recently, technological advances in the detection and biological characterization of circulating tumor DNA (ctDNA) have enabled the implementation of liquid biopsy testing into clinical practice. Methods for analysis of liquid biopsies have rapidly evolved over the past few years and have continued to advance, thus providing details about tumor biological characteristics such as tumor progression, metastasis, tumor heterogeneity, genomic mutation profile, clonal evolution, etc. In tandem with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36338524/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-07T11:00:00.000Z",
+          "wordCount": 1448,
+          "title": "Clinical utility of liquid biopsy-based companion diagnostics in the non-small-cell lung cancer treatment",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36338524",
+          "author": "Yoshiharu Sato",
+          "description": "Recently, technological advances in the detection and biological characterization of circulating tumor DNA (ctDNA) have enabled the implementation of liquid biopsy testing into clinical practice. Methods for analysis of liquid biopsies have rapidly evolved over the past few years and have continued to advance, thus providing details about tumor biological characteristics such as tumor progression, metastasis, tumor heterogeneity, genomic mutation profile, clonal evolution, etc. In tandem with...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36338524/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221119201544&v=2.17.8",
           "publishedOn": "2022-11-07T11:00:00.000Z",
           "wordCount": 1448,
@@ -9217,6 +9367,16 @@
           "publishedOn": "2022-11-07T11:00:00.000Z",
           "wordCount": 1354,
           "title": "Clinical utility of liquid biopsy-based companion diagnostics in the non-small-cell lung cancer treatment",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36333584",
+          "author": "Anna-Katharina Wirth",
+          "description": "Resistance towards cancer treatment represents a major clinical obstacle, preventing cure of cancer patients. To gain mechanistic insights, we developed a model for acquired resistance to chemotherapy by treating mice carrying patient derived xenografts (PDX) of acute lymphoblastic leukemia with widely-used cytotoxic drugs for 18 consecutive weeks. In two distinct PDX samples, tumors initially responded to treatment, until stable disease and eventually tumor re-growth evolved under therapy, at...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36333584/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-05T10:00:00.000Z",
+          "wordCount": 1876,
+          "title": "In vivo PDX CRISPR/Cas9 screens reveal mutual therapeutic targets to overcome heterogeneous acquired chemo-resistance",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -9367,6 +9527,16 @@
           "publishedOn": "2022-11-05T10:00:00.000Z",
           "wordCount": 1782,
           "title": "In vivo PDX CRISPR/Cas9 screens reveal mutual therapeutic targets to overcome heterogeneous acquired chemo-resistance",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36331987",
+          "author": "Nathan D Lee",
+          "description": "As a cancer develops, its cells accrue new mutations, resulting in a heterogeneous, complex genomic profile. We make use of this heterogeneity to derive simple, analytic estimates of parameters driving carcinogenesis and reconstruct the timeline of selective events following initiation of an individual cancer, where two longitudinal samples are available for sequencing. Using stochastic computer simulations of cancer growth, we show that we can accurately estimate mutation rate, time before and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36331987/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-04T10:00:00.000Z",
+          "wordCount": 2267,
+          "title": "Inferring parameters of cancer evolution in chronic lymphocytic leukemia",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -9527,6 +9697,26 @@
           "publishedOn": "2022-11-04T10:00:00.000Z",
           "wordCount": 1127,
           "title": "Inferring parameters of cancer evolution in chronic lymphocytic leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36323507",
+          "author": "Mahsa Vahdatinia",
+          "description": "CONCLUSIONS: KIT genetic alterations are vanishingly rare in BC. KIT-altered BCs are of high grade but lack distinctive histological features. Genetic alterations in KIT might be late events in the evolution and/or progression of BC.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36323507/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-02T10:00:00.000Z",
+          "wordCount": 1526,
+          "title": "<em>KIT</em> genetic alterations in breast cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36322938",
+          "author": "Jennifer M O'Sullivan",
+          "description": "Myeloproliferative neoplasms (MPN) are a group of clonal, stem cell derived hematopoietic malignancies driven by aberrant JAK/STAT signalling. Although they are genetically simple diseases, MPNs are phenotypically heterogeneous, reflecting underlying intra-tumoral heterogeneity driven by the interplay of genetic and non-genetic factors. As their evolution is determined by factors that enable certain cellular subsets to outcompete others, techniques that resolve cellular heterogeneity at the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36322938/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-11-02T10:00:00.000Z",
+          "wordCount": 1153,
+          "title": "Single-cell methods in myeloproliferative neoplasms - old questions, new technologies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -9877,6 +10067,16 @@
           "publishedOn": "2022-11-02T10:00:00.000Z",
           "wordCount": 1070,
           "title": "Single-cell methods in myeloproliferative neoplasms - old questions, new technologies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36315915",
+          "author": "Sarah Sammons",
+          "description": "CONCLUSION: APOBEC+ HR+ HER2- patients had shorter TTD on first-line ET plus CDK4/6i relative to APOBEC- patients. Further research is needed to optimize the treatment of APOBEC+ HR+ HER2- BC and to investigate the efficacy of immunotherapeutic strategies in this population.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36315915/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221120201223&v=2.17.8",
+          "publishedOn": "2022-10-31T10:00:00.000Z",
+          "wordCount": 2215,
+          "title": "APOBEC Mutational Signatures in Hormone Receptor-Positive Human Epidermal Growth Factor Receptor 2-Negative Breast Cancers Are Associated With Poor Outcomes on CDK4/6 Inhibitors and Endocrine Therapy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -16167,146 +16367,6 @@
           "publishedOn": "2022-09-23T10:00:00.000Z",
           "wordCount": 1182,
           "title": "UV-Induced Somatic Mutations Driving Clonal Evolution in Healthy Skin, Nevus, and Cutaneous Melanoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221005212152&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221004212702&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221003213836&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221002212112&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221001214304&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220930214940&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220929220016&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220928214241&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2643,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220927212735&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2639,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220926212756&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2389,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220925212838&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2375,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220924212455&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2366,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220923212752&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2366,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36131910",
-          "author": "Simona Pagliuca",
-          "description": "Structural and functional variability of human leukocyte antigen (HLA) is the foundation for competent adaptive immune responses against pathogen and tumor antigens as it assures the breadth of the presented immune-peptidome, theoretically sustaining an efficient and diverse T cell response. This variability is presumably the result of the continuous selection by pathogens, which over the course of evolution shaped the adaptive immune system favoring the assortment of a hyper-polymorphic HLA...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36131910/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20220922214323&v=2.17.8",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 2163,
-          "title": "Individual HLA heterogeneity and its implications for cellular immune evasion in cancer and beyond",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
