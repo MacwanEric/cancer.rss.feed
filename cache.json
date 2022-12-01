@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&v=2.17.8&utm_medium=rss&utm_campaign=pubmed-2&utm_source=axios&ff=20221129200557&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.17.8&utm_medium=rss&ff=20221130201253&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:36441964",
+          "author": "Christopher Maximilian Arends",
+          "description": "Clonal hematopoiesis (CH) is common among older people and associated with an increased risk of atherosclerosis, inflammation, and shorter overall survival. Age and inflammation are major risk factors for ischemic stroke, yet the association of CH with risk of secondary vascular events and death is unknown. We investigated CH in peripheral blood DNA from 581 patients with first-ever ischemic stroke from the Prospective Cohort with Incident Stroke-Berlin study (PROSCIS-B) using error-corrected...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36441964/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-28T11:00:00.000Z",
+          "wordCount": 1404,
+          "title": "Associations of clonal haematopoiesis with recurrent vascular events and death in patients with incident ischemic stroke",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36439451",
+          "author": "Edmond M Kwan",
+          "description": "Plasma circulating tumor DNA (ctDNA) represents short fragments of tumor-derived DNA released into the bloodstream primarily from cancer cells undergoing apoptosis. In metastatic castration-resistant prostate cancer (mCRPC), characterizing genomic alterations in ctDNA identifies mutations, copy number alterations, and structural rearrangements with predictive and prognostic biomarker utility. These associations with clinical outcomes have resulted in ctDNA increasingly incorporated into routine...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36439451/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-28T11:00:00.000Z",
+          "wordCount": 1861,
+          "title": "Towards clinical implementation of circulating tumor DNA in metastatic prostate cancer: Opportunities for integration and pitfalls to interpretation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:36441964",
           "author": "Christopher Maximilian Arends",
@@ -256,6 +276,16 @@
           "id": "pubmed:36437309",
           "author": "Francesco Vieceli Dalla Sega",
           "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is characterized by the presence of clones of mutated blood cells without overt blood diseases. In the last few years, it has emerged that CHIP is associated with atherosclerosis and coronary calcification and that it is an independent determinant of cardiovascular mortality. Recently, CHIP has been found to occur frequently in patients with calcific aortic valve disease (CAVD) and it is associated with a poor prognosis after valve...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36437309/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-27T11:00:00.000Z",
+          "wordCount": 2710,
+          "title": "Transcriptomic profiling of calcified aortic valves in clonal hematopoiesis of indeterminate potential carriers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36437309",
+          "author": "Francesco Vieceli Dalla Sega",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is characterized by the presence of clones of mutated blood cells without overt blood diseases. In the last few years, it has emerged that CHIP is associated with atherosclerosis and coronary calcification and that it is an independent determinant of cardiovascular mortality. Recently, CHIP has been found to occur frequently in patients with calcific aortic valve disease (CAVD) and it is associated with a poor prognosis after valve...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36437309/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221129200557&v=2.17.8",
           "publishedOn": "2022-11-27T11:00:00.000Z",
           "wordCount": 2659,
@@ -270,6 +300,26 @@
           "publishedOn": "2022-11-27T11:00:00.000Z",
           "wordCount": 1890,
           "title": "Transcriptomic profiling of calcified aortic valves in clonal hematopoiesis of indeterminate potential carriers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36428749",
+          "author": "Olga Kouroukli",
+          "description": "The BM, the major hematopoietic organ in humans, consists of a pleiomorphic environment of cellular, extracellular, and bioactive compounds with continuous and complex interactions between them, leading to the formation of mature blood cells found in the peripheral circulation. Systemic and local inflammation in the BM elicit stress hematopoiesis and drive hematopoietic stem cells (HSCs) out of their quiescent state, as part of a protective pathophysiologic process. However, sustained chronic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36428749/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-26T11:00:00.000Z",
+          "wordCount": 1332,
+          "title": "Bone Marrow Immune Microenvironment in Myelodysplastic Syndromes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36428627",
+          "author": "Pamela Acha",
+          "description": "Myelodysplastic syndromes (MDS) are a group of clonal hematological neoplasms characterized by ineffective hematopoiesis in one or more bone marrow cell lineages. Consequently, patients present with variable degrees of cytopenia and dysplasia. These characteristics constitute the basis for the World Health Organization (WHO) classification criteria of MDS, among other parameters, for the current prognostic scoring system. Although nearly half of newly diagnosed patients present a cytogenetic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36428627/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-26T11:00:00.000Z",
+          "wordCount": 1245,
+          "title": "Myelodysplastic Syndromes with Isolated del(5q): Value of Molecular Alterations for Diagnostic and Prognostic Assessment",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -356,6 +406,16 @@
           "id": "pubmed:36426217",
           "author": "Masaki Imanishi",
           "description": "Radiation therapy (RT) to the chest increases the patients' risk of cardiovascular disease (CVD). A complete understanding of the mechanisms by which RT induces CVD could lead to specific preventive, therapeutic approaches. It is becoming evident that both genotoxic chemotherapy agents and radiation induce mitochondrial dysfunction and cellular senescence. Notably, one of the common phenotypes observed in cancer survivors is accelerated senescence, and immunosenescence is closely related to both...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36426217/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-25T11:00:00.000Z",
+          "wordCount": 3174,
+          "title": "Radiation therapy induces immunosenescence mediated by p90RSK",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36426217",
+          "author": "Masaki Imanishi",
+          "description": "Radiation therapy (RT) to the chest increases the patients' risk of cardiovascular disease (CVD). A complete understanding of the mechanisms by which RT induces CVD could lead to specific preventive, therapeutic approaches. It is becoming evident that both genotoxic chemotherapy agents and radiation induce mitochondrial dysfunction and cellular senescence. Notably, one of the common phenotypes observed in cancer survivors is accelerated senescence, and immunosenescence is closely related to both...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36426217/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221129200557&v=2.17.8",
           "publishedOn": "2022-11-25T11:00:00.000Z",
           "wordCount": 3174,
@@ -400,6 +460,16 @@
           "publishedOn": "2022-11-25T11:00:00.000Z",
           "wordCount": 3113,
           "title": "Radiation therapy induces immunosenescence mediated by p90RSK",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36414227",
+          "author": "Yasminka A Jakubek",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) and mosaic chromosomal alterations (mCAs) of the autosomes, X, and Y chromosomes are aging-related somatic mutations detectable in peripheral blood. The presence of these acquired mutations predisposes otherwise healthy adults to increased risk of several chronic aging-related conditions including hematologic cancers, atherosclerotic cardiovascular diseases, other inflammatory conditions, and mortality. While the public health impact and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36414227/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-22T11:00:00.000Z",
+          "wordCount": 1353,
+          "title": "Risk Factors for Clonal Hematopoiesis of Indeterminate Potential and Mosaic Chromosomal Alterations",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -470,6 +540,16 @@
           "publishedOn": "2022-11-22T11:00:00.000Z",
           "wordCount": 1353,
           "title": "Risk Factors for Clonal Hematopoiesis of Indeterminate Potential and Mosaic Chromosomal Alterations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36400843",
+          "author": "Asahi Nakamuta",
+          "description": "Tissue stem cells maintain themselves through self-renewal while constantly supplying differentiating cells. Two distinct models have been proposed as mechanisms of stem cell homeostasis. According to the classical model, there is hierarchy among stem cells, and master stem cells produce stem cells by asymmetric division; whereas, according to the recent model, stem cells are equipotent and neutrally compete. However, the mechanism remains controversial in several tissues and species. Here, we...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36400843/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-18T11:00:00.000Z",
+          "wordCount": 2658,
+          "title": "Stem cell homeostasis regulated by hierarchy and neutral competition",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -580,6 +660,26 @@
           "publishedOn": "2022-11-18T11:00:00.000Z",
           "wordCount": 1438,
           "title": "Stem cell homeostasis regulated by hierarchy and neutral competition",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36387170",
+          "author": "Alexander J Ambinder",
+          "description": "Myelodysplastic syndrome and acute myeloid leukemia are heterogeneous myeloid neoplasms which arise from the accumulation of mutations in a myeloid stem cell or progenitor that confer survival or growth advantages. These disease processes are formally differentiated by clinical, laboratory, and morphological presentations, especially with regard to the preponderance of blasts in the peripheral blood or bone marrow (AML); however, they are closely associated through their shared lineage as well...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36387170/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-17T11:00:00.000Z",
+          "wordCount": 1538,
+          "title": "Navigating the contested borders between myelodysplastic syndrome and acute myeloid leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36384248",
+          "author": "Ying Liu",
+          "description": "Not available.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36384248/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-17T11:00:00.000Z",
+          "wordCount": 1140,
+          "title": "Clonal hematopoiesis in diffuse large B-cell lymphoma: clinical impact and genetic relatedness to lymphoma and therapy-related myeloid neoplasm",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -846,6 +946,16 @@
           "id": "pubmed:36379023",
           "author": "Francisco Caiado",
           "description": "Clonal hematopoiesis of indeterminate potential (CHIP), also referred to as aging-related clonal hematopoiesis (ARCH), is defined as an asymptomatic clonal expansion of mutant mature hematopoietic cells over 4% of blood leukocytes. CHIP associates with advanced age and increased risk for hematological malignancy, cardiovascular disease and all-cause mortality. Loss-of-function somatic mutations in TET2 are frequent drivers of CHIP. However, the contribution of aging-associated cooperating...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36379023/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-15T11:00:00.000Z",
+          "wordCount": 1212,
+          "title": "Aging drives Tet2+/- clonal hematopoiesis via IL-1 signaling",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36379023",
+          "author": "Francisco Caiado",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP), also referred to as aging-related clonal hematopoiesis (ARCH), is defined as an asymptomatic clonal expansion of mutant mature hematopoietic cells over 4% of blood leukocytes. CHIP associates with advanced age and increased risk for hematological malignancy, cardiovascular disease and all-cause mortality. Loss-of-function somatic mutations in TET2 are frequent drivers of CHIP. However, the contribution of aging-associated cooperating...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36379023/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221129200557&v=2.17.8",
           "publishedOn": "2022-11-15T11:00:00.000Z",
           "wordCount": 1212,
@@ -990,6 +1100,16 @@
           "publishedOn": "2022-11-15T11:00:00.000Z",
           "wordCount": 1124,
           "title": "Aging drives Tet2+/- &gt;clonal hematopoiesis via IL-1 signaling",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36374003",
+          "author": null,
+          "description": "Increased use of liquid biopsy to pinpoint actionable genomic alterations in cancer has been accompanied by a rise in the incidental detection of clonal hematopoiesis. Its clinical significance remains unclear, however, as well as how best to risk-stratify patients for further evaluation and, if necessary, treatment.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36374003/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-14T11:00:00.000Z",
+          "wordCount": 913,
+          "title": "Probing Clonal Hematopoiesis in Liquid Biopsy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -1150,6 +1270,16 @@
           "publishedOn": "2022-11-14T11:00:00.000Z",
           "wordCount": 839,
           "title": "Probing Clonal Hematopoiesis in Liquid Biopsy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36358655",
+          "author": "Giulia Calabretto",
+          "description": "Clonal expansions of large granular lymphocytes (LGL) have been reported in a wide spectrum of conditions, with LGL leukemia (LGLL) being the most extreme. However, the boundaries between LGLL and LGL clones are often subtle, and both conditions can be detected in several clinical scenarios, particularly in patients with cytopenias. The intricate overlap of LGL clonal expansion with other disease entities characterized by unexplained cytopenias makes their classification challenging. Indeed,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36358655/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-11T11:00:00.000Z",
+          "wordCount": 1872,
+          "title": "LGL Clonal Expansion and Unexplained Cytopenia: Two Clues Don't Make an Evidence",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -1340,6 +1470,26 @@
           "publishedOn": "2022-11-11T11:00:00.000Z",
           "wordCount": 1171,
           "title": "LGL Clonal Expansion and Unexplained Cytopenia: Two Clues Don't Make an Evidence",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36355225",
+          "author": "Anna Stein",
+          "description": "Cardiovascular and oncological diseases represent the global major causes of death. For both, a novel and far-reaching risk factor has been identified: clonal hematopoiesis (CH). CH is defined as clonal expansion of peripheral blood cells on the basis of somatic mutations, without overt hematological malignancy. The most commonly affected genes are TET2, DNMT3A, ASXL1 and JAK2. By the age of 70, at least 20-50% of all individuals carry a CH clone, conveying a striking clinical impact by...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36355225/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-10T11:00:00.000Z",
+          "wordCount": 1933,
+          "title": "Clonal hematopoiesis and cardiovascular disease: deciphering interconnections",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36353993",
+          "author": "Pradeep Natarajan",
+          "description": "Chronologic age is the dominant risk factor for coronary artery disease but the features of aging promoting coronary artery disease are poorly understood. Advances in human genetics and population-based genetic profiling of blood cells have uncovered the surprising role of age-related subclinical leukemogenic mutations in blood cells, termed \"clonal hematopoiesis of indeterminate potential,\" in coronary artery disease. Such mutations typically occur in DNMT3A, TET2, ASXL1, and JAK2. Murine and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36353993/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-10T11:00:00.000Z",
+          "wordCount": 1168,
+          "title": "2022 Jeffrey M. Hoeg Award Lecture: Genomic Aging, Clonal Hematopoiesis, and Cardiovascular Disease",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -7801,274 +7951,34 @@
           "wordCount": 1838,
           "title": "Cancer and aging: A call to action",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221016214939&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2801,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221015214355&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2801,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221014214034&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2801,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36183966",
-          "author": "Xin Gao",
-          "description": "Next-generation sequencing technology, including whole-exome or whole-genome sequencing and target gene sequencing, has allowed the molecular characterization of somatic mutation spectrums in hematologic diseases. Mutations in Additional sex combs-like 1 (ASXL1), a chromatin regulator, are identified in clonal hematopoiesis of indeterminate potential (CHIP), indicating ASXL1 mutations as early events in leukemogenesis. Not surprisingly, they occur at high frequency in myeloid malignancies and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36183966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221014214034&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1587,
-          "title": "Role of ASXL1 in hematopoiesis and myeloid diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221013214955&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2801,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36183966",
-          "author": "Xin Gao",
-          "description": "Next-generation sequencing technology, including whole-exome or whole-genome sequencing and target gene sequencing, has allowed the molecular characterization of somatic mutation spectrums in hematologic diseases. Mutations in Additional sex combs-like 1 (ASXL1), a chromatin regulator, are identified in clonal hematopoiesis of indeterminate potential (CHIP), indicating ASXL1 mutations as early events in leukemogenesis. Not surprisingly, they occur at high frequency in myeloid malignancies and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36183966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221013214955&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1587,
-          "title": "Role of ASXL1 in hematopoiesis and myeloid diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221012213728&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2801,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36183966",
-          "author": "Xin Gao",
-          "description": "Next-generation sequencing technology, including whole-exome or whole-genome sequencing and target gene sequencing, has allowed the molecular characterization of somatic mutation spectrums in hematologic diseases. Mutations in Additional sex combs-like 1 (ASXL1), a chromatin regulator, are identified in clonal hematopoiesis of indeterminate potential (CHIP), indicating ASXL1 mutations as early events in leukemogenesis. Not surprisingly, they occur at high frequency in myeloid malignancies and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36183966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221012213728&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1587,
-          "title": "Role of ASXL1 in hematopoiesis and myeloid diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221011214956&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2801,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36183966",
-          "author": "Xin Gao",
-          "description": "Next-generation sequencing technology, including whole-exome or whole-genome sequencing and target gene sequencing, has allowed the molecular characterization of somatic mutation spectrums in hematologic diseases. Mutations in Additional sex combs-like 1 (ASXL1), a chromatin regulator, are identified in clonal hematopoiesis of indeterminate potential (CHIP), indicating ASXL1 mutations as early events in leukemogenesis. Not surprisingly, they occur at high frequency in myeloid malignancies and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36183966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221011214956&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1587,
-          "title": "Role of ASXL1 in hematopoiesis and myeloid diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221010212330&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2801,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36183966",
-          "author": "Xin Gao",
-          "description": "Next-generation sequencing technology (NGS), including whole-exome or whole-genome sequencing and target gene sequencing, has allowed the molecular characterization of somatic mutation spectrums in hematologic diseases. Mutations in Additional sex combs-like 1 (ASXL1), a chromatin regulator, are identified in clonal hematopoiesis of indeterminate potential (CHIP), indicating ASXL1 mutations as early events in leukemogenesis. Not surprisingly, they occur at high frequency in myeloid malignancies...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36183966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221010212330&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1547,
-          "title": "Role of ASXL1 in Hematopoiesis and Myeloid Diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221009214149&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2801,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36183966",
-          "author": "Xin Gao",
-          "description": "Next-generation sequencing technology (NGS), including whole-exome or whole-genome sequencing and target gene sequencing, has allowed the molecular characterization of somatic mutation spectrums in hematologic diseases. Mutations in Additional sex combs-like 1 (ASXL1), a chromatin regulator, are identified in clonal hematopoiesis of indeterminate potential (CHIP), indicating ASXL1 mutations as early events in leukemogenesis. Not surprisingly, they occur at high frequency in myeloid malignancies...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36183966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221009214149&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1547,
-          "title": "Role of ASXL1 in Hematopoiesis and Myeloid Diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221008212536&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2801,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36183966",
-          "author": "Xin Gao",
-          "description": "Next-generation sequencing technology (NGS), including whole-exome or whole-genome sequencing and target gene sequencing, has allowed the molecular characterization of somatic mutation spectrums in hematologic diseases. Mutations in Additional sex combs-like 1 (ASXL1), a chromatin regulator, are identified in clonal hematopoiesis of indeterminate potential (CHIP), indicating ASXL1 mutations as early events in leukemogenesis. Not surprisingly, they occur at high frequency in myeloid malignancies...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36183966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221008212536&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1547,
-          "title": "Role of ASXL1 in Hematopoiesis and Myeloid Diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221007211807&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2801,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36183966",
-          "author": "Xin Gao",
-          "description": "Next-generation sequencing technology (NGS), including whole-exome or whole-genome sequencing and target gene sequencing, has allowed the molecular characterization of somatic mutation spectrums in hematologic diseases. Mutations in Additional sex combs-like 1 (ASXL1), a chromatin regulator, are identified in clonal hematopoiesis of indeterminate potential (CHIP), indicating ASXL1 mutations as early events in leukemogenesis. Not surprisingly, they occur at high frequency in myeloid malignancies...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36183966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221007211807&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1547,
-          "title": "Role of ASXL1 in Hematopoiesis and Myeloid Diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221006214146&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2801,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36183966",
-          "author": "Xin Gao",
-          "description": "Next-generation sequencing technology (NGS), including whole-exome or whole-genome sequencing and target gene sequencing, has allowed the molecular characterization of somatic mutation spectrums in hematologic diseases. Mutations in Additional sex combs-like 1 (ASXL1), a chromatin regulator, are identified in clonal hematopoiesis of indeterminate potential (CHIP), indicating ASXL1 mutations as early events in leukemogenesis. Not surprisingly, they occur at high frequency in myeloid malignancies...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36183966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221006214146&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1547,
-          "title": "Role of ASXL1 in Hematopoiesis and Myeloid Diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221005212152&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2790,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36183966",
-          "author": "Xin Gao",
-          "description": "Next-generation sequencing technology (NGS), including whole-exome or whole-genome sequencing and target gene sequencing, has allowed the molecular characterization of somatic mutation spectrums in hematologic diseases. Mutations in Additional sex combs-like 1 (ASXL1), a chromatin regulator, are identified in clonal hematopoiesis of indeterminate potential (CHIP), indicating ASXL1 mutations as early events in leukemogenesis. Not surprisingly, they occur at high frequency in myeloid malignancies...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36183966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221005212152&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1320,
-          "title": "Role of ASXL1 in Hematopoiesis and Myeloid Diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221004212702&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2453,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36183966",
-          "author": "Xin Gao",
-          "description": "Next-generation sequencing technology (NGS), including whole-exome or whole-genome sequencing and target gene sequencing, has allowed the molecular characterization of somatic mutation spectrums in hematologic diseases. Mutations in Additional sex combs-like 1 (ASXL1), a chromatin regulator, are identified in clonal hematopoiesis of indeterminate potential (CHIP), indicating ASXL1 mutations as early events in leukemogenesis. Not surprisingly, they occur at high frequency in myeloid malignancies...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36183966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221004212702&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1512,
-          "title": "Role of ASXL1 in Hematopoiesis and Myeloid Diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184726",
-          "author": "Marta Del Pozo-Valero",
-          "description": "Clonal hematopoiesis, especially that of indeterminate potential (CHIP), has been associated with age-related diseases, such as those contributing to a more severe COVID-19. Four studies have attempted to associate CHIP with COVID-19 severity without conclusive findings. In the present work, we explore the association between CHIP and COVID-19 mortality. Genomic DNA extracted from peripheral blood of COVID-19 patients (n = 241 deceased, n = 239 survivors) was sequenced with the Myeloid...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221003213836&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2422,
-          "title": "Age-dependent association of clonal hematopoiesis with COVID-19 mortality in patients over 60 years",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36183966",
-          "author": "Xin Gao",
-          "description": "Next-generation sequencing technology (NGS), including whole-exome or whole-genome sequencing and target gene sequencing, has allowed the molecular characterization of somatic mutation spectrums in hematologic diseases. Mutations in Additional sex combs-like 1 (ASXL1), a chromatin regulator, are identified in clonal hematopoiesis of indeterminate potential (CHIP), indicating ASXL1 mutations as early events in leukemogenesis. Not surprisingly, they occur at high frequency in myeloid malignancies...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36183966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221003213836&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1512,
-          "title": "Role of ASXL1 in Hematopoiesis and Myeloid Diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&utm_campaign=pubmed-2&ff=20221129200557&fc=20220608010801&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&v=2.17.8",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&ff=20221130201253&fc=20220608010801&utm_campaign=pubmed-2&v=2.17.8",
       "articles": [
+        {
+          "id": "pubmed:36449664",
+          "author": "N Ari Wijetunga",
+          "description": "CONCLUSION: In solid tumor LM patients undergoing pCSI, we found unique genomic profiles associated with pCSI through CSF ctDNA analyses. Patients with reduced genomic diversity within the CSF demonstrated improved OS after pCSI suggesting that CSF ctDNA analysis may have use in predicting pCSI response.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36449664/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-30T11:00:00.000Z",
+          "wordCount": 1311,
+          "title": "Dynamic Mutational Landscape of CSF Circulating Tumor DNA and Predictors of Survival after Proton Craniospinal Irradiation for Leptomeningeal Metastases",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36439408",
+          "author": "Miri Michaeli",
+          "description": "Follicular lymphoma (FL) is an indolent disease, characterized by a median life expectancy of 18-20 years and by intermittent periods of relapse and remission. FL frequently transforms into the more aggressive diffuse large B cell lymphoma (t-FL). In previous studies, the analysis of immunoglobulin heavy chain variable region (IgHV) genes in sequential biopsies from the same patient revealed two different patterns of tumor clonal evolution: direct evolution, through acquisition of additional...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36439408/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-28T11:00:00.000Z",
+          "wordCount": 2182,
+          "title": "Mutational patterns along different evolution paths of follicular lymphoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:36439408",
           "author": "Miri Michaeli",
@@ -8087,6 +7997,36 @@
           "publishedOn": "2022-11-28T11:00:00.000Z",
           "wordCount": 2128,
           "title": "Mutational patterns along different evolution paths of follicular lymphoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36433937",
+          "author": "Sophie Pénisson",
+          "description": "Recent evidence arising from DNA sequencing of healthy human tissues has clearly indicated that our organs accumulate a relevant number of somatic mutations due to normal endogenous mutational processes, in addition to those caused by environmental factors. A deeper understanding of the evolution of this endogenous mutational load is critical for understanding what causes cancer. Here we present a mathematical model of tumor evolution that is able to predict the expected number of endogenous...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36433937/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-26T11:00:00.000Z",
+          "wordCount": 1624,
+          "title": "Evaluating cancer etiology and risk with a mathematical model of tumor evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36430731",
+          "author": "Davide Bagnara",
+          "description": "The engagement of the B cell receptor (BcR) on the surface of leukemic cells represents a key event in chronic lymphocytic leukemia (CLL) since it can lead to the maintenance and expansion of the neoplastic clone. This notion was initially suggested by observations of the CLL BcR repertoire and of correlations existing between certain BcR features and the clinical outcomes of single patients. Based on these observations, tyrosine kinase inhibitors (TKIs), which block BcR signaling, have been...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36430731/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-26T11:00:00.000Z",
+          "wordCount": 1465,
+          "title": "Old and New Facts and Speculations on the Role of the B Cell Receptor in the Origin of Chronic Lymphocytic Leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36428782",
+          "author": "Siba El Hussein",
+          "description": "Until recently, conventional prognostication of myelodysplastic neoplasms (MDS) was performed using the revised International Prognostic Scoring System (IPSS-R), with additional adverse prognoses conferred by select mutations. Nonetheless, the clonal diversity and dynamics of coexisting mutations have been shown to alter the prognosis and treatment response in patients with MDS. Often in the process of clonal evolution, various initial hits are preferentially followed by a specific spectrum of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36428782/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-26T11:00:00.000Z",
+          "wordCount": 1160,
+          "title": "The Impact of Clonal Hierarchy and Heterogeneity on Phenotypic Manifestations of Myelodysplastic Neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8177,6 +8117,36 @@
           "publishedOn": "2022-11-26T11:00:00.000Z",
           "wordCount": 1101,
           "title": "The Impact of Clonal Hierarchy and Heterogeneity on Phenotypic Manifestations of Myelodysplastic Neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36424557",
+          "author": "Yong Cao",
+          "description": "CONCLUSION: Tumor heterogeneity is significant in primary tumor cells and disseminated tumor cells. OSCC cells probably disseminate to lymph nodes in the early stage of oral carcinogenesis. OSCC is characterized by polyclonal dissemination, and the evolutionary trajectory of DTCs is potentially dominated by the tumor microenvironment.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36424557/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-24T11:00:00.000Z",
+          "wordCount": 2503,
+          "title": "Temporal and spatial characteristics of tumor evolution in a mouse model of oral squamous cell carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36424487",
+          "author": "Hyobin Jeong",
+          "description": "Somatic structural variants (SVs) are widespread in cancer, but their impact on disease evolution is understudied due to a lack of methods to directly characterize their functional consequences. We present a computational method, scNOVA, which uses Strand-seq to perform haplotype-aware integration of SV discovery and molecular phenotyping in single cells by using nucleosome occupancy to infer gene expression as a readout. Application to leukemias and cell lines identifies local effects of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36424487/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-24T11:00:00.000Z",
+          "wordCount": 1966,
+          "title": "Functional analysis of structural variants in single cells using Strand-seq",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36423362",
+          "author": "C Pixberg",
+          "description": "CONCLUSIONS: While most precision oncology initiatives focus on metastatic disease, the presented concept offers the opportunity to empower novel therapy options for patients with high-risk early breast cancer in the post-neoadjuvant setting within a biomarker-driven trial and provides the basis to test the value of precision oncology in a curative setting with the overarching goal to increase cure rates.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36423362/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-24T11:00:00.000Z",
+          "wordCount": 3080,
+          "title": "COGNITION: a prospective precision oncology trial for patients with early breast cancer at high risk following neoadjuvant chemotherapy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8333,6 +8303,26 @@
           "id": "pubmed:36414803",
           "author": "Falko Fend",
           "description": "Plasma cell neoplasms including multiple myeloma (MM) and related terminally differentiated B-cell neoplasms are characterized by secretion of monoclonal immunoglobulin and stepwise development from a preneoplastic clonal B and/or plasma cell proliferation called monoclonal gammopathy of undetermined significance (MGUS). Diagnosis of these disorders requires integration of clinical, laboratory, and morphological features. While their classification mostly remains unchanged compared to the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36414803/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-22T11:00:00.000Z",
+          "wordCount": 1634,
+          "title": "Plasma cell neoplasms and related entities-evolution in diagnosis and classification",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36412315",
+          "author": "Rupa C Dalvi",
+          "description": "Acute promyelocytic leukemia (APL) is a type of acute myeloid leukemia (AML) characterized by the presence of t(15;17)(q22;q21) translocation leading to fusion between PML and RARa gene. Treatment combining all-trans retinoic acid (ATRA) and arsenic trioxide (ATO) has dramatically improved the prognosis of APL. We report a rare finding of primary clone of t(15;17) followed by a sequential clonal evolution of additional derivative chromosome 6 formation by a two hit mechanism. Our case showed a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36412315/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-22T11:00:00.000Z",
+          "wordCount": 1276,
+          "title": "Derivative 6 as an additional chromosomal abnormality along with t(15;17): A case report",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36414803",
+          "author": "Falko Fend",
+          "description": "Plasma cell neoplasms including multiple myeloma (MM) and related terminally differentiated B-cell neoplasms are characterized by secretion of monoclonal immunoglobulin and stepwise development from a preneoplastic clonal B and/or plasma cell proliferation called monoclonal gammopathy of undetermined significance (MGUS). Diagnosis of these disorders requires integration of clinical, laboratory, and morphological features. While their classification mostly remains unchanged compared to the...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36414803/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221129200557&v=2.17.8",
           "publishedOn": "2022-11-22T11:00:00.000Z",
           "wordCount": 1634,
@@ -8473,6 +8463,16 @@
           "id": "pubmed:36405946",
           "author": "Dana Narváez",
           "description": "CONCLUSION: Undoubtedly, more information regarding the cost effectiveness of NGS is needed to develop adequate reimbursement policies for this technology. It should be highlighted that the generalisation of MTBs and the implementation of molecular screening programmes are greatly needed in our region to gain more knowledge of somatic mutations implicated in the Hispanic and Latin-American population with BC diagnosis. Recently presented results of randomised studies may support the evaluation...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36405946/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-21T11:00:00.000Z",
+          "wordCount": 1681,
+          "title": "Precision medicine in the real-world setting. Clinical activity of talazoparib in a woman with hormone receptor-positive HER2-negative metastatic breast cancer with pathogenic mutation in somatic BRCA2",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36405946",
+          "author": "Dana Narváez",
+          "description": "CONCLUSION: Undoubtedly, more information regarding the cost effectiveness of NGS is needed to develop adequate reimbursement policies for this technology. It should be highlighted that the generalisation of MTBs and the implementation of molecular screening programmes are greatly needed in our region to gain more knowledge of somatic mutations implicated in the Hispanic and Latin-American population with BC diagnosis. Recently presented results of randomised studies may support the evaluation...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36405946/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221129200557&v=2.17.8",
           "publishedOn": "2022-11-21T11:00:00.000Z",
           "wordCount": 1681,
@@ -8557,6 +8557,26 @@
           "publishedOn": "2022-11-21T11:00:00.000Z",
           "wordCount": 1624,
           "title": "Precision medicine in the real-world setting. Clinical activity of talazoparib in a woman with hormone receptor-positive HER2-negative metastatic breast cancer with pathogenic mutation in somatic BRCA2",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36379206",
+          "author": "Bogang Wu",
+          "description": "A recent Nature study delineates a stepwise genomic evolution during pancreatic cancer development, employing an engineered mutant Kras and heterozygous Trp53 mouse model that identifies cells undergoing Trp53 loss of heterozygosity (LOH). Genetic progression post-Trp53 LOH involves clonal deletions, then genome doubling and subsequent accumulation of subclonal gains and amplifications.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36379206/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-15T11:00:00.000Z",
+          "wordCount": 1202,
+          "title": "Loss of p53 and genetic evolution in pancreatic cancer: Ordered chaos after the guardian is gone",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36376909",
+          "author": "Tom L Kaufmann",
+          "description": "Aneuploidy, chromosomal instability, somatic copy-number alterations, and whole-genome doubling (WGD) play key roles in cancer evolution and provide information for the complex task of phylogenetic inference. We present MEDICC2, a method for inferring evolutionary trees and WGD using haplotype-specific somatic copy-number alterations from single-cell or bulk data. MEDICC2 eschews simplifications such as the infinite sites assumption, allowing multiple mutations and parallel evolution, and does...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36376909/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-15T11:00:00.000Z",
+          "wordCount": 3336,
+          "title": "MEDICC2: whole-genome doubling aware copy-number phylogenies for cancer evolution",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8827,6 +8847,26 @@
           "publishedOn": "2022-11-15T11:00:00.000Z",
           "wordCount": 1806,
           "title": "MEDICC2: whole-genome doubling aware copy-number phylogenies for cancer evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36373660",
+          "author": "Kilannin Krysiak",
+          "description": "CIViC (Clinical Interpretation of Variants in Cancer; civicdb.org) is a crowd-sourced, public domain knowledgebase composed of literature-derived evidence characterizing the clinical utility of cancer variants. As clinical sequencing becomes more prevalent in cancer management, the need for cancer variant interpretation has grown beyond the capability of any single institution. CIViC contains peer-reviewed, published literature curated and expertly-moderated into structured data units (Evidence...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36373660/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-14T11:00:00.000Z",
+          "wordCount": 2765,
+          "title": "CIViCdb 2022: evolution of an open-access cancer variant interpretation knowledgebase",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36372873",
+          "author": "Meichen Li",
+          "description": "CONCLUSIONS: CSF ctDNA exhibited unique genetic profiles of brain metastases, and dynamic changes in CSF ctDNA could better predict intracranial tumor responses and track clonal evolution during treatment in NSCLC patients with brain metastases.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36372873/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221130201253&v=2.17.8",
+          "publishedOn": "2022-11-14T11:00:00.000Z",
+          "wordCount": 2782,
+          "title": "Dynamic monitoring of cerebrospinal fluid circulating tumor DNA to identify unique genetic profiles of brain metastatic tumors and better predict intracranial tumor responses in non-small cell lung cancer patients with brain metastases: a prospective cohort study (GASTO 1028)",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -15547,186 +15587,6 @@
           "publishedOn": "2022-10-03T10:00:00.000Z",
           "wordCount": 2457,
           "title": "Mutational signature and clonal relatedness of recurrent urothelial carcinomas with aristolochic acid",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221020212123&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221019212642&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221018213749&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221017214255&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221016214941&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221015214357&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221014214034&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221013214955&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221012213728&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221011214956&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221010212330&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221009214149&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221008212536&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221007211807&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221006214146&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2930,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221005212152&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 2864,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221004212702&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1957,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36184613",
-          "author": "Ludi Yang",
-          "description": "Extrachromosomal circular DNA (eccDNA), ranging in size from tens to millions of base pairs, is independent of conventional chromosomes. Recently, eccDNAs have been considered an unanticipated major source of somatic rearrangements, contributing to genomic remodeling through chimeric circularization and reintegration of circular DNA into the linear genome. In addition, the origin of eccDNA is considered to be associated with essential chromatin-related events, including the formation of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36184613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221003213836&v=2.17.8",
-          "publishedOn": "2022-10-02T10:00:00.000Z",
-          "wordCount": 1835,
-          "title": "Extrachromosomal circular DNA: biogenesis, structure, functions and diseases",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
