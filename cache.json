@@ -210,8 +210,38 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&fc=20220608003622&ff=20221207195957&v=2.17.9&utm_source=axios&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&utm_medium=rss&ff=20221208200156&v=2.17.9&utm_source=axios&fc=20220608003622",
       "articles": [
+        {
+          "id": "pubmed:36480766",
+          "author": "Ruiyi Tian",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-08T11:00:00.000Z",
+          "wordCount": 1863,
+          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36478848",
+          "author": "Paola Manzo",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-08T11:00:00.000Z",
+          "wordCount": 1409,
+          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36458433",
+          "author": "Katia E Niño",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36458433/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-02T11:00:00.000Z",
+          "wordCount": 1201,
+          "title": "TNF Receptors Choose HSC Fate in Supporting Dnmt3a-Mutant Clonal Hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:36458433",
           "author": "Katia E Niño",
@@ -270,6 +300,26 @@
           "publishedOn": "2022-12-02T11:00:00.000Z",
           "wordCount": 1030,
           "title": "TNF Receptors Choose HSC Fate in Supporting Dnmt3a-Mutant Clonal Hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36454121",
+          "author": "Sarah C Reed",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36454121/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-01T11:00:00.000Z",
+          "wordCount": 1132,
+          "title": "CHIP Happens: Clonal hematopoiesis of indeterminate potential and its relationship to solid tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36453641",
+          "author": "Afaf Osman",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36453641/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-01T11:00:00.000Z",
+          "wordCount": 1425,
+          "title": "Paired bone marrow and peripheral blood samples demonstrate lack of widespread dissemination of some CH clones",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -416,6 +466,16 @@
           "id": "pubmed:36450282",
           "author": "Herra Ahmad",
           "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36450282/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-11-30T11:00:00.000Z",
+          "wordCount": 1206,
+          "title": "Clonal Hematopoiesis and Its Impact on Human Health",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36450282",
+          "author": "Herra Ahmad",
+          "description": "No abstract",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36450282/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221207195957&v=2.17.9",
           "publishedOn": "2022-11-30T11:00:00.000Z",
           "wordCount": 1206,
@@ -480,6 +540,26 @@
           "publishedOn": "2022-11-30T11:00:00.000Z",
           "wordCount": 1206,
           "title": "Clonal Hematopoiesis and Its Impact on Human Health",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36441964",
+          "author": "Christopher Maximilian Arends",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36441964/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-11-28T11:00:00.000Z",
+          "wordCount": 1404,
+          "title": "Associations of clonal haematopoiesis with recurrent vascular events and death in patients with incident ischemic stroke",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36439451",
+          "author": "Edmond M Kwan",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36439451/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-11-28T11:00:00.000Z",
+          "wordCount": 1861,
+          "title": "Towards clinical implementation of circulating tumor DNA in metastatic prostate cancer: Opportunities for integration and pitfalls to interpretation",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -686,6 +766,16 @@
           "id": "pubmed:36437309",
           "author": "Francesco Vieceli Dalla Sega",
           "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36437309/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-11-27T11:00:00.000Z",
+          "wordCount": 2713,
+          "title": "Transcriptomic profiling of calcified aortic valves in clonal hematopoiesis of indeterminate potential carriers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36437309",
+          "author": "Francesco Vieceli Dalla Sega",
+          "description": "No abstract",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36437309/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221207195957&v=2.17.9",
           "publishedOn": "2022-11-27T11:00:00.000Z",
           "wordCount": 2713,
@@ -780,6 +870,26 @@
           "publishedOn": "2022-11-27T11:00:00.000Z",
           "wordCount": 1890,
           "title": "Transcriptomic profiling of calcified aortic valves in clonal hematopoiesis of indeterminate potential carriers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36428749",
+          "author": "Olga Kouroukli",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36428749/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-11-26T11:00:00.000Z",
+          "wordCount": 1320,
+          "title": "Bone Marrow Immune Microenvironment in Myelodysplastic Syndromes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36428627",
+          "author": "Pamela Acha",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36428627/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-11-26T11:00:00.000Z",
+          "wordCount": 1233,
+          "title": "Myelodysplastic Syndromes with Isolated del(5q): Value of Molecular Alterations for Diagnostic and Prognostic Assessment",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -1026,6 +1136,16 @@
           "id": "pubmed:36426217",
           "author": "Masaki Imanishi",
           "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36426217/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-11-25T11:00:00.000Z",
+          "wordCount": 3185,
+          "title": "Radiation therapy induces immunosenescence mediated by p90RSK",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36426217",
+          "author": "Masaki Imanishi",
+          "description": "No abstract",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36426217/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221207195957&v=2.17.9",
           "publishedOn": "2022-11-25T11:00:00.000Z",
           "wordCount": 3185,
@@ -1150,6 +1270,16 @@
           "publishedOn": "2022-11-25T11:00:00.000Z",
           "wordCount": 3113,
           "title": "Radiation therapy induces immunosenescence mediated by p90RSK",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36414227",
+          "author": "Yasminka A Jakubek",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36414227/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-11-22T11:00:00.000Z",
+          "wordCount": 1335,
+          "title": "Risk factors for clonal hematopoiesis of indeterminate potential and mosaic chromosomal alterations",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -1300,6 +1430,16 @@
           "publishedOn": "2022-11-22T11:00:00.000Z",
           "wordCount": 1353,
           "title": "Risk Factors for Clonal Hematopoiesis of Indeterminate Potential and Mosaic Chromosomal Alterations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36400843",
+          "author": "Asahi Nakamuta",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36400843/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-11-18T11:00:00.000Z",
+          "wordCount": 2658,
+          "title": "Stem cell homeostasis regulated by hierarchy and neutral competition",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -1490,6 +1630,16 @@
           "publishedOn": "2022-11-18T11:00:00.000Z",
           "wordCount": 1438,
           "title": "Stem cell homeostasis regulated by hierarchy and neutral competition",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36387170",
+          "author": "Alexander J Ambinder",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36387170/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-11-17T11:00:00.000Z",
+          "wordCount": 1538,
+          "title": "Navigating the contested borders between myelodysplastic syndrome and acute myeloid leukemia",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -7921,324 +8071,104 @@
           "wordCount": 1272,
           "title": "Clonal hematopoiesis in patients with stem cell mobilization failure: a nested case-control study",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221026211957&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1747,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221025212118&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1748,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221024214453&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1748,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221023215029&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1748,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221023215029&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221022213551&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1748,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221022213551&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221021213516&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1748,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221021213516&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221020212123&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1748,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221020212123&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221019212642&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1748,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221019212642&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221018213749&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1748,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221018213749&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221017214255&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1748,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221017214255&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221016214939&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1748,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221016214939&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221015214355&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1748,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221015214355&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221014214034&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1748,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221014214034&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221013214955&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1745,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221013214955&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221012213728&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1745,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221012213728&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221011214956&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1674,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221011214956&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1505,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221010212330&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1490,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221010212330&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1281,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20221207195957&utm_medium=rss&fc=20220608010801&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.17.9&utm_campaign=pubmed-2",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.17.9&utm_campaign=pubmed-2&utm_medium=rss&fc=20220608010801&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20221208200156&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:36480186",
+          "author": "Weisi Liu",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-08T11:00:00.000Z",
+          "wordCount": 1304,
+          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36477676",
+          "author": "Yotaro Ochi",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-08T11:00:00.000Z",
+          "wordCount": 1217,
+          "title": "Genetic landscape of chronic myeloid leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36477267",
+          "author": "Ankit K Dutta",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-08T11:00:00.000Z",
+          "wordCount": 1427,
+          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36476508",
+          "author": "Minsu Kang",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-08T11:00:00.000Z",
+          "wordCount": 1545,
+          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36475926",
+          "author": "Jiří C Moravec",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-08T11:00:00.000Z",
+          "wordCount": 1230,
+          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36470958",
+          "author": "Yusuke Matsuno",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36470958/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-05T11:00:00.000Z",
+          "wordCount": 1310,
+          "title": "Echoed induction of nucleotide variants and chromosomal structural variants in cancer cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36470901",
+          "author": "Smruthy Sivakumar",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36470901/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-05T11:00:00.000Z",
+          "wordCount": 1538,
+          "title": "Tissue and liquid biopsy profiling reveal convergent tumor evolution and therapy evasion in breast cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36469010",
+          "author": "Livius Penter",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36469010/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-05T11:00:00.000Z",
+          "wordCount": 1133,
+          "title": "Mitochondrial DNA mutations as natural barcodes for lineage tracing of murine tumor models",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36465407",
+          "author": "Bernhard Doleschal",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36465407/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-05T11:00:00.000Z",
+          "wordCount": 1544,
+          "title": "Current concepts of anti-EGFR targeting in metastatic colorectal cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:36470958",
           "author": "Yusuke Matsuno",
@@ -8327,6 +8257,36 @@
           "publishedOn": "2022-12-05T11:00:00.000Z",
           "wordCount": 1478,
           "title": "Current concepts of anti-EGFR targeting in metastatic colorectal cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36459515",
+          "author": "Yuan Gao",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36459515/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-02T11:00:00.000Z",
+          "wordCount": 1395,
+          "title": "A phylogenetic approach to inferring the order in which mutations arise during cancer progression",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36458435",
+          "author": "Hedwig E Deubzer",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36458435/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-02T11:00:00.000Z",
+          "wordCount": 1378,
+          "title": "A Deep Dive into the Circulating ctDNA Cosmos to Vanquish Neuroblastoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36458433",
+          "author": "Katia E Niño",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36458433/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-12-02T11:00:00.000Z",
+          "wordCount": 1201,
+          "title": "TNF Receptors Choose HSC Fate in Supporting Dnmt3a-Mutant Clonal Hematopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8483,6 +8443,16 @@
           "id": "pubmed:36449664",
           "author": "N Ari Wijetunga",
           "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36449664/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-11-30T11:00:00.000Z",
+          "wordCount": 1348,
+          "title": "Dynamic Mutational Landscape of CSF Circulating Tumor DNA and Predictors of Survival after Proton Craniospinal Irradiation for Leptomeningeal Metastases",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36449664",
+          "author": "N Ari Wijetunga",
+          "description": "No abstract",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36449664/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221207195957&v=2.17.9",
           "publishedOn": "2022-11-30T11:00:00.000Z",
           "wordCount": 1348,
@@ -8557,6 +8527,16 @@
           "publishedOn": "2022-11-30T11:00:00.000Z",
           "wordCount": 1311,
           "title": "Dynamic Mutational Landscape of CSF Circulating Tumor DNA and Predictors of Survival after Proton Craniospinal Irradiation for Leptomeningeal Metastases",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36439408",
+          "author": "Miri Michaeli",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36439408/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-11-28T11:00:00.000Z",
+          "wordCount": 2182,
+          "title": "Mutational patterns along different evolution paths of follicular lymphoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8657,6 +8637,16 @@
           "publishedOn": "2022-11-28T11:00:00.000Z",
           "wordCount": 2128,
           "title": "Mutational patterns along different evolution paths of follicular lymphoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36433937",
+          "author": "Sophie Pénisson",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36433937/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
+          "publishedOn": "2022-11-26T11:00:00.000Z",
+          "wordCount": 1624,
+          "title": "Evaluating cancer etiology and risk with a mathematical model of tumor evolution",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -15128,586 +15118,6 @@
           "wordCount": 1386,
           "title": "Whole-genome analysis identifies novel drivers and high-risk double-hit events in relapsed/refractory myeloma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221030212817&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221029212729&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221029212729&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1809,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221028211238&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214849",
-          "author": "Michael A Rieger",
-          "description": "The occurrence of clonal hematopoiesis, caused by acquired somatic mutations of leukemia-associated genes in blood stem cells is very common in the population and increases with age. Besides an increased risk of developing myeloid neoplasms, an unexpected causal relationship between clonal hematopoiesis and cardiovascular diseases was recently discovered. Clonal hematopoiesis presents as a new independent and strong risk factor for cardiovascular diseases, such as atherosclerosis, coronary heart...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221028211238&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1809,
-          "title": "Influence of clonal hematopoiesis on non-hematological diseases and aging processes",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221027212535&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221027212535&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221027212535&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221026211957&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221026211957&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221026211957&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221025212118&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221025212118&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221025212118&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221024214453&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221024214453&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221024214453&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221023215029&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221023215029&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221023215029&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221022213551&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221022213551&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221022213551&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221021213516&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221021213516&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221021213516&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221020212123&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221020212123&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221020212123&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221019212642&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221019212642&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221019212642&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221018213749&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221018213749&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221018213749&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221017214255&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221017214255&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221017214255&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221016214941&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221016214941&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221016214941&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221015214357&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221015214357&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221015214357&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221014214034&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221014214034&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221014214034&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221013214955&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221013214955&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221013214955&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221012213728&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1874,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221012213728&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221012213728&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221011214956&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1872,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221011214956&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36210552",
-          "author": "José J Fuster",
-          "description": "Cancer genomes have long been known to carry a high number of somatic mutations distributed across many genes. However, recent sequencing studies have unveiled that non-cancerous cells also carry a considerable number of somatic mutations, which are acquired continuously through the lifespan. Accordingly, the pathophysiological relevance of somatic mutagenesis beyond cancer has become a topic of intensive research. Human genetic studies and experiments in mice have shown that some somatic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36210552/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221011214956&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1505,
-          "title": "Clonal hematopoiesis and cardiovascular disease in cancer patients and survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36215125",
-          "author": "Junko Tsuji",
-          "description": "CONCLUSIONS: The combination of palbocilib and bazedoxifene has clinical efficacy and an acceptable safety profile in a heavily pre-treated patient population with advanced HR+/HER2- breast cancer. These results merit continued investigation of bazedoxifene in breast cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36215125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221010212330&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1526,
-          "title": "Clinical Efficacy and Whole Exome Sequencing of Liquid Biopsies in a Phase IB/II study of Bazedoxifene and Palbociclib in Hormone Receptor-Positive Breast Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36214625",
-          "author": "Esha Madan",
-          "description": "The majority of human cancers evolve over time through the stepwise accumulation of somatic mutations followed by clonal selection akin to Darwinian evolution. However, the in-depth mechanisms that govern clonal dynamics and selection remain elusive, particularly during the earliest stages of tissue transformation. Cell competition, often referred to as 'survival of the fittest' at the cellular level, results in the elimination of less fit cells by their more fit neighbors supporting optimal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36214625/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221010212330&v=2.17.8",
-          "publishedOn": "2022-10-10T10:00:00.000Z",
-          "wordCount": 1249,
-          "title": "Cell competition in carcinogenesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
     },
@@ -15715,28 +15125,7 @@
       "title": "Tools of the Trade\n  | Nature Reviews Cancer",
       "feedUrl": "https://rss.app/feeds/MObijZlQoPFbWbsL.xml",
       "siteUrl": "https://www.nature.com/nrc/articles?type=tools-of-the-trade",
-      "articles": [
-        {
-          "id": "a7dd854ecb00659bf268ce51147a1486",
-          "author": "Nature",
-          "description": "Browse the archive of articles on Nature Reviews Cancer",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c71d7a19e191b5e221032fdefd0e1c81b97926ec4ee1ab6032d919e3dfee63522835712cc36c82cb9970f3f56da6f9070d29d1478c6e821",
-          "publishedOn": "2022-10-10T00:00:00.000Z",
-          "wordCount": 412,
-          "title": "Tools of the Trade",
-          "imageUrl": null
-        },
-        {
-          "id": "ff61af20bfc0e108a272ed7c86a30985",
-          "author": "Nature",
-          "description": "Nature Reviews Cancer - In this Tools of the Trade article, Venkataramani describes the development of in vivo imaging workflows that allow the acquisition of imaging data with improved...",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c04434f0c71d7a19e191b5e221032fde0d0f68e1989837488f14bf4096fd0c368f1a0777ddf110d957dd3",
-          "publishedOn": "2022-10-10T00:00:00.000Z",
-          "wordCount": 412,
-          "title": "Shining a light on tumour behaviour",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
