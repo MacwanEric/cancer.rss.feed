@@ -210,8 +210,48 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&utm_campaign=pubmed-2&ff=20230204200547&utm_medium=rss&v=2.17.9.post6+86293ac",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20230205195945&v=2.17.9.post6+86293ac&utm_campaign=pubmed-2&utm_medium=rss&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:36739343",
+          "author": "Sanna Gudmundsson",
+          "description": "Reference population databases like the Genome Aggregation Database (gnomAD) have improved our ability to interpret the human genome. Variant frequencies and frequency-derived tools (such as depletion scores) have become fundamental to variant interpretation and the assessment of variant-gene-disease relationships. Clonal hematopoiesis (CH) obstructs variant interpretation as somatic variants that provide proliferative advantage will affect variant frequencies, depletion scores, and downstream...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36739343/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-02-04T11:00:00.000Z",
+          "wordCount": 1404,
+          "title": "Interpreting variants in genes affected by clonal hematopoiesis in population data",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36736573",
+          "author": "Mackenzie Bloom",
+          "description": "Lineage tracing using fluorescent proteins, genetic barcodes, and various other strategies have provided critical insights into the dynamics of both fetal and adult hematopoiesis in model organisms. However, these technologies cannot be readily utilized to study hematopoiesis in humans. Therefore, there is a critical need to develop strategies to assess cellular dynamics within human hematopoietic tissues in vivo. Recently, researchers have utilized naturally acquired somatic mutations, coupled...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36736573/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-02-03T11:00:00.000Z",
+          "wordCount": 1319,
+          "title": "Exploiting somatic mutations to decipher human blood production: a natural lineage-tracing strategy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36736290",
+          "author": "Marie Sebert",
+          "description": "Fanconi anemia (FA) patients experience chromosome instability, yielding hematopoietic stem/progenitor cell (HSPC) exhaustion and predisposition to poor-prognosis myeloid leukemia. Based on a longitudinal cohort of 335 patients, we performed clinical, genomic, and functional studies in 62 patients with clonal evolution. We found a unique pattern of somatic structural variants and mutations that shares features of BRCA-related cancers, the FA-hallmark being unbalanced, microhomology-mediated...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36736290/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-02-03T11:00:00.000Z",
+          "wordCount": 3225,
+          "title": "Clonal hematopoiesis driven by chromosome 1q/MDM4 trisomy defines a canonical route toward leukemia in Fanconi anemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36735715",
+          "author": "Yating Lin",
+          "description": "CONCLUSION: The combination of plasma cell disease and myeloid malignancy may increase mortality. This is uncommon and may be easily misdiagnosed if not detected early. When a myeloid neoplasm tests positive for MDS and serum M protein, clinicians should evaluate for other plasma cell disease.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36735715/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-02-03T11:00:00.000Z",
+          "wordCount": 1126,
+          "title": "Rare Pattern of Myelodysplastic Syndrome (MDS) with Serum Monoclonal Immunoglobulin: Case Report",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:36736573",
           "author": "Mackenzie Bloom",
@@ -250,6 +290,46 @@
           "publishedOn": "2023-02-03T11:00:00.000Z",
           "wordCount": 1102,
           "title": "Rare Pattern of Myelodysplastic Syndrome (MDS) with Serum Monoclonal Immunoglobulin: Case Report",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36730951",
+          "author": "Maiko Hirai",
+          "description": "Recently, germline mutations in SAMD9 and SAMD9L were increasingly found in children with monosomy 7. We report the outcomes in 2 infants with the SAMD9/SAMD9L variant, who presented with anemia and thrombocytopenia (patient 1), and neutropenia and nonsymptomatic white-matter-encephalopathy (patient 2). Both patients received cord blood transplantation and experienced critical post-cord blood transplantation adverse events; patients 1 and 2 developed fulminant engraftment syndrome and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36730951/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-02-02T11:00:00.000Z",
+          "wordCount": 1351,
+          "title": "Cord Blood Transplantation in 2 Infants Presenting Monosomy 7 Clonal Hematopoiesis; SAMD9/SAMD9L Germline Mutation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36729457",
+          "author": "Bill H Diplas",
+          "description": "CONCLUSIONS AND RELEVANCE: These findings suggest CH and CH-PD are not directly associated with the treatment course of patients with metastatic gastrointestinal tract cancer receiving cancer-directed therapy.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36729457/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-02-02T11:00:00.000Z",
+          "wordCount": 1779,
+          "title": "Clinical Importance of Clonal Hematopoiesis in Metastatic Gastrointestinal Tract Cancers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36727396",
+          "author": "Kyoung Ha Kim",
+          "description": "Donor clonal hematopoiesis may be transferred to the recipient through allogeneic hematopoietic stem cell transplantation (HCT), but the potential for adverse long-term impact on transplant outcomes remains unknown. A total of 744 samples from 372 recipients who received HCT and the corresponding donors were included. Bar-coded error-corrected sequencing using a modified molecular inversion probe capture protocol was performed, which targeted 34 genes covering mutations involved in clonal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36727396/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-02-02T11:00:00.000Z",
+          "wordCount": 1774,
+          "title": "Clonal hematopoiesis in the donor does not adversely affect long-term outcomes following allogeneic hematopoietic stem cell transplantation: result from 13-year followup",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36726663",
+          "author": "Niharika Jain",
+          "description": "Myelodysplastic syndromes (MDSs) are clonal hematopoietic stem cell disorders characterized by cytopenias, dysplasia in one or more of the major myeloid cell lines, ineffective hematopoiesis, with cellular marrow, and risk for leukemic transformation. We present a case of a 66-year-old male with a history of multiple packed red blood cell (PRBC) transfusions. Routine investigations, bone marrow aspiration, and biopsy were done. The clinical and morphological findings raised suspicion of MDS with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36726663/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-02-02T11:00:00.000Z",
+          "wordCount": 1551,
+          "title": "When Clinico-Morphological and Molecular Studies Tell Different Stories: A Case of Myelodysplastic Syndrome",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -376,6 +456,16 @@
           "id": "pubmed:36719597",
           "author": "LiJin Joo",
           "description": "PURPOSE OF REVIEW: Clonal hematopoiesis (CH) is an age-dependent process detectable using advanced sequencing technologies and is associated with multiple adverse health outcomes including cardiovascular disease and cancer. The purpose of this review is to summarize known causes of CH mutations and to identify key areas and considerations for future research on CH.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36719597/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-31T11:00:00.000Z",
+          "wordCount": 1484,
+          "title": "Causes of Clonal Hematopoiesis: a Review",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36719597",
+          "author": "LiJin Joo",
+          "description": "PURPOSE OF REVIEW: Clonal hematopoiesis (CH) is an age-dependent process detectable using advanced sequencing technologies and is associated with multiple adverse health outcomes including cardiovascular disease and cancer. The purpose of this review is to summarize known causes of CH mutations and to identify key areas and considerations for future research on CH.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36719597/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230204200547&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-01-31T11:00:00.000Z",
           "wordCount": 1484,
@@ -420,6 +510,16 @@
           "publishedOn": "2023-01-31T11:00:00.000Z",
           "wordCount": 1449,
           "title": "Causes of Clonal Hematopoiesis: a Review",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36706615",
+          "author": "Aubrey K Hubbard",
+          "description": "Mosaic chromosomal alterations (mCAs) are the clonal expansion of large somatically acquired structural chromosomal changes present on the autosomes and sex chromosomes. Most studies of mCAs use existing genotype array intensity data from large populations to investigate potential risk factors and disease outcomes associated with mCAs. In this review, we perform a comprehensive examination of existing evidence for mCA disease and mortality associations and provide a framework for interpreting...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36706615/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-27T11:00:00.000Z",
+          "wordCount": 1170,
+          "title": "Clonal hematopoiesis due to mosaic chromosomal alterations: Impact on disease risk and mortality",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -500,6 +600,16 @@
           "publishedOn": "2023-01-27T11:00:00.000Z",
           "wordCount": 1138,
           "title": "Clonal hematopoiesis due to mosaic chromosomal alterations: Impact on disease risk and mortality",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36698617",
+          "author": "Priscilla Kamphuis",
+          "description": "Clonal hematopoiesis (CH) is defined by the presence of somatic mutations that may cause clonal expansion of hematopoietic cells. Here, we investigated the association between platelet count abnormalities, CH and consequences on overall survival and the development of hematological malignancies. Individuals with thrombocytopenia (n = 631) or thrombocytosis (n = 178) ≥60 years, and their age- and sex-matched controls, were selected within the population-based Lifelines cohort (n = 167,729)....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36698617/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-26T11:00:00.000Z",
+          "wordCount": 2444,
+          "title": "Abnormal Platelet Counts and Clonal Hematopoiesis in the General Population",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -606,6 +716,16 @@
           "id": "pubmed:36696829",
           "author": "Jacob Jahn",
           "description": "Therapy-related myeloid neoplasms (t-MN) account for approximately 10-15% of all myeloid neoplasms and are associated with poor prognosis. Genomic characterization of t-MN to date has been limited in comparison to the considerable sequencing efforts performed for de novo myeloid neoplasms. Until recently, targeted deep sequencing (TDS) or whole exome sequencing (WES) have been the primary technologies utilized and thus limited the ability to explore the landscape of structural variants and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36696829/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-25T11:00:00.000Z",
+          "wordCount": 1346,
+          "title": "Therapy-selected clonal hematopoiesis and its role in myeloid neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36696829",
+          "author": "Jacob Jahn",
+          "description": "Therapy-related myeloid neoplasms (t-MN) account for approximately 10-15% of all myeloid neoplasms and are associated with poor prognosis. Genomic characterization of t-MN to date has been limited in comparison to the considerable sequencing efforts performed for de novo myeloid neoplasms. Until recently, targeted deep sequencing (TDS) or whole exome sequencing (WES) have been the primary technologies utilized and thus limited the ability to explore the landscape of structural variants and...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36696829/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230204200547&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-01-25T11:00:00.000Z",
           "wordCount": 1346,
@@ -700,6 +820,16 @@
           "publishedOn": "2023-01-25T11:00:00.000Z",
           "wordCount": 1323,
           "title": "Therapy-selected clonal hematopoiesis and its role in myeloid neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36682988",
+          "author": "Virginia O Volpe",
+          "description": "MDS is a clonal stem cell neoplasm with a spectrum from lower risk disease to short term life threatening higher risk disease. The disease risk is dictated by clinical and molecular features. Majority of MDS patients including lower risk disease unfortunately succumb from disease related complications namely cytopenia. While cytopenias may be mild early upon diagnosis and can be surveilled, ultimately treatment is required. Anemia is the hall mark of disease and most common indication to treat...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36682988/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-22T11:00:00.000Z",
+          "wordCount": 1442,
+          "title": "State of the Art Updates and Next Questions: Treatment of Lower Risk Myelodysplastic Syndromes",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -830,6 +960,26 @@
           "publishedOn": "2023-01-22T11:00:00.000Z",
           "wordCount": 1189,
           "title": "State of the Art Updates and Next Questions: Treatment of Lower Risk Myelodysplastic Syndromes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36680616",
+          "author": "Silvia Mas-Peiro",
+          "description": "CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-21T11:00:00.000Z",
+          "wordCount": 1852,
+          "title": "Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36680511",
+          "author": "Ayalew Tefferi",
+          "description": "DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-21T11:00:00.000Z",
+          "wordCount": 1465,
+          "title": "Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -6441,594 +6591,44 @@
           "wordCount": 1074,
           "title": "Targeting inflammation in lower-risk MDS",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230107200413&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2178,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230105200111&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2178,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230104200141&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "Hematopoietic stem cell (HSC) maintenance in vitro is challenging because stem cell survival relies on cell-to-cell contacts and paracrine signals from bone marrow (BM) microenvironment. Indeed, HSCs easily differentiate in conventional culture systems, and in vitro study of stem cell biology, leukemogenesis, and evolutionary trajectories is limited. 3D-culture systems can mimic tissue architecture and microenvironment thus preserving HSC phenotype. In this study, we developed a calcium alginate...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230104200141&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230103195941&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "Hematopoietic stem cell (HSC) maintenance in vitro is challenging because stem cell survival relies on cell-to-cell contacts and paracrine signals from bone marrow (BM) microenvironment. Indeed, HSCs easily differentiate in conventional culture systems, and in vitro study of stem cell biology, leukemogenesis, and evolutionary trajectories is limited. 3D-culture systems can mimic tissue architecture and microenvironment thus preserving HSC phenotype. In this study, we developed a calcium alginate...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230103195941&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230102195815&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "Hematopoietic stem cell (HSC) maintenance in vitro is challenging because stem cell survival relies on cell-to-cell contacts and paracrine signals from bone marrow (BM) microenvironment. Indeed, HSCs easily differentiate in conventional culture systems, and in vitro study of stem cell biology, leukemogenesis, and evolutionary trajectories is limited. 3D-culture systems can mimic tissue architecture and microenvironment thus preserving HSC phenotype. In this study, we developed a calcium alginate...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230102195815&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230101195858&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "Hematopoietic stem cell (HSC) maintenance in vitro is challenging because stem cell survival relies on cell-to-cell contacts and paracrine signals from bone marrow (BM) microenvironment. Indeed, HSCs easily differentiate in conventional culture systems, and in vitro study of stem cell biology, leukemogenesis, and evolutionary trajectories is limited. 3D-culture systems can mimic tissue architecture and microenvironment thus preserving HSC phenotype. In this study, we developed a calcium alginate...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230101195858&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221231200754&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "Hematopoietic stem cell (HSC) maintenance in vitro is challenging because stem cell survival relies on cell-to-cell contacts and paracrine signals from bone marrow (BM) microenvironment. Indeed, HSCs easily differentiate in conventional culture systems, and in vitro study of stem cell biology, leukemogenesis, and evolutionary trajectories is limited. 3D-culture systems can mimic tissue architecture and microenvironment thus preserving HSC phenotype. In this study, we developed a calcium alginate...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221231200754&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221230195728&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "Hematopoietic stem cell (HSC) maintenance in vitro is challenging because stem cell survival relies on cell-to-cell contacts and paracrine signals from bone marrow (BM) microenvironment. Indeed, HSCs easily differentiate in conventional culture systems, and in vitro study of stem cell biology, leukemogenesis, and evolutionary trajectories is limited. 3D-culture systems can mimic tissue architecture and microenvironment thus preserving HSC phenotype. In this study, we developed a calcium alginate...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221230195728&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221229195927&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "Hematopoietic stem cell (HSC) maintenance in vitro is challenging because stem cell survival relies on cell-to-cell contacts and paracrine signals from bone marrow (BM) microenvironment. Indeed, HSCs easily differentiate in conventional culture systems, and in vitro study of stem cell biology, leukemogenesis, and evolutionary trajectories is limited. 3D-culture systems can mimic tissue architecture and microenvironment thus preserving HSC phenotype. In this study, we developed a calcium alginate...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221229195927&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221228195929&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "Hematopoietic stem cell (HSC) maintenance in vitro is challenging because stem cell survival relies on cell-to-cell contacts and paracrine signals from bone marrow (BM) microenvironment. Indeed, HSCs easily differentiate in conventional culture systems, and in vitro study of stem cell biology, leukemogenesis, and evolutionary trajectories is limited. 3D-culture systems can mimic tissue architecture and microenvironment thus preserving HSC phenotype. In this study, we developed a calcium alginate...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221228195929&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221227195809&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "Hematopoietic stem cell (HSC) maintenance in vitro is challenging because stem cell survival relies on cell-to-cell contacts and paracrine signals from bone marrow (BM) microenvironment. Indeed, HSCs easily differentiate in conventional culture systems, and in vitro study of stem cell biology, leukemogenesis, and evolutionary trajectories is limited. 3D-culture systems can mimic tissue architecture and microenvironment thus preserving HSC phenotype. In this study, we developed a calcium alginate...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221227195809&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221226195830&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "Hematopoietic stem cell (HSC) maintenance in vitro is challenging because stem cell survival relies on cell-to-cell contacts and paracrine signals from bone marrow (BM) microenvironment. Indeed, HSCs easily differentiate in conventional culture systems, and in vitro study of stem cell biology, leukemogenesis, and evolutionary trajectories is limited. 3D-culture systems can mimic tissue architecture and microenvironment thus preserving HSC phenotype. In this study, we developed a calcium alginate...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221226195830&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221225195852&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "Hematopoietic stem cell (HSC) maintenance in vitro is challenging because stem cell survival relies on cell-to-cell contacts and paracrine signals from bone marrow (BM) microenvironment. Indeed, HSCs easily differentiate in conventional culture systems, and in vitro study of stem cell biology, leukemogenesis, and evolutionary trajectories is limited. 3D-culture systems can mimic tissue architecture and microenvironment thus preserving HSC phenotype. In this study, we developed a calcium alginate...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221225195852&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221224200048&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "Hematopoietic stem cell (HSC) maintenance in vitro is challenging because stem cell survival relies on cell-to-cell contacts and paracrine signals from bone marrow (BM) microenvironment. Indeed, HSCs easily differentiate in conventional culture systems, and in vitro study of stem cell biology, leukemogenesis, and evolutionary trajectories is limited. 3D-culture systems can mimic tissue architecture and microenvironment thus preserving HSC phenotype. In this study, we developed a calcium alginate...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221224200048&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "CONCLUSION: Independent of known risk factors, CH is associated with increased risk of lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221223195335&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "Hematopoietic stem cell (HSC) maintenance in vitro is challenging because stem cell survival relies on cell-to-cell contacts and paracrine signals from bone marrow (BM) microenvironment. Indeed, HSCs easily differentiate in conventional culture systems, and in vitro study of stem cell biology, leukemogenesis, and evolutionary trajectories is limited. 3D-culture systems can mimic tissue architecture and microenvironment thus preserving HSC phenotype. In this study, we developed a calcium alginate...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221223195335&v=2.17.9.post6+86293ac",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221222195718&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221222195718&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221221195909&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221221195909&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221220195556&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221220195556&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221219195955&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221219195955&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221218195619&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221218195619&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221217195811&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221217195811&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221216195635&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221216195635&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221215195748&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221215195748&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221214200254&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221214200254&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221213200118&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221213200118&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221212200524&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221212200524&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221211200308&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1901,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221211200308&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2539,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221210200648&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1882,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221210200648&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2488,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221209195756&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1882,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221209195756&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2488,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480766",
-          "author": "Ruiyi Tian",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480766/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1863,
-          "title": "Clonal Hematopoiesis and Risk of Incident Lung Cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36478848",
-          "author": "Paola Manzo",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36478848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20221208200156&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1409,
-          "title": "c-Kit M541L variant is related to ineffective hemopoiesis predisposing to clonal evolution in 3D in vitro biomimetic co-culture model of bone marrow niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20230204200547&utm_source=axios&fc=20220608010801&utm_medium=rss&utm_campaign=pubmed-2&v=2.17.9.post6+86293ac",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&ff=20230205195945&v=2.17.9.post6+86293ac&utm_campaign=pubmed-2&utm_medium=rss",
       "articles": [
+        {
+          "id": "pubmed:36739348",
+          "author": "Jasmin Straube",
+          "description": "Murine models offer a valuable tool to recapitulate genetically defined subtypes of AML, and to assess the potential of compound mutations and clonal evolution during disease progression. This is of particular importance for difficult to treat leukemias such as FLT3 internal tandem duplication (ITD) positive AML. While conditional gene targeting by Cre recombinase is a powerful technology that has revolutionized biomedical research, consequences of Cre expression such as lack of fidelity,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36739348/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-02-04T11:00:00.000Z",
+          "wordCount": 1639,
+          "title": "Cre recombinase expression cooperates with homozygous FLT3 internal tandem duplication knockin mouse model to induce acute myeloid leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36732562",
+          "author": "Tommaso De Marchi",
+          "description": "Ipsilateral breast tumor recurrence (IBTR) is a clinically important event, where an isolated in-breast recurrence is a potentially curable event but associated with an increased risk of distant metastasis and breast cancer death. It remains unclear if IBTRs are associated with molecular changes that can be explored as a resource for precision medicine strategies. Here, we employed proteogenomics to analyze a cohort of 27 primary breast cancers and their matched IBTRs to define proteogenomic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36732562/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-02-02T11:00:00.000Z",
+          "wordCount": 3016,
+          "title": "Proteogenomics decodes the evolution of human ipsilateral breast cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36726722",
+          "author": "Qingyao Huang",
+          "description": "Genome variation is the direct cause of cancer and driver of its clonal evolution. While the impact of many point mutations can be evaluated through their modification of individual genomic elements, even a single copy number aberration (CNA) may encompass hundreds of genes and therefore pose challenges to untangle potentially complex functional effects. However, consistent, recurring and disease-specific patterns in the genome-wide CNA landscape imply that particular CNA may promote...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36726722/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-02-02T11:00:00.000Z",
+          "wordCount": 1904,
+          "title": "Candidate targets of copy number deletion events across 17 cancer types",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:36732562",
           "author": "Tommaso De Marchi",
@@ -7077,6 +6677,26 @@
           "publishedOn": "2023-02-02T11:00:00.000Z",
           "wordCount": 1838,
           "title": "Candidate targets of copy number deletion events across 17 cancer types",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36709198",
+          "author": "Y Q Sha",
+          "description": "Objective: To investigate the clinical, genetic, and clonality related aspects of individuals with Richter transformation (RT) . Methods: From January 2019 to December 2021, 18 RT patients with diagnoses at the First Affiliated Hospital of Nanjing Medical University (Pukou CLL center) were retrospectively examined. The immunoglobin heavy variable (IGHV) gene usage and IGHV-D-J rearrangement pattern of diagnosed CLL/SLL and transformed diffuse large B-cell lymphoma (DLBCL) were compared to...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36709198/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-28T11:00:00.000Z",
+          "wordCount": 1875,
+          "title": "Clonality relatedness and molecular characteristics of Richter transformation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36709195",
+          "author": "S Y Zhao",
+          "description": "Objective: To explore the risk factors in leukemia transformation (LT) in those with myelodysplastic syndromes (MDS) . Methods: From January 2012 to December 2020,data on 320 patients with newly diagnosed primary MDS were gathered from the MDS center. The clinical features and molecular characteristics are explored. Additionally, a retrospective analysis of risk factors for the development of acute leukemia from MDS was done. Results: The median follow-up was13.6 (0.4-107.3) months. 23.4%...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36709195/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-28T11:00:00.000Z",
+          "wordCount": 1828,
+          "title": "Risk factors for leukemia transformation in patients with myelodysplastic syndromes",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -7183,6 +6803,16 @@
           "id": "pubmed:36696829",
           "author": "Jacob Jahn",
           "description": "Therapy-related myeloid neoplasms (t-MN) account for approximately 10-15% of all myeloid neoplasms and are associated with poor prognosis. Genomic characterization of t-MN to date has been limited in comparison to the considerable sequencing efforts performed for de novo myeloid neoplasms. Until recently, targeted deep sequencing (TDS) or whole exome sequencing (WES) have been the primary technologies utilized and thus limited the ability to explore the landscape of structural variants and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36696829/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-25T11:00:00.000Z",
+          "wordCount": 1346,
+          "title": "Therapy-selected clonal hematopoiesis and its role in myeloid neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36696829",
+          "author": "Jacob Jahn",
+          "description": "Therapy-related myeloid neoplasms (t-MN) account for approximately 10-15% of all myeloid neoplasms and are associated with poor prognosis. Genomic characterization of t-MN to date has been limited in comparison to the considerable sequencing efforts performed for de novo myeloid neoplasms. Until recently, targeted deep sequencing (TDS) or whole exome sequencing (WES) have been the primary technologies utilized and thus limited the ability to explore the landscape of structural variants and...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36696829/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230204200547&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-01-25T11:00:00.000Z",
           "wordCount": 1346,
@@ -7277,6 +6907,36 @@
           "publishedOn": "2023-01-25T11:00:00.000Z",
           "wordCount": 1323,
           "title": "Therapy-selected clonal hematopoiesis and its role in myeloid neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36689560",
+          "author": "Abdullah A Osman",
+          "description": "CONCLUSIONS: CDDP resistance and development of distant metastasis are associated with dysregulated and epigenetically reprogrammed KEAP1-NRF2 signaling pathway. A strategy targeting KEAP1/NRF2 pathway or glutamine metabolism deserves further clinical investigation in patients with CDDP resistant head and neck tumors.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36689560/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-23T11:00:00.000Z",
+          "wordCount": 1849,
+          "title": "Dysregulation and epigenetic reprogramming of NRF2 signaling axis promote acquisition of cisplatin resistance and metastasis in Head and Neck Squamous Cell Carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36689467",
+          "author": "Gregory J Kimmel",
+          "description": "The phenotypic efficacy of somatic copy number alterations (SCNAs) stems from their incidence per base pair of the genome, which is orders of magnitudes greater than that of point mutations. One mitotic event stands out in its potential to significantly change a cell's SCNA burden-a chromosome missegregation. A stochastic model of chromosome mis-segregations has been previously developed to describe the evolution of SCNAs of a single chromosome type. Building upon this work, we derive a general...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36689467/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-23T11:00:00.000Z",
+          "wordCount": 1737,
+          "title": "Intra-tumor heterogeneity, turnover rate and karyotype space shape susceptibility to missegregation-induced extinction",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36687386",
+          "author": "Ambrose H N Wong",
+          "description": "Colorectal cancer (CRC) is the second most lethal cancer worldwide and the prognosis of metastatic CRC (mCRC) remains poor. Recent advancements in translational research have led to the identification of several new therapeutic targets and improved the treatment outcome of patients with tumours harbouring BRAF V600E mutation, (HER2) ErBB2 alterations, NTRK gene fusions and KRAS(G12C) mutation. Improved understanding towards the mechanism of resistance to targeted therapy such as anti-epidermal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36687386/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-23T11:00:00.000Z",
+          "wordCount": 1853,
+          "title": "New developments in targeted therapy for metastatic colorectal cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -7673,6 +7333,36 @@
           "id": "pubmed:36681479",
           "author": "Chris Morgan",
           "description": "Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-21T11:00:00.000Z",
+          "wordCount": 1688,
+          "title": "Meiotic chromosome organization and its role in recombination and cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36675240",
+          "author": "Jungeun An",
+          "description": "The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-21T11:00:00.000Z",
+          "wordCount": 2306,
+          "title": "Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36672453",
+          "author": "Houssein Chhouri",
+          "description": "Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-21T11:00:00.000Z",
+          "wordCount": 1974,
+          "title": "Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36681479",
+          "author": "Chris Morgan",
+          "description": "Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230204200547&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-01-21T11:00:00.000Z",
           "wordCount": 1688,
@@ -8063,6 +7753,26 @@
           "id": "pubmed:36669069",
           "author": "Roger Rovira-López",
           "description": "An 84-year-old woman presented with a 3-month history of a papular rash on the trunk, abdomen, and back. Histopathological examination revealed atypical lymphoid deep and band-like dermal infiltrates with marked epidermotropism. Neoplastic cells expressed B-cell markers (CD20), and clonal immunoglobulin gene rearrangement was observed. A complete peripheral blood study revealed aberrant circulating villous lymphocytes with the expression of B-cell markers (CD20, CD22, and CD79a) and aberrant...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36669069/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-20T11:00:00.000Z",
+          "wordCount": 1743,
+          "title": "Epidermotropic B-Cell Lymphoma: A Case of Secondary Cutaneous Splenic Marginal Zone B-Cell Lymphoma With Autoinvolutive and Recurrent Cutaneous Lesions",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36662242",
+          "author": "Andreas Burchert",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) refers to hematopoiesis from stem cells with mutations in leukemia-associated driver genes. These confer increased stress tolerance and expansive potential to stem cell clones. Patients with CHIP are hematologically healthy. The main risk factor for the development of CHIP is age or chronic inflammatory processes associated with aging, so-called \"inflammaging\". Therefore, the correlation of age-associated comorbidities with the detection of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36662242/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-20T11:00:00.000Z",
+          "wordCount": 1648,
+          "title": "Clonal hematopoiesis: causes and clinical implications",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36669069",
+          "author": "Roger Rovira-López",
+          "description": "An 84-year-old woman presented with a 3-month history of a papular rash on the trunk, abdomen, and back. Histopathological examination revealed atypical lymphoid deep and band-like dermal infiltrates with marked epidermotropism. Neoplastic cells expressed B-cell markers (CD20), and clonal immunoglobulin gene rearrangement was observed. A complete peripheral blood study revealed aberrant circulating villous lymphocytes with the expression of B-cell markers (CD20, CD22, and CD79a) and aberrant...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/36669069/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230204200547&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-01-20T11:00:00.000Z",
           "wordCount": 1743,
@@ -8267,6 +7977,16 @@
           "publishedOn": "2023-01-20T11:00:00.000Z",
           "wordCount": 1745,
           "title": "Epidermotropic B-Cell Lymphoma: A Case of Secondary Cutaneous Splenic Marginal Zone B-Cell Lymphoma With Autoinvolutive and Recurrent Cutaneous Lesions",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:36657818",
+          "author": "Lavanya Sivapalan",
+          "description": "Circulating cell-free tumor DNA (ctDNA) can serve as a real-time biomarker of tumor burden and provide unique insights into the evolving molecular landscape of cancers under the selective pressure of immunotherapy. Tracking the landscape of genomic alterations detected in ctDNA may reveal the clonal architecture of the metastatic cascade and thus improve our understanding of the molecular wiring of therapeutic responses. While liquid biopsies may provide a rapid and accurate evaluation of tumor...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/36657818/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230205195945&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-01-19T11:00:00.000Z",
+          "wordCount": 2848,
+          "title": "Liquid biopsy approaches to capture tumor evolution and clinical outcomes during cancer immunotherapy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -14387,736 +14107,6 @@
           "publishedOn": "2022-12-09T11:00:00.000Z",
           "wordCount": 1099,
           "title": "Risk stratifying MDS in the time of precision medicine",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221222195718&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1341,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221222195718&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1260,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221222195718&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1464,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221222195718&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 3355,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221221195909&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1341,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221221195909&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1260,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221221195909&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1464,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221221195909&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1661,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221220195556&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1341,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221220195556&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1260,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221220195556&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1464,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221220195556&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1609,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36475926",
-          "author": "Jiří C Moravec",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221220195556&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1261,
-          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221219195955&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1341,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221219195955&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1260,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221219195955&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1464,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221219195955&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1609,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36475926",
-          "author": "Jiří C Moravec",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221219195955&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1261,
-          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221218195619&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1341,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221218195619&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1260,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221218195619&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1464,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221218195619&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1609,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36475926",
-          "author": "Jiří C Moravec",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221218195619&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1261,
-          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221217195811&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1341,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221217195811&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1260,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221217195811&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1464,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221217195811&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1609,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36475926",
-          "author": "Jiří C Moravec",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221217195811&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1261,
-          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221216195636&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1341,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221216195636&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1260,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221216195636&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1464,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221216195636&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1609,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36475926",
-          "author": "Jiří C Moravec",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221216195636&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1261,
-          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221215195748&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1341,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221215195748&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1260,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221215195748&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1464,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221215195748&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1601,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36475926",
-          "author": "Jiří C Moravec",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221215195748&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1261,
-          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221214200254&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1341,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221214200254&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1260,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221214200254&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1464,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221214200254&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1601,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36475926",
-          "author": "Jiří C Moravec",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221214200254&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1261,
-          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221213200118&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1341,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221213200118&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1260,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221213200118&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1464,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221213200118&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1601,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36475926",
-          "author": "Jiří C Moravec",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221213200118&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1261,
-          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221212200524&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1341,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221212200524&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1260,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221212200524&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1464,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221212200524&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1601,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36475926",
-          "author": "Jiří C Moravec",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221212200524&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1261,
-          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221211200308&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1341,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221211200308&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1260,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221211200308&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1464,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221211200308&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1601,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36475926",
-          "author": "Jiří C Moravec",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221211200308&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1261,
-          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221210200648&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1304,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221210200648&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1241,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221210200648&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1427,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221210200648&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1569,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36475926",
-          "author": "Jiří C Moravec",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221210200648&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1230,
-          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221209195756&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1304,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221209195756&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1241,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221209195756&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1427,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221209195756&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1569,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36475926",
-          "author": "Jiří C Moravec",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221209195756&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1230,
-          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36480186",
-          "author": "Weisi Liu",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36480186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1304,
-          "title": "The cytidine deaminase APOBEC3G contributes to cancer mutagenesis and clonal evolution in bladder cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477676",
-          "author": "Yotaro Ochi",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1217,
-          "title": "Genetic landscape of chronic myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36477267",
-          "author": "Ankit K Dutta",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36477267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1427,
-          "title": "MinimuMM-seq: Genome sequencing of circulating tumor cells for minimally invasive molecular characterization of multiple myeloma pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36476508",
-          "author": "Minsu Kang",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36476508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1545,
-          "title": "Gallbladder adenocarcinomas undergo subclonal diversification and selection from precancerous lesions to metastatic tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36475926",
-          "author": "Jiří C Moravec",
-          "description": "No abstract",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36475926/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20221208200156&v=2.17.9",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 1230,
-          "title": "Testing for Phylogenetic Signal in Single-Cell RNA-Seq Data",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
