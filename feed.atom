@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2023-03-21T00:58:18.084Z</updated>
+    <updated>2023-03-22T00:57:39.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[COVID-19 and the Genetics of Inflammation]]></title>
+        <id>pubmed:36939259</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36939259/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: The current literature supports the hypothesis that host genetic factors affect vulnerability to severe COVID-19. Further research is required to confirm the full scope of relevant variants and the causal mechanisms underlying these associations. Clinical approaches, which consider the genetic basis of interindividual variability in COVID-19 and potentially other causes of critical illness, could optimize hospital resource allocation, predict responsiveness to treatment, identify...]]></summary>
+        <author>
+            <name>Yasmeen Choudhri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential and clonal cytopenias of undetermined significance: 2023 update on clinical associations and management recommendations]]></title>
+        <id>pubmed:36938794</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36938794/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONDITION OVERVIEW: Clonal hematopoiesis (CH) refers to age-associated expansion of somatic variants in hematopoietic stem and progenitor cells (HSPC).]]></summary>
+        <author>
+            <name>Abhishek A Mangaonkar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COVID-19 and the Genetics of Inflammation]]></title>
         <id>pubmed:36939259</id>
@@ -29,6 +49,26 @@
     <entry>
         <title type="html"><![CDATA[Current Status of Circulating Tumor Cells in Head and Neck Squamous Cell Carcinoma: A Review]]></title>
         <id>pubmed:36939466</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36939466/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: There is emerging information on the diagnostic and prognostic value of CTCs in HNSCCs. Evidence also highlights the advantages of various downstream analysis approaches over circulating tumor DNA (ctDNA), such as single-CTC analysis, ex vivo, and in vivo expansion of CTCs. Multiple phenotypic surface markers (cytokeratins, EpCAM, vimentin, etc.), used for CTCs characterization using different immunoassays, could predict disease progression as well as patients' response to treatment...]]></summary>
+        <author>
+            <name>Sharmin Aktar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diagnostic value of liquid biopsy in the era of precision medicine: 10 years of clinical evidence in cancer]]></title>
+        <id>pubmed:36937316</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36937316/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Liquid biopsy is a diagnostic repeatable test, which in last years has emerged as a powerful tool for profiling cancer genomes in real-time with minimal invasiveness and tailoring oncological decision-making. It analyzes different blood-circulating biomarkers and circulating tumor DNA (ctDNA) is the preferred one. Nevertheless, tissue biopsy remains the gold standard for molecular evaluation of solid tumors whereas liquid biopsy is a complementary tool in many different clinical settings, such...]]></summary>
+        <author>
+            <name>Vincenza Caputo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Current Status of Circulating Tumor Cells in Head and Neck Squamous Cell Carcinoma: A Review]]></title>
+        <id>pubmed:36939466</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36939466/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230320205814&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-03-20T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: There is emerging information on the diagnostic and prognostic value of CTCs in HNSCCs. Evidence also highlights the advantages of various downstream analysis approaches over circulating tumor DNA (ctDNA), such as single-CTC analysis, ex vivo, and in vivo expansion of CTCs. Multiple phenotypic surface markers (cytokeratins, EpCAM, vimentin, etc.), used for CTCs characterization using different immunoassays, could predict disease progression as well as patients' response to treatment...]]></summary>
@@ -44,6 +84,36 @@
         <summary type="html"><![CDATA[Liquid biopsy is a diagnostic repeatable test, which in last years has emerged as a powerful tool for profiling cancer genomes in real-time with minimal invasiveness and tailoring oncological decision-making. It analyzes different blood-circulating biomarkers and circulating tumor DNA (ctDNA) is the preferred one. Nevertheless, tissue biopsy remains the gold standard for molecular evaluation of solid tumors whereas liquid biopsy is a complementary tool in many different clinical settings, such...]]></summary>
         <author>
             <name>Vincenza Caputo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Current landscape of translational and clinical research in myelodysplastic syndromes/neoplasms (MDS): Proceedings from the 1<sup>st</sup> International Workshop on MDS (iwMDS) Of the International Consortium for MDS (icMDS)]]></title>
+        <id>pubmed:36934059</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36934059/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Biological events that contribute to the pathogenesis of myelodysplastic syndromes/neoplasms (MDS) are becoming increasingly characterized and are being translated into rationally designed therapeutic strategies. Herein, we provide updates from the first International Workshop on MDS (iwMDS) of the International Consortium for MDS (icMDS) detailing recent advances in understanding the genetic landscape of MDS, including germline predisposition, epigenetic and immune dysregulation, the...]]></summary>
+        <author>
+            <name>Jan Philipp Bewersdorf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patterns of mosaicism for sequence and copy-number variants discovered through clinical deep sequencing of disease-related genes in one million individuals]]></title>
+        <id>pubmed:36933558</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36933558/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DNA variants that arise after conception can show mosaicism, varying in presence and extent among tissues. Mosaic variants have been reported in Mendelian diseases, but further investigation is necessary to broadly understand their incidence, transmission, and clinical impact. A mosaic pathogenic variant in a disease-related gene may cause an atypical phenotype in terms of severity, clinical features, or timing of disease onset. Using high-depth sequencing, we studied results from one million...]]></summary>
+        <author>
+            <name>Rebecca Truty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mosaic loss of Y chromosome in monocytes is associated with lower survival after transcatheter aortic valve replacement]]></title>
+        <id>pubmed:36932691</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36932691/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: This is the first study to demonstrate that LOY in blood cells is associated with profoundly impaired long-term survival even after successful TAVR. Mechanistically, the pro-fibrotic gene signature sensitizing the patient-derived circulating LOY monocytes for the TGFβ signaling pathways supports a prominent role of cardiac fibrosis in contributing to the effects of LOY observed in men undergoing TAVR.]]></summary>
+        <author>
+            <name>Silvia Mas-Peiro</name>
         </author>
     </entry>
     <entry>
@@ -119,6 +189,16 @@
     <entry>
         <title type="html"><![CDATA[LACE 2.0: an interactive R tool for the inference and visualization of longitudinal cancer evolution]]></title>
         <id>pubmed:36932333</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36932333/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: All of this is accessible through a new and interactive Shiny R graphical interface offering the possibility to apply filters helpful in discriminating relevant or potential driver mutations, set up inferential parameters, and visualize the results. The software is available at: github.com/BIMIB-DISCo/LACE.]]></summary>
+        <author>
+            <name>Gianluca Ascolani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LACE 2.0: an interactive R tool for the inference and visualization of longitudinal cancer evolution]]></title>
+        <id>pubmed:36932333</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36932333/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230320205814&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-03-18T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: All of this is accessible through a new and interactive Shiny R graphical interface offering the possibility to apply filters helpful in discriminating relevant or potential driver mutations, set up inferential parameters, and visualize the results. The software is available at: github.com/BIMIB-DISCo/LACE.]]></summary>
@@ -144,6 +224,46 @@
         <summary type="html"><![CDATA[CONCLUSIONS: All of this is accessible through a new and interactive Shiny R graphical interface offering the possibility to apply filters helpful in discriminating relevant or potential driver mutations, set up inferential parameters, and visualize the results. The software is available at: github.com/BIMIB-DISCo/LACE.]]></summary>
         <author>
             <name>Gianluca Ascolani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interplay Between Hereditary and Acquired Factors Determine Neutrophil Counts in Aging Individuals]]></title>
+        <id>pubmed:36930802</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36930802/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blood cell production is complex, partly genetically determined and influenced by acquired factors. However, there is a paucity of data on how these factors interplay in the context of aging, which is associated with a myeloid proliferation bias, clonal hematopoiesis (CH) and an increased incidence of myeloid cancers. We investigated hereditary and acquired factors underlying blood cell trait variability in a cohort of 2996 related and unrelated women from Quebec aged 55 to 101 years. We...]]></summary>
+        <author>
+            <name>Marie-France Gagnon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple waves of fetal-derived immune cells constitute adult immune system]]></title>
+        <id>pubmed:36929134</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36929134/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It has been over three decades since Drs. Herzenberg and Herzenberg proposed the layered immune system hypothesis, suggesting that different types of stem cells with distinct hematopoietic potential produce specific immune cells. This layering of immune system development is now supported by recent studies showing the presence of fetal-derived immune cells that function in adults. It has been shown that various immune cells arise at different embryonic ages via multiple waves of hematopoiesis...]]></summary>
+        <author>
+            <name>Michihiro Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis of Indeterminate Potential: Current Understanding and Future Directions]]></title>
+        <id>pubmed:36928826</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36928826/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PURPOSE OF REVIEW: This article summarizes the current knowledge about clonal hematopoiesis of indeterminate potential (CHIP), its association with cardiovascular disease (CVD), and other outcomes, pathogenesis, postulated mechanisms of various pathologies, current knowledge gaps, possible targets of intervention, and therapeutic implications.]]></summary>
+        <author>
+            <name>Inderpreet Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mosaic chromosomal alterations detected in men living with HIV and the relationship to non-Hodgkin lymphoma]]></title>
+        <id>pubmed:36927626</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36927626/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: We found limited evidence for a relationship between HIV infection and mCAs. Although mCAs were not significantly associated with NHL, mCAs detected in several NHL cases indicate a need for further investigation.]]></summary>
+        <author>
+            <name>Shu-Hong Lin</name>
         </author>
     </entry>
     <entry>
@@ -309,6 +429,16 @@
     <entry>
         <title type="html"><![CDATA[Artificial intelligence to empower diagnosis of myelodysplastic syndromes by multiparametric flow cytometry]]></title>
         <id>pubmed:36924240</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36924240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The diagnosis of myelodysplastic syndromes (MDS) might be challenging and relies on the convergence of cytological, cytogenetic, and molecular arguments. Multiparametric flow cytometry (MFC) helps diagnose MDS, especially when other features are non-contributory, but remains underestimated mostly due to a lack of standardization of cytometers. We present here an innovative model integrating artificial intelligence (AI) with MFC to improve the diagnosis and the classification of MDS. We develop a...]]></summary>
+        <author>
+            <name>Valentin Clichet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artificial intelligence to empower diagnosis of myelodysplastic syndromes by multiparametric flow cytometry]]></title>
+        <id>pubmed:36924240</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36924240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230320205814&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-03-16T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[The diagnosis of myelodysplastic syndromes (MDS) might be challenging and relies on the convergence of cytological, cytogenetic, and molecular arguments. Multiparametric flow cytometry (MFC) helps diagnose MDS, especially when other features are non-contributory, but remains underestimated mostly due to a lack of standardization of cytometers. We present here an innovative model integrating artificial intelligence (AI) with MFC to improve the diagnosis and the classification of MDS. We develop a...]]></summary>
@@ -359,6 +489,16 @@
     <entry>
         <title type="html"><![CDATA[Tumor plasticity and therapeutic resistance in oncogene-addicted non-small cell lung cancer: from preclinical observations to clinical implications]]></title>
         <id>pubmed:36925092</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36925092/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The identification of actionable targets in oncogene-addicted non-small cell lung cancer (NSCLC) has fueled biomarker-directed strategies, especially in advanced stage disease. Despite the undeniable success of molecular targeted therapies, duration of clinical response is relatively short-lived. While extraordinary efforts have defined the complexity of tumor architecture and clonal evolution at the genetic level, not equal interest has been given to the dynamic mechanisms of phenotypic...]]></summary>
+        <author>
+            <name>Gouji Toyokawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tumor plasticity and therapeutic resistance in oncogene-addicted non-small cell lung cancer: from preclinical observations to clinical implications]]></title>
+        <id>pubmed:36925092</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36925092/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230320205814&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-03-16T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[The identification of actionable targets in oncogene-addicted non-small cell lung cancer (NSCLC) has fueled biomarker-directed strategies, especially in advanced stage disease. Despite the undeniable success of molecular targeted therapies, duration of clinical response is relatively short-lived. While extraordinary efforts have defined the complexity of tumor architecture and clonal evolution at the genetic level, not equal interest has been given to the dynamic mechanisms of phenotypic...]]></summary>
@@ -394,6 +534,36 @@
         <summary type="html"><![CDATA[The identification of actionable targets in oncogene-addicted non-small cell lung cancer (NSCLC) has fueled biomarker-directed strategies, especially in advanced stage disease. Despite the undeniable success of molecular targeted therapies, duration of clinical response is relatively short-lived. While extraordinary efforts have defined the complexity of tumor architecture and clonal evolution at the genetic level, not equal interest has been given to the dynamic mechanisms of phenotypic...]]></summary>
         <author>
             <name>Gouji Toyokawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact of iron overload in hematopoietic stem cell transplantation]]></title>
+        <id>pubmed:36921731</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36921731/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Iron overload (IOL) is a common condition in patients with hematological malignancies(HMs) undergoing hematopoietic stem cell transplantation (HSCT). Pathophysiologically, IOL results in iron-induced toxicity in HSCT by producing reactive oxygen species (ROS), which leads to detrimental effects on hematopoiesis, clonal evolution, and immunosuppression. IOL, therefore, may have a negative impact on the clinical outcomes of HSCT. For patients at a higher risk of developing IOL before HSCT, it is...]]></summary>
+        <author>
+            <name>Cong Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis and the Heart: a Toxic Relationship]]></title>
+        <id>pubmed:36920637</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36920637/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PURPOSE OF REVIEW: Clonal hematopoiesis (CH) refers to the expansion of hematopoietic stem cell clones and their cellular progeny due to somatic mutations, mosaic chromosomal alterations (mCAs), or copy number variants which naturally accumulate with age. CH has been linked to increased risk of blood cancers, but CH has also been linked to adverse cardiovascular outcomes.]]></summary>
+        <author>
+            <name>Jeffrey L Jensen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The roles of bone remodeling in normal hematopoiesis and age-related hematological malignancies]]></title>
+        <id>pubmed:36918531</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36918531/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prior research establishing that bone interacts in coordination with the bone marrow microenvironment (BMME) to regulate hematopoietic homeostasis was largely based on analyses of individual bone-associated cell populations. Recent advances in intravital imaging has suggested that the expansion of hematopoietic stem cells (HSCs) and acute myeloid leukemia cells is restricted to bone marrow microdomains during a distinct stage of bone remodeling. These findings indicate that dynamic bone...]]></summary>
+        <author>
+            <name>Hengwei Zhang</name>
         </author>
     </entry>
     <entry>
@@ -569,6 +739,16 @@
     <entry>
         <title type="html"><![CDATA[Multi-omics analysis uncovers tumor ecosystem dynamics during neoadjuvant toripalimab plus nab-paclitaxel and S-1 for esophageal squamous cell carcinoma: a single-center, open-label, single-arm phase 2 trial]]></title>
         <id>pubmed:36921563</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36921563/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BACKGROUND: Immune checkpoint inhibitors combined with chemotherapy as a neoadjuvant therapy have been applied to the treatment of esophageal squamous cell carcinoma (ESCC). However, the optimal regimen needs to be further explored, particularly for older patients, and the mechanisms by which the immune checkpoint inhibitor combined with chemotherapy modulates the evolution of ESCC are unknown.]]></summary>
+        <author>
+            <name>Guoqing Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-omics analysis uncovers tumor ecosystem dynamics during neoadjuvant toripalimab plus nab-paclitaxel and S-1 for esophageal squamous cell carcinoma: a single-center, open-label, single-arm phase 2 trial]]></title>
+        <id>pubmed:36921563</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36921563/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230320205814&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-03-15T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[BACKGROUND: Immune checkpoint inhibitors combined with chemotherapy as a neoadjuvant therapy have been applied to the treatment of esophageal squamous cell carcinoma (ESCC). However, the optimal regimen needs to be further explored, particularly for older patients, and the mechanisms by which the immune checkpoint inhibitor combined with chemotherapy modulates the evolution of ESCC are unknown.]]></summary>
@@ -614,6 +794,16 @@
         <summary type="html"><![CDATA[BACKGROUND: Immune checkpoint inhibitors combined with chemotherapy as a neoadjuvant therapy have been applied to the treatment of esophageal squamous cell carcinoma (ESCC). However, the optimal regimen needs to be further explored, particularly for older patients, and the mechanisms by which the immune checkpoint inhibitor combined with chemotherapy modulates the evolution of ESCC are unknown.]]></summary>
         <author>
             <name>Guoqing Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clinical Circulating Tumor DNA testing for Precision Oncology]]></title>
+        <id>pubmed:36915242</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36915242/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Circulating tumor DNA (ctDNA) is the portion of the cell-free DNA in the blood of cancer patients released from tumor cells via apoptosis, necrosis, or active release. From 10 ml of blood, the 4-5 mL of plasma obtained from a cancer patient contains 5-10 ng/mL of ctDNA. The plasma contains not only ctDNA of tumor origin, but also DNA from normal cells or clonal hematopoiesis. Another characteristic of ctDNA is its rapid clearance from circulation; it has a half-life of 16 minutes to 2.5 hours....]]></summary>
+        <author>
+            <name>Hyunji Kim</name>
         </author>
     </entry>
     <entry>
@@ -689,6 +879,16 @@
     <entry>
         <title type="html"><![CDATA[Single-cell profiling of the copy-number heterogeneity in colorectal cancer]]></title>
         <id>pubmed:36914941</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36914941/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: On the basis of copy number characteristics, we illustrated tumor heterogeneity in MSS CRC and identified three types of tumor cells with distinct roles in tumor microenvironment. By understanding heterogeneity in the intricate tumor microenvironment, we gained an insight into the mechanisms of tumor evolution, which may support the development of therapeutic strategies.]]></summary>
+        <author>
+            <name>Shiyu Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single-cell profiling of the copy-number heterogeneity in colorectal cancer]]></title>
+        <id>pubmed:36914941</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36914941/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230320205814&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-03-14T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: On the basis of copy number characteristics, we illustrated tumor heterogeneity in MSS CRC and identified three types of tumor cells with distinct roles in tumor microenvironment. By understanding heterogeneity in the intricate tumor microenvironment, we gained an insight into the mechanisms of tumor evolution, which may support the development of therapeutic strategies.]]></summary>
@@ -754,6 +954,26 @@
         <summary type="html"><![CDATA[CONCLUSIONS: On the basis of copy number characteristics, we illustrated tumor heterogeneity in MSS CRC and identified three types of tumor cells with distinct roles in tumor microenvironment. By understanding heterogeneity in the intricate tumor microenvironment, we gained an insight into the mechanisms of tumor evolution, which may support the development of therapeutic strategies.]]></summary>
         <author>
             <name>Shiyu Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First passage time analysis of spatial mutation patterns reveals sub-clonal evolutionary dynamics in colorectal cancer]]></title>
+        <id>pubmed:36913406</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36913406/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The signature of early cancer dynamics on the spatial arrangement of tumour cells is poorly understood, and yet could encode information about how sub-clones grew within the expanding tumour. Novel methods of quantifying spatial tumour data at the cellular scale are required to link evolutionary dynamics to the resulting spatial architecture of the tumour. Here, we propose a framework using first passage times of random walks to quantify the complex spatial patterns of tumour cell population...]]></summary>
+        <author>
+            <name>Magnus J Haughey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Establishing a Microfluidic Tumor Slice Culture Platform to Study Drug Response]]></title>
+        <id>pubmed:36912175</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36912175/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accurate models for tumor biology and prediction of drug responses of individual tumors require novel technology to grow tumor tissue ex vivo to maintain tumor growth characteristics in situ. Models containing only tumor cells, without the stromal components of the tumor, are suboptimal for many purposes and are generally problematic because the cells are passed through extensive culture and selection. Therefore, direct culture of (human) tumors is of considerable interest for basic tumor...]]></summary>
+        <author>
+            <name>Zofia M Komar</name>
         </author>
     </entry>
     <entry>
@@ -894,6 +1114,16 @@
         <summary type="html"><![CDATA[Accurate models for tumor biology and prediction of drug responses of individual tumors require novel technology to grow tumor tissue ex vivo to maintain tumor growth characteristics in situ. Models containing only tumor cells, without the stromal components of the tumor, are suboptimal for many purposes and are generally problematic because the cells are passed through extensive culture and selection. Therefore, direct culture of (human) tumors is of considerable interest for basic tumor...]]></summary>
         <author>
             <name>Zofia M Komar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Continuum between High-Risk Myelodysplastic Syndrome and Acute Myeloid Leukemia]]></title>
+        <id>pubmed:36902450</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36902450/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndrome (MDS) is a clonal hematopoietic neoplasm characterized by bone marrow dysplasia, failure of hematopoiesis and variable risk of progression to acute myeloid leukemia (AML). Recent large-scale studies have demonstrated that distinct molecular abnormalities detected at earlier stages of MDS alter disease biology and predict progression to AML. Consistently, various studies analyzing these diseases at the single-cell level have identified specific patterns of progression...]]></summary>
+        <author>
+            <name>Phaedon D Zavras</name>
         </author>
     </entry>
     <entry>
@@ -1210,6 +1440,16 @@
         <title type="html"><![CDATA[Human Immunodeficiency Virus and Clonal Hematopoiesis]]></title>
         <id>pubmed:36899822</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36899822/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230311200544&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The evolution of antiretroviral therapies (ART) has tremendously improved the life expectancy of people living with human immunodeficiency virus (HIV) (PLWH), which is currently similar to the general population. However, as PLWH are now living longer, they exhibit various comorbidities such as a higher risk of cardiovascular disease (CVD) and non-acquired immunodeficiency syndrome (AIDS)-defined malignancies. Clonal hematopoiesis (CH) is the acquisition of somatic mutations by the hematopoietic...]]></summary>
+        <author>
+            <name>Stamatia C Vorri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human Immunodeficiency Virus and Clonal Hematopoiesis]]></title>
+        <id>pubmed:36899822</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36899822/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-03-11T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[The evolution of antiretroviral therapies (ART) has tremendously improved the life expectancy of people living with human immunodeficiency virus (HIV) (PLWH), which is currently similar to the general population. However, as PLWH are now living longer, they exhibit various comorbidities such as a higher risk of cardiovascular disease (CVD) and non-acquired immunodeficiency syndrome (AIDS)-defined malignancies. Clonal hematopoiesis (CH) is the acquisition of somatic mutations by the hematopoietic...]]></summary>
         <author>
@@ -1579,6 +1819,26 @@
     <entry>
         <title type="html"><![CDATA[Evolution of synchronous female bilateral breast cancers and response to treatment]]></title>
         <id>pubmed:36879128</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36879128/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Synchronous bilateral breast cancer (sBBC) occurs after both breasts have been affected by the same germline genetics and environmental exposures. Little evidence exists regarding immune infiltration and response to treatment in sBBCs. Here we show that the impact of the subtype of breast cancer on levels of tumor infiltrating lymphocytes (TILs, n = 277) and on pathologic complete response (pCR) rates (n = 140) differed according to the concordant or discordant subtype of breast cancer of the...]]></summary>
+        <author>
+            <name>Anne-Sophie Hamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why loss of Y? A pan-cancer genome analysis of tumors with loss of Y chromosome]]></title>
+        <id>pubmed:36874157</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36874157/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Loss of the Y chromosome (LoY) is frequently observed in somatic cells of elderly men. However, LoY is highly increased in tumor tissue and correlates with an overall worse prognosis. The underlying causes and downstream effects of LoY are widely unknown. Therefore, we analyzed genomic and transcriptomic data of 13 cancer types (2375 patients) and classified tumors of male patients according to loss or retain of the Y chromosome (LoY or RoY, average LoY fraction: 0.46). The frequencies of LoY...]]></summary>
+        <author>
+            <name>Philipp Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolution of synchronous female bilateral breast cancers and response to treatment]]></title>
+        <id>pubmed:36879128</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36879128/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230320205814&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-03-06T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Synchronous bilateral breast cancer (sBBC) occurs after both breasts have been affected by the same germline genetics and environmental exposures. Little evidence exists regarding immune infiltration and response to treatment in sBBCs. Here we show that the impact of the subtype of breast cancer on levels of tumor infiltrating lymphocytes (TILs, n = 277) and on pathologic complete response (pCR) rates (n = 140) differed according to the concordant or discordant subtype of breast cancer of the...]]></summary>
@@ -1844,6 +2104,16 @@
         <summary type="html"><![CDATA[Loss of the Y chromosome (LoY) is frequently observed in somatic cells of elderly men. However, LoY is highly increased in tumor tissue and correlates with an overall worse prognosis. The underlying causes and downstream effects of LoY are widely unknown. Therefore, we analyzed genomic and transcriptomic data of 13 cancer types (2375 patients) and classified tumors of male patients according to loss or retain of the Y chromosome (LoY or RoY, average LoY fraction: 0.46). The frequencies of LoY...]]></summary>
         <author>
             <name>Philipp Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomic Analyses of Germline and Somatic Variation in High-Grade Serous Ovarian Cancer]]></title>
+        <id>pubmed:36865331</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36865331/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Background High-grade serous ovarian cancers (HGSCs) display a high degree of complex genetic alterations. In this study, we identified germline and somatic genetic alterations in HGSC and their association with relapse-free and overall survival. Using a targeted capture of 577 genes involved in DNA damage response and PI3K/AKT/mTOR pathways, we conducted next-generation sequencing of DNA from matched blood and tumor tissue from 71 HGSC participants. In addition, we performed the OncoScan assay...]]></summary>
+        <author>
+            <name>Aaron W Adamson</name>
         </author>
     </entry>
     <entry>
@@ -2259,6 +2529,16 @@
     <entry>
         <title type="html"><![CDATA[Cell Adaptive Fitness and Cancer Evolutionary Dynamics]]></title>
         <id>pubmed:36860424</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36860424/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-03-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Genome instability of cancer cells translates into increased entropy and lower information processing capacity, leading to metabolic reprograming toward higher energy states, presumed to be aligned with a cancer growth imperative. Dubbed as the cell adaptive fitness, the proposition postulates that the coupling between cell signaling and metabolism constrains cancer evolutionary dynamics along trajectories privileged by the maintenance of metabolic sufficiency for survival. In particular, the...]]></summary>
+        <author>
+            <name>Youcef Derbal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cell Adaptive Fitness and Cancer Evolutionary Dynamics]]></title>
+        <id>pubmed:36860424</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36860424/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230320205814&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-03-02T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Genome instability of cancer cells translates into increased entropy and lower information processing capacity, leading to metabolic reprograming toward higher energy states, presumed to be aligned with a cancer growth imperative. Dubbed as the cell adaptive fitness, the proposition postulates that the coupling between cell signaling and metabolism constrains cancer evolutionary dynamics along trajectories privileged by the maintenance of metabolic sufficiency for survival. In particular, the...]]></summary>
@@ -2599,6 +2879,16 @@
     <entry>
         <title type="html"><![CDATA[Investigation of somatic mutation profiles and tumor evolution of primary oropharyngeal cancer and sequential lymph node metastases using multiregional whole-exome sequencing]]></title>
         <id>pubmed:36852664</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36852664/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-02-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lymph node (LN) metastasis is an important factor in determining the treatment and prognosis of oropharyngeal squamous cell carcinoma (OPSCC). Here, we compared the somatic mutational profiles and clonal evolution of primary and metastatic LNs using multiregion sequencing of human papilloma virus (HPV)-positive OPSCC and HPV-negative OPSCC. We performed high-depth whole-exome sequencing (200×) of 76 samples from 18 patients with OPSCC (10 HPV-positive and 8 HPV-negative), including 18 primary...]]></summary>
+        <author>
+            <name>Nam Suk Sim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investigation of somatic mutation profiles and tumor evolution of primary oropharyngeal cancer and sequential lymph node metastases using multiregional whole-exome sequencing]]></title>
+        <id>pubmed:36852664</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/36852664/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230320205814&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-02-28T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lymph node (LN) metastasis is an important factor in determining the treatment and prognosis of oropharyngeal squamous cell carcinoma (OPSCC). Here, we compared the somatic mutational profiles and clonal evolution of primary and metastatic LNs using multiregion sequencing of human papilloma virus (HPV)-positive OPSCC and HPV-negative OPSCC. We performed high-depth whole-exome sequencing (200×) of 76 samples from 18 patients with OPSCC (10 HPV-positive and 8 HPV-negative), including 18 primary...]]></summary>
@@ -2794,6 +3084,16 @@
         <summary type="html"><![CDATA[Lymph node (LN) metastasis is an important factor in determining the treatment and prognosis of oropharyngeal squamous cell carcinoma (OPSCC). Here, we compared the somatic mutational profiles and clonal evolution of primary and metastatic LNs using multiregion sequencing of human papilloma virus (HPV)-positive OPSCC and HPV-negative OPSCC. We performed high-depth whole-exome sequencing (200x) of 76 samples from 18 patients with OPSCC (10 HPV-positive and 8 HPV-negative), including 18 primary...]]></summary>
         <author>
             <name>Nam Suk Sim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal selection parallels between normal and cancer tissues]]></title>
+        <id>pubmed:36842901</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/36842901/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230321205736&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-02-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal selection and drift drive both normal tissue and cancer development. However, the biological mechanisms and environmental conditions underpinning these processes remain to be elucidated. Clonal selection models are centered in Darwinian evolutionary theory, where some clones with the fittest features are selected and populate the tissue or tumor. We suggest that different subclasses of stem cells, each of which is responsible for a distinct feature of the selection process, share common...]]></summary>
+        <author>
+            <name>Abbas Salavaty</name>
         </author>
     </entry>
     <entry>
@@ -13904,1056 +14204,6 @@
         <summary type="html"><![CDATA[MDS is a clonal stem cell neoplasm with a spectrum from lower risk disease to short term life threatening higher risk disease. The disease risk is dictated by clinical and molecular features. Majority of MDS patients including lower risk disease unfortunately succumb from disease related complications namely cytopenia. While cytopenias may be mild early upon diagnosis and can be surveilled, ultimately treatment is required. Anemia is the hall mark of disease and most common indication to treat...]]></summary>
         <author>
             <name>Virginia O Volpe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230207200158&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230206200034&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230205195945&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230205195945&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230204200547&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230204200547&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230204200547&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230203195929&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230203195929&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230203195929&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230202200409&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230202200409&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230202200409&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230201200224&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230201200224&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230201200224&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230131200903&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230131200903&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230131200903&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230130200321&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230130200321&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230130200321&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230129195754&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230129195754&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230129195754&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230128200551&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230128200551&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230128200551&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230127200119&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230127200119&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230127200119&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230126200226&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230126200226&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230126200226&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230125200117&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230125200117&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230125200117&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230124195847&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230124195847&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230124195847&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230123200236&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230123200236&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230123200236&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230122195914&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230122195914&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230122195914&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-term risk associated with clonal hematopoiesis in patients with severe aortic valve stenosis undergoing TAVR]]></title>
-        <id>pubmed:36680616</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680616/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230121200342&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: DNMT3A- and TET2-CHIP-driver mutations are associated with long-term mortality in patients with aortic valve stenosis even after a successful TAVR. The association is also present in never smokers, in whom no biasing effect from smoking on DNA methylation is to be expected.]]></summary>
-        <author>
-            <name>Silvia Mas-Peiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primary myelofibrosis: 2023 update on diagnosis, risk-stratification, and management]]></title>
-        <id>pubmed:36680511</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36680511/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230121200342&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DISEASE OVERVIEW: Primary myelofibrosis (PMF) is a myeloproliferative neoplasm (MPN) characterized by stem cell-derived clonal myeloproliferation that is often but not always accompanied by JAK2, CALR, or MPL mutations; additional features include bone marrow reticulin/collagen fibrosis, aberrant inflammatory cytokine expression, anemia, hepatosplenomegaly, extramedullary hematopoiesis (EMH), constitutional symptoms, cachexia, risk of leukemic progression, and shortened survival.]]></summary>
-        <author>
-            <name>Ayalew Tefferi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230121200342&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230210195718&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230210195718&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230209200536&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230209200536&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230209200536&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230208200032&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230208200032&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230208200032&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230207200158&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230207200158&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230207200158&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230206200034&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230206200034&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230206200034&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230205195945&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230205195945&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230205195945&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230204200547&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230204200547&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230204200547&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230203195929&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230203195929&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230203195929&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230202200409&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230202200409&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230202200409&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230201200224&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230201200224&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230201200224&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230131200903&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230131200903&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230131200903&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230130200321&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230130200321&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230130200321&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230129195754&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230129195754&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230129195754&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230128200551&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230128200551&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230128200551&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230127200119&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230127200119&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230127200119&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230126200226&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230126200226&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230126200226&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230125200117&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230125200117&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230125200117&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiotic chromosome organization and its role in recombination and cancer]]></title>
-        <id>pubmed:36681479</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36681479/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230124195847&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chromosomes adopt specific conformations to regulate various cellular processes. A well-documented chromosome configuration is the highly compacted chromosome structure during metaphase. More regional chromatin conformations have also been reported, including topologically associated domains encompassing mega-bases of DNA and local chromatin loops formed by kilo-bases of DNA. In this review, we discuss the changes in chromatin conformation taking place between somatic and meiotic cells, with a...]]></summary>
-        <author>
-            <name>Chris Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epigenetic Modification of Cytosines in Hematopoietic Differentiation and Malignant Transformation]]></title>
-        <id>pubmed:36675240</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36675240/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230124195847&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mammalian DNA methylation landscape is established and maintained by the combined activities of the two key epigenetic modifiers, DNA methyltransferases (DNMT) and Ten-eleven-translocation (TET) enzymes. Once DNMTs produce 5-methylcytosine (5mC), TET proteins fine-tune the DNA methylation status by consecutively oxidizing 5mC to 5-hydroxymethylcytosine (5hmC) and further oxidized derivatives. The 5mC and oxidized methylcytosines are essential for the maintenance of cellular identity and...]]></summary>
-        <author>
-            <name>Jungeun An</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230124195847&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230123200236&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230122195914&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanisms of Acquired Resistance and Tolerance to EGFR Targeted Therapy in Non-Small Cell Lung Cancer]]></title>
-        <id>pubmed:36672453</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/36672453/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230121200342&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-01-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-small cell lung cancers (NSCLC) harboring activating mutations of the epidermal growth factor receptor (EGFR) are treated with specific tyrosine kinase inhibitors (EGFR-TKIs) of this receptor, resulting in clinically responses that can generally last several months. Unfortunately, EGFR-targeted therapy also favors the emergence of drug tolerant or resistant cells, ultimately resulting in tumor relapse. Recently, cellular barcoding strategies have arisen as a powerful tool to investigate the...]]></summary>
-        <author>
-            <name>Houssein Chhouri</name>
         </author>
     </entry>
     <entry>
