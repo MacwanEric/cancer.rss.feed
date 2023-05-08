@@ -210,8 +210,18 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20230506210046&utm_campaign=pubmed-2&fc=20220608003622&v=2.17.9.post6+86293ac&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&ff=20230507205525&utm_source=axios&utm_campaign=pubmed-2&v=2.17.9.post6+86293ac&fc=20220608003622",
       "articles": [
+        {
+          "id": "pubmed:37146604",
+          "author": "Isabelle A van Zeventer",
+          "description": "Knowledge about evolution of clonal hematopoiesis, which may drive malignant progression, is crucial for clinical decision-making. We investigated the landscape of clonal evolution by error-corrected sequencing on 7,045 sequential samples from 3,359 individuals in the prospective population-based Lifelines cohort, with a special focus on cytosis and cytopenia. Spliceosome (SRSF2/U2AF1/SF3B1) and JAK2 mutated clones show highest growth rates over a median 3.6-year period, while clone sizes for...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37146604/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-05-05T10:00:00.000Z",
+          "wordCount": 1664,
+          "title": "Evolutionary landscape of clonal hematopoiesis in 3,359 individuals from the general population",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:37146604",
           "author": "Isabelle A van Zeventer",
@@ -220,6 +230,16 @@
           "publishedOn": "2023-05-05T10:00:00.000Z",
           "wordCount": 1399,
           "title": "Evolutionary landscape of clonal hematopoiesis in 3,359 individuals from the general population",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37140166",
+          "author": "Emily A DeBoy",
+          "description": "CONCLUSIONS: POT1 mutations associated with long telomere length conferred a predisposition to a familial clonal hematopoiesis syndrome that was associated with a range of benign and malignant solid neoplasms. The risk of these phenotypes was mediated by extended cellular longevity and by the capacity to maintain telomeres over time. (Funded by the National Institutes of Health and others.).",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37140166/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-05-04T10:00:00.000Z",
+          "wordCount": 1909,
+          "title": "Familial Clonal Hematopoiesis in a Long Telomere Syndrome",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -250,6 +270,16 @@
           "publishedOn": "2023-05-04T10:00:00.000Z",
           "wordCount": 1547,
           "title": "Familial Clonal Hematopoiesis in a Long Telomere Syndrome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37126548",
+          "author": "Joshua S Weinstock",
+          "description": "Nononcogenic somatic mutations are thought to be uncommon and inconsequential. To test this, we analyzed 43,693 National Heart, Lung and Blood Institute Trans-Omics for Precision Medicine blood whole genomes from 37 cohorts and identified 7131 non-missense somatic mutations that are recurrently mutated in at least 50 individuals. These recurrent non-missense somatic mutations (RNMSMs) are not clearly explained by other clonal phenomena such as clonal hematopoiesis. RNMSM prevalence increased...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37126548/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-05-01T10:00:00.000Z",
+          "wordCount": 5437,
+          "title": "The genetic determinants of recurrent somatic mutations in 43,693 blood genomes",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -316,6 +346,16 @@
           "id": "pubmed:37121869",
           "author": "Jan Vijg",
           "description": "Genomes are inherently unstable and require constant DNA repair to maintain their genetic information. However, selective pressure has optimized repair mechanisms in somatic cells only to allow transmitting genetic information to the next generation, not to maximize sequence integrity long beyond the reproductive age. Recent studies have confirmed that somatic mutations, due to errors during genome repair and replication, accumulate in tissues and organs of humans and model organisms. Here, we...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37121869/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-30T10:00:00.000Z",
+          "wordCount": 1970,
+          "title": "Mitigating age-related somatic mutation burden",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37121869",
+          "author": "Jan Vijg",
+          "description": "Genomes are inherently unstable and require constant DNA repair to maintain their genetic information. However, selective pressure has optimized repair mechanisms in somatic cells only to allow transmitting genetic information to the next generation, not to maximize sequence integrity long beyond the reproductive age. Recent studies have confirmed that somatic mutations, due to errors during genome repair and replication, accumulate in tissues and organs of humans and model organisms. Here, we...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37121869/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230506210046&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-04-30T10:00:00.000Z",
           "wordCount": 1970,
@@ -370,6 +410,16 @@
           "publishedOn": "2023-04-30T10:00:00.000Z",
           "wordCount": 1694,
           "title": "Mitigating age-related somatic mutation burden",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37119011",
+          "author": "Pierre Sujobert",
+          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-29T10:00:00.000Z",
+          "wordCount": 1477,
+          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -450,6 +500,36 @@
           "publishedOn": "2023-04-29T10:00:00.000Z",
           "wordCount": 1213,
           "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37118760",
+          "author": "Olisaemeka D Ogbue",
+          "description": "Isolated chronic idiopathic neutropenia (CIN) is a rare disease with multiple contributing etiologies that must be ruled out before establishing a diagnosis. We studied clinical and molecular data of 238 consecutive adult patients with CIN. Autoimmune neutropenia was present in 28% of our cohort. In contrast, T cell-mediated neutropenia was the main underlying pathological mechanism among patients with T cell expansions, such as T-cell large granular lymphocytic leukemia (T-LGL) and T cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37118760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-28T10:00:00.000Z",
+          "wordCount": 2172,
+          "title": "New approaches to idiopathic neutropenia in the era of clonal hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37117740",
+          "author": "Jimmy Z Liu",
+          "description": "Genetic predisposition has been shown to contribute substantially to the age at which we die. Genome-wide association studies (GWASs) have linked more than 20 loci to phenotypes related to human lifespan¹. However, little is known about how lifespan is impacted by gene loss of function. Through whole-exome sequencing of 352,338 UK Biobank participants of European ancestry, we assessed the relevance of protein-truncating variant (PTV) gene burden on individual and parental survival. We identified...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37117740/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-28T10:00:00.000Z",
+          "wordCount": 2538,
+          "title": "The burden of rare protein-truncating genetic variants on human lifespan",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37115512",
+          "author": "Christopher J Gibson",
+          "description": "CONCLUSIONS: Our data show that for young women with early-stage breast cancer, CHIP is uncommon after cytotoxic exposure, is unlikely to contribute to adverse outcomes over the decade-long follow up and may not require additional monitoring if discovered incidentally.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37115512/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-28T10:00:00.000Z",
+          "wordCount": 1782,
+          "title": "Clonal Hematopoiesis in Young Women Treated for Breast Cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -706,6 +786,16 @@
           "id": "pubmed:37106072",
           "author": "Jin H Bae",
           "description": "Detecting mutations from single DNA molecules is crucial in many fields but challenging. Next-generation sequencing (NGS) affords tremendous throughput but cannot directly sequence double-stranded DNA molecules ('single duplexes') to discern the true mutations on both strands. Here we present Concatenating Original Duplex for Error Correction (CODEC), which confers single duplex resolution to NGS. CODEC affords 1,000-fold higher accuracy than NGS, using up to 100-fold fewer reads than duplex...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37106072/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-27T10:00:00.000Z",
+          "wordCount": 2014,
+          "title": "Single duplex DNA sequencing with CODEC detects mutations with high sensitivity",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37106072",
+          "author": "Jin H Bae",
+          "description": "Detecting mutations from single DNA molecules is crucial in many fields but challenging. Next-generation sequencing (NGS) affords tremendous throughput but cannot directly sequence double-stranded DNA molecules ('single duplexes') to discern the true mutations on both strands. Here we present Concatenating Original Duplex for Error Correction (CODEC), which confers single duplex resolution to NGS. CODEC affords 1,000-fold higher accuracy than NGS, using up to 100-fold fewer reads than duplex...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37106072/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230506210046&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-04-27T10:00:00.000Z",
           "wordCount": 2014,
@@ -790,6 +880,16 @@
           "publishedOn": "2023-04-27T10:00:00.000Z",
           "wordCount": 1721,
           "title": "Single duplex DNA sequencing with CODEC detects mutations with high sensitivity",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37100116",
+          "author": "Michael D Milsom",
+          "description": "Just over one decade ago, it was discovered that hematopoietic stem cells (HSCs) could directly respond to inflammatory cytokines by mounting a proliferative response thought to mediate the emergency production of mature blood cells. In the intervening years, we have gained mechanistic insight into this so-called activation process and have started to learn such a response may come at a cost in terms of ultimately resulting in HSC exhaustion and hematologic dysfunction. In this review article,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37100116/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-26T10:00:00.000Z",
+          "wordCount": 1501,
+          "title": "Recent advances in understanding the impact of infection and inflammation on hematopoietic stem and progenitor cells",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -890,6 +990,16 @@
           "publishedOn": "2023-04-26T10:00:00.000Z",
           "wordCount": 1212,
           "title": "Recent advances in understanding the impact of infection and inflammation on hematopoietic stem and progenitor cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37088956",
+          "author": "Laura Boucai",
+          "description": "CONCLUSIONS: There was no increase in CH in patients treated with RAI over a 2-year follow-up period. Larger studies with longer follow-up periods are needed to investigate the association between RAI and clonal dynamics. The presence of CH is associated with worse structural progression in both BRAFV600E-mutant and wild-type thyroid cancers.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37088956/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-24T10:00:00.000Z",
+          "wordCount": 1731,
+          "title": "Effects of radioactive iodine on clonal hematopoiesis in patients with thyroid cancer: A prospective study",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -1026,6 +1136,16 @@
           "id": "pubmed:37086813",
           "author": "Koki Ueda",
           "description": "Acute myeloid leukemia (AML) is a fatal disease resulting from preleukemic hematopoietic conditions, including asymptomatic clonal hematopoiesis. The accumulation of genetic changes is one of the causes of leukemic transformation. However, nongenetic factors, including the overexpression of specific genes also contribute to preleukemic to leukemic transition. Among them, the p53 inhibitor murine double minute X (MDMX) plays crucial roles, especially in leukemia initiation. MDMX is broadly...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37086813/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-22T10:00:00.000Z",
+          "wordCount": 1622,
+          "title": "Murine double minute X plays a central role in leukemic transformation and may be a promising target for leukemia prevention strategies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37086813",
+          "author": "Koki Ueda",
+          "description": "Acute myeloid leukemia (AML) is a fatal disease resulting from preleukemic hematopoietic conditions, including asymptomatic clonal hematopoiesis. The accumulation of genetic changes is one of the causes of leukemic transformation. However, nongenetic factors, including the overexpression of specific genes also contribute to preleukemic to leukemic transition. Among them, the p53 inhibitor murine double minute X (MDMX) plays crucial roles, especially in leukemia initiation. MDMX is broadly...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37086813/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230506210046&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-04-22T10:00:00.000Z",
           "wordCount": 1615,
@@ -1140,6 +1260,36 @@
           "publishedOn": "2023-04-22T10:00:00.000Z",
           "wordCount": 1613,
           "title": "Review: MDMX plays a central role in leukemic transformation and may be a promising target for leukemia prevention strategies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37084382",
+          "author": "Fernanda Gutierrez-Rodrigues",
+          "description": "VEXAS is caused by somatic mutations in UBA1 (UBA1mut) and characterized by heterogenous systemic auto-inflammation and progressive hematologic manifestations, meeting criteria for myelodysplastic syndrome (MDS) and plasma cell dyscrasias. The landscape of myeloid-related gene mutations leading to typical clonal hematopoiesis (CH) in these patients is unknown. Retrospectively, we screened 80 VEXAS patients for CH in their peripheral blood (PB) and correlated findings with clinical outcomes in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37084382/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-21T10:00:00.000Z",
+          "wordCount": 2093,
+          "title": "Spectrum of clonal hematopoiesis in VEXAS syndrome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37084069",
+          "author": "Yuki Sato",
+          "description": "Myelodysplastic neoplasms (MDS) are defined by cytopenia and morphologic dysplasia originating from clonal hematopoiesis. They are also frequently complicated with diseases caused by immune dysfunction, such as Behçet's disease (BD) and secondary pulmonary alveolar proteinosis (sPAP). MDS with both BD and sPAP is extremely rare, and their prognosis is poor. In addition, haploinsufficiency of the hematopoietic transcription factor gene GATA2 is recognized as a cause of familial MDS and is...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37084069/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-21T10:00:00.000Z",
+          "wordCount": 1875,
+          "title": "Successful allogeneic hematopoietic stem cell transplantation for myelodysplastic neoplasms complicated with secondary pulmonary alveolar proteinosis and Behçet's disease harboring GATA2 mutation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37083525",
+          "author": "Ahmed A Z Dawoud",
+          "description": "Mosaic loss of the Y-chromosome (LOY) in peripheral blood leukocytes is the most common somatic alteration in men and linked to wide range of malignant and nonmalignant conditions. LOY is associated with age, smoking, and constitutional genetics. Here, we aimed to assess the relationships between LOY, serum biomarkers, and clonal hematopoiesis (CH). LOY in U.K. Biobank was strongly associated with levels of sex hormone binding globulin (SHBG), a key regulator of testosterone bioavailability....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37083525/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-21T10:00:00.000Z",
+          "wordCount": 2823,
+          "title": "Age-related loss of chromosome Y is associated with levels of sex hormone binding globulin and clonal hematopoiesis defined by <em>TET2</em>, <em>TP53</em>, and <em>CBL</em> mutations",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8121,104 +8271,54 @@
           "wordCount": 1450,
           "title": "Human Immunodeficiency Virus and Clonal Hematopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36891574",
-          "author": "Sung-Eun Lee",
-          "description": "Myelofibrosis (MF) includes primary MF, post-essential thrombocythemia MF, and post-polycythemia vera MF. MF is a progressive myeloid neoplasm characterized by ineffective clonal hematopoiesis, extramedullary hematopoiesis, a reactive bone marrow environment resulting in reticulin deposition and fibrosis, and a propensity for leukemia transformation. The identification of driver mutations in JAK2, CALR, and MPL has contributed to a better understanding of disease pathogenesis and has led to the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36891574/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230318210719&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-03-09T11:00:00.000Z",
-          "wordCount": 1447,
-          "title": "Novel therapeutics for myelofibrosis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36891574",
-          "author": "Sung-Eun Lee",
-          "description": "Myelofibrosis (MF) includes primary MF, post-essential thrombocythemia MF, and post-polycythemia vera MF. MF is a progressive myeloid neoplasm characterized by ineffective clonal hematopoiesis, extramedullary hematopoiesis, a reactive bone marrow environment resulting in reticulin deposition and fibrosis, and a propensity for leukemia transformation. The identification of driver mutations in JAK2, CALR, and MPL has contributed to a better understanding of disease pathogenesis and has led to the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36891574/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230317205959&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-03-09T11:00:00.000Z",
-          "wordCount": 1447,
-          "title": "Novel therapeutics for myelofibrosis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36891574",
-          "author": "Sung-Eun Lee",
-          "description": "Myelofibrosis (MF) includes primary MF, post-essential thrombocythemia MF, and post-polycythemia vera MF. MF is a progressive myeloid neoplasm characterized by ineffective clonal hematopoiesis, extramedullary hematopoiesis, a reactive bone marrow environment resulting in reticulin deposition and fibrosis, and a propensity for leukemia transformation. The identification of driver mutations in JAK2, CALR, and MPL has contributed to a better understanding of disease pathogenesis and has led to the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36891574/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230316210129&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-03-09T11:00:00.000Z",
-          "wordCount": 1447,
-          "title": "Novel therapeutics for myelofibrosis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36891574",
-          "author": "Sung-Eun Lee",
-          "description": "Myelofibrosis (MF) includes primary MF, post-essential thrombocythemia MF, and post-polycythemia vera MF. MF is a progressive myeloid neoplasm characterized by ineffective clonal hematopoiesis, extramedullary hematopoiesis, a reactive bone marrow environment resulting in reticulin deposition and fibrosis, and a propensity for leukemia transformation. The identification of driver mutations in JAK2, CALR, and MPL has contributed to a better understanding of disease pathogenesis and has led to the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36891574/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230315210334&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-03-09T11:00:00.000Z",
-          "wordCount": 1447,
-          "title": "Novel therapeutics for myelofibrosis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36891574",
-          "author": "Sung-Eun Lee",
-          "description": "Myelofibrosis (MF) includes primary MF, post-essential thrombocythemia MF, and post-polycythemia vera MF. MF is a progressive myeloid neoplasm characterized by ineffective clonal hematopoiesis, extramedullary hematopoiesis, a reactive bone marrow environment resulting in reticulin deposition and fibrosis, and a propensity for leukemia transformation. The identification of driver mutations in JAK2, CALR, and MPL has contributed to a better understanding of disease pathogenesis and has led to the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36891574/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230314210149&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-03-09T11:00:00.000Z",
-          "wordCount": 1447,
-          "title": "Novel therapeutics for myelofibrosis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36891574",
-          "author": "Sung-Eun Lee",
-          "description": "Myelofibrosis (MF) includes primary MF, post-essential thrombocythemia MF, and post-polycythemia vera MF. MF is a progressive myeloid neoplasm characterized by ineffective clonal hematopoiesis, extramedullary hematopoiesis, a reactive bone marrow environment resulting in reticulin deposition and fibrosis, and a propensity for leukemia transformation. The identification of driver mutations in JAK2, CALR, and MPL has contributed to a better understanding of disease pathogenesis and has led to the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36891574/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230312210147&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-03-09T11:00:00.000Z",
-          "wordCount": 1447,
-          "title": "Novel therapeutics for myelofibrosis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36891574",
-          "author": "Sung-Eun Lee",
-          "description": "Myelofibrosis (MF) includes primary MF, post-essential thrombocythemia MF, and post-polycythemia vera MF. MF is a progressive myeloid neoplasm characterized by ineffective clonal hematopoiesis, extramedullary hematopoiesis, a reactive bone marrow environment resulting in reticulin deposition and fibrosis, and a propensity for leukemia transformation. The identification of driver mutations in JAK2, CALR, and MPL has contributed to a better understanding of disease pathogenesis and has led to the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36891574/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230311200544&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-03-09T11:00:00.000Z",
-          "wordCount": 1415,
-          "title": "Novel therapeutics for myelofibrosis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36891574",
-          "author": "Sung-Eun Lee",
-          "description": "Myelofibrosis (MF) includes primary MF, post-essential thrombocythemia MF, and post-polycythemia vera MF. MF is a progressive myeloid neoplasm characterized by ineffective clonal hematopoiesis, extramedullary hematopoiesis, a reactive bone marrow environment resulting in reticulin deposition and fibrosis, and a propensity for leukemia transformation. The identification of driver mutations in JAK2, CALR, and MPL has contributed to a better understanding of disease pathogenesis and has led to the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36891574/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230310195643&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-03-09T11:00:00.000Z",
-          "wordCount": 1176,
-          "title": "Novel therapeutics for myelofibrosis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:36891574",
-          "author": "Sung-Eun Lee",
-          "description": "Myelofibrosis (MF) includes primary MF, post-essential thrombocythemia MF, and post-polycythemia vera MF. MF is a progressive myeloid neoplasm characterized by ineffective clonal hematopoiesis, extramedullary hematopoiesis, a reactive bone marrow environment resulting in reticulin deposition and fibrosis, and a propensity for leukemia transformation. The identification of driver mutations in JAK2, CALR, and MPL has contributed to a better understanding of disease pathogenesis and has led to the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/36891574/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230309200611&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-03-09T11:00:00.000Z",
-          "wordCount": 1152,
-          "title": "Novel therapeutics for myelofibrosis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&ff=20230506210046&v=2.17.9.post6+86293ac&fc=20220608010801&utm_medium=rss&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&utm_source=axios&utm_medium=rss&v=2.17.9.post6+86293ac&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525",
       "articles": [
+        {
+          "id": "pubmed:37149862",
+          "author": "Claudia Garcia-Diaz",
+          "description": "Glioblastoma (GBM) recurrence originates from invasive margin cells that escape surgical debulking, but to what extent these cells resemble their bulk counterparts remains unclear. Here, we generated three immunocompetent somatic GBM mouse models, driven by subtype-associated mutations, to compare matched bulk and margin cells. We find that, regardless of mutations, tumors converge on common sets of neural-like cellular states. However, bulk and margin have distinct biology. Injury-like programs...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37149862/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-05-07T10:00:00.000Z",
+          "wordCount": 1649,
+          "title": "Glioblastoma cell fate is differentially regulated by the microenvironments of the tumor bulk and infiltrative margin",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37146586",
+          "author": "Sven Turkalj",
+          "description": "Understanding clonal evolution and cancer development requires experimental approaches for characterizing the consequences of somatic mutations on gene regulation. However, no methods currently exist that efficiently link high-content chromatin accessibility with high-confidence genotyping in single cells. To address this, we developed Genotyping with the Assay for Transposase-Accessible Chromatin (GTAC), enabling accurate mutation detection at multiple amplified loci, coupled with robust...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37146586/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-05-05T10:00:00.000Z",
+          "wordCount": 1812,
+          "title": "GTAC enables parallel genotyping of multiple genomic loci with chromatin accessibility profiling in single cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37146250",
+          "author": "Jasneet Kaur Khalsa",
+          "description": "Although BCL2 mutations are reported as later occurring events leading to venetoclax resistance, many other mechanisms of progression have been reported but remain poorly understood. Here we analyze longitudinal tumor samples from eleven patients with disease progression on venetoclax to characterize the clonal evolution of resistance. All patients tested showed increased in vitro resistance to venetoclax at their post-treatment timepoint. We found the previously described acquired BCL2-G101V...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37146250/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-05-05T10:00:00.000Z",
+          "wordCount": 2039,
+          "title": "Genetic events associated with venetoclax resistance in CLL identified by whole exome sequencing of patient samples",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37143651",
+          "author": "Franziska Darzentas",
+          "description": "INTRODUCTION: The malignant transformation leading to a maturation arrest in B-cell precursor acute lymphoblastic leukemia (BCP-ALL) occurs early in B-cell development, in a pro-B or pre-B cell, when somatic recombination of variable (V), diversity (D), and joining (J) segment immunoglobulin (IG) genes and the B-cell rescue mechanism of V(H) replacement might be ongoing or fully active, driving clonal evolution. In this study of newly diagnosed BCP-ALL, we sought to understand the mechanistic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37143651/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-05-05T10:00:00.000Z",
+          "wordCount": 3102,
+          "title": "Insights into IGH clonal evolution in BCP-ALL: frequency, mechanisms, associations, and diagnostic implications",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:37146586",
           "author": "Sven Turkalj",
@@ -8267,6 +8367,26 @@
           "publishedOn": "2023-05-05T10:00:00.000Z",
           "wordCount": 2846,
           "title": "Insights into IGH clonal evolution in BCP-ALL: frequency, mechanisms, associations, and diagnostic implications",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37140929",
+          "author": "Bahar Rastegar",
+          "description": "CONCLUSIONS: WTs with DA display significantly more complex phylogenies compared to non-DA WTs, including features of saltatory and parallel evolution. The subclonal landscape of individual tumors was constrained by anatomic compartments, which should be considered when sampling tissue for precision diagnostics.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37140929/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-05-04T10:00:00.000Z",
+          "wordCount": 1672,
+          "title": "Resolving the pathogenesis of anaplastic Wilms tumors through spatial mapping of cancer cell evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37139709",
+          "author": "Anna Hinze",
+          "description": "Classical myeloproliferative neoplasms (MPNs) are characterized by distinct clinical phenotypes. The discovery of driver mutations in JAK2, CALR and MPL genes provided new insights into their pathogenesis. Next-generation sequencing (NGS) identified additional somatic mutations, most frequently in epigenetic modulator genes. In this study, a cohort of 95 MPN patients was genetically characterized using targeted NGS. Clonal hierarchies of detected mutations were subsequently analysed using colony...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37139709/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-05-04T10:00:00.000Z",
+          "wordCount": 1666,
+          "title": "Molecular-defined clonal evolution in patients with classical myeloproliferative neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8333,6 +8453,16 @@
           "id": "pubmed:37133448",
           "author": "Niccolo Roda",
           "description": "Metastatic breast cancer (BC) has a poor prognosis and is largely considered incurable. A better understanding of the molecular determinants of BC metastasis could facilitate development of improved prevention and treatment strategies. We used lentiviral barcoding coupled to single-cell RNA sequencing to trace clonal and transcriptional evolution during BC metastasis and showed that metastases derive from rare pro-metastatic clones that are under-represented in primary tumors. Both low clonal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37133448/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-05-03T10:00:00.000Z",
+          "wordCount": 1624,
+          "title": "A rare subset of primary tumor cells with concomitant hyper-activation of extracellular matrix remodeling and dsRNA-IFN1 signaling metastasizes in breast cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37133448",
+          "author": "Niccolo Roda",
+          "description": "Metastatic breast cancer (BC) has a poor prognosis and is largely considered incurable. A better understanding of the molecular determinants of BC metastasis could facilitate development of improved prevention and treatment strategies. We used lentiviral barcoding coupled to single-cell RNA sequencing to trace clonal and transcriptional evolution during BC metastasis and showed that metastases derive from rare pro-metastatic clones that are under-represented in primary tumors. Both low clonal...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37133448/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230506210046&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-05-03T10:00:00.000Z",
           "wordCount": 1624,
@@ -8373,6 +8503,16 @@
           "id": "pubmed:37131267",
           "author": "Jiayu Liang",
           "description": "CONCLUSIONS: Overall, our study demonstrated the genomic, epigenomic, and transcriptomic features of metastatic lesions in FH-RCC and revealed their early evolutionary trajectory. These results provided multi-omics evidence portraying the progression of FH-RCC.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37131267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-05-02T10:00:00.000Z",
+          "wordCount": 3491,
+          "title": "Genomic and transcriptomic features between primary and paired metastatic fumarate hydratase-deficient renal cell carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37131267",
+          "author": "Jiayu Liang",
+          "description": "CONCLUSIONS: Overall, our study demonstrated the genomic, epigenomic, and transcriptomic features of metastatic lesions in FH-RCC and revealed their early evolutionary trajectory. These results provided multi-omics evidence portraying the progression of FH-RCC.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37131267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230506210046&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-05-02T10:00:00.000Z",
           "wordCount": 3488,
@@ -8407,6 +8547,26 @@
           "publishedOn": "2023-05-02T10:00:00.000Z",
           "wordCount": 2963,
           "title": "Genomic and transcriptomic features between primary and paired metastatic fumarate hydratase-deficient renal cell carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37105856",
+          "author": "Kennedy K Howland",
+          "description": "Genomic DNA barcoding has emerged as a sensitive and flexible tool to measure the fates of clonal subpopulations within a heterogeneous cancer cell population. Coupling cellular barcoding with single-cell transcriptomics permits the longitudinal analysis of molecular mechanisms with detailed clone-level resolution. Numerous recent studies have employed these tools to track clonal cell states in cancer progression and treatment response. With these new technologies comes the opportunity to...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37105856/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-27T10:00:00.000Z",
+          "wordCount": 1362,
+          "title": "Cellular barcoding tracks heterogeneous clones through selective pressures and phenotypic transitions",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37105769",
+          "author": "Ya-Hong Cao",
+          "description": "A tumor's heterogeneity has important implications in terms of its clonal origin, progression, stemness, and drug resistance. Therefore, because of its significance in treatment, it is important to understand the gene expression pattern of a single cell, track gene expression or mutation in heterogeneous cells, evaluate the clonal origin of cancer cells, and determine the selective evolution of different subpopulations of cancer cells. Researchers are able to trace a cell's mutation and identify...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37105769/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-27T10:00:00.000Z",
+          "wordCount": 1889,
+          "title": "Deciphering cell-cell interactions and communication in the tumor microenvironment and unraveling intratumoral genetic heterogeneity via single-cell genomic sequencing",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8587,6 +8747,26 @@
           "publishedOn": "2023-04-27T10:00:00.000Z",
           "wordCount": 1435,
           "title": "Deciphering cell-cell interactions and communication in the tumor microenvironment and unraveling intratumoral genetic heterogeneity via single-cell genomic sequencing",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37092904",
+          "author": "Michael S Lee",
+          "description": "Assays to detect circulating tumor DNA (ctDNA) have multiple clinically important applications in management of multiple types of gastrointestinal cancers. Different methodologies of ctDNA detection have varying sensitivities and potential applications in different contexts. For patients with localized cancers treated for curative intent, ctDNA detection is associated with prognosis in multiple cancer types, and persistent detection of ctDNA after surgical resection is highly concerning for...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37092904/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-24T10:00:00.000Z",
+          "wordCount": 1429,
+          "title": "The emerging role of circulating tumor DNA in non-colorectal gastrointestinal cancers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37090647",
+          "author": "Adam C Weiner",
+          "description": "DNA replication is a highly coordinated cell cycle process that can become dysregulated in cancer, increasing both proliferation and mutation rates. Single-cell whole genome sequencing holds potential for studying replication dynamics of cancer cells; however, computational methods for identifying S-phase cells and inferring single-cell replication timing profiles remain immature for samples with heterogeneous copy number. Here we report a new method, PERT, which jointly infers replication and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37090647/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-24T10:00:00.000Z",
+          "wordCount": 2622,
+          "title": "Modeling single cell DNA replication dynamics and aneuploidy in genomically unstable cancers",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8843,6 +9023,16 @@
           "id": "pubmed:37086716",
           "author": "Clare E Weeden",
           "description": "Tissue-resident memory T (T(RM)) cells provide immune defense against local infection and can inhibit cancer progression. However, it is unclear to what extent chronic inflammation impacts T(RM) activation and whether T(RM) cells existing in tissues before tumor onset influence cancer evolution in humans. We performed deep profiling of healthy lungs and lung cancers in never-smokers (NSs) and ever-smokers (ESs), finding evidence of enhanced immunosurveillance by cells with a T(RM)-like phenotype...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37086716/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-22T10:00:00.000Z",
+          "wordCount": 2913,
+          "title": "Early immune pressure initiated by tissue-resident memory T cells sculpts tumor evolution in non-small cell lung cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37086716",
+          "author": "Clare E Weeden",
+          "description": "Tissue-resident memory T (T(RM)) cells provide immune defense against local infection and can inhibit cancer progression. However, it is unclear to what extent chronic inflammation impacts T(RM) activation and whether T(RM) cells existing in tissues before tumor onset influence cancer evolution in humans. We performed deep profiling of healthy lungs and lung cancers in never-smokers (NSs) and ever-smokers (ESs), finding evidence of enhanced immunosurveillance by cells with a T(RM)-like phenotype...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37086716/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230506210046&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-04-22T10:00:00.000Z",
           "wordCount": 2906,
@@ -8957,6 +9147,26 @@
           "publishedOn": "2023-04-22T10:00:00.000Z",
           "wordCount": 2902,
           "title": "Early immune pressure initiated by tissue-resident memory T cells sculpts tumor evolution in non-small cell lung cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37081523",
+          "author": "Ariana Huebner",
+          "description": "CONCLUSIONS: This work demonstrates the power of haplotype phasing to study genomic variation in cfDNA samples and reveals undiscovered intra-tumour heterogeneity with important scientific and clinical implications. Implementation of ACT-Discover could lead to important insights from existing cohorts or underpin future prospective studies seeking to characterise the landscape of tumour evolution through liquid biopsy.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37081523/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-20T10:00:00.000Z",
+          "wordCount": 3359,
+          "title": "ACT-Discover: identifying karyotype heterogeneity in pancreatic cancer evolution using ctDNA",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37079068",
+          "author": "Daniele Cattaneo",
+          "description": "Here, we reviewed clinical-morphological data and investigated mutational profiles by NGS in a single-center series of 58 consecutive MPN-SVT patients admitted to our hospital between January 1979 and November 2021. We identified 15.5% of PV, 13.8% of ET, 34.5% of PMF, 8.6% of SMF and 27.6% of MPN-U. Most cases (84.5%) carried JAK2V617F mutation, while seven patients were characterized by other molecular markers, namely MPL in four and CALR mutations in three cases. NGS was performed in 54...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37079068/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230507205525&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-04-20T10:00:00.000Z",
+          "wordCount": 2034,
+          "title": "Pathological and genomic features of myeloproliferative neoplasms associated with splanchnic vein thrombosis in a single-center cohort",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
