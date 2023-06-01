@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2023-05-31T01:05:43.155Z</updated>
+    <updated>2023-06-01T01:19:11.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The impact of prenatal inflammation on hematopoietic development]]></title>
+        <id>pubmed:37254855</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37254855/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PURPOSE OF REVIEW: Inflammation is now recognized as a major regulator of hematopoietic stem cell (HSC) function. Adult hematopoietic stem cells can adaptively modulate hematopoietic output in direct response to acute infection and inflammation. Conversely, prolonged exposure to inflammation can drive impaired HSC function, clonal expansion, and malignant transformation. As compared with adult hematopoiesis, the effects of prenatal inflammation on developing hematopoietic stem cells are...]]></summary>
+        <author>
+            <name>Nicole A Tseng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIRRM/C1orf112 mediates resolution of homologous recombination intermediates in response to DNA interstrand crosslinks]]></title>
+        <id>pubmed:37256941</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37256941/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DNA interstrand crosslinks (ICLs) pose a major obstacle for DNA replication and transcription if left unrepaired. The cellular response to ICLs requires the coordination of various DNA repair mechanisms. Homologous recombination (HR) intermediates generated in response to ICLs, require efficient and timely conversion by structure-selective endonucleases. Our knowledge on the precise coordination of this process remains incomplete. Here, we designed complementary genetic screens to map the...]]></summary>
+        <author>
+            <name>Abdelghani Mazouzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genetic heterogeneity in p53-null leukemia increases transiently with spindle assembly checkpoint inhibition and is not rescued by p53]]></title>
+        <id>pubmed:37256347</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37256347/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chromosome gains or losses often lead to copy number variations (CNV) and loss of heterozygosity (LOH). Both quantities are low in hematologic "liquid" cancers versus solid tumors in data of The Cancer Genome Atlas (TCGA) that also shows the fraction of a genome affected by LOH is ~ one-half of that with CNV. Suspension cultures of p53-null THP-1 leukemia-derived cells conform to these trends, despite novel evidence here of genetic heterogeneity and transiently elevated CNV after perturbation....]]></summary>
+        <author>
+            <name>Mai Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nore1 inhibits age-associated myeloid lineage skewing and clonal hematopoiesis, but facilitates termination of emergency (stress) granulopoiesis]]></title>
+        <id>pubmed:37247756</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37247756/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Age-associated bone marrow changes include myeloid skewing and mutations that lead to clonal hematopoiesis. Molecular mechanisms for these events are ill-defined, but decreased expression of Irf8/Icsbp (interferon regulatory factor 8/interferon consensus sequence binding protein) in aging hematopoietic stem cells (HSCs) may contribute. Irf8 functions as a leukemia suppressor for chronic myeloid leukemia (CML), and young Irf8^(-/-) mice have neutrophilia with progression to acute myeloid leukemia...]]></summary>
+        <author>
+            <name>Olatundun Williams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nore1 inhibits age-associated myeloid lineage skewing and clonal hematopoiesis, but facilitates termination of emergency (stress) granulopoiesis]]></title>
         <id>pubmed:37247756</id>
@@ -14,6 +54,26 @@
         <summary type="html"><![CDATA[Age-associated bone marrow changes include myeloid skewing and mutations that lead to clonal hematopoiesis. Molecular mechanisms for these events are ill-defined, but decreased expression of Irf8/Icsbp (interferon regulatory factor 8/interferon consensus sequence binding protein) in aging hematopoietic stem cells (HSCs) may contribute. Irf8 functions as a leukemia suppressor for chronic myeloid leukemia (CML), and young Irf8^(-/-) mice have neutrophilia with progression to acute myeloid leukemia...]]></summary>
         <author>
             <name>Olatundun Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latest Findings on the Mechanism of the Interaction Between Multiple Myeloma Cells and Bone Marrow Microenvironment]]></title>
+        <id>pubmed:37248571</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37248571/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple myeloma (MM) is a hematologic malignancy of terminally differentiated plasma cells. The mechanisms of the pathogenesis and progression of MM include genetic abnormalities of the MM cells and the interaction between MM cells and bone marrow microenvironment (BMME). MM cells start malignant proliferation in BMME and contribute to the pathogenesis and progression of MM through direct or indirect interactions between cells and the extracellular matrix. Exploring the mechanism of interaction...]]></summary>
+        <author>
+            <name>Ni-Han He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clinical and translational relevance of intratumor heterogeneity]]></title>
+        <id>pubmed:37248149</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37248149/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intratumor heterogeneity (ITH) is a driver of tumor evolution and a main cause of therapeutic resistance. Despite its importance, measures of ITH are still not incorporated into clinical practice. Consequently, standard treatment is frequently ineffective for patients with heterogeneous tumors as changes to treatment regimens are made only after recurrence and disease progression. More effective combination therapies require a mechanistic understanding of ITH and ways to assess it in clinical...]]></summary>
+        <author>
+            <name>Marie-Anne Goyette</name>
         </author>
     </entry>
     <entry>
@@ -34,6 +94,26 @@
         <summary type="html"><![CDATA[Intratumor heterogeneity (ITH) is a driver of tumor evolution and a main cause of therapeutic resistance. Despite its importance, measures of ITH are still not incorporated into clinical practice. Consequently, standard treatment is frequently ineffective for patients with heterogeneous tumors as changes to treatment regimens are made only after recurrence and disease progression. More effective combination therapies require a mechanistic understanding of ITH and ways to assess it in clinical...]]></summary>
         <author>
             <name>Marie-Anne Goyette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEP promoter methylation in the initiation and progression of clonal cytopenia of undetermined significance and myelodysplastic syndrome]]></title>
+        <id>pubmed:37237325</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37237325/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: In conclusion, hypermethylation of the LEP promoter is an early and frequent event in myeloid neoplasms and is associated with a worse prognosis.]]></summary>
+        <author>
+            <name>Katja Kaastrup</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Association between genetically determined telomere length and health-related outcomes: A systematic review and meta-analysis of Mendelian randomization studies]]></title>
+        <id>pubmed:37232505</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37232505/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Emerging evidence has shown that leukocyte telomere length (LTL) is associated with various health-related outcomes, while the causality of these associations remains unclear. We performed a systematic review and meta-analysis of current evidence from Mendelian randomization (MR) studies on the association between LTL and health-related outcomes. We searched PubMed, Embase, and Web of Science up to April 2022 to identify eligible MR studies. We graded the evidence level of each MR association...]]></summary>
+        <author>
+            <name>Boran Chen</name>
         </author>
     </entry>
     <entry>
@@ -109,6 +189,16 @@
     <entry>
         <title type="html"><![CDATA[LEP promoter methylation in the initiation and progression of clonal cytopenia of undetermined significance and myelodysplastic syndrome]]></title>
         <id>pubmed:37237325</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37237325/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: In conclusion, hypermethylation of the LEP promoter is an early and frequent event in myeloid neoplasms and is associated with a worse prognosis.]]></summary>
+        <author>
+            <name>Katja Kaastrup</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEP promoter methylation in the initiation and progression of clonal cytopenia of undetermined significance and myelodysplastic syndrome]]></title>
+        <id>pubmed:37237325</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37237325/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230530210538&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-05-26T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSION: In conclusion, hypermethylation of the LEP promoter is an early and frequent event in myeloid neoplasms and is associated with a worse prognosis.]]></summary>
@@ -124,6 +214,16 @@
         <summary type="html"><![CDATA[CONCLUSION: In conclusion, hypermethylation of the LEP promoter is an early and frequent event in myeloid neoplasms and is associated with a worse prognosis.]]></summary>
         <author>
             <name>Katja Kaastrup</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inflammasomes and Atherosclerosis: a Mixed Picture]]></title>
+        <id>pubmed:37228237</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37228237/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The CANTOS (Canakinumab Anti-inflammatory Thrombosis Outcome Study) and colchicine trials suggest an important role of inflammasomes and their major product IL-1β (interleukin 1β) in human atherosclerotic cardiovascular disease. Moreover, studies in mouse models indicate a causal role of inflammasomes and IL-1β in atherosclerosis. However, recent studies have led to a more granular view of the role of inflammasomes in atherosclerosis. Studies in hyperlipidemic mouse models suggest that prominent...]]></summary>
+        <author>
+            <name>Alan R Tall</name>
         </author>
     </entry>
     <entry>
@@ -184,6 +284,26 @@
         <summary type="html"><![CDATA[The CANTOS (Canakinumab Anti-inflammatory Thrombosis Outcome Study) and colchicine trials suggest an important role of inflammasomes and their major product IL-1β (interleukin 1β) in human atherosclerotic cardiovascular disease. Moreover, studies in mouse models indicate a causal role of inflammasomes and IL-1β in atherosclerosis. However, recent studies have led to a more granular view of the role of inflammasomes in atherosclerosis. Studies in hyperlipidemic mouse models suggest that prominent...]]></summary>
         <author>
             <name>Alan R Tall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case Report: First longitudinal study of a patient with CALR positive clonal hematopoiesis of indeterminate potential developing into pre-fibrotic myelofibrosis]]></title>
+        <id>pubmed:37223675</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37223675/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Initial diagnosis of overt myeloproliferative neoplasms (MPNs) represents the juncture during clonal evolution when symptoms or complications prompt an afflicted individual to seek medical attention. In 30-40% of the MPN subgroups essential thrombocythemia (ET) and myelofibrosis (MF), somatic mutations in the calreticulin gene (CALR) are drivers of the disease resulting in constitutive activation of the thrombopoietin receptor (MPL). In the current study, we describe a healthy CALR mutated...]]></summary>
+        <author>
+            <name>Lasse Kjær</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malignant clonal evolution from high proportion of monocytes in patients with aplastic anemia: a case report]]></title>
+        <id>pubmed:37223330</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37223330/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: The proportion of monocytes in the blood and bone marrow of AA patients should be closely monitored. Hematopoietic stem cell transplantation (HSCT) should be performed as early as possible once monocytes continue to increase or are associated with phenotypic abnormalities or genetic mutations. The unique value of this study is that although there were case reports about AA-derived acute leukemia, we suggested that an early high proportion of monocytes may predict malignant clonal...]]></summary>
+        <author>
+            <name>Qiuhao Fu</name>
         </author>
     </entry>
     <entry>
@@ -329,6 +449,26 @@
     <entry>
         <title type="html"><![CDATA[Synergistic inter-clonal cooperation involving crosstalk, co-option and co-dependency can enhance the invasiveness of genetically distant cancer clones]]></title>
         <id>pubmed:37226092</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37226092/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Based on our findings, we propose a model in which crosstalk, co-option, and co-dependency can facilitate the evolution of synergistic cooperative interactions between genetically distant clones. Specifically, we suggest that synergistic cooperative interactions can easily emerge, regardless of the degree of overall genetic/genealogical relatedness, via crosstalk involving metastatic clones able to constitutively secrete molecules that induce and maintain their own malignant state...]]></summary>
+        <author>
+            <name>Caroline S Carneiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case Report: First longitudinal study of a patient with CALR positive clonal hematopoiesis of indeterminate potential developing into pre-fibrotic myelofibrosis]]></title>
+        <id>pubmed:37223675</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37223675/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Initial diagnosis of overt myeloproliferative neoplasms (MPNs) represents the juncture during clonal evolution when symptoms or complications prompt an afflicted individual to seek medical attention. In 30-40% of the MPN subgroups essential thrombocythemia (ET) and myelofibrosis (MF), somatic mutations in the calreticulin gene (CALR) are drivers of the disease resulting in constitutive activation of the thrombopoietin receptor (MPL). In the current study, we describe a healthy CALR mutated...]]></summary>
+        <author>
+            <name>Lasse Kjær</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synergistic inter-clonal cooperation involving crosstalk, co-option and co-dependency can enhance the invasiveness of genetically distant cancer clones]]></title>
+        <id>pubmed:37226092</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37226092/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230530210538&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-05-24T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: Based on our findings, we propose a model in which crosstalk, co-option, and co-dependency can facilitate the evolution of synergistic cooperative interactions between genetically distant clones. Specifically, we suggest that synergistic cooperative interactions can easily emerge, regardless of the degree of overall genetic/genealogical relatedness, via crosstalk involving metastatic clones able to constitutively secrete molecules that induce and maintain their own malignant state...]]></summary>
@@ -459,6 +599,16 @@
     <entry>
         <title type="html"><![CDATA[Clonal Hematopoiesis in Myeloproliferative Neoplasms Confers a Predisposition to both Thrombosis and Cancer]]></title>
         <id>pubmed:37221411</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37221411/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PURPOSE OF REVIEW: This review focuses on vascular complications associated with chronic myeloproliferative neoplasms (MPN) and more specifically aims to discuss the clinical and biological evidence supporting the existence of a link between clonal hematopoiesis, cardiovascular events (CVE), and solid cancer (SC).]]></summary>
+        <author>
+            <name>Tiziano Barbui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis in Myeloproliferative Neoplasms Confers a Predisposition to both Thrombosis and Cancer]]></title>
+        <id>pubmed:37221411</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37221411/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230530210538&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-05-23T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[PURPOSE OF REVIEW: This review focuses on vascular complications associated with chronic myeloproliferative neoplasms (MPN) and more specifically aims to discuss the clinical and biological evidence supporting the existence of a link between clonal hematopoiesis, cardiovascular events (CVE), and solid cancer (SC).]]></summary>
@@ -524,6 +674,26 @@
         <summary type="html"><![CDATA[PURPOSE OF REVIEW: This review focuses on vascular complications associated with chronic myeloproliferative neoplasms (MPN) and more specifically aims to discuss the clinical and biological evidence supporting the existence of a link between clonal hematopoiesis, cardiovascular events (CVE), and solid cancer (SC).]]></summary>
         <author>
             <name>Tiziano Barbui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis in Myeloproliferative Neoplasms Confers a Predisposition to both Thrombosis and Cancer]]></title>
+        <id>pubmed:37221411</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37221411/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PURPOSE OF REVIEW: This review focuses on vascular complications associated with chronic myeloproliferative neoplasms (MPN) and more specifically aims to discuss the clinical and biological evidence supporting the existence of a link between clonal hematopoiesis, cardiovascular events (CVE), and solid cancer (SC).]]></summary>
+        <author>
+            <name>Tiziano Barbui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatial and temporal intra-tumoral heterogeneity in advanced HGSOC: Implications for surgical and clinical outcomes]]></title>
+        <id>pubmed:37220750</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37220750/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Limited evidence exists on the impact of spatial and temporal heterogeneity of high-grade serous ovarian cancer (HGSOC) on tumor evolution, clinical outcomes, and surgical operability. We perform systematic multi-site tumor mapping at presentation and matched relapse from 49 high-tumor-burden patients, operated up front. From SNP array-derived copy-number data, we categorize dendrograms representing tumor clonal evolution as sympodial or dichotomous, noting most chemo-resistant patients favor...]]></summary>
+        <author>
+            <name>Paula Cunnea</name>
         </author>
     </entry>
     <entry>
@@ -664,6 +834,26 @@
         <summary type="html"><![CDATA[Limited evidence exists on the impact of spatial and temporal heterogeneity of high-grade serous ovarian cancer (HGSOC) on tumor evolution, clinical outcomes, and surgical operability. We perform systematic multi-site tumor mapping at presentation and matched relapse from 49 high-tumor-burden patients, operated up front. From SNP array-derived copy-number data, we categorize dendrograms representing tumor clonal evolution as sympodial or dichotomous, noting most chemo-resistant patients favor...]]></summary>
         <author>
             <name>Paula Cunnea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whole-exome sequencing reveals the metastatic potential of hepatocellular carcinoma from the perspective of tumor and circulating tumor DNA]]></title>
+        <id>pubmed:37217808</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37217808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: We characterized the genomic alterations during HCC vascular invasion and revealed a previously undescribed evolution pattern of ctDNA in HCC. A novel multiomics-based signature was developed to identify high-risk relapse populations.]]></summary>
+        <author>
+            <name>Chenhao Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An unusual ectopic thymoma clonal evolution analysis: A case report]]></title>
+        <id>pubmed:37215501</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37215501/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thymomas and thymic carcinomas are rare and primary tumors of the mediastinum which is derived from the thymic epithelium. Thymomas are the most common primary anterior mediastinal tumor, while ectopic thymomas are rarer. Mutational profiles of ectopic thymomas may help expand our understanding of the occurrence and treatment options of these tumors. In this report, we sought to elucidate the mutational profiles of two ectopic thymoma nodules to gain deeper understanding of the molecular genetic...]]></summary>
+        <author>
+            <name>Sijia Zhang</name>
         </author>
     </entry>
     <entry>
@@ -839,6 +1029,16 @@
     <entry>
         <title type="html"><![CDATA[Morphology of myeloproliferative neoplasms]]></title>
         <id>pubmed:37211431</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37211431/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myeloproliferative neoplasms (MPN) are a group of clonal haematological malignancies first described by Dameshek in 1957. The Philadelphia-negative MPN that will be described are polycythaemia vera (PV), essential thrombocythaemia (ET), pre-fibrotic myelofibrosis and primary myelofibrosis (PMF). The blood and bone marrow morphology are essential in diagnosis, for WHO classification, establishing a baseline, monitoring response to treatment and identifying changes that may indicate disease...]]></summary>
+        <author>
+            <name>Zi Yun Ng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morphology of myeloproliferative neoplasms]]></title>
+        <id>pubmed:37211431</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37211431/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230530210538&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-05-21T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Myeloproliferative neoplasms (MPN) are a group of clonal haematological malignancies first described by Dameshek in 1957. The Philadelphia-negative MPN that will be described are polycythaemia vera (PV), essential thrombocythaemia (ET), pre-fibrotic myelofibrosis and primary myelofibrosis (PMF). The blood and bone marrow morphology are essential in diagnosis, for WHO classification, establishing a baseline, monitoring response to treatment and identifying changes that may indicate disease...]]></summary>
@@ -924,6 +1124,26 @@
         <summary type="html"><![CDATA[Myeloproliferative neoplasms (MPN) are a group of clonal haematological malignancies first described by Dameshek in 1957. The Philadelphia-negative MPN that will be described are polycythaemia vera (PV), essential thrombocythaemia (ET), pre-fibrotic myelofibrosis and primary myelofibrosis (PMF). The blood and bone marrow morphology are essential in diagnosis, for WHO classification, establishing a baseline, monitoring response to treatment and identifying changes that may indicate disease...]]></summary>
         <author>
             <name>Zi Yun Ng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolutionary states and trajectories characterized by distinct pathways stratify patients with ovarian high grade serous carcinoma]]></title>
+        <id>pubmed:37207655</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37207655/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ovarian high-grade serous carcinoma (HGSC) is typically diagnosed at an advanced stage, with multiple genetically heterogeneous clones existing in the tumors long before therapeutic intervention. Herein we integrate clonal composition and topology using whole-genome sequencing data from 510 samples of 148 patients with HGSC in the prospective, longitudinal, multiregion DECIDER study. Our results reveal three evolutionary states, which have distinct features in genomics, pathways, and...]]></summary>
+        <author>
+            <name>Alexandra Lahtinen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Applying single cell multi-omic analyses to understand treatment resistance in pediatric high grade glioma]]></title>
+        <id>pubmed:37205910</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37205910/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite improvements in cancer patient outcomes seen in the past decade, tumor resistance to therapy remains a major impediment to achieving durable clinical responses. Intratumoral heterogeneity related to genetic, epigenetic, transcriptomic, proteomic, and metabolic differences between individual cancer cells has emerged as a driver of therapeutic resistance. This cell to cell heterogeneity can be assessed using single cell profiling technologies that enable the identification of tumor cell...]]></summary>
+        <author>
+            <name>Rebecca L Murdaugh</name>
         </author>
     </entry>
     <entry>
@@ -1154,6 +1374,46 @@
         <summary type="html"><![CDATA[Despite improvements in cancer patient outcomes seen in the past decade, tumor resistance to therapy remains a major impediment to achieving durable clinical responses. Intratumoral heterogeneity related to genetic, epigenetic, transcriptomic, proteomic, and metabolic differences between individual cancer cells has emerged as a driver of therapeutic resistance. This cell to cell heterogeneity can be assessed using single cell profiling technologies that enable the identification of tumor cell...]]></summary>
         <author>
             <name>Rebecca L Murdaugh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis of Indeterminate Potential Predicts Adverse Outcomes in Patients With Atherosclerotic Cardiovascular Disease]]></title>
+        <id>pubmed:37197843</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37197843/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CHIP is independently associated with adverse outcomes in individuals with established ASCVD, with especially high risks observed in TET2 and SF3B1/SRSF2/U2AF1 CHIP.]]></summary>
+        <author>
+            <name>Esra D Gumuser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolution of Therapeutic Benefit Measurement Criteria in Myelodysplastic Syndromes/Neoplasms]]></title>
+        <id>pubmed:37195777</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37195777/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndromes/neoplasms (MDS) are heterogeneous, clonal myeloid neoplasms characterized by ineffective hematopoiesis, progressive cytopenias, and an increased risk of progression to acute myeloid leukemia. The diversity in disease severity, morphology, and genetic landscape challenges not only novel drug development but also therapeutic response assessment. The MDS International Working Group (IWG) response criteria were first published in the year 2000 focusing on measures of blast...]]></summary>
+        <author>
+            <name>Jessica M Stempel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spectrum From Clonal Hematopoiesis to Myelodysplastic Neoplasm/Syndromes and Other Myeloid Neoplasms]]></title>
+        <id>pubmed:37195768</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37195768/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) confers a high risk of aging-related diseases and hematologic malignancy. There are still significant knowledge gaps in identifying high-risk patients with CH and managing such patients. In this review, we focus on 3 areas: (1) the natural history of CH; (2) the risks of progression of CH, including CH of indeterminate potential, clonal cytopenia of undetermined significance, and therapy-related CH, to myeloid malignancy; and (3) the challenges and unmet needs of CH...]]></summary>
+        <author>
+            <name>Zhuoer Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epidemiology and Pathogenesis of Myelodysplastic Syndrome]]></title>
+        <id>pubmed:37195766</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37195766/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndrome (MDS) is a clonal disorder characterized by ineffective hematopoiesis and variable cytopenias with a considerable risk of progression to acute myeloid leukemia. Epidemiological assessment of MDS remains challenging because of evolving classification systems, but the overall incidence in the United States is estimated to be approximately 4 per 100,000 and increases with age. The sequential accumulation of mutations drives disease evolution from asymptomatic clonal...]]></summary>
+        <author>
+            <name>Lara K Rotter</name>
         </author>
     </entry>
     <entry>
@@ -1704,6 +1964,16 @@
         <summary type="html"><![CDATA[Myelodysplastic syndrome (MDS) is a clonal disorder characterized by ineffective hematopoiesis and variable cytopenias with a considerable risk of progression to acute myeloid leukemia. Epidemiological assessment of MDS remains challenging because of evolving classification systems, but the overall incidence in the United States is estimated to be approximately 4 per 100,000 and increases with age. The sequential accumulation of mutations drives disease evolution from asymptomatic clonal...]]></summary>
         <author>
             <name>Lara K Rotter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dissecting sources of variability in patient response to targeted therapy: anti-HER2 therapies as a case study]]></title>
+        <id>pubmed:37196833</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37196833/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION AND IMPLICATIONS: The platform can dissect sources of variability in response to target therapy, which may facilitate decision-making during drug development.]]></summary>
+        <author>
+            <name>Timothy Qi</name>
         </author>
     </entry>
     <entry>
@@ -2339,6 +2609,16 @@
     <entry>
         <title type="html"><![CDATA[Stem cell regulation and dynamics in myeloid malignancies]]></title>
         <id>pubmed:37191835</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37191835/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this issue of PIH, we asked four researchers to write about basic research on the molecular mechanisms of the development of myeloid malignancies, in particular two epigenetic regulation and two space- and time-dependent factors. Regarding epigenomic regulation, Dr. Yang reviewed ASXL1, a polycomb modifier gene that is often mutated in myeloid malignancies, but also in clonal hematopoiesis in healthy elderly people, and Dr. Vu reviewed RNA modifications, which are critical for development and...]]></summary>
+        <author>
+            <name>Goro Sashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stem cell regulation and dynamics in myeloid malignancies]]></title>
+        <id>pubmed:37191835</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37191835/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230530210538&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-05-16T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[In this issue of PIH, we asked four researchers to write about basic research on the molecular mechanisms of the development of myeloid malignancies, in particular two epigenetic regulation and two space- and time-dependent factors. Regarding epigenomic regulation, Dr. Yang reviewed ASXL1, a polycomb modifier gene that is often mutated in myeloid malignancies, but also in clonal hematopoiesis in healthy elderly people, and Dr. Vu reviewed RNA modifications, which are critical for development and...]]></summary>
@@ -2699,6 +2979,16 @@
     <entry>
         <title type="html"><![CDATA[Review of clonal hematopoiesis, subtypes and its role in neoplasia and different morbidities]]></title>
         <id>pubmed:37186988</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37186988/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is the development of a certain cell lineage which is the cornerstone of hematologic malignancy especially myeloid neoplasms, however, can also be found in old age (6th-7th decade). CH is caused by many different somatic mutations most commonly in DNMT3A, TET2, ASXL1, SF3B1 and TP53. It is detected by different sequencing methods, the most commonly used ones are next generation sequencing (NGS) which can be whole exome, whole genome sequencing or a panel for certain...]]></summary>
+        <author>
+            <name>Ismail Elbaz Younes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review of clonal hematopoiesis, subtypes and its role in neoplasia and different morbidities]]></title>
+        <id>pubmed:37186988</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37186988/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230530210538&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-05-15T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is the development of a certain cell lineage which is the cornerstone of hematologic malignancy especially myeloid neoplasms, however, can also be found in old age (6th-7th decade). CH is caused by many different somatic mutations most commonly in DNMT3A, TET2, ASXL1, SF3B1 and TP53. It is detected by different sequencing methods, the most commonly used ones are next generation sequencing (NGS) which can be whole exome, whole genome sequencing or a panel for certain...]]></summary>
@@ -2844,6 +3134,16 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is the development of a certain cell lineage which is the cornerstone of hematologic malignancy especially myeloid neoplasms, however, can also be found in old age (6th-7th decade). CH is caused by many different somatic mutations most commonly in DNMT3A, TET2, ASXL1, SF3B1 and TP53. It is detected by different sequencing methods, the most commonly used ones are next generation sequencing (NGS) which can be whole exome, whole genome sequencing or a panel for certain...]]></summary>
         <author>
             <name>Ismail Elbaz Younes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Potential of Liquid Biopsy in Detection of Endometrial Cancer Biomarkers: A Pilot Study]]></title>
+        <id>pubmed:37175518</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37175518/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230531211907&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Endometrial cancer belongs to the most common gynecologic cancer types globally, with increasing incidence. There are numerous ways of classifying different cases. The most recent decade has brought advances in molecular classification, which show more accurate prognostic factors and the possibility of personalised adjuvant treatment. In addition, diagnostic approaches lag behind these advances, with methods causing patients discomfort while lacking the reproducibility of tissue sampling for...]]></summary>
+        <author>
+            <name>Dominik Kodada</name>
         </author>
     </entry>
     <entry>
