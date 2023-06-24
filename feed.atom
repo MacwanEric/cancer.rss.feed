@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2023-06-23T01:11:24.882Z</updated>
+    <updated>2023-06-24T01:11:25.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
+        <id>pubmed:37349125</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
+        <author>
+            <name>Nicholas P Semenkovich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
+        <id>pubmed:37345823</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
+        <author>
+            <name>Art Schuermans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
         <id>pubmed:37345823</id>
@@ -14,6 +34,26 @@
         <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
         <author>
             <name>Art Schuermans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia]]></title>
+        <id>pubmed:37344430</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...]]></summary>
+        <author>
+            <name>Yurika Hada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface]]></title>
+        <id>pubmed:37343201</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...]]></summary>
+        <author>
+            <name>Marco M Buttigieg</name>
         </author>
     </entry>
     <entry>
@@ -49,6 +89,36 @@
     <entry>
         <title type="html"><![CDATA[Modeling and predicting cancer clonal evolution with reinforcement learning]]></title>
         <id>pubmed:37344104</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...]]></summary>
+        <author>
+            <name>Stefan Ivanovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface]]></title>
+        <id>pubmed:37343201</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...]]></summary>
+        <author>
+            <name>Marco M Buttigieg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer]]></title>
+        <id>pubmed:37342197</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.]]></summary>
+        <author>
+            <name>David R Pearce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeling and predicting cancer clonal evolution with reinforcement learning]]></title>
+        <id>pubmed:37344104</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230622211122&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-06-21T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...]]></summary>
@@ -79,6 +149,16 @@
     <entry>
         <title type="html"><![CDATA[Genomic and transcriptomic remodelling by neoadjuvant chemoradiotherapy (nCRT) and indicative role of acquired INDEL percentage for nCRT efficacy in esophageal squamous cell carcinoma]]></title>
         <id>pubmed:37339686</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37339686/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: nCRT remodels the genome and transcriptome of ESCC. Acquired INDEL% is a potential biomarker to indicate the effectiveness of nCRT and radiation sensitivity.]]></summary>
+        <author>
+            <name>Yang Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomic and transcriptomic remodelling by neoadjuvant chemoradiotherapy (nCRT) and indicative role of acquired INDEL percentage for nCRT efficacy in esophageal squamous cell carcinoma]]></title>
+        <id>pubmed:37339686</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37339686/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230622211122&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-06-20T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: nCRT remodels the genome and transcriptome of ESCC. Acquired INDEL% is a potential biomarker to indicate the effectiveness of nCRT and radiation sensitivity.]]></summary>
@@ -94,6 +174,16 @@
         <summary type="html"><![CDATA[CONCLUSIONS: nCRT remodels the genome and transcriptome of ESCC. Acquired INDEL% is a potential biomarker to indicate the effectiveness of nCRT and radiation sensitivity.]]></summary>
         <author>
             <name>Yang Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction]]></title>
+        <id>pubmed:37333361</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.]]></summary>
+        <author>
+            <name>Alex P Reiner</name>
         </author>
     </entry>
     <entry>
@@ -134,6 +224,26 @@
         <summary type="html"><![CDATA[CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.]]></summary>
         <author>
             <name>Alex P Reiner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cellular barcoding: From developmental tracing to anti-tumor drug discovery]]></title>
+        <id>pubmed:37336285</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....]]></summary>
+        <author>
+            <name>Yuqing Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms]]></title>
+        <id>pubmed:37333132</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...]]></summary>
+        <author>
+            <name>Charli Gruen</name>
         </author>
     </entry>
     <entry>
@@ -209,6 +319,16 @@
     <entry>
         <title type="html"><![CDATA[Emerging Roles of Circulating Tumor DNA for Increased Precision and Personalization in Radiation Oncology]]></title>
         <id>pubmed:37331781</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37331781/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recent breakthroughs in circulating tumor DNA (ctDNA) technologies present a compelling opportunity to combine this emerging liquid biopsy approach with the field of radiogenomics, the study of how tumor genomics correlate with radiotherapy response and radiotoxicity. Canonically, ctDNA levels reflect metastatic tumor burden, although newer ultrasensitive technologies can be used after curative-intent radiotherapy of localized disease to assess ctDNA for minimal residual disease (MRD) detection...]]></summary>
+        <author>
+            <name>Noah Earland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emerging Roles of Circulating Tumor DNA for Increased Precision and Personalization in Radiation Oncology]]></title>
+        <id>pubmed:37331781</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37331781/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230622211122&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-06-18T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Recent breakthroughs in circulating tumor DNA (ctDNA) technologies present a compelling opportunity to combine this emerging liquid biopsy approach with the field of radiogenomics, the study of how tumor genomics correlate with radiotherapy response and radiotoxicity. Canonically, ctDNA levels reflect metastatic tumor burden, although newer ultrasensitive technologies can be used after curative-intent radiotherapy of localized disease to assess ctDNA for minimal residual disease (MRD) detection...]]></summary>
@@ -249,6 +369,16 @@
     <entry>
         <title type="html"><![CDATA[Clinical trial designs for evaluating and exploiting cancer evolution]]></title>
         <id>pubmed:37331179</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37331179/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The evolution of drug-resistant cell subpopulations causes cancer treatment failure. Current preclinical evidence shows that it is possible to model herding of clonal evolution and collateral sensitivity where an initial treatment could favourably influence the response to a subsequent one. Novel therapy strategies exploiting this understanding are being considered, and clinical trial designs for steering cancer evolution are needed. Furthermore, preclinical evidence suggests that different...]]></summary>
+        <author>
+            <name>Alvaro H Ingles Garces</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clinical trial designs for evaluating and exploiting cancer evolution]]></title>
+        <id>pubmed:37331179</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37331179/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230622211122&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-06-18T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[The evolution of drug-resistant cell subpopulations causes cancer treatment failure. Current preclinical evidence shows that it is possible to model herding of clonal evolution and collateral sensitivity where an initial treatment could favourably influence the response to a subsequent one. Novel therapy strategies exploiting this understanding are being considered, and clinical trial designs for steering cancer evolution are needed. Furthermore, preclinical evidence suggests that different...]]></summary>
@@ -284,6 +414,26 @@
         <summary type="html"><![CDATA[The evolution of drug-resistant cell subpopulations causes cancer treatment failure. Current preclinical evidence shows that it is possible to model herding of clonal evolution and collateral sensitivity where an initial treatment could favourably influence the response to a subsequent one. Novel therapy strategies exploiting this understanding are being considered, and clinical trial designs for steering cancer evolution are needed. Furthermore, preclinical evidence suggests that different...]]></summary>
         <author>
             <name>Alvaro H Ingles Garces</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pure red cell aplasia: the second hundred years]]></title>
+        <id>pubmed:37327996</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37327996/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pure red cell aplasia (PRCA) is a rare hematologic syndrome, characterized by an isolated normocytic anemia with severe reticulocytopenia, and defined by absence or near absence of erythroid precursors in the bone marrow. First described in 1922, PRCA may be a primary autoimmune or clonal myeloid or lymphoid disorder, but may also be secondary to other disorders of immune dysregulation/autoimmunity, to infections, to neoplasms, or to drugs. Insights from the study of PRCA have helped illuminate...]]></summary>
+        <author>
+            <name>Robert T Means</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identifying mechanisms of resistance by circulating tumour DNA in EVOLVE, a Phase II Trial of Cediranib Plus Olaparib for Ovarian Cancer at time of PARP Inhibitor Progression]]></title>
+        <id>pubmed:37327320</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37327320/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose To evaluate the use of blood cell-free DNA (cfDNA) to identify emerging mechanisms of resistance to PARP inhibitors (PARPi) in high grade serous ovarian cancer (HGSOC). Patients and Methods We used targeted sequencing (TS) to analyse 78 longitudinal cfDNA samples collected from 30 patients with HGSOC enrolled in a phase II clinical trial evaluating cediranib (VEGF inhibitor) plus olaparib (PARPi) after progression on PARPi alone. cfDNA was collected at baseline, before treatment cycle 2,...]]></summary>
+        <author>
+            <name>Stephanie Lheureux</name>
         </author>
     </entry>
     <entry>
@@ -414,6 +564,46 @@
         <summary type="html"><![CDATA[Purpose To evaluate the use of blood cell-free DNA (cfDNA) to identify emerging mechanisms of resistance to PARP inhibitors (PARPi) in high grade serous ovarian cancer (HGSOC). Patients and Methods We used targeted sequencing (TS) to analyse 78 longitudinal cfDNA samples collected from 30 patients with HGSOC enrolled in a phase II clinical trial evaluating cediranib (VEGF inhibitor) plus olaparib (PARPi) after progression on PARPi alone. cfDNA was collected at baseline, before treatment cycle 2,...]]></summary>
         <author>
             <name>Stephanie Lheureux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personalized follow-up of circulating DNA in resected stage III/IV melanoma: PERCIMEL multicentric prospective study protocol]]></title>
+        <id>pubmed:37328818</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37328818/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BACKGROUND: With more than 15,000 new cases /year in France and 2,000 deaths, cutaneous melanoma represents approximately 4% of incidental cancers and 1.2% of cancer related deaths. In locally advanced (stage III) or resectable metastatic (stage IV) melanomas, medical adjuvant treatment is proposed and recent advances had shown the benefit of anti-PD1/PDL1 and anti-CTLA4 immunotherapy as well as anti-BRAF and anti-MEK targeted therapy in BRAF V600 mutated tumors. However, the recurence rate at...]]></summary>
+        <author>
+            <name>Lionnel Geoffrois</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancer genomes tolerate deleterious coding mutations through somatic copy number amplifications of wild-type regions]]></title>
+        <id>pubmed:37328455</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37328455/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cancers evolve under the accumulation of thousands of somatic mutations and chromosomal aberrations. While most coding mutations are deleterious, almost all protein-coding genes lack detectable signals of negative selection. This raises the question of how tumors tolerate such large amounts of deleterious mutations. Using 8,690 tumor samples from The Cancer Genome Atlas, we demonstrate that copy number amplifications frequently cover haploinsufficient genes in mutation-prone regions. This could...]]></summary>
+        <author>
+            <name>Fabio Alfieri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatial and temporal heterogeneity of digestive neuroendocrine neoplasms]]></title>
+        <id>pubmed:37323185</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37323185/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Neuroendocrine neoplasms (NENs) are initially monoclonal neoplasms that progressively become polyclonal, with very different genotypic and phenotypic characteristics leading to biological differences, including the Ki-67 proliferation index, morphology, or sensitivity to treatments. Whereas inter-patient heterogeneity has been well described, intra-tumor heterogeneity has been little studied. However, NENs present a high degree of heterogeneity, both spatially within the same location or between...]]></summary>
+        <author>
+            <name>Pauline Bourdeleau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomic alterations dissection revealed <em>MUC4</em> mutation as a potential driver in lung adenocarcinoma local recurrence]]></title>
+        <id>pubmed:37323170</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37323170/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Genomic alteration landscape was changing during LUAD recurrence to construct a more suitable environment for the survival of tumor cells. Several potential driver mutations and targets during LUAD recurrence were identified, such as MUC4, and more investigation was needed to verify the specific functions and roles.]]></summary>
+        <author>
+            <name>Chongze Yuan</name>
         </author>
     </entry>
     <entry>
@@ -679,6 +869,16 @@
     <entry>
         <title type="html"><![CDATA[Clonal hematopoiesis is associated with protection from Alzheimer's disease]]></title>
         <id>pubmed:37322115</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37322115/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) is a premalignant expansion of mutated hematopoietic stem cells. As CHIP-associated mutations are known to alter the development and function of myeloid cells, we hypothesized that CHIP may also be associated with the risk of Alzheimer's disease (AD), a disease in which brain-resident myeloid cells are thought to have a major role. To perform association tests between CHIP and AD dementia, we analyzed blood DNA sequencing data from 1,362...]]></summary>
+        <author>
+            <name>Hind Bouzid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis is associated with protection from Alzheimer's disease]]></title>
+        <id>pubmed:37322115</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37322115/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230622211122&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-06-15T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) is a premalignant expansion of mutated hematopoietic stem cells. As CHIP-associated mutations are known to alter the development and function of myeloid cells, we hypothesized that CHIP may also be associated with the risk of Alzheimer's disease (AD), a disease in which brain-resident myeloid cells are thought to have a major role. To perform association tests between CHIP and AD dementia, we analyzed blood DNA sequencing data from 1,362...]]></summary>
@@ -744,6 +944,16 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) is a premalignant expansion of mutated hematopoietic stem cells. As CHIP-associated mutations are known to alter the development and function of myeloid cells, we hypothesized that CHIP may also be associated with the risk of Alzheimer's disease (AD), a disease in which brain-resident myeloid cells are thought to have a major role. To perform association tests between CHIP and AD dementia, we analyzed blood DNA sequencing data from 1,362...]]></summary>
         <author>
             <name>Hind Bouzid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circulating cancer giant cells with unique characteristics frequently found in patients with myelodysplastic syndromes (MDS)]]></title>
+        <id>pubmed:37316755</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37316755/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndromes (MDS) are incurable diseases characterized by dysplastic hematopoietic cells, cytopenias in the blood and an inherent tendency for transformation to secondary acute myeloid leukemia (AML). Since most therapies fail to prevent rapid clonal evolution and disease resistance, new and non-invasive predictive markers are needed to monitor patients and adapt the therapeutic strategy. By using ISET, a very sensitive approach to isolate cells larger than mature leukocytes from...]]></summary>
+        <author>
+            <name>Abdullah Mahmood Ali</name>
         </author>
     </entry>
     <entry>
@@ -824,6 +1034,26 @@
         <summary type="html"><![CDATA[Myelodysplastic syndromes (MDS) are incurable diseases characterized by dysplastic hematopoietic cells, cytopenias in the blood and an inherent tendency for transformation to secondary acute myeloid leukemia (AML). Since most therapies fail to prevent rapid clonal evolution and disease resistance, new and non-invasive predictive markers are needed to monitor patients and adapt the therapeutic strategy. By using ISET, a very sensitive approach to isolate cells larger than mature leukocytes from...]]></summary>
         <author>
             <name>Abdullah Mahmood Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single cell clonotypic and transcriptional evolution of multiple myeloma precursor disease]]></title>
+        <id>pubmed:37311413</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37311413/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple myeloma remains an incurable disease, and the cellular and molecular evolution from precursor conditions, including monoclonal gammopathy of undetermined significance and smoldering multiple myeloma, is incompletely understood. Here, we combine single-cell RNA and B cell receptor sequencing from fifty-two patients with myeloma precursors in comparison with myeloma and normal donors. Our comprehensive analysis reveals early genomic drivers of malignant transformation, distinct...]]></summary>
+        <author>
+            <name>Minghao Dang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tamoxifen resistance induction results in the upregulation of ABCG2 expression and mitoxantrone resistance in MCF-7 breast cancer cells]]></title>
+        <id>pubmed:37310508</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37310508/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cancer endocrine therapy can promote evolutionary dynamics and lead to changes in the gene expression profile of tumor cells. We aimed to assess the effect of tamoxifen (TAM)-resistance induction on ABCG2 pump mRNA, protein, and activity in ER + MCF-7 breast cancer cells. We also evaluated if the resistance to TAM leads to the cross-resistance toward mitoxantrone (MX), a well-known substrate of the ABCG2 pump. The ABCG2 mRNA and protein expression were compared in MCF-7 and its TAM-resistant...]]></summary>
+        <author>
+            <name>Asefeh Dahmardeh Ghalehno</name>
         </author>
     </entry>
     <entry>
@@ -1019,6 +1249,16 @@
     <entry>
         <title type="html"><![CDATA[Clonal evolution and hierarchy in myeloid malignancies]]></title>
         <id>pubmed:37302922</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37302922/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myeloid malignancies, a group of hematopoietic disorders that includes acute myeloid leukemia (AML), myelodysplastic syndromes (MDS), and myeloproliferative neoplasms (MPNs), are caused by the accumulation of genetic and epigenetic changes in hematopoietic stem and progenitor cells (HSPCs) over time. Despite the relatively low number of genomic drivers compared with other forms of cancer, the process by which these changes shape the genomic architecture of myeloid malignancies remains elusive....]]></summary>
+        <author>
+            <name>Koichi Takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal evolution and hierarchy in myeloid malignancies]]></title>
+        <id>pubmed:37302922</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37302922/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230622211122&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-06-11T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Myeloid malignancies, a group of hematopoietic disorders that includes acute myeloid leukemia (AML), myelodysplastic syndromes (MDS), and myeloproliferative neoplasms (MPNs), are caused by the accumulation of genetic and epigenetic changes in hematopoietic stem and progenitor cells (HSPCs) over time. Despite the relatively low number of genomic drivers compared with other forms of cancer, the process by which these changes shape the genomic architecture of myeloid malignancies remains elusive....]]></summary>
@@ -1120,6 +1360,16 @@
         <title type="html"><![CDATA[Clonal evolution and hierarchy in myeloid malignancies]]></title>
         <id>pubmed:37302922</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37302922/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230612210456&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myeloid malignancies, a group of hematopoietic disorders that includes acute myeloid leukemia (AML), myelodysplastic syndromes (MDS), and myeloproliferative neoplasms (MPNs), are caused by the accumulation of genetic and epigenetic changes in hematopoietic stem and progenitor cells (HSPCs) over time. Despite the relatively low number of genomic drivers compared with other forms of cancer, the process by which these changes shape the genomic architecture of myeloid malignancies remains elusive....]]></summary>
+        <author>
+            <name>Koichi Takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal evolution and hierarchy in myeloid malignancies]]></title>
+        <id>pubmed:37302922</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37302922/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-06-11T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Myeloid malignancies, a group of hematopoietic disorders that includes acute myeloid leukemia (AML), myelodysplastic syndromes (MDS), and myeloproliferative neoplasms (MPNs), are caused by the accumulation of genetic and epigenetic changes in hematopoietic stem and progenitor cells (HSPCs) over time. Despite the relatively low number of genomic drivers compared with other forms of cancer, the process by which these changes shape the genomic architecture of myeloid malignancies remains elusive....]]></summary>
         <author>
@@ -1234,6 +1484,16 @@
         <summary type="html"><![CDATA[Myeloid malignancies, a group of hematopoietic disorders that includes acute myeloid leukemia (AML), myelodysplastic syndromes (MDS), and myeloproliferative neoplasms (MPNs), are caused by the accumulation of genetic and epigenetic changes in hematopoietic stem and progenitor cells (HSPCs) over time. Despite the relatively low number of genomic drivers compared with other forms of cancer, the process by which these changes shape the genomic architecture of myeloid malignancies remains elusive....]]></summary>
         <author>
             <name>Koichi Takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis of Indeterminate Potential is Associated with Acute Kidney Injury]]></title>
+        <id>pubmed:37292692</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37292692/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Age is a predominant risk factor for acute kidney injury (AKI), yet the biological mechanisms underlying this risk are largely unknown and to date no genetic mechanisms for AKI have been established. Clonal hematopoiesis of indeterminate potential (CHIP) is a recently recognized biological mechanism conferring risk of several chronic aging diseases including cardiovascular disease, pulmonary disease and liver disease. In CHIP, blood stem cells acquire mutations in myeloid cancer driver genes...]]></summary>
+        <author>
+            <name>Caitlyn Vlasschaert</name>
         </author>
     </entry>
     <entry>
@@ -1514,6 +1774,16 @@
         <summary type="html"><![CDATA[Intratumor heterogeneity underlies cancer evolution and treatment resistance ^(1-5) , but targetable mechanisms driving intratumor heterogeneity are poorly understood. Meningiomas are the most common primary intracranial tumors and are resistant to all current medical therapies ^(6,7) . High-grade meningiomas cause significant neurological morbidity and mortality and are distinguished from low-grade meningiomas by increased intratumor heterogeneity arising from clonal evolution and divergence ⁸...]]></summary>
         <author>
             <name>Calixto-Hope Lucas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The coming of age of liquid biopsy in neuro-oncology]]></title>
+        <id>pubmed:37289981</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37289981/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The clinical role of liquid biopsy in oncology is growing significantly. In gliomas and other brain tumors, targeted sequencing of cell-free DNA (cfDNA) from cerebrospinal fluid (CSF) may help differential diagnosis when surgery is not recommended and be more representative of tumor heterogeneity than surgical specimens, unveiling targetable genetic alterations. Given the invasive nature of lumbar puncture to obtain CSF, the quantitative analysis of cfDNA in plasma is a lively option for patient...]]></summary>
+        <author>
+            <name>Giulia Berzero</name>
         </author>
     </entry>
     <entry>
@@ -2459,6 +2729,26 @@
     <entry>
         <title type="html"><![CDATA[Loss of TET2 in human hematopoietic stem cells alters the development and function of neutrophils]]></title>
         <id>pubmed:37267914</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37267914/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Somatic mutations commonly occur in hematopoietic stem cells (HSCs). Some mutant clones outgrow through clonal hematopoiesis (CH) and produce mutated immune progenies shaping host immunity. Individuals with CH are asymptomatic but have an increased risk of developing leukemia, cardiovascular and pulmonary inflammatory diseases, and severe infections. Using genetic engineering of human HSCs (hHSCs) and transplantation in immunodeficient mice, we describe how a commonly mutated gene in CH, TET2,...]]></summary>
+        <author>
+            <name>Hector Huerga Encabo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philadelphia chromosome- positive myelodysplastic syndrome with single lineage dysplasia]]></title>
+        <id>pubmed:37267684</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37267684/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-06-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndrome (MDS) is a group of acquired clonal disorders characterized by dysplastic and ineffective hematopoiesis in the bone marrow. Various specific karyotypic and molecular abnormalities associated with MDS further guide the prognosis. Although translocation t(9;22)(q34;q11) (Philadelphia positive [Ph+]) and corresponding BCR-ABL fusion transcript are classically defined to differentiate CML from non-CML myeloproliferative disorders, it is also associated with adult acute...]]></summary>
+        <author>
+            <name>Ajeet Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loss of TET2 in human hematopoietic stem cells alters the development and function of neutrophils]]></title>
+        <id>pubmed:37267914</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37267914/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230622211122&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-06-02T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Somatic mutations commonly occur in hematopoietic stem cells (HSCs). Some mutant clones outgrow through clonal hematopoiesis (CH) and produce mutated immune progenies shaping host immunity. Individuals with CH are asymptomatic but have an increased risk of developing leukemia, cardiovascular and pulmonary inflammatory diseases, and severe infections. Using genetic engineering of human HSCs (hHSCs) and transplantation in immunodeficient mice, we describe how a commonly mutated gene in CH, TET2,...]]></summary>
@@ -3004,6 +3294,16 @@
         <summary type="html"><![CDATA[CONCLUSIONS: The study revealed that tumor-somatic cell fusion is a potent environmental modifier that can modulate tumor survival and evolution, despite its relatively low occurrence. These findings suggest that tumor-somatic cell fusion could be a promising target for developing new cancer therapies. Furthermore, this study provides an experimental animal platform to investigate cancer-myeloid fusion and highlights the potential role of tumor-somatic cell fusion in modulating the tumor...]]></summary>
         <author>
             <name>Mengtao Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The impact of prenatal inflammation on hematopoietic development]]></title>
+        <id>pubmed:37254855</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37254855/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-05-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PURPOSE OF REVIEW: Inflammation is now recognized as a major regulator of hematopoietic stem cell (HSC) function. Adult hematopoietic stem cells can adaptively modulate hematopoietic output in direct response to acute infection and inflammation. Conversely, prolonged exposure to inflammation can drive impaired HSC function, clonal expansion, and malignant transformation. As compared with adult hematopoiesis, the effects of prenatal inflammation on developing hematopoietic stem cells are...]]></summary>
+        <author>
+            <name>Nicole A Tseng</name>
         </author>
     </entry>
     <entry>
