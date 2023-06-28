@@ -210,8 +210,18 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&ff=20230626211237&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&fc=20220608003622&v=2.17.9.post6+86293ac&utm_medium=rss",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&v=2.17.9.post6+86293ac&utm_source=axios&ff=20230627211357",
       "articles": [
+        {
+          "id": "pubmed:37361587",
+          "author": "Eli M Soyfer",
+          "description": "Myeloproliferative Neoplasm (MPN) is a group of chronic blood cancers that arise from a hematopoietic stem cell (HSC) clone with somatic mutations causing constitutive activation of myeloid cytokine receptor signaling. In addition to elevated blood cell counts, MPN typically presents with increased inflammatory signaling and inflammation symptoms. Therefore, while being a clonally derived neoplasm, MPN has much in common with chronic non-cancerous inflammatory conditions, such as rheumatoid...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37361587/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-26T10:00:00.000Z",
+          "wordCount": 1557,
+          "title": "Myeloproliferative neoplasms - blurring the lines between cancer and chronic inflammatory disorder",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:37361587",
           "author": "Eli M Soyfer",
@@ -220,6 +230,26 @@
           "publishedOn": "2023-06-26T10:00:00.000Z",
           "wordCount": 1186,
           "title": "Myeloproliferative neoplasms - blurring the lines between cancer and chronic inflammatory disorder",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37356959",
+          "author": "Miao He",
+          "description": "With the development of molecular biology techniques, the people's understanding of myelodysplastic syndromes (MDS) has greatly improved, a heterogeneous hematopoietic pre-malignant disorder of the stem cells. Gene mutations include RNA splicing, DNA methylation, chromosome modification, transcription factors, signal transduction kinases, RAS pathways, cohesion complexes, DNA repair, etc. Gene mutation is the determinant of diagnostic typing and therapeutic efficacy of MDS. The new concepts of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37356959/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-25T10:00:00.000Z",
+          "wordCount": 1279,
+          "title": "Research Progress on Gene Mutation and CHIP in Pathogenesis of MDS --Review",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37356012",
+          "author": "Carmelo Gurnari",
+          "description": "Clonal evolution to secondary paroxysmal nocturnal hemoglobinuria (PNH) or myeloid neoplasia (MN) represents one of the long-term complications of patients with aplastic anemia (AA). The recent evidence in the field of immunology and the application of next-generation sequencing have shed light on the molecular underpinnings of these clonal complications, revealing clinical and molecular risk factors as well as potential immunological players. Particularly, whether MN evolution represents a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37356012/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-25T10:00:00.000Z",
+          "wordCount": 1246,
+          "title": "Clonal evolution in aplastic anemia: failed tumor surveillance or maladaptive recovery?",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -250,6 +280,26 @@
           "publishedOn": "2023-06-25T10:00:00.000Z",
           "wordCount": 1202,
           "title": "Clonal evolution in aplastic anemia: failed tumor surveillance or maladaptive recovery?",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37349125",
+          "author": "Nicholas P Semenkovich",
+          "description": "Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-22T10:00:00.000Z",
+          "wordCount": 1802,
+          "title": "Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37345823",
+          "author": "Art Schuermans",
+          "description": "Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-22T10:00:00.000Z",
+          "wordCount": 1630,
+          "title": "Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -340,6 +390,26 @@
           "publishedOn": "2023-06-22T10:00:00.000Z",
           "wordCount": 1595,
           "title": "Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37344430",
+          "author": "Yurika Hada",
+          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-21T10:00:00.000Z",
+          "wordCount": 1171,
+          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37343201",
+          "author": "Marco M Buttigieg",
+          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-21T10:00:00.000Z",
+          "wordCount": 1135,
+          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -456,6 +526,16 @@
           "id": "pubmed:37333361",
           "author": "Alex P Reiner",
           "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-19T10:00:00.000Z",
+          "wordCount": 1366,
+          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37333361",
+          "author": "Alex P Reiner",
+          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230626211237&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-06-19T10:00:00.000Z",
           "wordCount": 1366,
@@ -536,6 +616,16 @@
           "id": "pubmed:37331781",
           "author": "Noah Earland",
           "description": "Recent breakthroughs in circulating tumor DNA (ctDNA) technologies present a compelling opportunity to combine this emerging liquid biopsy approach with the field of radiogenomics, the study of how tumor genomics correlate with radiotherapy response and radiotoxicity. Canonically, ctDNA levels reflect metastatic tumor burden, although newer ultrasensitive technologies can be used after curative-intent radiotherapy of localized disease to assess ctDNA for minimal residual disease (MRD) detection...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37331781/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-18T10:00:00.000Z",
+          "wordCount": 1640,
+          "title": "Emerging Roles of Circulating Tumor DNA for Increased Precision and Personalization in Radiation Oncology",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37331781",
+          "author": "Noah Earland",
+          "description": "Recent breakthroughs in circulating tumor DNA (ctDNA) technologies present a compelling opportunity to combine this emerging liquid biopsy approach with the field of radiogenomics, the study of how tumor genomics correlate with radiotherapy response and radiotoxicity. Canonically, ctDNA levels reflect metastatic tumor burden, although newer ultrasensitive technologies can be used after curative-intent radiotherapy of localized disease to assess ctDNA for minimal residual disease (MRD) detection...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37331781/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230626211237&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-06-18T10:00:00.000Z",
           "wordCount": 1640,
@@ -610,6 +700,26 @@
           "publishedOn": "2023-06-18T10:00:00.000Z",
           "wordCount": 1442,
           "title": "Emerging Roles of Circulating Tumor DNA for Increased Precision and Personalization in Radiation Oncology",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37327996",
+          "author": "Robert T Means",
+          "description": "Pure red cell aplasia (PRCA) is a rare hematologic syndrome, characterized by an isolated normocytic anemia with severe reticulocytopenia, and defined by absence or near absence of erythroid precursors in the bone marrow. First described in 1922, PRCA may be a primary autoimmune or clonal myeloid or lymphoid disorder, but may also be secondary to other disorders of immune dysregulation/autoimmunity, to infections, to neoplasms, or to drugs. Insights from the study of PRCA have helped illuminate...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37327996/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-16T10:00:00.000Z",
+          "wordCount": 1189,
+          "title": "Pure red cell aplasia: the second hundred years",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37327320",
+          "author": "Stephanie Lheureux",
+          "description": "Purpose To evaluate the use of blood cell-free DNA (cfDNA) to identify emerging mechanisms of resistance to PARP inhibitors (PARPi) in high grade serous ovarian cancer (HGSOC). Patients and Methods We used targeted sequencing (TS) to analyse 78 longitudinal cfDNA samples collected from 30 patients with HGSOC enrolled in a phase II clinical trial evaluating cediranib (VEGF inhibitor) plus olaparib (PARPi) after progression on PARPi alone. cfDNA was collected at baseline, before treatment cycle 2,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37327320/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-16T10:00:00.000Z",
+          "wordCount": 1571,
+          "title": "Identifying mechanisms of resistance by circulating tumour DNA in EVOLVE, a Phase II Trial of Cediranib Plus Olaparib for Ovarian Cancer at time of PARP Inhibitor Progression",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -826,6 +936,16 @@
           "id": "pubmed:37322115",
           "author": "Hind Bouzid",
           "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is a premalignant expansion of mutated hematopoietic stem cells. As CHIP-associated mutations are known to alter the development and function of myeloid cells, we hypothesized that CHIP may also be associated with the risk of Alzheimer's disease (AD), a disease in which brain-resident myeloid cells are thought to have a major role. To perform association tests between CHIP and AD dementia, we analyzed blood DNA sequencing data from 1,362...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37322115/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-15T10:00:00.000Z",
+          "wordCount": 2266,
+          "title": "Clonal hematopoiesis is associated with protection from Alzheimer's disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37322115",
+          "author": "Hind Bouzid",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is a premalignant expansion of mutated hematopoietic stem cells. As CHIP-associated mutations are known to alter the development and function of myeloid cells, we hypothesized that CHIP may also be associated with the risk of Alzheimer's disease (AD), a disease in which brain-resident myeloid cells are thought to have a major role. To perform association tests between CHIP and AD dementia, we analyzed blood DNA sequencing data from 1,362...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37322115/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230626211237&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-06-15T10:00:00.000Z",
           "wordCount": 2266,
@@ -930,6 +1050,16 @@
           "publishedOn": "2023-06-15T10:00:00.000Z",
           "wordCount": 2241,
           "title": "Clonal hematopoiesis is associated with protection from Alzheimer's disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37302922",
+          "author": "Koichi Takahashi",
+          "description": "Myeloid malignancies, a group of hematopoietic disorders that includes acute myeloid leukemia (AML), myelodysplastic syndromes (MDS), and myeloproliferative neoplasms (MPNs), are caused by the accumulation of genetic and epigenetic changes in hematopoietic stem and progenitor cells (HSPCs) over time. Despite the relatively low number of genomic drivers compared with other forms of cancer, the process by which these changes shape the genomic architecture of myeloid malignancies remains elusive....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37302922/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-11T10:00:00.000Z",
+          "wordCount": 1413,
+          "title": "Clonal evolution and hierarchy in myeloid malignancies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -1080,6 +1210,16 @@
           "publishedOn": "2023-06-11T10:00:00.000Z",
           "wordCount": 1185,
           "title": "Clonal evolution and hierarchy in myeloid malignancies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37292692",
+          "author": "Caitlyn Vlasschaert",
+          "description": "Age is a predominant risk factor for acute kidney injury (AKI), yet the biological mechanisms underlying this risk are largely unknown and to date no genetic mechanisms for AKI have been established. Clonal hematopoiesis of indeterminate potential (CHIP) is a recently recognized biological mechanism conferring risk of several chronic aging diseases including cardiovascular disease, pulmonary disease and liver disease. In CHIP, blood stem cells acquire mutations in myeloid cancer driver genes...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37292692/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-09T10:00:00.000Z",
+          "wordCount": 2439,
+          "title": "Clonal Hematopoiesis of Indeterminate Potential is Associated with Acute Kidney Injury",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -1260,6 +1400,16 @@
           "publishedOn": "2023-06-09T10:00:00.000Z",
           "wordCount": 1373,
           "title": "Clonal Hematopoiesis of Indeterminate Potential is Associated with Acute Kidney Injury",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37289981",
+          "author": "Giulia Berzero",
+          "description": "The clinical role of liquid biopsy in oncology is growing significantly. In gliomas and other brain tumors, targeted sequencing of cell-free DNA (cfDNA) from cerebrospinal fluid (CSF) may help differential diagnosis when surgery is not recommended and be more representative of tumor heterogeneity than surgical specimens, unveiling targetable genetic alterations. Given the invasive nature of lumbar puncture to obtain CSF, the quantitative analysis of cfDNA in plasma is a lively option for patient...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37289981/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-08T10:00:00.000Z",
+          "wordCount": 1537,
+          "title": "The coming of age of liquid biopsy in neuro-oncology",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -7481,194 +7631,54 @@
           "wordCount": 1694,
           "title": "Mitigating age-related somatic mutation burden",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230516205931&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1484,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230515205819&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1484,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230514205932&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1484,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230513210018&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1477,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230512205523&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1477,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230511205726&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1477,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230510205718&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1477,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230509205648&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1477,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230508205817&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1477,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230507205525&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1477,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230506210046&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1477,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230505205328&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1477,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230504205311&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1477,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for Vacuoles, E1 enzyme, X-linked, Autoinflammatory, Somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230503205635&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1476,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for Vacuoles, E1 enzyme, X-linked, Autoinflammatory, Somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230502205757&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1472,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for Vacuoles, E1 enzyme, X-linked, Autoinflammatory, Somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230501205822&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1250,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for Vacuoles, E1 enzyme, X-linked, Autoinflammatory, Somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230430210026&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1435,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37119011",
-          "author": "Pierre Sujobert",
-          "description": "INTRODUCTION: The recent description of VEXAS (for Vacuoles, E1 enzyme, X-linked, Autoinflammatory, Somatic) challenges the nosological framework of myelodysplastic syndromes.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37119011/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230429210234&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-04-29T10:00:00.000Z",
-          "wordCount": 1213,
-          "title": "VEXAS: is it time to reshape the nosology of clonal hematopoiesis?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&v=2.17.9.post6+86293ac&utm_campaign=pubmed-2&fc=20220608010801&utm_medium=rss&ff=20230626211237&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_campaign=pubmed-2&v=2.17.9.post6+86293ac&utm_source=axios&ff=20230627211357",
       "articles": [
+        {
+          "id": "pubmed:37367082",
+          "author": "Maria Stella Pennisi",
+          "description": "Essential thrombocythemia (ET) and primary myelofibrosis (PMF) are two of the main BCR-ABL1-negative chronic myeloproliferative neoplasms (MPNs) characterized by abnormal megakaryocytic proliferation. Janus kinase 2 (JAK2) mutations are detected in 50-60% of ET and PMF, while myeloproliferative leukemia (MPL) virus oncogene mutations are present in 3-5% of cases. While Sanger sequencing is a valuable diagnostic tool to discriminate the most common MPN mutations, next-generation sequencing (NGS)...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37367082/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-27T10:00:00.000Z",
+          "wordCount": 1297,
+          "title": "Additional Genetic Alterations and Clonal Evolution of MPNs with Double Mutations on the <em>MPL</em> Gene: Two Case Reports",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37365326",
+          "author": "Luigi Perelli",
+          "description": "Molecular routes to metastatic dissemination are critical determinants of aggressive cancers. Through in vivo CRISPR-Cas9 genome editing, we generated somatic mosaic genetically engineered models that faithfully recapitulate metastatic renal tumors. Disruption of 9p21 locus is an evolutionary driver to systemic disease through the rapid acquisition of complex karyotypes in cancer cells. Cross-species analysis revealed that recurrent patterns of copy number variations, including 21q loss and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37365326/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-26T10:00:00.000Z",
+          "wordCount": 2198,
+          "title": "Interferon signaling promotes tolerance to chromosomal instability during metastatic evolution in renal cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37364233",
+          "author": "Marla Lipsyc-Sharf",
+          "description": "CONCLUSION: ERBB2-positive BCs in young women displayed substantial genomic evolution after treatment with chemo + H. Approximately half of patients with paired samples demonstrated acquired and/or clonally enriched genomic changes in cancer genes. ERBB2 CN changes were uncommon. We identified several genes warranting exploration as potential mechanisms of resistance to therapy in this population.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37364233/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-26T10:00:00.000Z",
+          "wordCount": 1669,
+          "title": "Genomics of <em>ERBB2</em>-Positive Breast Cancer in Young Women Before and After Exposure to Chemotherapy Plus Trastuzumab",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37364000",
+          "author": "Naoual Menssouri",
+          "description": "CONCLUSIONS: Low AR activity, activation of stemness programs, and Hedgehog pathway were associated with primary ARPIs' resistance, whereas most acquired resistance was associated with subclonal evolution, AR-related events, and neuroendocrine differentiation.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37364000/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-26T10:00:00.000Z",
+          "wordCount": 1680,
+          "title": "Genomic profiling of metastatic castration-resistant prostate cancer samples resistant to androgen-receptor pathway inhibitors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:37364233",
           "author": "Marla Lipsyc-Sharf",
@@ -7687,6 +7697,16 @@
           "publishedOn": "2023-06-26T10:00:00.000Z",
           "wordCount": 1636,
           "title": "Genomic profiling of metastatic castration-resistant prostate cancer samples resistant to androgen-receptor pathway inhibitors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37356012",
+          "author": "Carmelo Gurnari",
+          "description": "Clonal evolution to secondary paroxysmal nocturnal hemoglobinuria (PNH) or myeloid neoplasia (MN) represents one of the long-term complications of patients with aplastic anemia (AA). The recent evidence in the field of immunology and the application of next-generation sequencing have shed light on the molecular underpinnings of these clonal complications, revealing clinical and molecular risk factors as well as potential immunological players. Particularly, whether MN evolution represents a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37356012/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-25T10:00:00.000Z",
+          "wordCount": 1246,
+          "title": "Clonal evolution in aplastic anemia: failed tumor surveillance or maladaptive recovery?",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -7713,6 +7733,16 @@
           "id": "pubmed:37355534",
           "author": "Atsuya Morita",
           "description": "It has been established that the accumulation of driver gene mutations causes malignant progression of colorectal cancer (CRC) through positive selection and clonal expansion, similar to Darwin's evolution. Following this multistep tumorigenesis concept, we previously showed the specific mutation patterns for each process of malignant progression, including submucosal invasion, epithelial mesenchymal transition (EMT), intravasation, and metastasis, using genetically engineered mouse and organoid...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37355534/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-24T10:00:00.000Z",
+          "wordCount": 1476,
+          "title": "In Vitro and In Vivo Models for Metastatic Intestinal Tumors Using Genotype-Defined Organoids",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37355534",
+          "author": "Atsuya Morita",
+          "description": "It has been established that the accumulation of driver gene mutations causes malignant progression of colorectal cancer (CRC) through positive selection and clonal expansion, similar to Darwin's evolution. Following this multistep tumorigenesis concept, we previously showed the specific mutation patterns for each process of malignant progression, including submucosal invasion, epithelial mesenchymal transition (EMT), intravasation, and metastasis, using genetically engineered mouse and organoid...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37355534/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230626211237&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-06-24T10:00:00.000Z",
           "wordCount": 1472,
@@ -7727,6 +7757,36 @@
           "publishedOn": "2023-06-24T10:00:00.000Z",
           "wordCount": 1308,
           "title": "In Vitro and In Vivo Models for Metastatic Intestinal Tumors Using Genotype-Defined Organoids",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37344104",
+          "author": "Stefan Ivanovic",
+          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-21T10:00:00.000Z",
+          "wordCount": 1163,
+          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37343201",
+          "author": "Marco M Buttigieg",
+          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-21T10:00:00.000Z",
+          "wordCount": 1135,
+          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37342197",
+          "author": "David R Pearce",
+          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-21T10:00:00.000Z",
+          "wordCount": 2879,
+          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -7883,6 +7943,16 @@
           "id": "pubmed:37339686",
           "author": "Yang Yang",
           "description": "CONCLUSIONS: nCRT remodels the genome and transcriptome of ESCC. Acquired INDEL% is a potential biomarker to indicate the effectiveness of nCRT and radiation sensitivity.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37339686/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-20T10:00:00.000Z",
+          "wordCount": 1847,
+          "title": "Genomic and transcriptomic remodelling by neoadjuvant chemoradiotherapy (nCRT) and indicative role of acquired INDEL percentage for nCRT efficacy in esophageal squamous cell carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37339686",
+          "author": "Yang Yang",
+          "description": "CONCLUSIONS: nCRT remodels the genome and transcriptome of ESCC. Acquired INDEL% is a potential biomarker to indicate the effectiveness of nCRT and radiation sensitivity.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37339686/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230626211237&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-06-20T10:00:00.000Z",
           "wordCount": 1847,
@@ -7937,6 +8007,26 @@
           "publishedOn": "2023-06-20T10:00:00.000Z",
           "wordCount": 1847,
           "title": "Genomic and transcriptomic remodelling by neoadjuvant chemoradiotherapy (nCRT) and indicative role of acquired INDEL percentage for nCRT efficacy in esophageal squamous cell carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37336285",
+          "author": "Yuqing Wang",
+          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-19T10:00:00.000Z",
+          "wordCount": 1390,
+          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37333132",
+          "author": "Charli Gruen",
+          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-19T10:00:00.000Z",
+          "wordCount": 1263,
+          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8093,6 +8183,16 @@
           "id": "pubmed:37331179",
           "author": "Alvaro H Ingles Garces",
           "description": "The evolution of drug-resistant cell subpopulations causes cancer treatment failure. Current preclinical evidence shows that it is possible to model herding of clonal evolution and collateral sensitivity where an initial treatment could favourably influence the response to a subsequent one. Novel therapy strategies exploiting this understanding are being considered, and clinical trial designs for steering cancer evolution are needed. Furthermore, preclinical evidence suggests that different...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37331179/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-18T10:00:00.000Z",
+          "wordCount": 1410,
+          "title": "Clinical trial designs for evaluating and exploiting cancer evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37331179",
+          "author": "Alvaro H Ingles Garces",
+          "description": "The evolution of drug-resistant cell subpopulations causes cancer treatment failure. Current preclinical evidence shows that it is possible to model herding of clonal evolution and collateral sensitivity where an initial treatment could favourably influence the response to a subsequent one. Novel therapy strategies exploiting this understanding are being considered, and clinical trial designs for steering cancer evolution are needed. Furthermore, preclinical evidence suggests that different...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37331179/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230626211237&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-06-18T10:00:00.000Z",
           "wordCount": 1406,
@@ -8167,6 +8267,26 @@
           "publishedOn": "2023-06-18T10:00:00.000Z",
           "wordCount": 1283,
           "title": "Clinical trial designs for evaluating and exploiting cancer evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37328818",
+          "author": "Lionnel Geoffrois",
+          "description": "BACKGROUND: With more than 15,000 new cases /year in France and 2,000 deaths, cutaneous melanoma represents approximately 4% of incidental cancers and 1.2% of cancer related deaths. In locally advanced (stage III) or resectable metastatic (stage IV) melanomas, medical adjuvant treatment is proposed and recent advances had shown the benefit of anti-PD1/PDL1 and anti-CTLA4 immunotherapy as well as anti-BRAF and anti-MEK targeted therapy in BRAF V600 mutated tumors. However, the recurence rate at...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37328818/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-16T10:00:00.000Z",
+          "wordCount": 2545,
+          "title": "Personalized follow-up of circulating DNA in resected stage III/IV melanoma: PERCIMEL multicentric prospective study protocol",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37328455",
+          "author": "Fabio Alfieri",
+          "description": "Cancers evolve under the accumulation of thousands of somatic mutations and chromosomal aberrations. While most coding mutations are deleterious, almost all protein-coding genes lack detectable signals of negative selection. This raises the question of how tumors tolerate such large amounts of deleterious mutations. Using 8,690 tumor samples from The Cancer Genome Atlas, we demonstrate that copy number amplifications frequently cover haploinsufficient genes in mutation-prone regions. This could...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37328455/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-06-16T10:00:00.000Z",
+          "wordCount": 2783,
+          "title": "Cancer genomes tolerate deleterious coding mutations through somatic copy number amplifications of wild-type regions",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
