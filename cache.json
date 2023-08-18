@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&utm_campaign=pubmed-2&fc=20220608003622&ff=20230816204601&utm_source=axios&v=2.17.9.post6+86293ac&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&v=2.17.9.post6+86293ac&fc=20220608003622&utm_campaign=pubmed-2&ff=20230817204642&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:37586319",
+          "author": "Zhijie Wu",
+          "description": "VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome is a pleiotropic, severe autoinflammatory disease caused by somatic mutations in the ubiquitin-like modifier activating enzyme 1 (UBA1) gene. To elucidate VEXAS pathophysiology, we performed transcriptome sequencing of single bone marrow mononuclear cells and hematopoietic stem and progenitor cells (HSPCs) from VEXAS patients. HSPCs are biased toward myeloid (granulocytic) differentiation, and against lymphoid...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37586319/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-16T10:00:00.000Z",
+          "wordCount": 1628,
+          "title": "Early activation of inflammatory pathways in UBA1-mutated hematopoietic stem and progenitor cells in VEXAS",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37582363",
+          "author": "Mariela Cortés-López",
+          "description": "RNA splicing factors are recurrently mutated in clonal blood disorders, but the impact of dysregulated splicing in hematopoiesis remains unclear. To overcome technical limitations, we integrated genotyping of transcriptomes (GoT) with long-read single-cell transcriptomics and proteogenomics for single-cell profiling of transcriptomes, surface proteins, somatic mutations, and RNA splicing (GoT-Splice). We applied GoT-Splice to hematopoietic progenitors from myelodysplastic syndrome (MDS) patients...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37582363/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-15T10:00:00.000Z",
+          "wordCount": 2182,
+          "title": "Single-cell multi-omics defines the cell-type-specific impact of splicing aberrations in human hematopoietic clonal outgrowths",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:37582363",
           "author": "Mariela Cortés-López",
@@ -220,6 +240,26 @@
           "publishedOn": "2023-08-15T10:00:00.000Z",
           "wordCount": 2182,
           "title": "Single-cell multi-omics defines the cell-type-specific impact of splicing aberrations in human hematopoietic clonal outgrowths",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37579157",
+          "author": "Emily A Saunderson",
+          "description": "Aging is associated with an abnormal increase in DNA methylation (DNAm) in human gene promoters, including in bone marrow stem cells. DNAm patterns are further perturbed in hematological malignancies such as acute myeloid leukemia but the physiological significance of such epigenetic changes is unknown. Using epigenetic editing of human stem/progenitor cells (HSPCs), we show that p15 methylation affects hematopoiesis in vivo. We edited the CDKN2B (p15) promoter and ARF (p14) using dCas9-3A3L and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37579157/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-14T10:00:00.000Z",
+          "wordCount": 1540,
+          "title": "CRISPR/dCas9 DNA methylation editing is heritable during human hematopoiesis and shapes immune progeny",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37575386",
+          "author": "Soichi Sano",
+          "description": "This protocol describes the generation of chimeric mice in which the Y chromosome is deleted from a proportion of blood cells. This model recapitulates the phenomenon of hematopoietic mosaic loss of Y chromosome (mLOY), which is frequently observed in the blood of aged men. To construct mice with hematopoietic Y chromosome loss, lineage-negative cells are isolated from the bone marrow of ROSA26-Cas9 knock-in mice. These cells are transduced with a lentivirus vector encoding a guide RNA (gRNA)...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37575386/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-14T10:00:00.000Z",
+          "wordCount": 1620,
+          "title": "Development of a Mouse Model of Hematopoietic Loss of Y Chromosome",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -286,6 +326,16 @@
           "id": "pubmed:37573441",
           "author": "Ramu Anandakrishnan",
           "description": "A hallmark of cancer is a tumor cell's ability to evade immune destruction. Somatic mutations in tumor cells that prevent immune destruction have been extensively studied. However, somatic mutations in tumor infiltrating immune (TII) cells, to our knowledge, have not been previously studied. Understandably so since normal hematopoiesis prevents the accumulation of somatic mutations in immune cells. However, clonal hematopoiesis does result in the accumulation of somatic mutations in immune...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37573441/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-12T10:00:00.000Z",
+          "wordCount": 2070,
+          "title": "Potential immunosuppressive clonal hematopoietic mutations in tumor infiltrating immune cells in breast invasive carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37573441",
+          "author": "Ramu Anandakrishnan",
+          "description": "A hallmark of cancer is a tumor cell's ability to evade immune destruction. Somatic mutations in tumor cells that prevent immune destruction have been extensively studied. However, somatic mutations in tumor infiltrating immune (TII) cells, to our knowledge, have not been previously studied. Understandably so since normal hematopoiesis prevents the accumulation of somatic mutations in immune cells. However, clonal hematopoiesis does result in the accumulation of somatic mutations in immune...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37573441/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230816204601&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-08-12T10:00:00.000Z",
           "wordCount": 2070,
@@ -320,6 +370,16 @@
           "publishedOn": "2023-08-12T10:00:00.000Z",
           "wordCount": 1408,
           "title": "Potential immunosuppressive clonal hematopoietic mutations in tumor infiltrating immune cells in breast invasive carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37565819",
+          "author": "Aubrey K Hubbard",
+          "description": "Age-related clonal expansion of cells harboring mosaic chromosomal alterations (mCAs) is one manifestation of clonal hematopoiesis. Identifying factors that influence the generation and promotion of clonal expansion of mCAs are key to investigate the role of mCAs in health and disease. Herein, we report on widely measured serum biomarkers and their possible association with mCAs, which could provide new insights into molecular alterations that promote acquisition and clonal expansion. We...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37565819/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-11T10:00:00.000Z",
+          "wordCount": 1357,
+          "title": "Serum biomarkers are altered in UK biobank participants with mosaic chromosomal alterations",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -380,6 +440,36 @@
           "publishedOn": "2023-08-11T10:00:00.000Z",
           "wordCount": 1320,
           "title": "Serum biomarkers are altered in UK biobank participants with mosaic chromosomal alterations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37562724",
+          "author": "Noémie Ravalet",
+          "description": "Aging is associated with bone marrow (BM) inflammaging and, in some individuals, with the onset of clonal hematopoiesis (CH) of indeterminate potential. In this study conducted on 94 strictly healthy volunteers (18 to 80 yo), we measured BM and peripheral blood (PB) plasma levels of 49 hematopoietic and inflammatory cytokines. With aging, 7 cytokines increased in BM (FLT3L, CXCL9, HGF, FGF-2, CCL27, IL-16, IL-18) and 8 decreased (G-CSF, TNF, IL-2, IL-15, IL-17A, CCL7, IL-4, IL-10). In PB, 10...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37562724/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-10T10:00:00.000Z",
+          "wordCount": 1656,
+          "title": "Modulation of bone marrow and peripheral blood cytokine levels by age and clonal hematopoiesis in healthy individuals",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37561983",
+          "author": "Sebastià Franch-Expósito",
+          "description": "CONCLUSION: Our results suggest a close relationship between inherited variants and CH mutations within the DDR genes in patients with solid tumors. Associations identified in this study might translate into enhanced clinical surveillance for CH and associated comorbidities in patients with cancer harboring these germline mutations.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37561983/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-10T10:00:00.000Z",
+          "wordCount": 1747,
+          "title": "Associations Between Cancer Predisposition Mutations and Clonal Hematopoiesis in Patients With Solid Tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37560406",
+          "author": "Saroja Devi Geetha",
+          "description": "INTRODUCTION: Transient abnormal myelopoiesis (TAM) is a transient, clonal myeloproliferative disorder unique to Down Syndrome (DS) babies. It is characterized by increased peripheral blasts and presence of GATA1 mutation. The clinical spectrum ranges from jaundice and hepatosplenomegaly to multi-organ failure and death. Here we present a case of a premature baby with DS diagnosed to have TAM with extramedullary involvement at birth who had a fatal outcome.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37560406/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-10T10:00:00.000Z",
+          "wordCount": 1717,
+          "title": "Transient abnormal myelopoiesis with extramedullary involvement in a down syndrome preemie leading to an unresponsive course despite chemotherapy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -580,6 +670,56 @@
           "publishedOn": "2023-08-10T10:00:00.000Z",
           "wordCount": 1647,
           "title": "Transient abnormal myelopoiesis with extramedullary involvement in a down syndrome preemie leading to an unresponsive course despite chemotherapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37550517",
+          "author": "Elodie Grockowiak",
+          "description": "Aging facilitates the expansion of hematopoietic stem cells (HSCs) carrying clonal hematopoiesis-related somatic mutations and the development of myeloid malignancies, such as myeloproliferative neoplasms (MPNs). While cooperating mutations can cause transformation, it is unclear whether distinct bone marrow (BM) HSC-niches can influence the growth and therapy response of HSCs carrying the same oncogenic driver. Here we found different BM niches for HSCs in MPN subtypes. JAK-STAT signaling...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37550517/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-07T10:00:00.000Z",
+          "wordCount": 1855,
+          "title": "Different niches for stem cells carrying the same oncogenic driver affect pathogenesis and therapy response in myeloproliferative neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37549687",
+          "author": "Mariaelvy Bianchini",
+          "description": "Dietary factors have a significant impact on overall health and western diet (WD) disrupts arterial homeostasis, thereby promoting atherosclerosis. In our study, we investigated the effects of short-term WD on bone marrow vasculature and hematopoiesis in hypercholesterolemic mice. We found that WD rapidly remodels bone marrow arterioles, and these alterations persist even after WD cessation. The proximity between hematopoietic stem cells (HSCs) and arterioles increased with short-term WD, which...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37549687/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-07T10:00:00.000Z",
+          "wordCount": 1408,
+          "title": "Short-term western diet causes rapid and lasting alterations of bone marrow physiology",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37547364",
+          "author": "Xiaoying Zhang",
+          "description": "Myelodysplastic syndrome (MDS) is a heterogeneous group of clonal hematological diseases and a high risk for transformation to acute myeloid leukemia (AML). The identification of key genetic alterations in MDS has enhanced our understanding of the pathogenesis and evolution. In recent years, it has been found that both innate and adaptive immune signaling are activated in the hematopoietic niche of MDS with aberrant cytokine secretion in the bone marrow microenvironment. It is also clear that...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37547364/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-07T10:00:00.000Z",
+          "wordCount": 1895,
+          "title": "Immune dysregulation and potential targeted therapy in myelodysplastic syndrome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37546840",
+          "author": "Moritz von Scheidt",
+          "description": "CONCLUSIONS: Deep-DNA-sequencing reveals a high prevalence of CHIP mutations in whole blood of CAD patients. CHIP-affected leukocytes invade plaques in human coronary arteries. RNAseq data obtained from macrophages of CHIP-affected patients suggest that pro-atherosclerotic signaling differs depending on the underlying mutations. Further studies are necessary to understand whether specific pathways affected by CHIP mutations may be targeted for personalized treatment.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37546840/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-07T10:00:00.000Z",
+          "wordCount": 2577,
+          "title": "Leukocytes carrying <em>Clonal Hematopoiesis of Indeterminate Potential</em> (CHIP) Mutations invade Human Atherosclerotic Plaques",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37546389",
+          "author": "Gajalakshmi Ramanathan",
+          "description": "CONCLUSION: Altogether, these findings demonstrate that CS results in an inflamed bone marrow environment that provides a selection pressure for existing CHIP mutations such as Jak2V617F and Tet2 loss-of-function.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37546389/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-07T10:00:00.000Z",
+          "wordCount": 2538,
+          "title": "Cigarette smoke stimulates clonal expansion of Jak2<sup>V617F</sup> and Tet2<sup>-/-</sup> cells",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -1060,6 +1200,16 @@
           "publishedOn": "2023-08-07T10:00:00.000Z",
           "wordCount": 2472,
           "title": "Cigarette smoke stimulates clonal expansion of Jak2<sup>V617F</sup> and Tet2<sup>-/-</sup> cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37539077",
+          "author": "Wenli Liu",
+          "description": "Clonal hematopoiesis (CH) increases the risk of atherosclerotic cardiovascular disease possibly due to increased plaque inflammation. Human studies suggest that limitation of interleukin-6 (IL-6) signaling could be beneficial in people with large CH clones, particularly in TET2 CH. Here we show that IL-6 receptor antibody treatment reverses the atherosclerosis promoted by Tet2 CH, with reduction of monocytosis, lesional macrophage burden and macrophage colony-stimulating factor 1 receptor...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37539077/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-04T10:00:00.000Z",
+          "wordCount": 5537,
+          "title": "Blockade of IL-6 signaling alleviates atherosclerosis in <em>Tet2</em>-deficient clonal hematopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -7811,154 +7961,34 @@
           "wordCount": 1018,
           "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230702211325&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1451,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230701211521&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1451,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230630211759&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1369,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230629210818&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1369,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230628211019&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1366,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1366,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230626211237&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1366,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230625211348&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1366,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230624211813&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1235,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230623211123&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1235,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230622211122&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1235,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230621210458&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1235,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230620210358&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1223,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333361",
-          "author": "Alex P Reiner",
-          "description": "CONCLUSION: CHIP, particularly mutations in TET2 , represents a potential new risk factor for incident HFpEF.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333361/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230619210151&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1169,
-          "title": "Association of Clonal Hematopoiesis of Indeterminate Potential with Incident Heart Failure with Preserved Ejection Fraction",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&utm_medium=rss&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230816204600&v=2.17.9.post6+86293ac",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_source=axios&ff=20230817204642&utm_campaign=pubmed-2&utm_medium=rss&v=2.17.9.post6+86293ac&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
       "articles": [
+        {
+          "id": "pubmed:37586362",
+          "author": "Kaile Wang",
+          "description": "Ductal carcinoma in situ (DCIS) is a common precursor of invasive breast cancer. Our understanding of its genomic progression to recurrent disease remains poor, partly due to challenges associated with the genomic profiling of formalin-fixed paraffin-embedded (FFPE) materials. Here, we developed Arc-well, a high-throughput single-cell DNA-sequencing method that is compatible with FFPE materials. We validated our method by profiling 40,330 single cells from cell lines, a frozen tissue, and 27...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37586362/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-16T10:00:00.000Z",
+          "wordCount": 2195,
+          "title": "Archival single-cell genomics reveals persistent subclones during DCIS progression",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37582954",
+          "author": "Etienne Sollier",
+          "description": "Reconstructing the history of somatic DNA alterations can help understand the evolution of a tumor and predict its resistance to treatment. Single-cell DNA sequencing (scDNAseq) can be used to investigate clonal heterogeneity and to inform phylogeny reconstruction. However, most existing phylogenetic methods for scDNAseq data are designed either for single nucleotide variants (SNVs) or for large copy number alterations (CNAs), or are not applicable to targeted sequencing. Here, we develop...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37582954/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-15T10:00:00.000Z",
+          "wordCount": 2440,
+          "title": "COMPASS: joint copy number and mutation phylogeny reconstruction from amplicon single-cell sequencing data",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:37582954",
           "author": "Etienne Sollier",
@@ -7967,6 +7997,16 @@
           "publishedOn": "2023-08-15T10:00:00.000Z",
           "wordCount": 1383,
           "title": "COMPASS: joint copy number and mutation phylogeny reconstruction from amplicon single-cell sequencing data",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37573441",
+          "author": "Ramu Anandakrishnan",
+          "description": "A hallmark of cancer is a tumor cell's ability to evade immune destruction. Somatic mutations in tumor cells that prevent immune destruction have been extensively studied. However, somatic mutations in tumor infiltrating immune (TII) cells, to our knowledge, have not been previously studied. Understandably so since normal hematopoiesis prevents the accumulation of somatic mutations in immune cells. However, clonal hematopoiesis does result in the accumulation of somatic mutations in immune...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37573441/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-12T10:00:00.000Z",
+          "wordCount": 2070,
+          "title": "Potential immunosuppressive clonal hematopoietic mutations in tumor infiltrating immune cells in breast invasive carcinoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8003,6 +8043,16 @@
           "id": "pubmed:37561983",
           "author": "Sebastià Franch-Expósito",
           "description": "CONCLUSION: Our results suggest a close relationship between inherited variants and CH mutations within the DDR genes in patients with solid tumors. Associations identified in this study might translate into enhanced clinical surveillance for CH and associated comorbidities in patients with cancer harboring these germline mutations.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37561983/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-10T10:00:00.000Z",
+          "wordCount": 1747,
+          "title": "Associations Between Cancer Predisposition Mutations and Clonal Hematopoiesis in Patients With Solid Tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37561983",
+          "author": "Sebastià Franch-Expósito",
+          "description": "CONCLUSION: Our results suggest a close relationship between inherited variants and CH mutations within the DDR genes in patients with solid tumors. Associations identified in this study might translate into enhanced clinical surveillance for CH and associated comorbidities in patients with cancer harboring these germline mutations.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37561983/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230816204600&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-08-10T10:00:00.000Z",
           "wordCount": 1747,
@@ -8027,6 +8077,26 @@
           "publishedOn": "2023-08-10T10:00:00.000Z",
           "wordCount": 1744,
           "title": "Associations Between Cancer Predisposition Mutations and Clonal Hematopoiesis in Patients With Solid Tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37541246",
+          "author": "Frank Winkler",
+          "description": "The exact mechanisms that govern clonal dynamics and selection during early tumorigenesis remain largely elusive. Ceresa et al. provide experimental and mathematical evidence that MYC-dependent competition between individual clones is one driving force of brain tumor evolution, adding a winner/loser aspect to the picture that complements existing concepts.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37541246/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-04T10:00:00.000Z",
+          "wordCount": 1047,
+          "title": "The winner takes it all: Competition drives clonal selection in gliomagenesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37541243",
+          "author": "Davide Ceresa",
+          "description": "Glioblastoma progression in its early stages remains poorly understood. Here, we transfer PDGFB and genetic barcodes in mouse brain to initiate gliomagenesis and enable direct tracing of glioblastoma evolution from its earliest possible stage. Unexpectedly, we observe a high incidence of clonal extinction events and progressive divergence in clonal sizes, even after the acquisition of malignant phenotype. Computational modeling suggests these dynamics result from clonal-based cell-cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37541243/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-04T10:00:00.000Z",
+          "wordCount": 1452,
+          "title": "Early clonal extinction in glioblastoma progression revealed by genetic barcoding",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8273,6 +8343,16 @@
           "id": "pubmed:37526082",
           "author": "Chunjie Yu",
           "description": "Clonal hematopoiesis plays a critical role in the initiation and development of hematologic malignancies. In patients with del(5q) myelodysplastic syndrome (MDS), the transcription factor FOXM1 is frequently downregulated in CD34+ cells. In this study, we demonstrated that Foxm1 haploinsufficiency disturbed normal hematopoiesis and conferred a competitive repopulation advantage for a short period. However, it impaired the long-term self-renewal capacity of hematopoietic stem cells,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37526082/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-01T10:00:00.000Z",
+          "wordCount": 3457,
+          "title": "Foxm1 haploinsufficiency drives clonal hematopoiesis and promotes a stress-related transition to hematologic malignancy in mice",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37526082",
+          "author": "Chunjie Yu",
+          "description": "Clonal hematopoiesis plays a critical role in the initiation and development of hematologic malignancies. In patients with del(5q) myelodysplastic syndrome (MDS), the transcription factor FOXM1 is frequently downregulated in CD34+ cells. In this study, we demonstrated that Foxm1 haploinsufficiency disturbed normal hematopoiesis and conferred a competitive repopulation advantage for a short period. However, it impaired the long-term self-renewal capacity of hematopoietic stem cells,...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37526082/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230816204600&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-08-01T10:00:00.000Z",
           "wordCount": 3457,
@@ -8417,6 +8497,36 @@
           "publishedOn": "2023-08-01T10:00:00.000Z",
           "wordCount": 3301,
           "title": "Foxm1 haploinsufficiency drives clonal hematopoiesis and promotes a stress-related transition to hematologic malignancy in mice",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37510235",
+          "author": "Michele Massimino",
+          "description": "Cancer molecular profiling obtained with conventional bulk sequencing describes average alterations obtained from the entire cellular population analyzed. In the era of precision medicine, this approach is unable to track tumor heterogeneity and cannot be exploited to unravel the biological processes behind clonal evolution. In the last few years, functional single-cell omics has improved our understanding of cancer heterogeneity. This approach requires isolation and identification of single...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37510235/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-29T10:00:00.000Z",
+          "wordCount": 2189,
+          "title": "Single-Cell Analysis in the <em>Omics</em> Era: Technologies and Applications in Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37508780",
+          "author": "Eric Pellegrino",
+          "description": "The advent of next-generation sequencing (NGS) technologies has revolutionized the field of bioinformatics and genomics, particularly in the area of onco-somatic genetics. NGS has provided a wealth of information about the genetic changes that underlie cancer and has considerably improved our ability to diagnose and treat cancer. However, the large amount of data generated by NGS makes it difficult to interpret the variants. To address this, machine learning algorithms such as Extreme Gradient...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37508780/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-29T10:00:00.000Z",
+          "wordCount": 2581,
+          "title": "Extreme Gradient Boosting Tuned with Metaheuristic Algorithms for Predicting Myeloid NGS Onco-Somatic Variant Pathogenicity",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37508513",
+          "author": "Thomas Veith",
+          "description": "Many cancer cell lines are aneuploid and heterogeneous, with multiple karyotypes co-existing within the same cell line. Karyotype heterogeneity has been shown to manifest phenotypically, thus affecting how cells respond to drugs or to minor differences in culture media. Knowing how to interpret karyotype heterogeneity phenotypically would give insights into cellular phenotypes before they unfold temporally. Here, we re-analyzed single cell RNA (scRNA) and scDNA sequencing data from eight stomach...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37508513/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-29T10:00:00.000Z",
+          "wordCount": 3002,
+          "title": "Mathematical Modeling of Clonal Interference by Density-Dependent Selection in Heterogeneous Cancer Cell Lines",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8993,6 +9103,26 @@
           "id": "pubmed:37506341",
           "author": "Sruthi Cheloor Kovilakam",
           "description": "Germline variants in the DDX41 gene have been linked to myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML) development. However, the risks associated with different variants remain unknown, as do the basis of their leukemogenic properties, impact on steady-state hematopoiesis and links to other cancers. Here, we investigate the frequency and significance of DDX41 variants in 454,792 United Kingdom Biobank (UKB) participants and identify 452 unique non-synonymous DNA variants in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37506341/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-28T10:00:00.000Z",
+          "wordCount": 1358,
+          "title": "Prevalence and significance of DDX41 gene variants in the general population",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37503111",
+          "author": "King L Hung",
+          "description": "The chromosomal theory of inheritance has dominated human genetics, including cancer genetics. Genes on the same chromosome segregate together while genes on different chromosomes assort independently, providing a fundamental tenet of Mendelian inheritance. Extrachromosomal DNA (ecDNA) is a frequent event in cancer that drives oncogene amplification, dysregulated gene expression and intratumoral heterogeneity, including through random segregation during cell division. Distinct ecDNA sequences,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37503111/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-28T10:00:00.000Z",
+          "wordCount": 3797,
+          "title": "Coordinated inheritance of extrachromosomal DNA species in human cancer cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37506341",
+          "author": "Sruthi Cheloor Kovilakam",
+          "description": "Germline variants in the DDX41 gene have been linked to myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML) development. However, the risks associated with different variants remain unknown, as do the basis of their leukemogenic properties, impact on steady-state hematopoiesis and links to other cancers. Here, we investigate the frequency and significance of DDX41 variants in 454,792 United Kingdom Biobank (UKB) participants and identify 452 unique non-synonymous DNA variants in...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37506341/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230816204600&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-07-28T10:00:00.000Z",
           "wordCount": 1358,
@@ -9393,6 +9523,16 @@
           "id": "pubmed:37481320",
           "author": "Siba El Hussein",
           "description": "The utility of flow cytometry analysis in the evaluation of chronic myeloid neoplasms, such as myelodysplastic neoplasms and chronic myeloproliferative neoplasms, continues to be emphasized and explored. Recently flow cytometry analysis has been also proven to be able to distinguish persistent clonal hematopoiesis from measurable residual disease in patients with acute myeloid leukemia (AML), a finding with potential critical treatment impact in the management of patients with AML.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37481320/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-22T10:00:00.000Z",
+          "wordCount": 1201,
+          "title": "Clinical Flow Cytometry Analysis in the Setting of Chronic Myeloid Neoplasms and Clonal Hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37481320",
+          "author": "Siba El Hussein",
+          "description": "The utility of flow cytometry analysis in the evaluation of chronic myeloid neoplasms, such as myelodysplastic neoplasms and chronic myeloproliferative neoplasms, continues to be emphasized and explored. Recently flow cytometry analysis has been also proven to be able to distinguish persistent clonal hematopoiesis from measurable residual disease in patients with acute myeloid leukemia (AML), a finding with potential critical treatment impact in the management of patients with AML.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37481320/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230816204600&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-07-22T10:00:00.000Z",
           "wordCount": 1201,
@@ -9627,6 +9767,16 @@
           "publishedOn": "2023-07-22T10:00:00.000Z",
           "wordCount": 1190,
           "title": "Clinical Flow Cytometry Analysis in the Setting of Chronic Myeloid Neoplasms and Clonal Hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37460928",
+          "author": "A W Adamson",
+          "description": "CONCLUSIONS: From 71 patients with HGCS, we performed targeted germline and tumor sequencing and provided a comprehensive analysis of these 557 genes. We identified germline and somatic genetic alterations including somatic copy number alterations and analyzed their associations with relapse-free and overall survival. This single-site long-term follow-up study provides additional information on genetic alterations related to occurrence and outcome of HGSC. Our findings suggest that targeted...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37460928/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-17T10:00:00.000Z",
+          "wordCount": 2647,
+          "title": "Genomic analyses of germline and somatic variation in high-grade serous ovarian cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -9927,6 +10077,16 @@
           "publishedOn": "2023-07-17T10:00:00.000Z",
           "wordCount": 1828,
           "title": "Genomic analyses of germline and somatic variation in high-grade serous ovarian cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37445976",
+          "author": "Elisa Bertoli",
+          "description": "Tissue biopsy is essential for NSCLC diagnosis and treatment management. Over the past decades, liquid biopsy has proven to be a powerful tool in clinical oncology, isolating tumor-derived entities from the blood. Liquid biopsy permits several advantages over tissue biopsy: it is non-invasive, and it should provide a better view of tumor heterogeneity, gene alterations, and clonal evolution. Consequentially, liquid biopsy has gained attention as a cancer biomarker tool, with growing clinical...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37445976/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230817204642&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-14T10:00:00.000Z",
+          "wordCount": 1791,
+          "title": "Liquid Biopsy in NSCLC: An Investigation with Multiple Clinical Implications",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -15617,286 +15777,6 @@
           "publishedOn": "2023-06-20T10:00:00.000Z",
           "wordCount": 1847,
           "title": "Genomic and transcriptomic remodelling by neoadjuvant chemoradiotherapy (nCRT) and indicative role of acquired INDEL percentage for nCRT efficacy in esophageal squamous cell carcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230703211307&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1391,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230702211325&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1390,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230702211325&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1263,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230701211521&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1390,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230701211521&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1263,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230630211759&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1390,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230630211759&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1263,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230629210818&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1390,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230629210818&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1263,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230628211019&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1390,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230628211019&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1263,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1390,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1263,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230626211237&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1390,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230626211237&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1263,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230625211348&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1390,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230625211348&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1263,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230624211813&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1390,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230624211813&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1263,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230623211123&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1390,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230623211123&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1263,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230622211122&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1390,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230622211122&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1263,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230621210458&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1390,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230621210458&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1263,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37336285",
-          "author": "Yuqing Wang",
-          "description": "Clonal evolution has gained immense attention in explaining cancer cell status, history, and fate during cancer progression. Current single-cell or spatial transcriptome technologies have broadened our understanding of various mechanisms underlying cancer initiation, relapse, and drug resistance. However, technical challenges still hinder a better understanding of the dynamics of distinctive phenotypic states and abnormal trajectories from normal physiological transition to malignant stages....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37336285/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230620210358&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1355,
-          "title": "Cellular barcoding: From developmental tracing to anti-tumor drug discovery",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230620210358&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1251,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37333132",
-          "author": "Charli Gruen",
-          "description": "Intratumoral heterogeneity (ITH) can promote cancer progression and treatment failure, but the complexity of the regulatory programs and contextual factors involved complicates its study. To understand the specific contribution of ITH to immune checkpoint blockade (ICB) response, we generated single cell-derived clonal sublines from an ICB-sensitive and genetically and phenotypically heterogeneous mouse melanoma model, M4. Genomic and single cell transcriptomic analyses uncovered the diversity...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37333132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230619210151&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-19T10:00:00.000Z",
-          "wordCount": 1209,
-          "title": "Melanoma clonal subline analysis uncovers heterogeneity-driven immunotherapy resistance mechanisms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
