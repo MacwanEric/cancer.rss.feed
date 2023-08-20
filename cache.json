@@ -210,8 +210,38 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.17.9.post6+86293ac&ff=20230818204446&fc=20220608003622&utm_campaign=pubmed-2&utm_source=axios&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&v=2.17.9.post6+86293ac&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20230819204952&utm_source=axios&utm_medium=rss",
       "articles": [
+        {
+          "id": "pubmed:37595362",
+          "author": "Peter Grant Miller",
+          "description": "PPM1D encodes a phosphatase that is recurrently activated across cancer, most notably in therapy-related myeloid neoplasms. However, the function of PPM1D in hematopoiesis and its contribution to tumor cell growth remain incompletely understood. Using conditional mouse models, we uncover a central role for Ppm1d in hematopoiesis and validate its potential as a therapeutic target. We find that Ppm1d regulates the competitive fitness and self-renewal of hematopoietic stem cells (HSCs) with and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37595362/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-18T10:00:00.000Z",
+          "wordCount": 1429,
+          "title": "PPM1D modulates hematopoietic cell fitness and response to DNA damage and is a therapeutic target in myeloid malignancy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37592035",
+          "author": "Jinzhuang Dou",
+          "description": "Single-cell omics technologies enable molecular characterization of diverse cell types and states, but how the resulting transcriptional and epigenetic profiles depend on the cell's genetic background remains understudied. We describe Monopogen, a computational tool to detect single-nucleotide variants (SNVs) from single-cell sequencing data. Monopogen leverages linkage disequilibrium from external reference panels to identify germline SNVs and detects putative somatic SNVs using allele...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37592035/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-17T10:00:00.000Z",
+          "wordCount": 1835,
+          "title": "Single-nucleotide variant calling in single-cell sequencing data with Monopogen",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37591941",
+          "author": "Ekaterina Jahn",
+          "description": "To characterize the genomic landscape and leukemogenic pathways of older, newly diagnosed, non-intensively treated patients with AML and to study the clinical implications, comprehensive genetics analyses were performed including targeted DNA sequencing of 263 genes in 604 patients treated in a prospective Phase III clinical trial. Leukemic trajectories were delineated using oncogenetic tree modeling and hierarchical clustering, and prognostic groups were derived from multivariable Cox...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37591941/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-17T10:00:00.000Z",
+          "wordCount": 1726,
+          "title": "Clinical impact of the genomic landscape and leukemogenic trajectories in non-intensively treated elderly acute myeloid leukemia patients",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:37592035",
           "author": "Jinzhuang Dou",
@@ -236,6 +266,16 @@
           "id": "pubmed:37586319",
           "author": "Zhijie Wu",
           "description": "VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome is a pleiotropic, severe autoinflammatory disease caused by somatic mutations in the ubiquitin-like modifier activating enzyme 1 (UBA1) gene. To elucidate VEXAS pathophysiology, we performed transcriptome sequencing of single bone marrow mononuclear cells and hematopoietic stem and progenitor cells (HSPCs) from VEXAS patients. HSPCs are biased toward myeloid (granulocytic) differentiation, and against lymphoid...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37586319/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-16T10:00:00.000Z",
+          "wordCount": 1716,
+          "title": "Early activation of inflammatory pathways in UBA1-mutated hematopoietic stem and progenitor cells in VEXAS",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37586319",
+          "author": "Zhijie Wu",
+          "description": "VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome is a pleiotropic, severe autoinflammatory disease caused by somatic mutations in the ubiquitin-like modifier activating enzyme 1 (UBA1) gene. To elucidate VEXAS pathophysiology, we performed transcriptome sequencing of single bone marrow mononuclear cells and hematopoietic stem and progenitor cells (HSPCs) from VEXAS patients. HSPCs are biased toward myeloid (granulocytic) differentiation, and against lymphoid...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37586319/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230818204446&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-08-16T10:00:00.000Z",
           "wordCount": 1716,
@@ -250,6 +290,16 @@
           "publishedOn": "2023-08-16T10:00:00.000Z",
           "wordCount": 1628,
           "title": "Early activation of inflammatory pathways in UBA1-mutated hematopoietic stem and progenitor cells in VEXAS",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37582363",
+          "author": "Mariela Cortés-López",
+          "description": "RNA splicing factors are recurrently mutated in clonal blood disorders, but the impact of dysregulated splicing in hematopoiesis remains unclear. To overcome technical limitations, we integrated genotyping of transcriptomes (GoT) with long-read single-cell transcriptomics and proteogenomics for single-cell profiling of transcriptomes, surface proteins, somatic mutations, and RNA splicing (GoT-Splice). We applied GoT-Splice to hematopoietic progenitors from myelodysplastic syndrome (MDS) patients...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37582363/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-15T10:00:00.000Z",
+          "wordCount": 2182,
+          "title": "Single-cell multi-omics defines the cell-type-specific impact of splicing aberrations in human hematopoietic clonal outgrowths",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -280,6 +330,26 @@
           "publishedOn": "2023-08-15T10:00:00.000Z",
           "wordCount": 2182,
           "title": "Single-cell multi-omics defines the cell-type-specific impact of splicing aberrations in human hematopoietic clonal outgrowths",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37579157",
+          "author": "Emily A Saunderson",
+          "description": "Aging is associated with an abnormal increase in DNA methylation (DNAm) in human gene promoters, including in bone marrow stem cells. DNAm patterns are further perturbed in hematological malignancies such as acute myeloid leukemia but the physiological significance of such epigenetic changes is unknown. Using epigenetic editing of human stem/progenitor cells (HSPCs), we show that p15 methylation affects hematopoiesis in vivo. We edited the CDKN2B (p15) promoter and ARF (p14) using dCas9-3A3L and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37579157/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-14T10:00:00.000Z",
+          "wordCount": 1540,
+          "title": "CRISPR/dCas9 DNA methylation editing is heritable during human hematopoiesis and shapes immune progeny",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37575386",
+          "author": "Soichi Sano",
+          "description": "This protocol describes the generation of chimeric mice in which the Y chromosome is deleted from a proportion of blood cells. This model recapitulates the phenomenon of hematopoietic mosaic loss of Y chromosome (mLOY), which is frequently observed in the blood of aged men. To construct mice with hematopoietic Y chromosome loss, lineage-negative cells are isolated from the bone marrow of ROSA26-Cas9 knock-in mice. These cells are transduced with a lentivirus vector encoding a guide RNA (gRNA)...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37575386/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-14T10:00:00.000Z",
+          "wordCount": 1620,
+          "title": "Development of a Mouse Model of Hematopoietic Loss of Y Chromosome",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -386,6 +456,16 @@
           "id": "pubmed:37573441",
           "author": "Ramu Anandakrishnan",
           "description": "A hallmark of cancer is a tumor cell's ability to evade immune destruction. Somatic mutations in tumor cells that prevent immune destruction have been extensively studied. However, somatic mutations in tumor infiltrating immune (TII) cells, to our knowledge, have not been previously studied. Understandably so since normal hematopoiesis prevents the accumulation of somatic mutations in immune cells. However, clonal hematopoiesis does result in the accumulation of somatic mutations in immune...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37573441/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-12T10:00:00.000Z",
+          "wordCount": 2070,
+          "title": "Potential immunosuppressive clonal hematopoietic mutations in tumor infiltrating immune cells in breast invasive carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37573441",
+          "author": "Ramu Anandakrishnan",
+          "description": "A hallmark of cancer is a tumor cell's ability to evade immune destruction. Somatic mutations in tumor cells that prevent immune destruction have been extensively studied. However, somatic mutations in tumor infiltrating immune (TII) cells, to our knowledge, have not been previously studied. Understandably so since normal hematopoiesis prevents the accumulation of somatic mutations in immune cells. However, clonal hematopoiesis does result in the accumulation of somatic mutations in immune...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37573441/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230818204446&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-08-12T10:00:00.000Z",
           "wordCount": 2070,
@@ -440,6 +520,16 @@
           "publishedOn": "2023-08-12T10:00:00.000Z",
           "wordCount": 1408,
           "title": "Potential immunosuppressive clonal hematopoietic mutations in tumor infiltrating immune cells in breast invasive carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37565819",
+          "author": "Aubrey K Hubbard",
+          "description": "Age-related clonal expansion of cells harboring mosaic chromosomal alterations (mCAs) is one manifestation of clonal hematopoiesis. Identifying factors that influence the generation and promotion of clonal expansion of mCAs are key to investigate the role of mCAs in health and disease. Herein, we report on widely measured serum biomarkers and their possible association with mCAs, which could provide new insights into molecular alterations that promote acquisition and clonal expansion. We...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37565819/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-11T10:00:00.000Z",
+          "wordCount": 1357,
+          "title": "Serum biomarkers are altered in UK biobank participants with mosaic chromosomal alterations",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -520,6 +610,36 @@
           "publishedOn": "2023-08-11T10:00:00.000Z",
           "wordCount": 1320,
           "title": "Serum biomarkers are altered in UK biobank participants with mosaic chromosomal alterations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37562724",
+          "author": "Noémie Ravalet",
+          "description": "Aging is associated with bone marrow (BM) inflammaging and, in some individuals, with the onset of clonal hematopoiesis (CH) of indeterminate potential. In this study conducted on 94 strictly healthy volunteers (18 to 80 yo), we measured BM and peripheral blood (PB) plasma levels of 49 hematopoietic and inflammatory cytokines. With aging, 7 cytokines increased in BM (FLT3L, CXCL9, HGF, FGF-2, CCL27, IL-16, IL-18) and 8 decreased (G-CSF, TNF, IL-2, IL-15, IL-17A, CCL7, IL-4, IL-10). In PB, 10...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37562724/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-10T10:00:00.000Z",
+          "wordCount": 1656,
+          "title": "Modulation of bone marrow and peripheral blood cytokine levels by age and clonal hematopoiesis in healthy individuals",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37561983",
+          "author": "Sebastià Franch-Expósito",
+          "description": "CONCLUSION: Our results suggest a close relationship between inherited variants and CH mutations within the DDR genes in patients with solid tumors. Associations identified in this study might translate into enhanced clinical surveillance for CH and associated comorbidities in patients with cancer harboring these germline mutations.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37561983/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-10T10:00:00.000Z",
+          "wordCount": 1747,
+          "title": "Associations Between Cancer Predisposition Mutations and Clonal Hematopoiesis in Patients With Solid Tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37560406",
+          "author": "Saroja Devi Geetha",
+          "description": "INTRODUCTION: Transient abnormal myelopoiesis (TAM) is a transient, clonal myeloproliferative disorder unique to Down Syndrome (DS) babies. It is characterized by increased peripheral blasts and presence of GATA1 mutation. The clinical spectrum ranges from jaundice and hepatosplenomegaly to multi-organ failure and death. Here we present a case of a premature baby with DS diagnosed to have TAM with extramedullary involvement at birth who had a fatal outcome.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37560406/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-10T10:00:00.000Z",
+          "wordCount": 1717,
+          "title": "Transient abnormal myelopoiesis with extramedullary involvement in a down syndrome preemie leading to an unresponsive course despite chemotherapy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -780,6 +900,36 @@
           "publishedOn": "2023-08-10T10:00:00.000Z",
           "wordCount": 1647,
           "title": "Transient abnormal myelopoiesis with extramedullary involvement in a down syndrome preemie leading to an unresponsive course despite chemotherapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37550517",
+          "author": "Elodie Grockowiak",
+          "description": "Aging facilitates the expansion of hematopoietic stem cells (HSCs) carrying clonal hematopoiesis-related somatic mutations and the development of myeloid malignancies, such as myeloproliferative neoplasms (MPNs). While cooperating mutations can cause transformation, it is unclear whether distinct bone marrow (BM) HSC-niches can influence the growth and therapy response of HSCs carrying the same oncogenic driver. Here we found different BM niches for HSCs in MPN subtypes. JAK-STAT signaling...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37550517/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-07T10:00:00.000Z",
+          "wordCount": 1855,
+          "title": "Different niches for stem cells carrying the same oncogenic driver affect pathogenesis and therapy response in myeloproliferative neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37549687",
+          "author": "Mariaelvy Bianchini",
+          "description": "Dietary factors have a significant impact on overall health and western diet (WD) disrupts arterial homeostasis, thereby promoting atherosclerosis. In our study, we investigated the effects of short-term WD on bone marrow vasculature and hematopoiesis in hypercholesterolemic mice. We found that WD rapidly remodels bone marrow arterioles, and these alterations persist even after WD cessation. The proximity between hematopoietic stem cells (HSCs) and arterioles increased with short-term WD, which...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37549687/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-07T10:00:00.000Z",
+          "wordCount": 1408,
+          "title": "Short-term western diet causes rapid and lasting alterations of bone marrow physiology",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37547364",
+          "author": "Xiaoying Zhang",
+          "description": "Myelodysplastic syndrome (MDS) is a heterogeneous group of clonal hematological diseases and a high risk for transformation to acute myeloid leukemia (AML). The identification of key genetic alterations in MDS has enhanced our understanding of the pathogenesis and evolution. In recent years, it has been found that both innate and adaptive immune signaling are activated in the hematopoietic niche of MDS with aberrant cytokine secretion in the bone marrow microenvironment. It is also clear that...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37547364/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-07T10:00:00.000Z",
+          "wordCount": 1895,
+          "title": "Immune dysregulation and potential targeted therapy in myelodysplastic syndrome",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -7861,264 +8011,44 @@
           "wordCount": 1595,
           "title": "Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344430",
-          "author": "Yurika Hada",
-          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230704211358&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1171,
-          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344430",
-          "author": "Yurika Hada",
-          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230703211307&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1171,
-          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344430",
-          "author": "Yurika Hada",
-          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230702211325&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1171,
-          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230702211325&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1588,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344430",
-          "author": "Yurika Hada",
-          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230701211521&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1171,
-          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230701211521&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1588,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344430",
-          "author": "Yurika Hada",
-          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230630211759&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1171,
-          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230630211759&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1588,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344430",
-          "author": "Yurika Hada",
-          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230629210818&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1171,
-          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230629210818&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1135,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344430",
-          "author": "Yurika Hada",
-          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230628211019&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1171,
-          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230628211019&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1135,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344430",
-          "author": "Yurika Hada",
-          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1171,
-          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230627211357&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1135,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344430",
-          "author": "Yurika Hada",
-          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230626211237&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1171,
-          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230626211237&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1135,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344430",
-          "author": "Yurika Hada",
-          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230625211348&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1171,
-          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230625211348&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1135,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344430",
-          "author": "Yurika Hada",
-          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230624211813&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1127,
-          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230624211813&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1135,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344430",
-          "author": "Yurika Hada",
-          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230623211123&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1127,
-          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230623211123&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1114,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344430",
-          "author": "Yurika Hada",
-          "description": "Bilateral adrenal infarction is an extremely rare disease, and it has been reported that some coagulation abnormalities, including essential thrombocythemia (ET), exist in the background. We herein report a 76-year-old patient in whom the platelet count had been in the normal range at the onset of adrenal infarction but subsequently increased to 102×10⁴/μL at 7 months later, leading to the diagnosis of JAK2V617F-positive ET. As the presence of the JAK2V617F mutation increases the risk of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230622211122&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1127,
-          "title": "Bilateral Adrenal Infarction that Developed in Latent Essential Thrombocythemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230622211122&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1034,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230621210458&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1018,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&utm_medium=rss&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230818204446&v=2.17.9.post6+86293ac",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.17.9.post6+86293ac&utm_campaign=pubmed-2&ff=20230819204952&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&utm_medium=rss&fc=20220608010801",
       "articles": [
+        {
+          "id": "pubmed:37597185",
+          "author": "Michael B Mumphrey",
+          "description": "Disruption of antigen presentation via loss of major histocompatibility complex (MHC) expression is a strategy whereby cancer cells escape immune surveillance and develop resistance to immunotherapy. Here, we develop the personalized genomics algorithm Hapster and accurately call somatic mutations within the MHC genes of 10,001 primary and 2,199 metastatic tumors, creating a catalog of 1,663 non-synonymous mutations that provide key insights into MHC mutagenesis. We find that MHC class I genes...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37597185/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-19T10:00:00.000Z",
+          "wordCount": 1586,
+          "title": "Distinct mutational processes shape selection of MHC class I and class II mutations across primary and metastatic tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37596408",
+          "author": "Yuta Kobayashi",
+          "description": "CONCLUSIONS: Our results demonstrate the heterogeneous acquisition of immune escape mechanisms in MSI-H CRCs by Darwinian selection, providing novel insights into ICI-based treatment strategies.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37596408/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-18T10:00:00.000Z",
+          "wordCount": 2394,
+          "title": "Subclonal accumulation of immune escape mechanisms in microsatellite instability-high colorectal cancers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37586362",
+          "author": "Kaile Wang",
+          "description": "Ductal carcinoma in situ (DCIS) is a common precursor of invasive breast cancer. Our understanding of its genomic progression to recurrent disease remains poor, partly due to challenges associated with the genomic profiling of formalin-fixed paraffin-embedded (FFPE) materials. Here, we developed Arc-well, a high-throughput single-cell DNA-sequencing method that is compatible with FFPE materials. We validated our method by profiling 40,330 single cells from cell lines, a frozen tissue, and 27...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37586362/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-16T10:00:00.000Z",
+          "wordCount": 2229,
+          "title": "Archival single-cell genomics reveals persistent subclones during DCIS progression",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
         {
           "id": "pubmed:37586362",
           "author": "Kaile Wang",
@@ -8137,6 +8067,16 @@
           "publishedOn": "2023-08-16T10:00:00.000Z",
           "wordCount": 2195,
           "title": "Archival single-cell genomics reveals persistent subclones during DCIS progression",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37582954",
+          "author": "Etienne Sollier",
+          "description": "Reconstructing the history of somatic DNA alterations can help understand the evolution of a tumor and predict its resistance to treatment. Single-cell DNA sequencing (scDNAseq) can be used to investigate clonal heterogeneity and to inform phylogeny reconstruction. However, most existing phylogenetic methods for scDNAseq data are designed either for single nucleotide variants (SNVs) or for large copy number alterations (CNAs), or are not applicable to targeted sequencing. Here, we develop...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37582954/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-15T10:00:00.000Z",
+          "wordCount": 2440,
+          "title": "COMPASS: joint copy number and mutation phylogeny reconstruction from amplicon single-cell sequencing data",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8167,6 +8107,16 @@
           "publishedOn": "2023-08-15T10:00:00.000Z",
           "wordCount": 1383,
           "title": "COMPASS: joint copy number and mutation phylogeny reconstruction from amplicon single-cell sequencing data",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37573441",
+          "author": "Ramu Anandakrishnan",
+          "description": "A hallmark of cancer is a tumor cell's ability to evade immune destruction. Somatic mutations in tumor cells that prevent immune destruction have been extensively studied. However, somatic mutations in tumor infiltrating immune (TII) cells, to our knowledge, have not been previously studied. Understandably so since normal hematopoiesis prevents the accumulation of somatic mutations in immune cells. However, clonal hematopoiesis does result in the accumulation of somatic mutations in immune...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37573441/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-12T10:00:00.000Z",
+          "wordCount": 2070,
+          "title": "Potential immunosuppressive clonal hematopoietic mutations in tumor infiltrating immune cells in breast invasive carcinoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8223,6 +8173,16 @@
           "id": "pubmed:37561983",
           "author": "Sebastià Franch-Expósito",
           "description": "CONCLUSION: Our results suggest a close relationship between inherited variants and CH mutations within the DDR genes in patients with solid tumors. Associations identified in this study might translate into enhanced clinical surveillance for CH and associated comorbidities in patients with cancer harboring these germline mutations.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37561983/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-10T10:00:00.000Z",
+          "wordCount": 1747,
+          "title": "Associations Between Cancer Predisposition Mutations and Clonal Hematopoiesis in Patients With Solid Tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37561983",
+          "author": "Sebastià Franch-Expósito",
+          "description": "CONCLUSION: Our results suggest a close relationship between inherited variants and CH mutations within the DDR genes in patients with solid tumors. Associations identified in this study might translate into enhanced clinical surveillance for CH and associated comorbidities in patients with cancer harboring these germline mutations.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37561983/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230818204446&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-08-10T10:00:00.000Z",
           "wordCount": 1747,
@@ -8267,6 +8227,26 @@
           "publishedOn": "2023-08-10T10:00:00.000Z",
           "wordCount": 1744,
           "title": "Associations Between Cancer Predisposition Mutations and Clonal Hematopoiesis in Patients With Solid Tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37541246",
+          "author": "Frank Winkler",
+          "description": "The exact mechanisms that govern clonal dynamics and selection during early tumorigenesis remain largely elusive. Ceresa et al. provide experimental and mathematical evidence that MYC-dependent competition between individual clones is one driving force of brain tumor evolution, adding a winner/loser aspect to the picture that complements existing concepts.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37541246/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-04T10:00:00.000Z",
+          "wordCount": 1047,
+          "title": "The winner takes it all: Competition drives clonal selection in gliomagenesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37541243",
+          "author": "Davide Ceresa",
+          "description": "Glioblastoma progression in its early stages remains poorly understood. Here, we transfer PDGFB and genetic barcodes in mouse brain to initiate gliomagenesis and enable direct tracing of glioblastoma evolution from its earliest possible stage. Unexpectedly, we observe a high incidence of clonal extinction events and progressive divergence in clonal sizes, even after the acquisition of malignant phenotype. Computational modeling suggests these dynamics result from clonal-based cell-cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37541243/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-04T10:00:00.000Z",
+          "wordCount": 1452,
+          "title": "Early clonal extinction in glioblastoma progression revealed by genetic barcoding",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -8553,6 +8533,16 @@
           "id": "pubmed:37526082",
           "author": "Chunjie Yu",
           "description": "Clonal hematopoiesis plays a critical role in the initiation and development of hematologic malignancies. In patients with del(5q) myelodysplastic syndrome (MDS), the transcription factor FOXM1 is frequently downregulated in CD34+ cells. In this study, we demonstrated that Foxm1 haploinsufficiency disturbed normal hematopoiesis and conferred a competitive repopulation advantage for a short period. However, it impaired the long-term self-renewal capacity of hematopoietic stem cells,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37526082/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-08-01T10:00:00.000Z",
+          "wordCount": 3460,
+          "title": "Foxm1 haploinsufficiency drives clonal hematopoiesis and promotes a stress-related transition to hematologic malignancy in mice",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37526082",
+          "author": "Chunjie Yu",
+          "description": "Clonal hematopoiesis plays a critical role in the initiation and development of hematologic malignancies. In patients with del(5q) myelodysplastic syndrome (MDS), the transcription factor FOXM1 is frequently downregulated in CD34+ cells. In this study, we demonstrated that Foxm1 haploinsufficiency disturbed normal hematopoiesis and conferred a competitive repopulation advantage for a short period. However, it impaired the long-term self-renewal capacity of hematopoietic stem cells,...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37526082/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230818204446&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-08-01T10:00:00.000Z",
           "wordCount": 3460,
@@ -8717,6 +8707,36 @@
           "publishedOn": "2023-08-01T10:00:00.000Z",
           "wordCount": 3301,
           "title": "Foxm1 haploinsufficiency drives clonal hematopoiesis and promotes a stress-related transition to hematologic malignancy in mice",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37510235",
+          "author": "Michele Massimino",
+          "description": "Cancer molecular profiling obtained with conventional bulk sequencing describes average alterations obtained from the entire cellular population analyzed. In the era of precision medicine, this approach is unable to track tumor heterogeneity and cannot be exploited to unravel the biological processes behind clonal evolution. In the last few years, functional single-cell omics has improved our understanding of cancer heterogeneity. This approach requires isolation and identification of single...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37510235/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-29T10:00:00.000Z",
+          "wordCount": 2189,
+          "title": "Single-Cell Analysis in the <em>Omics</em> Era: Technologies and Applications in Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37508780",
+          "author": "Eric Pellegrino",
+          "description": "The advent of next-generation sequencing (NGS) technologies has revolutionized the field of bioinformatics and genomics, particularly in the area of onco-somatic genetics. NGS has provided a wealth of information about the genetic changes that underlie cancer and has considerably improved our ability to diagnose and treat cancer. However, the large amount of data generated by NGS makes it difficult to interpret the variants. To address this, machine learning algorithms such as Extreme Gradient...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37508780/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-29T10:00:00.000Z",
+          "wordCount": 2581,
+          "title": "Extreme Gradient Boosting Tuned with Metaheuristic Algorithms for Predicting Myeloid NGS Onco-Somatic Variant Pathogenicity",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37508513",
+          "author": "Thomas Veith",
+          "description": "Many cancer cell lines are aneuploid and heterogeneous, with multiple karyotypes co-existing within the same cell line. Karyotype heterogeneity has been shown to manifest phenotypically, thus affecting how cells respond to drugs or to minor differences in culture media. Knowing how to interpret karyotype heterogeneity phenotypically would give insights into cellular phenotypes before they unfold temporally. Here, we re-analyzed single cell RNA (scRNA) and scDNA sequencing data from eight stomach...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37508513/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-29T10:00:00.000Z",
+          "wordCount": 3002,
+          "title": "Mathematical Modeling of Clonal Interference by Density-Dependent Selection in Heterogeneous Cancer Cell Lines",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -9347,6 +9367,36 @@
           "publishedOn": "2023-07-29T10:00:00.000Z",
           "wordCount": 1246,
           "title": "Mathematical Modeling of Clonal Interference by Density-Dependent Selection in Heterogeneous Cancer Cell Lines",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37506514",
+          "author": "Marc Müller",
+          "description": "Head and neck squamous cell carcinoma (HNSCC) often presents with synchronous nodules of the lung (sNL), which may be benign nodules, second primary malignancies or metastases of HNSCC. We sought to gain an insight into the incidence of sNL and synchronous second primary of the lung (sSPML) in HNSCC patients and current opinions on useful diagnostic and therapeutic approaches. We conducted a systematic search of the PubMed database for articles that reported the simultaneous detection of HNSCC...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37506514/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-28T10:00:00.000Z",
+          "wordCount": 1634,
+          "title": "Head and neck cancer with synchronous nodules of the lung as a diagnostic and therapeutic challenge - A systematic review",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37506341",
+          "author": "Sruthi Cheloor Kovilakam",
+          "description": "Germline variants in the DDX41 gene have been linked to myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML) development. However, the risks associated with different variants remain unknown, as do the basis of their leukemogenic properties, impact on steady-state hematopoiesis and links to other cancers. Here, we investigate the frequency and significance of DDX41 variants in 454,792 United Kingdom Biobank (UKB) participants and identify 452 unique non-synonymous DNA variants in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37506341/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-28T10:00:00.000Z",
+          "wordCount": 1358,
+          "title": "Prevalence and significance of DDX41 gene variants in the general population",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37503111",
+          "author": "King L Hung",
+          "description": "The chromosomal theory of inheritance has dominated human genetics, including cancer genetics. Genes on the same chromosome segregate together while genes on different chromosomes assort independently, providing a fundamental tenet of Mendelian inheritance. Extrachromosomal DNA (ecDNA) is a frequent event in cancer that drives oncogene amplification, dysregulated gene expression and intratumoral heterogeneity, including through random segregation during cell division. Distinct ecDNA sequences,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37503111/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230819204952&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-07-28T10:00:00.000Z",
+          "wordCount": 3797,
+          "title": "Coordinated inheritance of extrachromosomal DNA species in human cancer cells",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         },
         {
@@ -15397,516 +15447,6 @@
           "publishedOn": "2023-06-24T10:00:00.000Z",
           "wordCount": 1308,
           "title": "In Vitro and In Vivo Models for Metastatic Intestinal Tumors Using Genotype-Defined Organoids",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230709211149&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230708211710&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230708211710&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1591,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230707211257&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230707211257&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1591,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230707211257&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230706211438&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230706211438&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1591,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230706211438&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230705211412&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230705211412&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1591,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230705211412&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230704211358&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230704211358&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1591,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230704211358&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230703211307&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230703211307&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1591,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230703211307&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230702211325&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230702211325&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1588,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230702211325&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230701211521&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230701211521&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1588,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230701211521&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230630211759&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230630211759&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1588,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230630211759&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230629210818&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230629210818&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1135,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230629210818&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230628211019&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230628211019&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1135,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230628211019&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1135,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230627211357&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230626211237&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230626211237&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1135,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230626211237&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230625211348&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230625211348&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1135,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230625211348&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230624211813&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230624211813&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1135,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230624211813&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230623211123&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37343201",
-          "author": "Marco M Buttigieg",
-          "description": "Recent larger-scale studies of patients with cancer and longitudinal population cohorts have revealed how age-related expansions of mutant hematopoietic cells (clonal hematopoiesis [CH]) have differential associations with incident and prevalent cancers and their outcomes. Increasing recognition and deeper understanding of genetic subtypes of CH are yielding insights into the tumor-immune interface that may help to explain the heterogeneous impact of CH on tumorigenesis and treatment. Herein, we...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37343201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230623211123&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1114,
-          "title": "Clonal Hematopoiesis: Updates and Implications at the Solid Tumor-Immune Interface",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230623211123&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37344104",
-          "author": "Stefan Ivanovic",
-          "description": "Cancer results from an evolutionary process that typically yields multiple clones with varying sets of mutations within the same tumor. Accurately modeling this process is key to understanding and predicting cancer evolution. Here, we introduce CloMu (Clone To Mutation), a flexible and low-parameter tree-generative model of cancer evolution. CloMu uses a two-layer neural network trained via reinforcement learning to determine the probability of new mutations based on the existing mutations on a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37344104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230622211122&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1163,
-          "title": "Modeling and predicting cancer clonal evolution with reinforcement learning",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230622211122&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 2879,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37342197",
-          "author": "David R Pearce",
-          "description": "BACKGROUND: Patient-derived xenograft (PDX) models involve the engraftment of tumour tissue in immunocompromised mice and represent an important pre-clinical oncology research method. A limitation of non-small cell lung cancer (NSCLC) PDX model derivation in NOD-scid IL2Rgamma^(null) (NSG) mice is that a subset of initial engraftments are of lymphocytic, rather than tumour origin.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37342197/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230621210458&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": 1812,
-          "title": "Phenotyping of lymphoproliferative tumours generated in xenografts of non-small cell lung cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
