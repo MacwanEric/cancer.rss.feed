@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2023-08-20T00:49:54.846Z</updated>
+    <updated>2023-08-21T00:47:17.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Distinct mutational processes shape selection of MHC class I and class II mutations across primary and metastatic tumors]]></title>
+        <id>pubmed:37597185</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37597185/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Disruption of antigen presentation via loss of major histocompatibility complex (MHC) expression is a strategy whereby cancer cells escape immune surveillance and develop resistance to immunotherapy. Here, we develop the personalized genomics algorithm Hapster and accurately call somatic mutations within the MHC genes of 10,001 primary and 2,199 metastatic tumors, creating a catalog of 1,663 non-synonymous mutations that provide key insights into MHC mutagenesis. We find that MHC class I genes...]]></summary>
+        <author>
+            <name>Michael B Mumphrey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Distinct mutational processes shape selection of MHC class I and class II mutations across primary and metastatic tumors]]></title>
         <id>pubmed:37597185</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Disruption of antigen presentation via loss of major histocompatibility complex (MHC) expression is a strategy whereby cancer cells escape immune surveillance and develop resistance to immunotherapy. Here, we develop the personalized genomics algorithm Hapster and accurately call somatic mutations within the MHC genes of 10,001 primary and 2,199 metastatic tumors, creating a catalog of 1,663 non-synonymous mutations that provide key insights into MHC mutagenesis. We find that MHC class I genes...]]></summary>
         <author>
             <name>Michael B Mumphrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PPM1D modulates hematopoietic cell fitness and response to DNA damage and is a therapeutic target in myeloid malignancy]]></title>
+        <id>pubmed:37595362</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37595362/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PPM1D encodes a phosphatase that is recurrently activated across cancer, most notably in therapy-related myeloid neoplasms. However, the function of PPM1D in hematopoiesis and its contribution to tumor cell growth remain incompletely understood. Using conditional mouse models, we uncover a central role for Ppm1d in hematopoiesis and validate its potential as a therapeutic target. We find that Ppm1d regulates the competitive fitness and self-renewal of hematopoietic stem cells (HSCs) with and...]]></summary>
+        <author>
+            <name>Peter Grant Miller</name>
         </author>
     </entry>
     <entry>
@@ -29,11 +49,41 @@
     <entry>
         <title type="html"><![CDATA[Subclonal accumulation of immune escape mechanisms in microsatellite instability-high colorectal cancers]]></title>
         <id>pubmed:37596408</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37596408/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Our results demonstrate the heterogeneous acquisition of immune escape mechanisms in MSI-H CRCs by Darwinian selection, providing novel insights into ICI-based treatment strategies.]]></summary>
+        <author>
+            <name>Yuta Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subclonal accumulation of immune escape mechanisms in microsatellite instability-high colorectal cancers]]></title>
+        <id>pubmed:37596408</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37596408/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230819204952&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-18T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: Our results demonstrate the heterogeneous acquisition of immune escape mechanisms in MSI-H CRCs by Darwinian selection, providing novel insights into ICI-based treatment strategies.]]></summary>
         <author>
             <name>Yuta Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single-nucleotide variant calling in single-cell sequencing data with Monopogen]]></title>
+        <id>pubmed:37592035</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37592035/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Single-cell omics technologies enable molecular characterization of diverse cell types and states, but how the resulting transcriptional and epigenetic profiles depend on the cell's genetic background remains understudied. We describe Monopogen, a computational tool to detect single-nucleotide variants (SNVs) from single-cell sequencing data. Monopogen leverages linkage disequilibrium from external reference panels to identify germline SNVs and detects putative somatic SNVs using allele...]]></summary>
+        <author>
+            <name>Jinzhuang Dou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clinical impact of the genomic landscape and leukemogenic trajectories in non-intensively treated elderly acute myeloid leukemia patients]]></title>
+        <id>pubmed:37591941</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37591941/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To characterize the genomic landscape and leukemogenic pathways of older, newly diagnosed, non-intensively treated patients with AML and to study the clinical implications, comprehensive genetics analyses were performed including targeted DNA sequencing of 263 genes in 604 patients treated in a prospective Phase III clinical trial. Leukemic trajectories were delineated using oncogenetic tree modeling and hierarchical clustering, and prognostic groups were derived from multivariable Cox...]]></summary>
+        <author>
+            <name>Ekaterina Jahn</name>
         </author>
     </entry>
     <entry>
@@ -79,6 +129,16 @@
     <entry>
         <title type="html"><![CDATA[Early activation of inflammatory pathways in UBA1-mutated hematopoietic stem and progenitor cells in VEXAS]]></title>
         <id>pubmed:37586319</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37586319/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome is a pleiotropic, severe autoinflammatory disease caused by somatic mutations in the ubiquitin-like modifier activating enzyme 1 (UBA1) gene. To elucidate VEXAS pathophysiology, we performed transcriptome sequencing of single bone marrow mononuclear cells and hematopoietic stem and progenitor cells (HSPCs) from VEXAS patients. HSPCs are biased toward myeloid (granulocytic) differentiation, and against lymphoid...]]></summary>
+        <author>
+            <name>Zhijie Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early activation of inflammatory pathways in UBA1-mutated hematopoietic stem and progenitor cells in VEXAS]]></title>
+        <id>pubmed:37586319</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37586319/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230819204952&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-16T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome is a pleiotropic, severe autoinflammatory disease caused by somatic mutations in the ubiquitin-like modifier activating enzyme 1 (UBA1) gene. To elucidate VEXAS pathophysiology, we performed transcriptome sequencing of single bone marrow mononuclear cells and hematopoietic stem and progenitor cells (HSPCs) from VEXAS patients. HSPCs are biased toward myeloid (granulocytic) differentiation, and against lymphoid...]]></summary>
@@ -109,6 +169,16 @@
     <entry>
         <title type="html"><![CDATA[Archival single-cell genomics reveals persistent subclones during DCIS progression]]></title>
         <id>pubmed:37586362</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37586362/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ductal carcinoma in situ (DCIS) is a common precursor of invasive breast cancer. Our understanding of its genomic progression to recurrent disease remains poor, partly due to challenges associated with the genomic profiling of formalin-fixed paraffin-embedded (FFPE) materials. Here, we developed Arc-well, a high-throughput single-cell DNA-sequencing method that is compatible with FFPE materials. We validated our method by profiling 40,330 single cells from cell lines, a frozen tissue, and 27...]]></summary>
+        <author>
+            <name>Kaile Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archival single-cell genomics reveals persistent subclones during DCIS progression]]></title>
+        <id>pubmed:37586362</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37586362/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230819204952&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-16T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ductal carcinoma in situ (DCIS) is a common precursor of invasive breast cancer. Our understanding of its genomic progression to recurrent disease remains poor, partly due to challenges associated with the genomic profiling of formalin-fixed paraffin-embedded (FFPE) materials. Here, we developed Arc-well, a high-throughput single-cell DNA-sequencing method that is compatible with FFPE materials. We validated our method by profiling 40,330 single cells from cell lines, a frozen tissue, and 27...]]></summary>
@@ -134,6 +204,16 @@
         <summary type="html"><![CDATA[Ductal carcinoma in situ (DCIS) is a common precursor of invasive breast cancer. Our understanding of its genomic progression to recurrent disease remains poor, partly due to challenges associated with the genomic profiling of formalin-fixed paraffin-embedded (FFPE) materials. Here, we developed Arc-well, a high-throughput single-cell DNA-sequencing method that is compatible with FFPE materials. We validated our method by profiling 40,330 single cells from cell lines, a frozen tissue, and 27...]]></summary>
         <author>
             <name>Kaile Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single-cell multi-omics defines the cell-type-specific impact of splicing aberrations in human hematopoietic clonal outgrowths]]></title>
+        <id>pubmed:37582363</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37582363/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[RNA splicing factors are recurrently mutated in clonal blood disorders, but the impact of dysregulated splicing in hematopoiesis remains unclear. To overcome technical limitations, we integrated genotyping of transcriptomes (GoT) with long-read single-cell transcriptomics and proteogenomics for single-cell profiling of transcriptomes, surface proteins, somatic mutations, and RNA splicing (GoT-Splice). We applied GoT-Splice to hematopoietic progenitors from myelodysplastic syndrome (MDS) patients...]]></summary>
+        <author>
+            <name>Mariela Cortés-López</name>
         </author>
     </entry>
     <entry>
@@ -179,6 +259,16 @@
     <entry>
         <title type="html"><![CDATA[COMPASS: joint copy number and mutation phylogeny reconstruction from amplicon single-cell sequencing data]]></title>
         <id>pubmed:37582954</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37582954/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reconstructing the history of somatic DNA alterations can help understand the evolution of a tumor and predict its resistance to treatment. Single-cell DNA sequencing (scDNAseq) can be used to investigate clonal heterogeneity and to inform phylogeny reconstruction. However, most existing phylogenetic methods for scDNAseq data are designed either for single nucleotide variants (SNVs) or for large copy number alterations (CNAs), or are not applicable to targeted sequencing. Here, we develop...]]></summary>
+        <author>
+            <name>Etienne Sollier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COMPASS: joint copy number and mutation phylogeny reconstruction from amplicon single-cell sequencing data]]></title>
+        <id>pubmed:37582954</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37582954/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230819204952&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-15T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Reconstructing the history of somatic DNA alterations can help understand the evolution of a tumor and predict its resistance to treatment. Single-cell DNA sequencing (scDNAseq) can be used to investigate clonal heterogeneity and to inform phylogeny reconstruction. However, most existing phylogenetic methods for scDNAseq data are designed either for single nucleotide variants (SNVs) or for large copy number alterations (CNAs), or are not applicable to targeted sequencing. Here, we develop...]]></summary>
@@ -214,6 +304,26 @@
         <summary type="html"><![CDATA[Reconstructing the history of somatic DNA alterations can help understand the evolution of a tumor and predict its resistance to treatment. Single-cell DNA sequencing (scDNAseq) can be used to investigate clonal heterogeneity and to inform phylogeny reconstruction. However, most existing phylogenetic methods for scDNAseq data are designed either for single nucleotide variants (SNVs) or for large copy number alterations (CNAs), or are not applicable to targeted sequencing. Here, we develop...]]></summary>
         <author>
             <name>Etienne Sollier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRISPR/dCas9 DNA methylation editing is heritable during human hematopoiesis and shapes immune progeny]]></title>
+        <id>pubmed:37579157</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37579157/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aging is associated with an abnormal increase in DNA methylation (DNAm) in human gene promoters, including in bone marrow stem cells. DNAm patterns are further perturbed in hematological malignancies such as acute myeloid leukemia but the physiological significance of such epigenetic changes is unknown. Using epigenetic editing of human stem/progenitor cells (HSPCs), we show that p15 methylation affects hematopoiesis in vivo. We edited the CDKN2B (p15) promoter and ARF (p14) using dCas9-3A3L and...]]></summary>
+        <author>
+            <name>Emily A Saunderson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Development of a Mouse Model of Hematopoietic Loss of Y Chromosome]]></title>
+        <id>pubmed:37575386</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37575386/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This protocol describes the generation of chimeric mice in which the Y chromosome is deleted from a proportion of blood cells. This model recapitulates the phenomenon of hematopoietic mosaic loss of Y chromosome (mLOY), which is frequently observed in the blood of aged men. To construct mice with hematopoietic Y chromosome loss, lineage-negative cells are isolated from the bone marrow of ROSA26-Cas9 knock-in mice. These cells are transduced with a lentivirus vector encoding a guide RNA (gRNA)...]]></summary>
+        <author>
+            <name>Soichi Sano</name>
         </author>
     </entry>
     <entry>
@@ -339,6 +449,16 @@
     <entry>
         <title type="html"><![CDATA[Potential immunosuppressive clonal hematopoietic mutations in tumor infiltrating immune cells in breast invasive carcinoma]]></title>
         <id>pubmed:37573441</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37573441/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A hallmark of cancer is a tumor cell's ability to evade immune destruction. Somatic mutations in tumor cells that prevent immune destruction have been extensively studied. However, somatic mutations in tumor infiltrating immune (TII) cells, to our knowledge, have not been previously studied. Understandably so since normal hematopoiesis prevents the accumulation of somatic mutations in immune cells. However, clonal hematopoiesis does result in the accumulation of somatic mutations in immune...]]></summary>
+        <author>
+            <name>Ramu Anandakrishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potential immunosuppressive clonal hematopoietic mutations in tumor infiltrating immune cells in breast invasive carcinoma]]></title>
+        <id>pubmed:37573441</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37573441/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230819204952&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-12T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[A hallmark of cancer is a tumor cell's ability to evade immune destruction. Somatic mutations in tumor cells that prevent immune destruction have been extensively studied. However, somatic mutations in tumor infiltrating immune (TII) cells, to our knowledge, have not been previously studied. Understandably so since normal hematopoiesis prevents the accumulation of somatic mutations in immune cells. However, clonal hematopoiesis does result in the accumulation of somatic mutations in immune...]]></summary>
@@ -409,6 +529,16 @@
     <entry>
         <title type="html"><![CDATA[Potential immunosuppressive clonal hematopoietic mutations in tumor infiltrating immune cells in breast invasive carcinoma]]></title>
         <id>pubmed:37573441</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37573441/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A hallmark of cancer is a tumor cell's ability to evade immune destruction. Somatic mutations in tumor cells that prevent immune destruction have been extensively studied. However, somatic mutations in tumor infiltrating immune (TII) cells, to our knowledge, have not been previously studied. Understandably so since normal hematopoiesis prevents the accumulation of somatic mutations in immune cells. However, clonal hematopoiesis does result in the accumulation of somatic mutations in immune...]]></summary>
+        <author>
+            <name>Ramu Anandakrishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potential immunosuppressive clonal hematopoietic mutations in tumor infiltrating immune cells in breast invasive carcinoma]]></title>
+        <id>pubmed:37573441</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37573441/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230819204952&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-12T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[A hallmark of cancer is a tumor cell's ability to evade immune destruction. Somatic mutations in tumor cells that prevent immune destruction have been extensively studied. However, somatic mutations in tumor infiltrating immune (TII) cells, to our knowledge, have not been previously studied. Understandably so since normal hematopoiesis prevents the accumulation of somatic mutations in immune cells. However, clonal hematopoiesis does result in the accumulation of somatic mutations in immune...]]></summary>
@@ -464,6 +594,16 @@
         <summary type="html"><![CDATA[A hallmark of cancer is a tumor cell's ability to evade immune destruction. Somatic mutations in tumor cells that prevent immune destruction have been extensively studied. However, somatic mutations in tumor infiltrating immune (TII) cells, to our knowledge, have not been previously studied. Understandably so since normal hematopoiesis prevents the accumulation of somatic mutations in immune cells. However, clonal hematopoiesis does result in the accumulation of somatic mutations in immune...]]></summary>
         <author>
             <name>Ramu Anandakrishnan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serum biomarkers are altered in UK biobank participants with mosaic chromosomal alterations]]></title>
+        <id>pubmed:37565819</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37565819/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Age-related clonal expansion of cells harboring mosaic chromosomal alterations (mCAs) is one manifestation of clonal hematopoiesis. Identifying factors that influence the generation and promotion of clonal expansion of mCAs are key to investigate the role of mCAs in health and disease. Herein, we report on widely measured serum biomarkers and their possible association with mCAs, which could provide new insights into molecular alterations that promote acquisition and clonal expansion. We...]]></summary>
+        <author>
+            <name>Aubrey K Hubbard</name>
         </author>
     </entry>
     <entry>
@@ -554,6 +694,36 @@
         <summary type="html"><![CDATA[Age-related clonal expansion of cells harboring mosaic chromosomal alterations (mCAs) is one manifestation of clonal hematopoiesis. Identifying factors that influence the generation and promotion of clonal expansion of mCAs are key to investigate the role of mCAs in health and disease. Herein, we report on widely measured serum biomarkers and their possible association with mCAs, which could provide new insights into molecular alterations that promote acquisition and clonal expansion. We...]]></summary>
         <author>
             <name>Aubrey K Hubbard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modulation of bone marrow and peripheral blood cytokine levels by age and clonal hematopoiesis in healthy individuals]]></title>
+        <id>pubmed:37562724</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37562724/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aging is associated with bone marrow (BM) inflammaging and, in some individuals, with the onset of clonal hematopoiesis (CH) of indeterminate potential. In this study conducted on 94 strictly healthy volunteers (18 to 80 yo), we measured BM and peripheral blood (PB) plasma levels of 49 hematopoietic and inflammatory cytokines. With aging, 7 cytokines increased in BM (FLT3L, CXCL9, HGF, FGF-2, CCL27, IL-16, IL-18) and 8 decreased (G-CSF, TNF, IL-2, IL-15, IL-17A, CCL7, IL-4, IL-10). In PB, 10...]]></summary>
+        <author>
+            <name>Noémie Ravalet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Associations Between Cancer Predisposition Mutations and Clonal Hematopoiesis in Patients With Solid Tumors]]></title>
+        <id>pubmed:37561983</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37561983/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: Our results suggest a close relationship between inherited variants and CH mutations within the DDR genes in patients with solid tumors. Associations identified in this study might translate into enhanced clinical surveillance for CH and associated comorbidities in patients with cancer harboring these germline mutations.]]></summary>
+        <author>
+            <name>Sebastià Franch-Expósito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transient abnormal myelopoiesis with extramedullary involvement in a down syndrome preemie leading to an unresponsive course despite chemotherapy]]></title>
+        <id>pubmed:37560406</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37560406/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[INTRODUCTION: Transient abnormal myelopoiesis (TAM) is a transient, clonal myeloproliferative disorder unique to Down Syndrome (DS) babies. It is characterized by increased peripheral blasts and presence of GATA1 mutation. The clinical spectrum ranges from jaundice and hepatosplenomegaly to multi-organ failure and death. Here we present a case of a premature baby with DS diagnosed to have TAM with extramedullary involvement at birth who had a fatal outcome.]]></summary>
+        <author>
+            <name>Saroja Devi Geetha</name>
         </author>
     </entry>
     <entry>
@@ -849,6 +1019,16 @@
     <entry>
         <title type="html"><![CDATA[Associations Between Cancer Predisposition Mutations and Clonal Hematopoiesis in Patients With Solid Tumors]]></title>
         <id>pubmed:37561983</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37561983/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: Our results suggest a close relationship between inherited variants and CH mutations within the DDR genes in patients with solid tumors. Associations identified in this study might translate into enhanced clinical surveillance for CH and associated comorbidities in patients with cancer harboring these germline mutations.]]></summary>
+        <author>
+            <name>Sebastià Franch-Expósito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Associations Between Cancer Predisposition Mutations and Clonal Hematopoiesis in Patients With Solid Tumors]]></title>
+        <id>pubmed:37561983</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37561983/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230819204952&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-10T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSION: Our results suggest a close relationship between inherited variants and CH mutations within the DDR genes in patients with solid tumors. Associations identified in this study might translate into enhanced clinical surveillance for CH and associated comorbidities in patients with cancer harboring these germline mutations.]]></summary>
@@ -904,6 +1084,36 @@
         <summary type="html"><![CDATA[CONCLUSION: Our results suggest a close relationship between inherited variants and CH mutations within the DDR genes in patients with solid tumors. Associations identified in this study might translate into enhanced clinical surveillance for CH and associated comorbidities in patients with cancer harboring these germline mutations.]]></summary>
         <author>
             <name>Sebastià Franch-Expósito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different niches for stem cells carrying the same oncogenic driver affect pathogenesis and therapy response in myeloproliferative neoplasms]]></title>
+        <id>pubmed:37550517</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37550517/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aging facilitates the expansion of hematopoietic stem cells (HSCs) carrying clonal hematopoiesis-related somatic mutations and the development of myeloid malignancies, such as myeloproliferative neoplasms (MPNs). While cooperating mutations can cause transformation, it is unclear whether distinct bone marrow (BM) HSC-niches can influence the growth and therapy response of HSCs carrying the same oncogenic driver. Here we found different BM niches for HSCs in MPN subtypes. JAK-STAT signaling...]]></summary>
+        <author>
+            <name>Elodie Grockowiak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Short-term western diet causes rapid and lasting alterations of bone marrow physiology]]></title>
+        <id>pubmed:37549687</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37549687/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dietary factors have a significant impact on overall health and western diet (WD) disrupts arterial homeostasis, thereby promoting atherosclerosis. In our study, we investigated the effects of short-term WD on bone marrow vasculature and hematopoiesis in hypercholesterolemic mice. We found that WD rapidly remodels bone marrow arterioles, and these alterations persist even after WD cessation. The proximity between hematopoietic stem cells (HSCs) and arterioles increased with short-term WD, which...]]></summary>
+        <author>
+            <name>Mariaelvy Bianchini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immune dysregulation and potential targeted therapy in myelodysplastic syndrome]]></title>
+        <id>pubmed:37547364</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37547364/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndrome (MDS) is a heterogeneous group of clonal hematological diseases and a high risk for transformation to acute myeloid leukemia (AML). The identification of key genetic alterations in MDS has enhanced our understanding of the pathogenesis and evolution. In recent years, it has been found that both innate and adaptive immune signaling are activated in the hematopoietic niche of MDS with aberrant cytokine secretion in the bone marrow microenvironment. It is also clear that...]]></summary>
+        <author>
+            <name>Xiaoying Zhang</name>
         </author>
     </entry>
     <entry>
@@ -1649,6 +1859,26 @@
     <entry>
         <title type="html"><![CDATA[The winner takes it all: Competition drives clonal selection in gliomagenesis]]></title>
         <id>pubmed:37541246</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37541246/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The exact mechanisms that govern clonal dynamics and selection during early tumorigenesis remain largely elusive. Ceresa et al. provide experimental and mathematical evidence that MYC-dependent competition between individual clones is one driving force of brain tumor evolution, adding a winner/loser aspect to the picture that complements existing concepts.]]></summary>
+        <author>
+            <name>Frank Winkler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early clonal extinction in glioblastoma progression revealed by genetic barcoding]]></title>
+        <id>pubmed:37541243</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37541243/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Glioblastoma progression in its early stages remains poorly understood. Here, we transfer PDGFB and genetic barcodes in mouse brain to initiate gliomagenesis and enable direct tracing of glioblastoma evolution from its earliest possible stage. Unexpectedly, we observe a high incidence of clonal extinction events and progressive divergence in clonal sizes, even after the acquisition of malignant phenotype. Computational modeling suggests these dynamics result from clonal-based cell-cell...]]></summary>
+        <author>
+            <name>Davide Ceresa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The winner takes it all: Competition drives clonal selection in gliomagenesis]]></title>
+        <id>pubmed:37541246</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37541246/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230819204952&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-04T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[The exact mechanisms that govern clonal dynamics and selection during early tumorigenesis remain largely elusive. Ceresa et al. provide experimental and mathematical evidence that MYC-dependent competition between individual clones is one driving force of brain tumor evolution, adding a winner/loser aspect to the picture that complements existing concepts.]]></summary>
@@ -2239,6 +2469,16 @@
     <entry>
         <title type="html"><![CDATA[Foxm1 haploinsufficiency drives clonal hematopoiesis and promotes a stress-related transition to hematologic malignancy in mice]]></title>
         <id>pubmed:37526082</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37526082/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis plays a critical role in the initiation and development of hematologic malignancies. In patients with del(5q) myelodysplastic syndrome (MDS), the transcription factor FOXM1 is frequently downregulated in CD34+ cells. In this study, we demonstrated that Foxm1 haploinsufficiency disturbed normal hematopoiesis and conferred a competitive repopulation advantage for a short period. However, it impaired the long-term self-renewal capacity of hematopoietic stem cells,...]]></summary>
+        <author>
+            <name>Chunjie Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foxm1 haploinsufficiency drives clonal hematopoiesis and promotes a stress-related transition to hematologic malignancy in mice]]></title>
+        <id>pubmed:37526082</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37526082/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230819204952&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-01T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Clonal hematopoiesis plays a critical role in the initiation and development of hematologic malignancies. In patients with del(5q) myelodysplastic syndrome (MDS), the transcription factor FOXM1 is frequently downregulated in CD34+ cells. In this study, we demonstrated that Foxm1 haploinsufficiency disturbed normal hematopoiesis and conferred a competitive repopulation advantage for a short period. However, it impaired the long-term self-renewal capacity of hematopoietic stem cells,...]]></summary>
@@ -2694,6 +2934,36 @@
         <summary type="html"><![CDATA[CONCLUSION: CH in older HLA-matched sibling donors is relatively common and successfully engrafts and persists in recipients. In a homogenous population (myeloid malignancies, older donors and recipients, reduced-intensity conditioning, non-cyclophosphamide-containing GVHD prophylaxis), we did not detect a difference in cGVHD risk or other secondary outcomes by donor CH status. Subgroup analyses suggest potential of differential effects by clinical characteristics and CH mutations. Larger...]]></summary>
         <author>
             <name>Nancy Gillis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single-Cell Analysis in the <em>Omics</em> Era: Technologies and Applications in Cancer]]></title>
+        <id>pubmed:37510235</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37510235/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-07-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cancer molecular profiling obtained with conventional bulk sequencing describes average alterations obtained from the entire cellular population analyzed. In the era of precision medicine, this approach is unable to track tumor heterogeneity and cannot be exploited to unravel the biological processes behind clonal evolution. In the last few years, functional single-cell omics has improved our understanding of cancer heterogeneity. This approach requires isolation and identification of single...]]></summary>
+        <author>
+            <name>Michele Massimino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extreme Gradient Boosting Tuned with Metaheuristic Algorithms for Predicting Myeloid NGS Onco-Somatic Variant Pathogenicity]]></title>
+        <id>pubmed:37508780</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37508780/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-07-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The advent of next-generation sequencing (NGS) technologies has revolutionized the field of bioinformatics and genomics, particularly in the area of onco-somatic genetics. NGS has provided a wealth of information about the genetic changes that underlie cancer and has considerably improved our ability to diagnose and treat cancer. However, the large amount of data generated by NGS makes it difficult to interpret the variants. To address this, machine learning algorithms such as Extreme Gradient...]]></summary>
+        <author>
+            <name>Eric Pellegrino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematical Modeling of Clonal Interference by Density-Dependent Selection in Heterogeneous Cancer Cell Lines]]></title>
+        <id>pubmed:37508513</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37508513/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-07-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many cancer cell lines are aneuploid and heterogeneous, with multiple karyotypes co-existing within the same cell line. Karyotype heterogeneity has been shown to manifest phenotypically, thus affecting how cells respond to drugs or to minor differences in culture media. Knowing how to interpret karyotype heterogeneity phenotypically would give insights into cellular phenotypes before they unfold temporally. Here, we re-analyzed single cell RNA (scRNA) and scDNA sequencing data from eight stomach...]]></summary>
+        <author>
+            <name>Thomas Veith</name>
         </author>
     </entry>
     <entry>
@@ -4164,6 +4434,36 @@
         <summary type="html"><![CDATA[CONCLUSIONS: In conclusions, we linked both pathogenic and VUS variants in AML-related genes to clonal hematopoiesis; therefore, we proposed to consider those variants as prognostic markers in leukemia and myelodysplasia. However, further studies in larger prospective cohorts are required to validate our results.]]></summary>
         <author>
             <name>Valentina Giudice</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Head and neck cancer with synchronous nodules of the lung as a diagnostic and therapeutic challenge - A systematic review]]></title>
+        <id>pubmed:37506514</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37506514/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-07-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Head and neck squamous cell carcinoma (HNSCC) often presents with synchronous nodules of the lung (sNL), which may be benign nodules, second primary malignancies or metastases of HNSCC. We sought to gain an insight into the incidence of sNL and synchronous second primary of the lung (sSPML) in HNSCC patients and current opinions on useful diagnostic and therapeutic approaches. We conducted a systematic search of the PubMed database for articles that reported the simultaneous detection of HNSCC...]]></summary>
+        <author>
+            <name>Marc Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prevalence and significance of DDX41 gene variants in the general population]]></title>
+        <id>pubmed:37506341</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37506341/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-07-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Germline variants in the DDX41 gene have been linked to myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML) development. However, the risks associated with different variants remain unknown, as do the basis of their leukemogenic properties, impact on steady-state hematopoiesis and links to other cancers. Here, we investigate the frequency and significance of DDX41 variants in 454,792 United Kingdom Biobank (UKB) participants and identify 452 unique non-synonymous DNA variants in...]]></summary>
+        <author>
+            <name>Sruthi Cheloor Kovilakam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coordinated inheritance of extrachromosomal DNA species in human cancer cells]]></title>
+        <id>pubmed:37503111</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37503111/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230820204715&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-07-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The chromosomal theory of inheritance has dominated human genetics, including cancer genetics. Genes on the same chromosome segregate together while genes on different chromosomes assort independently, providing a fundamental tenet of Mendelian inheritance. Extrachromosomal DNA (ecDNA) is a frequent event in cancer that drives oncogene amplification, dysregulated gene expression and intratumoral heterogeneity, including through random segregation during cell division. Distinct ecDNA sequences,...]]></summary>
+        <author>
+            <name>King L Hung</name>
         </author>
     </entry>
     <entry>
@@ -14974,266 +15274,6 @@
         <summary type="html"><![CDATA[It has been established that the accumulation of driver gene mutations causes malignant progression of colorectal cancer (CRC) through positive selection and clonal expansion, similar to Darwin's evolution. Following this multistep tumorigenesis concept, we previously showed the specific mutation patterns for each process of malignant progression, including submucosal invasion, epithelial mesenchymal transition (EMT), intravasation, and metastasis, using genetically engineered mouse and organoid...]]></summary>
         <author>
             <name>Atsuya Morita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
-        <id>pubmed:37349125</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230705211413&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
-        <author>
-            <name>Nicholas P Semenkovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
-        <id>pubmed:37349125</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230704211358&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
-        <author>
-            <name>Nicholas P Semenkovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
-        <id>pubmed:37345823</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230704211358&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
-        <author>
-            <name>Art Schuermans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
-        <id>pubmed:37349125</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230703211307&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
-        <author>
-            <name>Nicholas P Semenkovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
-        <id>pubmed:37345823</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230703211307&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
-        <author>
-            <name>Art Schuermans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
-        <id>pubmed:37349125</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230702211325&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
-        <author>
-            <name>Nicholas P Semenkovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
-        <id>pubmed:37345823</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230702211325&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
-        <author>
-            <name>Art Schuermans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
-        <id>pubmed:37349125</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230701211521&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
-        <author>
-            <name>Nicholas P Semenkovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
-        <id>pubmed:37345823</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230701211521&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
-        <author>
-            <name>Art Schuermans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
-        <id>pubmed:37349125</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230630211759&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
-        <author>
-            <name>Nicholas P Semenkovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
-        <id>pubmed:37345823</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230630211759&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
-        <author>
-            <name>Art Schuermans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
-        <id>pubmed:37349125</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230629210818&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
-        <author>
-            <name>Nicholas P Semenkovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
-        <id>pubmed:37345823</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230629210818&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
-        <author>
-            <name>Art Schuermans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
-        <id>pubmed:37349125</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230628211019&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
-        <author>
-            <name>Nicholas P Semenkovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
-        <id>pubmed:37345823</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230628211019&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
-        <author>
-            <name>Art Schuermans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
-        <id>pubmed:37349125</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230627211357&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
-        <author>
-            <name>Nicholas P Semenkovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
-        <id>pubmed:37345823</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230627211357&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
-        <author>
-            <name>Art Schuermans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
-        <id>pubmed:37349125</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230626211237&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
-        <author>
-            <name>Nicholas P Semenkovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
-        <id>pubmed:37345823</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230626211237&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
-        <author>
-            <name>Art Schuermans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
-        <id>pubmed:37349125</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230625211348&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
-        <author>
-            <name>Nicholas P Semenkovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
-        <id>pubmed:37345823</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230625211348&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
-        <author>
-            <name>Art Schuermans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
-        <id>pubmed:37349125</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230624211813&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
-        <author>
-            <name>Nicholas P Semenkovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
-        <id>pubmed:37345823</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230624211813&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
-        <author>
-            <name>Art Schuermans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomic approaches to cancer and minimal residual disease detection using circulating tumor DNA]]></title>
-        <id>pubmed:37349125</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37349125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Liquid biopsies using cell-free circulating tumor DNA (ctDNA) are being used frequently in both research and clinical settings. ctDNA can be used to identify actionable mutations to personalize systemic therapy, detect post-treatment minimal residual disease (MRD), and predict responses to immunotherapy. ctDNA can also be isolated from a range of different biofluids, with the possibility of detecting locoregional MRD with increased sensitivity if sampling more proximally than blood plasma....]]></summary>
-        <author>
-            <name>Nicholas P Semenkovich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
-        <id>pubmed:37345823</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230623211123&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
-        <author>
-            <name>Art Schuermans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Birth Weight Is Associated With Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Adulthood]]></title>
-        <id>pubmed:37345823</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37345823/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230622211122&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-06-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Background High and low birth weight are independently associated with increased cardiovascular disease risk in adulthood. Clonal hematopoiesis of indeterminate potential (CHIP), the age-related clonal expansion of hematopoietic cells with preleukemic somatic mutations, predicts incident cardiovascular disease independent of traditional cardiovascular risk factors. Whether birth weight predicts development of CHIP later in life is unknown. Methods and Results A total of 221 047 adults enrolled...]]></summary>
-        <author>
-            <name>Art Schuermans</name>
         </author>
     </entry>
     <entry>
