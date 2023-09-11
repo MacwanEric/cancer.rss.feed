@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2023-09-10T00:51:47.831Z</updated>
+    <updated>2023-09-11T00:49:16.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Challenges and Prospects of Patient-Derived Xenografts for Cancer Research]]></title>
+        <id>pubmed:37686627</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37686627/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We discuss the importance of the in vivo models in elucidating cancer biology, focusing on the patient-derived xenograft (PDX) models, which are classic and standard functional in vivo platforms for preclinical evaluation. We provide an overview of the most representative models, including cell-derived xenografts (CDX), tumor and metastatic cell-derived xenografts, and PDX models utilizing humanized mice (HM). The orthotopic models, which could reproduce the cancer environment and its...]]></summary>
+        <author>
+            <name>Jiankang Jin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Challenges and Prospects of Patient-Derived Xenografts for Cancer Research]]></title>
         <id>pubmed:37686627</id>
@@ -14,6 +24,26 @@
         <summary type="html"><![CDATA[We discuss the importance of the in vivo models in elucidating cancer biology, focusing on the patient-derived xenograft (PDX) models, which are classic and standard functional in vivo platforms for preclinical evaluation. We provide an overview of the most representative models, including cell-derived xenografts (CDX), tumor and metastatic cell-derived xenografts, and PDX models utilizing humanized mice (HM). The orthotopic models, which could reproduce the cancer environment and its...]]></summary>
         <author>
             <name>Jiankang Jin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shared and distinct genetic etiologies for different types of clonal hematopoiesis]]></title>
+        <id>pubmed:37684235</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37684235/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-09-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH)-age-related expansion of mutated hematopoietic clones-can differ in frequency and cellular fitness by CH type (e.g., mutations in driver genes (CHIP), gains/losses and copy-neutral loss of chromosomal segments (mCAs), and loss of sex chromosomes). Co-occurring CH raises questions as to their origin, selection, and impact. We integrate sequence and genotype array data in up to 482,378 UK Biobank participants to demonstrate shared genetic architecture across CH types. Our...]]></summary>
+        <author>
+            <name>Derek W Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis in Clinical and Experimental Heart Failure With Preserved Ejection Fraction]]></title>
+        <id>pubmed:37681311</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37681311/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-09-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CH is associated with worse heart function and prognosis in patients with HFpEF, and a murine experimental model of Tet2-mediated CH displays greater features of HFpEF.]]></summary>
+        <author>
+            <name>Jesse Cochran</name>
         </author>
     </entry>
     <entry>
@@ -49,11 +79,31 @@
     <entry>
         <title type="html"><![CDATA[Potential value of high-throughput single-cell DNA sequencing of Juvenile myelomonocytic leukemia: report of two cases]]></title>
         <id>pubmed:37684264</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37684264/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-09-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Juvenile myelomonocytic leukemia (JMML) is a rare myeloproliferative disease of early childhood that develops due to mutations in the genes of the RAS-signaling pathway. Next-generation high throughput sequencing (NGS) enables identification of various secondary molecular genetic events that can facilitate JMML progression and transformation into secondary acute myeloid leukemia (sAML). The methods of single-cell DNA sequencing (scDNA-seq) enable overcoming limitations of bulk NGS and exploring...]]></summary>
+        <author>
+            <name>E V Volchkov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potential value of high-throughput single-cell DNA sequencing of Juvenile myelomonocytic leukemia: report of two cases]]></title>
+        <id>pubmed:37684264</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37684264/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230909205145&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-09-08T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Juvenile myelomonocytic leukemia (JMML) is a rare myeloproliferative disease of early childhood that develops due to mutations in the genes of the RAS-signaling pathway. Next-generation high throughput sequencing (NGS) enables identification of various secondary molecular genetic events that can facilitate JMML progression and transformation into secondary acute myeloid leukemia (sAML). The methods of single-cell DNA sequencing (scDNA-seq) enable overcoming limitations of bulk NGS and exploring...]]></summary>
         <author>
             <name>E V Volchkov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathogenesis and treatment of immune dysregulation associated with myelodysplastic syndromes]]></title>
+        <id>pubmed:37673628</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37673628/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-09-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndromes (MDS) are a clonal disorder based on genomic mutations in hematopoietic stem cells. They are categorized as lower-risk MDS, characterized by peripheral cytopenia; and higher-risk MDS, characterized by progression to acute myeloid leukemia. Previous studies reported that inflammation and immune activation are deeply involved in the pathogenesis of lower-risk MDS. Recent studies elucidated the molecular basis for the activation of inflammatory pathways via dysregulated...]]></summary>
+        <author>
+            <name>Hideaki Nakajima</name>
         </author>
     </entry>
     <entry>
@@ -84,6 +134,26 @@
         <summary type="html"><![CDATA[Myelodysplastic syndromes (MDS) are a clonal disorder based on genomic mutations in hematopoietic stem cells. They are categorized as lower-risk MDS, characterized by peripheral cytopenia; and higher-risk MDS, characterized by progression to acute myeloid leukemia. Previous studies reported that inflammation and immune activation are deeply involved in the pathogenesis of lower-risk MDS. Recent studies elucidated the molecular basis for the activation of inflammatory pathways via dysregulated...]]></summary>
         <author>
             <name>Hideaki Nakajima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RNA binding protein IGF2BP1 synergizes with ETV6-RUNX1 to drive oncogenic signaling in B-cell Acute Lymphoblastic Leukemia]]></title>
+        <id>pubmed:37670323</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37670323/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-09-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: Our data suggest a combined impact of the ETV6::RUNX1 fusion protein and RNA binding protein, IGF2BP1 in activating multiple oncogenic pathways in B-ALL which makes IGF2BP1 and these pathways as attractive therapeutic targets and biomarkers.]]></summary>
+        <author>
+            <name>Gunjan Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colorimetric Barcoding to Track, Isolate, and Analyze Hematopoietic Stem Cell Clones]]></title>
+        <id>pubmed:37668919</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37668919/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-09-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In zebrafish, hematopoietic stem cells (HSCs) are born in the developing aorta during embryogenesis. From the definitive wave of hematopoiesis onward, blood homeostasis relies on self-renewal and differentiation of progeny of existing HSCs, or clones, rather than de novo generation. Here, we describe an approach to quantify the number and size of HSC clones at various times throughout the lifespan of the animal using a fluorescent, multicolor labeling strategy. The system is based on combining...]]></summary>
+        <author>
+            <name>Dorothee Bornhorst</name>
         </author>
     </entry>
     <entry>
@@ -179,6 +249,16 @@
     <entry>
         <title type="html"><![CDATA[Defining the single base importance of human mRNAs and lncRNAs]]></title>
         <id>pubmed:37668090</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37668090/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-09-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As the fundamental unit of a gene and its transcripts, nucleotides have enormous impacts on the gene function and evolution, and thus on phenotypes and diseases. In order to identify the key nucleotides of one specific gene, it is quite crucial to quantitatively measure the importance of each base on the gene. However, there are still no sequence-based methods of doing that. Here, we proposed Base Importance Calculator (BIC), an algorithm to calculate the importance score of each single base...]]></summary>
+        <author>
+            <name>Rui Fan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defining the single base importance of human mRNAs and lncRNAs]]></title>
+        <id>pubmed:37668090</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37668090/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230909205145&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-09-05T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[As the fundamental unit of a gene and its transcripts, nucleotides have enormous impacts on the gene function and evolution, and thus on phenotypes and diseases. In order to identify the key nucleotides of one specific gene, it is quite crucial to quantitatively measure the importance of each base on the gene. However, there are still no sequence-based methods of doing that. Here, we proposed Base Importance Calculator (BIC), an algorithm to calculate the importance score of each single base...]]></summary>
@@ -224,6 +304,26 @@
         <summary type="html"><![CDATA[As the fundamental unit of a gene and its transcripts, nucleotides have enormous impacts on the gene function and evolution, and thus on phenotypes and diseases. In order to identify the key nucleotides of one specific gene, it is quite crucial to quantitatively measure the importance of each base on the gene. However, there are still no sequence-based methods of doing that. Here, we proposed Base Importance Calculator (BIC), an algorithm to calculate the importance score of each single base...]]></summary>
         <author>
             <name>Rui Fan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single-cell multi-omics identifies chronic inflammation as a driver of TP53-mutant leukemic evolution]]></title>
+        <id>pubmed:37666991</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37666991/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-09-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the genetic and nongenetic determinants of tumor protein 53 (TP53)-mutation-driven clonal evolution and subsequent transformation is a crucial step toward the design of rational therapeutic strategies. Here we carry out allelic resolution single-cell multi-omic analysis of hematopoietic stem/progenitor cells (HSPCs) from patients with a myeloproliferative neoplasm who transform to TP53-mutant secondary acute myeloid leukemia (sAML). All patients showed dominant TP53 'multihit' HSPC...]]></summary>
+        <author>
+            <name>Alba Rodriguez-Meira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case report: PIK3CA somatic mutation leading to Klippel Trenaunay Syndrome and multiple tumors]]></title>
+        <id>pubmed:37662840</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37662840/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-09-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We report a case of Klippel Trenaunay Syndrome that was monitored both clinically and molecularly over a period of 9 years. A somatic mosaic mutation of PIK3CA (p(E545G)) was identified using both cfDNA NGS liquid biopsy and tissue biopsy. At the age of 56, due to intervening clonal mutations in PIK3CA background, she developed a squamous cell carcinoma in the right affected leg which was treated surgically. Nine years later, lung bilateral adenocarcinoma arose on PIK3CA mutated tissues...]]></summary>
+        <author>
+            <name>Viola Bianca Serio</name>
         </author>
     </entry>
     <entry>
@@ -334,6 +434,36 @@
         <summary type="html"><![CDATA[We report a case of Klippel Trenaunay Syndrome that was monitored both clinically and molecularly over a period of 9 years. A somatic mosaic mutation of PIK3CA (p(E545G)) was identified using both cfDNA NGS liquid biopsy and tissue biopsy. At the age of 56, due to intervening clonal mutations in PIK3CA background, she developed a squamous cell carcinoma in the right affected leg which was treated surgically. Nine years later, lung bilateral adenocarcinoma arose on PIK3CA mutated tissues...]]></summary>
         <author>
             <name>Viola Bianca Serio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VEXAS syndrome, a new kid on the block of auto-inflammatory diseases: A hematologist's point of view]]></title>
+        <id>pubmed:37652853</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37652853/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The recently discovered VEXAS syndrome is caused by the clonal expansion of hematopoietic stem or progenitor cells with acquired mutations in UBA1 gene, which encodes for a key enzyme of the ubiquitylation proteasome system. As a result, a shorter cytoplasmic isoform of UBA1 is transcribed, which is non-functional. The disease is characterized by non-specific and highly heterogeneous inflammatory manifestations and macrocytic anemia. VEXAS syndrome is a unique acquired hematological monogenic...]]></summary>
+        <author>
+            <name>Maël Heiblig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mural cell-derived chemokines provide a protective niche to safeguard vascular macrophages and limit chronic inflammation]]></title>
+        <id>pubmed:37652021</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37652021/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maladaptive, non-resolving inflammation contributes to chronic inflammatory diseases such as atherosclerosis. Because macrophages remove necrotic cells, defective macrophage programs can promote chronic inflammation with persistent tissue injury. Here, we investigated the mechanisms sustaining vascular macrophages. Intravital imaging revealed a spatiotemporal macrophage niche across vascular beds alongside mural cells (MCs)-pericytes and smooth muscle cells. Single-cell transcriptomics,...]]></summary>
+        <author>
+            <name>Kami Pekayvaz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cutaneous involvement in Ph-negative myeloproliferative neoplasms: from extramedullary hematopoiesis to myeloid metastasis with histiocytic differentiation. A systematic review of the literature]]></title>
+        <id>pubmed:37649236</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37649236/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myeloid neoplasms may metastasize to the skin, presenting a wide range of clinical-pathological features that often lead to a reduction in patients' survival. The presentation varies depending on the category of myeloid neoplasm and its prognostic significance. The literature has specifically focused on the features of acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), and chronic myelomonocytic leukemia (CMML). In this article, we aimed to uncover the peculiarities of clonal skin...]]></summary>
+        <author>
+            <name>Arturo Bonometti</name>
         </author>
     </entry>
     <entry>
@@ -619,6 +749,26 @@
     <entry>
         <title type="html"><![CDATA[Mechanisms of antigen escape from BCMA- or GPRC5D-targeted immunotherapies in multiple myeloma]]></title>
         <id>pubmed:37653344</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37653344/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[B cell maturation antigen (BCMA) target loss is considered to be a rare event that mediates multiple myeloma (MM) resistance to anti-BCMA chimeric antigen receptor T cell (CAR T) or bispecific T cell engager (TCE) therapies. Emerging data report that downregulation of G-protein-coupled receptor family C group 5 member D (GPRC5D) protein often occurs at relapse after anti-GPRC5D CAR T therapy. To examine the tumor-intrinsic factors that promote MM antigen escape, we performed combined bulk and...]]></summary>
+        <author>
+            <name>Holly Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular and clonal evolution <em>in vivo</em> reveal a common pathway of distant relapse gliomas]]></title>
+        <id>pubmed:37649695</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37649695/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The evolutionary trajectories of genomic alterations underlying distant recurrence in glioma remain largely unknown. To elucidate glioma evolution, we analyzed the evolutionary trajectories of matched pairs of primary tumors and relapse tumors or tumor in situ fluid (TISF) based on deep whole-genome sequencing data (ctDNA). We found that MMR gene mutations occurred in the late stage in IDH-mutant glioma during gene evolution, which activates multiple signaling pathways and significantly...]]></summary>
+        <author>
+            <name>Guanzheng Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mechanisms of antigen escape from BCMA- or GPRC5D-targeted immunotherapies in multiple myeloma]]></title>
+        <id>pubmed:37653344</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37653344/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230909205145&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-31T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[B cell maturation antigen (BCMA) target loss is considered to be a rare event that mediates multiple myeloma (MM) resistance to anti-BCMA chimeric antigen receptor T cell (CAR T) or bispecific T cell engager (TCE) therapies. Emerging data report that downregulation of G-protein-coupled receptor family C group 5 member D (GPRC5D) protein often occurs at relapse after anti-GPRC5D CAR T therapy. To examine the tumor-intrinsic factors that promote MM antigen escape, we performed combined bulk and...]]></summary>
@@ -804,6 +954,26 @@
         <summary type="html"><![CDATA[The evolutionary trajectories of genomic alterations underlying distant recurrence in glioma remain largely unknown. To elucidate glioma evolution, we analyzed the evolutionary trajectories of matched pairs of primary tumors and relapse tumors or tumor in situ fluid (TISF) based on deep whole-genome sequencing data (ctDNA). We found that MMR gene mutations occurred in the late stage in IDH-mutant glioma during gene evolution, which activates multiple signaling pathways and significantly...]]></summary>
         <author>
             <name>Guanzheng Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cytotoxic peripheral T-cell lymphomas and EBV-positive T/NK-cell lymphoproliferative diseases: emerging concepts, recent advances, and the putative role of clonal hematopoiesis. A report of the 2022 EA4HP/SH lymphoma workshop]]></title>
+        <id>pubmed:37646869</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37646869/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cytotoxic peripheral T-cell lymphomas and EBV-positive T/NK-cell lymphoproliferative diseases were discussed at the 2022 European Association for Haematopathology/Society for Hematopathology lymphoma workshop held in Florence, Italy. This session focused on (i) primary nodal EBV-positive T and NK-cell lymphomas (primary nodal-EBV-TNKL), (ii) extranodal EBV-positive T/NK lymphoproliferative diseases (LPD) in children and adults, (iii) cytotoxic peripheral T-cell lymphomas, NOS (cPTCL-NOS),...]]></summary>
+        <author>
+            <name>Fina Climent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prognostic relevance of clonal hematopoiesis in myeloid neoplastic transformation in patients with follicular lymphoma treated with radioimmunotherapy]]></title>
+        <id>pubmed:37646653</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37646653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While novel radioisotope therapies continue to advance cancer care, reports of therapy-related myeloid neoplasms (t-MN) have generated concern. The prevalence and role of clonal hematopoiesis (CH) in this process remain to be defined. We hypothesized that (1) CH is prevalent in relapsed follicular lymphoma (FL) and is associated with t-MN transformation. (2) Radiation in the form of radioimmunotherapy (RIT) plays a role in clonal progression. In this retrospective cohort study, we evaluated the...]]></summary>
+        <author>
+            <name>Zhuoer Xie</name>
         </author>
     </entry>
     <entry>
@@ -1029,6 +1199,16 @@
     <entry>
         <title type="html"><![CDATA[Clonal Hematopoiesis Has Prognostic Value in Dilated Cardiomyopathy Independent of Age and Clone Size]]></title>
         <id>pubmed:37638520</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37638520/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CH predicts cardiac death and all-cause mortality in DCM patients with optimal thresholds for clone size of 0.36% and 0.06%, respectively. Therefore, CH is prognostically relevant, independent of clone size in patients with DCM.]]></summary>
+        <author>
+            <name>Maurits A Sikking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis Has Prognostic Value in Dilated Cardiomyopathy Independent of Age and Clone Size]]></title>
+        <id>pubmed:37638520</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37638520/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230909205145&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-28T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: CH predicts cardiac death and all-cause mortality in DCM patients with optimal thresholds for clone size of 0.36% and 0.06%, respectively. Therefore, CH is prognostically relevant, independent of clone size in patients with DCM.]]></summary>
@@ -1154,6 +1334,26 @@
         <summary type="html"><![CDATA[CONCLUSION: CH predicts cardiac death and all-cause mortality in DCM patients with an optimal threshold for clone size of 0.36% and 0.06%, respectively. Therefore, CH is prognostically relevant independent of clone size in patients with DCM.]]></summary>
         <author>
             <name>Maurits A Sikking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whole blood transcriptional profiling reveals highly deregulated atherosclerosis genes in Philadelphia-chromosome negative myeloproliferative neoplasms]]></title>
+        <id>pubmed:37640394</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37640394/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: We have for the first time shown massive deregulation of atherosclerosis genes in MPNs, likely reflecting the inflammatory state in MPNs in association with in vivo activation of leukocytes, platelets, and endothelial cells being deeply involved in the atherosclerotic process.]]></summary>
+        <author>
+            <name>Vibe Skov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diagnostic significance of dysregulated miRNAs in T-cell malignancies and their metabolic roles]]></title>
+        <id>pubmed:37637043</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37637043/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[T-cell malignancy is a broad term used for a diverse group of disease subtypes representing dysfunctional malignant T cells transformed at various stages of their clonal evolution. Despite having similar clinical manifestations, these disease groups have different disease progressions and diagnostic parameters. The effective diagnosis and prognosis of such a diverse disease group demands testing of molecular entities that capture footprints of the disease physiology in its entirety. MicroRNAs...]]></summary>
+        <author>
+            <name>Deepankar Mondal</name>
         </author>
     </entry>
     <entry>
@@ -1404,6 +1604,26 @@
         <summary type="html"><![CDATA[T-cell malignancy is a broad term used for a diverse group of disease subtypes representing dysfunctional malignant T cells transformed at various stages of their clonal evolution. Despite having similar clinical manifestations, these disease groups have different disease progressions and diagnostic parameters. The effective diagnosis and prognosis of such a diverse disease group demands testing of molecular entities that capture footprints of the disease physiology in its entirety. MicroRNAs...]]></summary>
         <author>
             <name>Deepankar Mondal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular Studies for the Early Detection of Philadelphia-Negative Myeloproliferative Neoplasms]]></title>
+        <id>pubmed:37628880</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37628880/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[JAK2 V617F is the predominant driver mutation in patients with Philadelphia-negative myeloproliferative neoplasms (MPN). JAK2 mutations are also frequent in clonal hematopoiesis of indeterminate potential (CHIP) in otherwise "healthy" individuals. However, the period between mutation acquisition and MPN diagnosis (known as latency) varies widely between individuals, with JAK2 mutations detectable several decades before diagnosis and even from birth in some individuals. Here, we will review the...]]></summary>
+        <author>
+            <name>Ruth Stuckey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unveiling the Genetic Footprint: Exploring Somatic Mutations in Peripheral Arterial Disease Progression]]></title>
+        <id>pubmed:37626784</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37626784/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Peripheral arterial diseases (PADs) are complex cardiovascular conditions influenced by environmental factors and somatic mutations in multiple genes involved in hematopoiesis and inflammation. While traditional risk factors, such as smoking, hypercholesterolemia, and hypertension, have been extensively studied, the role of somatic mutations in PAD progression remains underexplored. The present article intends to provide a comprehensive commentary of the molecular mechanisms, genetic landscape,...]]></summary>
+        <author>
+            <name>Amankeldi A Salybekov</name>
         </author>
     </entry>
     <entry>
@@ -1709,6 +1929,16 @@
     <entry>
         <title type="html"><![CDATA[Unravelling the Complexity of Colorectal Cancer: Heterogeneity, Clonal Evolution, and Clinical Implications]]></title>
         <id>pubmed:37627048</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37627048/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Colorectal cancer (CRC) is a global health concern and a leading cause of death worldwide. The disease's course and response to treatment are significantly influenced by its heterogeneity, both within a single lesion and between primary and metastatic sites. Biomarkers, such as mutations in KRAS, NRAS, and BRAF, provide valuable guidance for treatment decisions in patients with metastatic CRC. While high concordance exists between mutational status in primary and metastatic lesions, some...]]></summary>
+        <author>
+            <name>Nadia Saoudi González</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unravelling the Complexity of Colorectal Cancer: Heterogeneity, Clonal Evolution, and Clinical Implications]]></title>
+        <id>pubmed:37627048</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37627048/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230909205145&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-26T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Colorectal cancer (CRC) is a global health concern and a leading cause of death worldwide. The disease's course and response to treatment are significantly influenced by its heterogeneity, both within a single lesion and between primary and metastatic sites. Biomarkers, such as mutations in KRAS, NRAS, and BRAF, provide valuable guidance for treatment decisions in patients with metastatic CRC. While high concordance exists between mutational status in primary and metastatic lesions, some...]]></summary>
@@ -1854,6 +2084,26 @@
         <summary type="html"><![CDATA[Colorectal cancer (CRC) is a global health concern and a leading cause of death worldwide. The disease's course and response to treatment are significantly influenced by its heterogeneity, both within a single lesion and between primary and metastatic sites. Biomarkers, such as mutations in KRAS, NRAS, and BRAF, provide valuable guidance for treatment decisions in patients with metastatic CRC. While high concordance exists between mutational status in primary and metastatic lesions, some...]]></summary>
         <author>
             <name>Nadia Saoudi González</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiparameter prediction of myeloid neoplasia risk]]></title>
+        <id>pubmed:37620601</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...]]></summary>
+        <author>
+            <name>Muxin Gu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer]]></title>
+        <id>pubmed:37615936</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...]]></summary>
+        <author>
+            <name>Yang Feng</name>
         </author>
     </entry>
     <entry>
@@ -2189,6 +2439,16 @@
     <entry>
         <title type="html"><![CDATA[Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice]]></title>
         <id>pubmed:37620322</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....]]></summary>
+        <author>
+            <name>Marta Isidro-Hernández</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice]]></title>
+        <id>pubmed:37620322</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230909205145&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-24T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....]]></summary>
@@ -2314,6 +2574,16 @@
         <summary type="html"><![CDATA[The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....]]></summary>
         <author>
             <name>Marta Isidro-Hernández</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Targeted NGS on sequential bone marrow biopsies aids in the evaluation of cytopenias and monocytosis and documents clonal evolution-a proof of principle study]]></title>
+        <id>pubmed:37610626</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37610626/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Differential diagnosis of clonal versus reactive cytopenia and monocytosis, respectively, frequently presents a diagnostic challenge. With the two recent classifications of myeloid disorders, mutational analysis has gained importance as a diagnostic tool. However, reports on its utility on trephine bone marrow biopsies (BMB) are sparse. The aim of our proof of principle study was to determine the suitability of targeted sequencing for the longitudinal evaluation of cytopenia and monocytosis and...]]></summary>
+        <author>
+            <name>Dominik Nann</name>
         </author>
     </entry>
     <entry>
@@ -3179,6 +3449,26 @@
     <entry>
         <title type="html"><![CDATA[Expressed barcoding enables high resolution tracking of the evolution of drug tolerance]]></title>
         <id>pubmed:37603596</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...]]></summary>
+        <author>
+            <name>Jennifer L Cotton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving cellular phylogenies through the integrated use of mutation order and optimality principles]]></title>
+        <id>pubmed:37602230</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...]]></summary>
+        <author>
+            <name>Sayaka Miura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expressed barcoding enables high resolution tracking of the evolution of drug tolerance]]></title>
+        <id>pubmed:37603596</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230909205145&amp;v=2.17.9.post6+86293ac"/>
         <updated>2023-08-21T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...]]></summary>
@@ -3574,6 +3864,16 @@
         <summary type="html"><![CDATA[The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...]]></summary>
         <author>
             <name>Sayaka Miura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distinct mutational processes shape selection of MHC class I and class II mutations across primary and metastatic tumors]]></title>
+        <id>pubmed:37597185</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/37597185/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20230910204912&amp;v=2.17.9.post6+86293ac"/>
+        <updated>2023-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Disruption of antigen presentation via loss of major histocompatibility complex (MHC) expression is a strategy whereby cancer cells escape immune surveillance and develop resistance to immunotherapy. Here, we develop the personalized genomics algorithm Hapster and accurately call somatic mutations within the MHC genes of 10,001 primary and 2,199 metastatic tumors, creating a catalog of 1,663 non-synonymous mutations that provide key insights into MHC mutagenesis. We find that MHC class I genes...]]></summary>
+        <author>
+            <name>Michael B Mumphrey</name>
         </author>
     </entry>
     <entry>
@@ -13494,156 +13794,6 @@
         <summary type="html"><![CDATA[Tissue biopsy is essential for NSCLC diagnosis and treatment management. Over the past decades, liquid biopsy has proven to be a powerful tool in clinical oncology, isolating tumor-derived entities from the blood. Liquid biopsy permits several advantages over tissue biopsy: it is non-invasive, and it should provide a better view of tumor heterogeneity, gene alterations, and clonal evolution. Consequentially, liquid biopsy has gained attention as a cancer biomarker tool, with growing clinical...]]></summary>
         <author>
             <name>Elisa Bertoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230727205636&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230726205537&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230725210130&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230724210621&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230723210314&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230722210714&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230721210218&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230720210259&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230719210227&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230718220955&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230717212712&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230716211510&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230715212045&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230714211200&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Phase 1b trial of AVID200, a TGFβ 1/3 trap, in patients with myelofibrosis]]></title>
-        <id>pubmed:37439808</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/37439808/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20230713211352&amp;v=2.17.9.post6+86293ac"/>
-        <updated>2023-07-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: AVID200 is a well-tolerated, rational, therapeutic agent for the treatment of MF patients and should be evaluated further in thrombocytopenic MF patients in combination with agents that target aberrant MF intracellular signaling pathways.]]></summary>
-        <author>
-            <name>John Mascarenhas</name>
         </author>
     </entry>
     <entry>
