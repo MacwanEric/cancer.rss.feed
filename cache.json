@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.17.9.post6+86293ac&fc=20220608003622&ff=20231018205013&utm_source=axios&utm_campaign=pubmed-2&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&v=2.17.9.post6+86293ac&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&utm_source=axios&fc=20220608003622&ff=20231019204958",
       "articles": [
+        {
+          "id": "pubmed:37852258",
+          "author": "Li Li",
+          "description": "Cellular lineage histories and their molecular states encode fundamental principles of tissue development and homeostasis. Current lineage-recording mouse models have insufficient barcode diversity and single-cell lineage coverage for profiling tissues composed of millions of cells. Here, we developed DARLIN, an inducible Cas9 barcoding mouse line that utilizes terminal deoxynucleotidyl transferase (TdT) and 30 CRISPR target sites. DARLIN is inducible, generates massive lineage barcodes across...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37852258/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-18T10:00:00.000Z",
+          "wordCount": 1400,
+          "title": "A mouse model with high clonal barcode diversity for joint lineage, transcriptomic, and epigenomic profiling in single cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37835504",
+          "author": "Vasileios Georgoulis",
+          "description": "Myelodysplastic syndromes or neoplasms (MDS) are a heterogeneous group of myeloid clonal disorders characterized by peripheral blood cytopenias, blood and marrow cell dysplasia, and increased risk of evolution to acute myeloid leukemia (AML). Non-coding RNAs, especially microRNAs and long non-coding RNAs, serve as regulators of normal and malignant hematopoiesis and have been implicated in carcinogenesis. This review presents a comprehensive summary of the biology and role of non-coding RNAs,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37835504/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-14T10:00:00.000Z",
+          "wordCount": 1424,
+          "title": "The Role of Non-Coding RNAs in Myelodysplastic Neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:37835504",
           "author": "Vasileios Georgoulis",
@@ -260,6 +280,26 @@
           "publishedOn": "2023-10-14T10:00:00.000Z",
           "wordCount": 1067,
           "title": "The Role of Non-Coding RNAs in Myelodysplastic Neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37833013",
+          "author": "A S Bryukhovetskiy",
+          "description": "A biotechnology for personalized ex vivo gene therapy based on molecular genomic balancing of hematopoietic stem cell (HSC) chromatin with nucleosome monomers of human genomic DNA (hDNA^(nmr)) has been developed and implemented in the clinic to change (to \"correct\") mutant chromosome loci genomes of dominant HSC clones that form mono- and oligoclonal hematopoiesis during aging and major (oncological, cardiovascular, neurodegenerative and autoimmune) fatal immune-mediated diseases of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37833013/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-13T10:00:00.000Z",
+          "wordCount": 1463,
+          "title": "Technology of genomic balancing of chromatin of autologous hematopoietic stem cells for gene therapy of fatal immune-mediated diseases of civilization, extended life expectancy and sudden human death prevention",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37832948",
+          "author": "Rashmi Kanagal-Shamanna",
+          "description": "Somatic or acquired mutations are postzygotic genetic variations that can occur within any tissue. These mutations accumulate during aging and have classically been linked to malignant processes. Tremendous advancements over the past years have led to a deeper understanding of the role of somatic mutations in benign and malignant age-related diseases. Here, we review the somatic mutations that accumulate in the blood and their connection to disease states, with a particular focus on inflammatory...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37832948/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-13T10:00:00.000Z",
+          "wordCount": 1301,
+          "title": "Clonal Hematopoiesis, Inflammation, and Hematologic Malignancy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -366,6 +406,16 @@
           "id": "pubmed:37827894",
           "author": "Dharamveer Tatwavedi",
           "description": "Acquired myeloid malignancies are a spectrum of clonal disorders known to be caused by sequential acquisition of genetic lesions in hematopoietic stem and progenitor cells, leading to their aberrant self-renewal and differentiation. The increasing use of induced pluripotent stem cell (iPSC) technology to study myeloid malignancies has helped usher a paradigm shift in approaches to disease modeling and drug discovery, especially when combined with gene-editing technology. The process of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37827894/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-12T10:00:00.000Z",
+          "wordCount": 1398,
+          "title": "Recent advances in the application of induced pluripotent stem cell technology to the study of myeloid malignancies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37827894",
+          "author": "Dharamveer Tatwavedi",
+          "description": "Acquired myeloid malignancies are a spectrum of clonal disorders known to be caused by sequential acquisition of genetic lesions in hematopoietic stem and progenitor cells, leading to their aberrant self-renewal and differentiation. The increasing use of induced pluripotent stem cell (iPSC) technology to study myeloid malignancies has helped usher a paradigm shift in approaches to disease modeling and drug discovery, especially when combined with gene-editing technology. The process of...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37827894/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231018205013&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-10-12T10:00:00.000Z",
           "wordCount": 1398,
@@ -420,6 +470,16 @@
           "publishedOn": "2023-10-12T10:00:00.000Z",
           "wordCount": 1364,
           "title": "Recent advances in the application of induced pluripotent stem cell technology to the study of myeloid malignancies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37816954",
+          "author": "Jiaying Xie",
+          "description": "Somatic loss-of-function mutations of the dioxygenase Ten-eleven translocation-2 (TET2) occur frequently in individuals with clonal hematopoiesis (CH) and acute myeloid leukemia (AML). These common hematopoietic disorders can be recapitulated in mouse models. However, the underlying mechanisms by which the deficiency in TET2 promotes these disorders remain unclear. Here we show that the cyclic guanosine monophosphate-adenosine monophosphate synthase (cGAS)-stimulator of interferon genes (STING)...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37816954/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-10T10:00:00.000Z",
+          "wordCount": 2076,
+          "title": "STING activation in TET2-mutated hematopoietic stem/progenitor cells contributes to the increased self-renewal and neoplastic transformation",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -500,6 +560,16 @@
           "publishedOn": "2023-10-10T10:00:00.000Z",
           "wordCount": 2043,
           "title": "STING activation in TET2-mutated hematopoietic stem/progenitor cells contributes to the increased self-renewal and neoplastic transformation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37809221",
+          "author": "Armaan Dhaliwal",
+          "description": "The utility of CD19-targeted chimeric antigen receptor T-cell (CAR-T cell) therapy in the management of refractory/relapsed B-cell malignancies has increased tremendously in recent times. In addition to cytokine release syndrome (CRS), neurotoxicity, and infections, CAR-T cell patients develop cytopenias, with about 15% of the patients continuing to have severe cytopenias up to three months after treatment. Retrospective reviews have reported the development of myelodysplastic syndrome (MDS) in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37809221/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-09T10:00:00.000Z",
+          "wordCount": 1559,
+          "title": "Myelodysplastic Syndrome After Anti-CD19 Chimeric Antigen Receptor T-cell Therapy: A Case Series",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -600,6 +670,16 @@
           "publishedOn": "2023-10-09T10:00:00.000Z",
           "wordCount": 1494,
           "title": "Myelodysplastic Syndrome After Anti-CD19 Chimeric Antigen Receptor T-cell Therapy: A Case Series",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37804041",
+          "author": "Hugh Young Rienhoff",
+          "description": "INTRODUCTION: Myeloproliferative neoplasm (MPN) is a heterogeneous group of hematopoietic stem cell disorders characterized by clonal proliferation of one of more of the hematopoietic stem cell lineages. Clinical manifestations result from uncontrolled myeloproliferation, extramedullary hematopoiesis with splenomegaly and excessive inflammatory cytokine production. Currently available therapy improves hematologic parameters and symptoms but does not adequately address the underlying neoplastic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37804041/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-07T10:00:00.000Z",
+          "wordCount": 1198,
+          "title": "Bomedemstat as an investigative treatment for myeloproliferative neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -720,6 +800,16 @@
           "publishedOn": "2023-10-07T10:00:00.000Z",
           "wordCount": 1147,
           "title": "Bomedemstat as an investigative treatment for myeloproliferative neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37799345",
+          "author": "Victoria Panagiota",
+          "description": "Recent evidence revealed important interactions between clonal hematopoiesis (CH) and cellular therapies established for the treatment of hematologic malignancies. The impact of CH on safety, efficacy, and outcome of chimeric antigen receptor (CAR) T-cell therapy is currently under investigation. We analyzed 110 patients with relapsed/refractory B-cell non-Hodgkin lymphoma (n = 105) or acute lymphoblastic leukemia (ALL) (n = 5), treated with Axicabtagene-Ciloleucel (39%), Tisagenlecleucel (51%),...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37799345/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-06T10:00:00.000Z",
+          "wordCount": 1845,
+          "title": "Clinical Implications and Dynamics of Clonal Hematopoiesis in Anti-CD19 CAR T-cell Treated Patients",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -850,6 +940,36 @@
           "publishedOn": "2023-10-06T10:00:00.000Z",
           "wordCount": 1813,
           "title": "Clinical Implications and Dynamics of Clonal Hematopoiesis in Anti-CD19 CAR T-cell Treated Patients",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37793870",
+          "author": "Kenichi Yoshida",
+          "description": "With recent advances in sequencing technologies, novel genes associated with the predisposition to myeloid neoplasms have been discovered, and subsequent studies have shown that the incidence of myeloid neoplasms associated with germline variants is higher than expected. Accordingly, myeloid neoplasms with germline predisposition have represented a unique category in the recent WHO classification and the International Consensus Classification, and DDX41 mutation accounts for 2-5% of myeloid...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37793870/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1199,
+          "title": "Myeloid neoplasms with germline predisposition",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37793865",
+          "author": "Kohei Hosokawa",
+          "description": "Bone marrow (BM) failure is a condition characterized by peripheral pancytopenia due to decreased BM function. It includes conditions such as acquired aplastic anemia (AA), myelodysplastic syndrome (MDS), and paroxysmal nocturnal hemoglobinuria (PNH). AA is characterized by pancytopenia and BM hypoplasia, and is primarily caused by an autoimmune mechanism involving cytotoxic T cells that damage hematopoietic stem cells (HSCs). Recent genomic research has revealed that patients with AA often...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37793865/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1165,
+          "title": "Immune pathophysiology of bone marrow failure",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37793858",
+          "author": "Hideyo Hirai",
+          "description": "Myelopoiesis is a process that produces myeloid cells including granulocytes and mononuclear phagocytes. The differentiation and proliferation of hematopoietic stem and progenitor cells are tightly regulated to meet demands for such myeloid cells both at steady state and under stressed conditions. CCAAT/enhancer-binding protein family transcription factors are involved not only in the appropriate regulation of myelopoiesis but also in dysregulated myelopoiesis. A recent study has revealed that...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37793858/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1199,
+          "title": "Human diseases and the mechanisms regulating myelopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1286,6 +1406,16 @@
           "id": "pubmed:37781816",
           "author": "Mustafa Yalcinkaya",
           "description": "CONCLUSIONS: Hypercholesterolemia and TET2 deficiency converge on a common pathway of NLRP3 inflammasome activation mediated by JNK1 activation and BRCC3-mediated NLRP3 deubiquitylation, with potential therapeutic implications for the prevention of cardiovascular disease in TET2 CH.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37781816/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-02T10:00:00.000Z",
+          "wordCount": 1610,
+          "title": "BRCC3-Mediated NLRP3 Deubiquitylation Promotes Inflammasome Activation and Atherosclerosis in <em>Tet2</em> Clonal Hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37781816",
+          "author": "Mustafa Yalcinkaya",
+          "description": "CONCLUSIONS: Hypercholesterolemia and TET2 deficiency converge on a common pathway of NLRP3 inflammasome activation mediated by JNK1 activation and BRCC3-mediated NLRP3 deubiquitylation, with potential therapeutic implications for the prevention of cardiovascular disease in TET2 CH.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37781816/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231018205013&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-10-02T10:00:00.000Z",
           "wordCount": 1610,
@@ -1451,6 +1581,16 @@
           "wordCount": 1553,
           "title": "BRCC3-Mediated NLRP3 Deubiquitylation Promotes Inflammasome Activation and Atherosclerosis in <em>Tet2</em> Clonal Hematopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37777824",
+          "author": "Kelvin C de Andrade",
+          "description": "Pathogenic or likely pathogenic (P/LP) germline TP53 variants are the primary cause of Li-Fraumeni syndrome (LFS), a hereditary cancer predisposition disorder characterized by early-onset cancers. The population prevalence of P/LP germline TP53 variants is estimated to be approximately one in every 3,500-20,000 individuals. However, these estimates are likely impacted by ascertainment biases and lack of clinical and genetic data to account for potential confounding factors, such as clonal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37777824/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-01T10:00:00.000Z",
+          "wordCount": 1315,
+          "title": "Genome-First Approach of the Prevalence and Cancer Phenotypes of Pathogenic or Likely Pathogenic Germline TP53 Variants",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
           "id": "pubmed:37777824",
@@ -1631,6 +1771,16 @@
           "wordCount": 1254,
           "title": "Genome-First Approach of the Prevalence and Cancer Phenotypes of Pathogenic or Likely Pathogenic Germline TP53 Variants",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37774372",
+          "author": "Robert P Hasserjian",
+          "description": "Myelodysplastic syndromes (MDSs) are neoplastic myeloid proliferations characterized by ineffective hematopoiesis resulting in peripheral blood cytopenias. MDS is distinguished from non-neoplastic clonal myeloid proliferations by the presence of morphologic dysplasia and from acute myeloid leukemia (AML) by a blast threshold of 20%. The diagnosis of MDS can be challenging due to the myriad other causes of cytopenias: accurate diagnosis requires the integration of clinical features with bone...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37774372/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-09-29T10:00:00.000Z",
+          "wordCount": 1220,
+          "title": "Diagnosis and classification of myelodysplastic syndromes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
           "id": "pubmed:37774372",
@@ -7651,514 +7801,24 @@
           "wordCount": 1600,
           "title": "Validation of a 12-color flow cytometry assay for acute myeloid leukemia minimal/measurable residual disease detection",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230907204816&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230906204801&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230906204801&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2494,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230905204848&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230905204848&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2494,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230905204848&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1862,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230904204751&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230904204751&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2494,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230904204751&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1862,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230903204939&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230903204939&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2487,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230903204939&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1855,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230902205121&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230902205121&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2487,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230902205121&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1855,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230901204619&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230901204619&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2487,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230901204619&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1855,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230831205203&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230831205203&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2487,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230831205203&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1855,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230830204850&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230830204850&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2487,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230830204850&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1855,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230829204824&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230829204824&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2487,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230829204824&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1855,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230828204854&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230828204854&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2487,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230828204854&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1855,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230827204908&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230827204908&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2487,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230827204908&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1855,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230826205107&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230826205107&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2487,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230826205107&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1855,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230825204557&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230825204557&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2487,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230825204557&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1855,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230824204823&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230824204823&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2487,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230824204823&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1855,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230823204708&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1191,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230823204708&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2487,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230823204708&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1855,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230822204709&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1154,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230822204709&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2445,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37599859",
-          "author": "Emrah Doğan",
-          "description": "Fibrodysplasia ossificans progressiva (FOP) is an autosomal dominant rare disease characterized by foot deformities and concomitant heterotopic ossifications. Theoretically, in the absence of early diagnosis and medication, the patient's outcome will be poor. The patients are usually diagnosed at an early age. Hence, encountering a non-treated and terminal-period patient is rare. Our case was unique because it showed the clinical picture and atypical radiological distribution of a 20-year-old,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37599859/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230822204709&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1789,
-          "title": "The terminal period findings of late-diagnosed fibrodysplasia ossificans progressiva",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603861",
-          "author": "Emma M Garcia",
-          "description": "DNA methyltransferase 3A (DNMT3A) is a de novo cytosine methyltransferase responsible for establishing proper DNA methylation during mammalian development. Loss-of-function (LOF) mutations to DNMT3A, including the hotspot mutation R882H, frequently occur in developmental growth disorders and hematological diseases, including clonal hematopoiesis and acute myeloid leukemia. Accordingly, identifying mechanisms that activate DNMT3A is of both fundamental and therapeutic interest. Here, we applied a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230821204801&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1154,
-          "title": "Base Editor Scanning Reveals Activating Mutations of DNMT3A",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37601688",
-          "author": "Thomas Powles",
-          "description": "CONCLUSION: We present a personalized ctDNA monitoring assay utilizing tissue-based FoundationOne^(®) CDx CGP, which is a pragmatic and potentially clinically scalable method that can detect low levels of residual ctDNA in patients with resected, muscle-invasive bladder cancer without germline sampling.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37601688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230821204801&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2421,
-          "title": "Molecular residual disease detection in resected, muscle-invasive urothelial cancer with a tissue-based comprehensive genomic profiling-informed personalized monitoring assay",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&v=2.17.9.post6+86293ac&utm_medium=rss&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_campaign=pubmed-2&ff=20231018205013",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&v=2.17.9.post6+86293ac&utm_source=axios&fc=20220608010801&utm_medium=rss&ff=20231019204958&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
       "articles": [
+        {
+          "id": "pubmed:37835504",
+          "author": "Vasileios Georgoulis",
+          "description": "Myelodysplastic syndromes or neoplasms (MDS) are a heterogeneous group of myeloid clonal disorders characterized by peripheral blood cytopenias, blood and marrow cell dysplasia, and increased risk of evolution to acute myeloid leukemia (AML). Non-coding RNAs, especially microRNAs and long non-coding RNAs, serve as regulators of normal and malignant hematopoiesis and have been implicated in carcinogenesis. This review presents a comprehensive summary of the biology and role of non-coding RNAs,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37835504/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-14T10:00:00.000Z",
+          "wordCount": 1424,
+          "title": "The Role of Non-Coding RNAs in Myelodysplastic Neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:37835504",
           "author": "Vasileios Georgoulis",
@@ -8207,6 +7867,16 @@
           "publishedOn": "2023-10-14T10:00:00.000Z",
           "wordCount": 1067,
           "title": "The Role of Non-Coding RNAs in Myelodysplastic Neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37823726",
+          "author": "Xiaohui Shen",
+          "description": "Hematologic malignancies are the most common hematopoietic diseases and a major public health concern. However, the mechanisms underlying myeloid tumors remain unknown owing to the intricate interplay between mutations and diverse clonal evolution patterns, as evidenced by the analysis of bulk cell-derived omics data. Several single-cell omics techniques have been used to characterize the hierarchies and altered immune microenvironments of hematologic malignancies. The comprehensive single-cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37823726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-12T10:00:00.000Z",
+          "wordCount": 1746,
+          "title": "Targeted single-cell RNA sequencing analysis reveals metabolic reprogramming and the ferroptosis-resistant state in hematologic malignancies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8277,6 +7947,16 @@
           "publishedOn": "2023-10-12T10:00:00.000Z",
           "wordCount": 1702,
           "title": "Targeted single-cell RNA sequencing analysis reveals metabolic reprogramming and the ferroptosis-resistant state in hematologic malignancies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37819942",
+          "author": "Leah L Weber",
+          "description": "Emerging ultra-low coverage single-cell DNA sequencing (scDNA-seq) technologies have enabled high resolution evolutionary studies of copy number aberrations (CNAs) within tumors. While these sequencing technologies are well suited for identifying CNAs due to the uniformity of sequencing coverage, the sparsity of coverage poses challenges for the study of single-nucleotide variants (SNVs). In order to maximize the utility of increasingly available ultra-low coverage scDNA-seq data and obtain a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37819942/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-11T10:00:00.000Z",
+          "wordCount": 1319,
+          "title": "Phertilizer: Growing a clonal tree from ultra-low coverage single-cell DNA sequencing of tumors",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8357,6 +8037,16 @@
           "publishedOn": "2023-10-11T10:00:00.000Z",
           "wordCount": 1267,
           "title": "Phertilizer: Growing a clonal tree from ultra-low coverage single-cell DNA sequencing of tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37812025",
+          "author": "Michael D Kinnaman",
+          "description": "Multiple large-scale genomic profiling efforts have been undertaken in osteosarcoma to define the genomic drivers of tumorigenesis, therapeutic response, and disease recurrence. The spatial and temporal intratumor heterogeneity could also play a role in promoting tumor growth and treatment resistance. We conducted longitudinal whole-genome sequencing of 37 tumor samples from 8 patients with relapsed or refractory osteosarcoma. Each patient had at least one sample from a primary site and a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37812025/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-09T10:00:00.000Z",
+          "wordCount": 1901,
+          "title": "Subclonal Somatic Copy-Number Alterations Emerge and Dominate in Recurrent Osteosarcoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8457,6 +8147,26 @@
           "publishedOn": "2023-10-09T10:00:00.000Z",
           "wordCount": 1856,
           "title": "Subclonal Somatic Copy-Number Alterations Emerge and Dominate in Recurrent Osteosarcoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37803464",
+          "author": "Edoardo Peroni",
+          "description": "Acute myeloid leukemia (AML) is a malignant blood cancer with marked cellular heterogeneity due to altered maturation and differentiation of myeloid blasts, the possible causes of which are transcriptional or epigenetic alterations, impaired apoptosis, and excessive cell proliferation. This neoplasm has a high rate of resistance to anticancer therapies and thus a high risk of relapse and mortality because of both the biological diversity of the patient and intratumoral heterogeneity due to the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37803464/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-06T10:00:00.000Z",
+          "wordCount": 2405,
+          "title": "Acute myeloid leukemia: from NGS, through scRNA-seq, to CAR-T. dissect cancer heterogeneity and tailor the treatment",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37803452",
+          "author": "Tao Guo",
+          "description": "CONCLUSIONS: Small eccDNAs carrying TSG mutations may serve as an important source supporting intratumor heterogeneity and tumor evolution in mouse liver cancer induced by multiplexed CRISPR/Cas9.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37803452/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-06T10:00:00.000Z",
+          "wordCount": 3867,
+          "title": "Small extrachromosomal circular DNA harboring targeted tumor suppressor gene mutations supports intratumor heterogeneity in mouse liver cancer induced by multiplexed CRISPR/Cas9",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8703,6 +8413,16 @@
           "id": "pubmed:37794586",
           "author": "Lu-Ping Yang",
           "description": "Sporadic synchronous colorectal cancer (SCRC) refers to multiple primary CRC tumors detected simultaneously in an individual without predisposing hereditary conditions, which accounts for the majority of multiple CRCs while lacking a profound understanding of the genomic landscape and evolutionary dynamics to optimize its treatment. In this study, 103 primary tumor samples from 51 patients with SCRC undergo whole-exome sequencing. The germline and somatic mutations and evolutionary and clinical...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37794586/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-05T10:00:00.000Z",
+          "wordCount": 1452,
+          "title": "Comprehensive genomic characterization of sporadic synchronous colorectal cancer: Implications for treatment optimization and clinical outcome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37794586",
+          "author": "Lu-Ping Yang",
+          "description": "Sporadic synchronous colorectal cancer (SCRC) refers to multiple primary CRC tumors detected simultaneously in an individual without predisposing hereditary conditions, which accounts for the majority of multiple CRCs while lacking a profound understanding of the genomic landscape and evolutionary dynamics to optimize its treatment. In this study, 103 primary tumor samples from 51 patients with SCRC undergo whole-exome sequencing. The germline and somatic mutations and evolutionary and clinical...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37794586/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231018205013&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-10-05T10:00:00.000Z",
           "wordCount": 1452,
@@ -8837,6 +8557,46 @@
           "publishedOn": "2023-10-05T10:00:00.000Z",
           "wordCount": 1405,
           "title": "Comprehensive genomic characterization of sporadic synchronous colorectal cancer: Implications for treatment optimization and clinical outcome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37794100",
+          "author": "Bruno Fattizzo",
+          "description": "Non-severe aplastic anemia is a rare bone marrow failure disorder characterized by variable degrees and combination of cytopenias, with limited data on management and outcome. We describe a large multicentric series of 259 patients, focusing on clinical and molecular features, treatment, evolution, and survival. The majority required treatment with cyclosporine (CyA) alone (N = 84) or in combination with anti-thymocyte globulin (ATG,44) or eltrombopag (20), eltrombopag alone (10), or others (25)...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37794100/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1652,
+          "title": "Deciphering treatment patterns in non-severe/moderate aplastic anemia: an international observational study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37794034",
+          "author": "Chunyang Bao",
+          "description": "The progression of precancerous lesions to malignancy is often accompanied by increasing complexity of chromosomal alterations but how these alterations arise is poorly understood. Here we perform haplotype-specific analysis of chromosomal copy-number evolution in the progression of Barrett's esophagus (BE) to esophageal adenocarcinoma (EAC) on multiregional whole-genome sequencing data of BE with dysplasia and microscopic EAC foci. We identify distinct patterns of copy-number evolution...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37794034/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 5038,
+          "title": "Genomic signatures of past and present chromosomal instability in Barrett's esophagus and early esophageal adenocarcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37793870",
+          "author": "Kenichi Yoshida",
+          "description": "With recent advances in sequencing technologies, novel genes associated with the predisposition to myeloid neoplasms have been discovered, and subsequent studies have shown that the incidence of myeloid neoplasms associated with germline variants is higher than expected. Accordingly, myeloid neoplasms with germline predisposition have represented a unique category in the recent WHO classification and the International Consensus Classification, and DDX41 mutation accounts for 2-5% of myeloid...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37793870/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1199,
+          "title": "Myeloid neoplasms with germline predisposition",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37792958",
+          "author": "Quanhua Mu",
+          "description": "Clonal evolution drives cancer progression and therapeutic resistance. Recent studies have revealed divergent longitudinal trajectories in gliomas, but early molecular features steering posttreatment cancer evolution remain unclear. Here, we collected sequencing and clinical data of initial-recurrent tumor pairs from 544 adult diffuse gliomas and performed multivariate analysis to identify early molecular predictors of tumor evolution in three diffuse glioma subtypes. We found that CDKN2A...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37792958/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 2007,
+          "title": "Identifying predictors of glioma evolution from longitudinal sequencing",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9403,6 +9163,16 @@
           "id": "pubmed:37786705",
           "author": "Luigi Perelli",
           "description": "Mesenchymal plasticity has been extensively described in advanced and metastatic epithelial cancers; however, its functional role in malignant progression, metastatic dissemination and therapy response is controversial. More importantly, the role of epithelial mesenchymal transition (EMT) and cell plasticity in tumor heterogeneity, clonal selection and clonal evolution is poorly understood. Functionally, our work clarifies the contribution of EMT to malignant progression and metastasis in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37786705/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-03T10:00:00.000Z",
+          "wordCount": 1391,
+          "title": "Evolutionary fingerprints of EMT in pancreatic cancers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37786705",
+          "author": "Luigi Perelli",
+          "description": "Mesenchymal plasticity has been extensively described in advanced and metastatic epithelial cancers; however, its functional role in malignant progression, metastatic dissemination and therapy response is controversial. More importantly, the role of epithelial mesenchymal transition (EMT) and cell plasticity in tumor heterogeneity, clonal selection and clonal evolution is poorly understood. Functionally, our work clarifies the contribution of EMT to malignant progression and metastasis in...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37786705/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231018205013&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-10-03T10:00:00.000Z",
           "wordCount": 1391,
@@ -9563,6 +9333,16 @@
           "id": "pubmed:37783803",
           "author": "Alicia L Bruzos",
           "description": "Transmissible cancers are malignant cell lineages that spread clonally between individuals. Several such cancers, termed bivalve transmissible neoplasia (BTN), induce leukemia-like disease in marine bivalves. This is the case of BTN lineages affecting the common cockle, Cerastoderma edule, which inhabits the Atlantic coasts of Europe and northwest Africa. To investigate the evolution of cockle BTN, we collected 6,854 cockles, diagnosed 390 BTN tumors, generated a reference genome and assessed...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37783803/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-02T10:00:00.000Z",
+          "wordCount": 2510,
+          "title": "Somatic evolution of marine transmissible leukemias in the common cockle, Cerastoderma edule",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37783803",
+          "author": "Alicia L Bruzos",
+          "description": "Transmissible cancers are malignant cell lineages that spread clonally between individuals. Several such cancers, termed bivalve transmissible neoplasia (BTN), induce leukemia-like disease in marine bivalves. This is the case of BTN lineages affecting the common cockle, Cerastoderma edule, which inhabits the Atlantic coasts of Europe and northwest Africa. To investigate the evolution of cockle BTN, we collected 6,854 cockles, diagnosed 390 BTN tumors, generated a reference genome and assessed...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37783803/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231018205013&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-10-02T10:00:00.000Z",
           "wordCount": 2510,
@@ -9718,6 +9498,26 @@
           "wordCount": 2463,
           "title": "Somatic evolution of marine transmissible leukemias in the common cockle, Cerastoderma edule",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37758711",
+          "author": "Nicola Cosgrove",
+          "description": "HER2-positive (HER2+) breast cancer accounts for 20-25% of all breast cancers. Predictive biomarkers of neoadjuvant therapy response are needed to better identify patients with early stage disease who may benefit from tailored treatments in the adjuvant setting. As part of the TCHL phase-II clinical trial (ICORG10-05/NCT01485926) whole exome DNA sequencing was carried out on normal-tumour pairs collected from 22 patients. Here we report predictive modelling of neoadjuvant therapy response using...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37758711/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-09-27T10:00:00.000Z",
+          "wordCount": 3576,
+          "title": "Predictive modelling of response to neoadjuvant therapy in HER2+ breast cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37755647",
+          "author": "Rong He",
+          "description": "In the past decade, induced pluripotent stem cells (iPSCs) technology has significantly progressed in studying malignant solid tumors. This technically feasible reprogramming techniques can reawaken sequestered dormant regions that regulate the fate of differentiated cells. Despite the evolving therapeutic modalities for malignant solid tumors, treatment outcomes have not been satisfactory. Recently, scientists attempted to apply induced pluripotent stem cell technology to cancer research, from...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37755647/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231019204958&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-09-27T10:00:00.000Z",
+          "wordCount": 1488,
+          "title": "Application of Induced Pluripotent Stem Cells in Malignant Solid Tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
           "id": "pubmed:37758711",
@@ -15057,426 +14857,6 @@
           "publishedOn": "2023-08-23T10:00:00.000Z",
           "wordCount": 1665,
           "title": "Targeted NGS on sequential bone marrow biopsies aids in the evaluation of cytopenias and monocytosis and documents clonal evolution-a proof of principle study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230910204912&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1548,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230910204912&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230909205145&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230909205145&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230908204701&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230908204701&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230907204816&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230907204816&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230906204801&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230906204801&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230905204848&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230905204848&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230904204751&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230904204751&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230903204939&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230903204939&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230902205121&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230902205121&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230901204619&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230901204619&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230831205203&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230831205203&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230830204850&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230830204850&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230829204824&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230829204824&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230828204854&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230828204854&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230827204908&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230827204908&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230826205107&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230826205107&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230825204602&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230825204602&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230824204824&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230824204824&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230823204708&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1541,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230823204708&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2322,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230822204709&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1516,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230822204709&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2275,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37603596",
-          "author": "Jennifer L Cotton",
-          "description": "For a majority of non-small cell lung cancer (NSCLC) patients with EGFR mutations, treatment with EGFR inhibitors (EGFRi) induces a clinical response. Despite this initial reduction in tumor size, residual disease persists that leads to disease relapse. Elucidating the pre-existing biological differences between sensitive cells and surviving drug-tolerant persister cells and deciphering how drug-tolerant cells evolve in response to treatment could help identify strategies to improve the efficacy...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37603596/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230821204801&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 1492,
-          "title": "Expressed barcoding enables high resolution tracking of the evolution of drug tolerance",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37602230",
-          "author": "Sayaka Miura",
-          "description": "The study of tumor evolution is being revolutionalized by single-cell sequencing technologies that survey the somatic variation of cancer cells. In these endeavors, reliable inference of the evolutionary relationship of single cells is a key step. However, single-cell sequences contain many errors and missing bases, which necessitate advancing standard molecular phylogenetics approaches for applications in analyzing these datasets. We have developed a computational approach that integratively...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37602230/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230821204801&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-21T10:00:00.000Z",
-          "wordCount": 2275,
-          "title": "Improving cellular phylogenies through the integrated use of mutation order and optimality principles",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
