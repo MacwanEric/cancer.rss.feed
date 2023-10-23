@@ -210,8 +210,38 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&v=2.17.9.post6+86293ac&ff=20231021205333&utm_source=axios&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&ff=20231022205027&v=2.17.9.post6+86293ac&utm_medium=rss&fc=20220608003622&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
       "articles": [
+        {
+          "id": "pubmed:37865509",
+          "author": "Adelaide Kwon",
+          "description": "Myelodysplastic syndromes (MDS) are a group of myeloid neoplasms characterized by clonal hematopoiesis and abnormal maturation of hematopoietic cells, resulting in cytopenias. The transformation of MDS to acute myeloid leukemia (AML) reflects a progressive increase in blasts due to impaired maturation of the malignant clone, and thus MDS and many AML subtypes form a biological continuum rather than representing two distinct diseases. Recent data suggest that, in addition to previously described...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37865509/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-21T10:00:00.000Z",
+          "wordCount": 1137,
+          "title": "Acute Myeloid Leukemia Arising from Myelodysplastic Syndromes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37865503",
+          "author": "Kelly E Craven",
+          "description": "Premalignant clonal hematopoiesis is the presence of somatic alterations in the blood of otherwise healthy individuals. Although the condition is not considered as a cancer, it carries an increased risk of developing a hematologic malignancy, particularly in those with large neoplastic clones, multiple pathogenic mutations, and high-risk mutations. In addition to the increased risk of malignancy, clonal hematopoiesis carries a markedly increased risk of cardiovascular events and death....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37865503/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-21T10:00:00.000Z",
+          "wordCount": 1136,
+          "title": "Premalignant Clonal Hematopoiesis (Clonal Hematopoiesis of Indeterminate Potential and Clonal Cytopenia of Undetermined Significance)",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37863054",
+          "author": "Chun-Wei Chen",
+          "description": "Somatic mutations accumulate in all cells with age and can confer a selective advantage, leading to clonal expansion over time. In hematopoietic cells, mutations in a subset of genes regulating DNA repair or epigenetics frequently lead to clonal hematopoiesis (CH). Here, we describe the context and mechanisms that lead to enrichment of hematopoietic stem cells (HSCs) with mutations in SRCAP, which encodes a chromatin remodeler that also influences DNA repair. We show that SRCAP mutations confer...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37863054/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-20T10:00:00.000Z",
+          "wordCount": 2239,
+          "title": "SRCAP mutations drive clonal hematopoiesis through epigenetic and DNA repair dysregulation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:37863054",
           "author": "Chun-Wei Chen",
@@ -220,6 +250,16 @@
           "publishedOn": "2023-10-20T10:00:00.000Z",
           "wordCount": 2205,
           "title": "SRCAP mutations drive clonal hematopoiesis through epigenetic and DNA repair dysregulation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37852258",
+          "author": "Li Li",
+          "description": "Cellular lineage histories and their molecular states encode fundamental principles of tissue development and homeostasis. Current lineage-recording mouse models have insufficient barcode diversity and single-cell lineage coverage for profiling tissues composed of millions of cells. Here, we developed DARLIN, an inducible Cas9 barcoding mouse line that utilizes terminal deoxynucleotidyl transferase (TdT) and 30 CRISPR target sites. DARLIN is inducible, generates massive lineage barcodes across...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37852258/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-18T10:00:00.000Z",
+          "wordCount": 1407,
+          "title": "A mouse model with high clonal barcode diversity for joint lineage, transcriptomic, and epigenomic profiling in single cells",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -250,6 +290,16 @@
           "publishedOn": "2023-10-18T10:00:00.000Z",
           "wordCount": 1400,
           "title": "A mouse model with high clonal barcode diversity for joint lineage, transcriptomic, and epigenomic profiling in single cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37835504",
+          "author": "Vasileios Georgoulis",
+          "description": "Myelodysplastic syndromes or neoplasms (MDS) are a heterogeneous group of myeloid clonal disorders characterized by peripheral blood cytopenias, blood and marrow cell dysplasia, and increased risk of evolution to acute myeloid leukemia (AML). Non-coding RNAs, especially microRNAs and long non-coding RNAs, serve as regulators of normal and malignant hematopoiesis and have been implicated in carcinogenesis. This review presents a comprehensive summary of the biology and role of non-coding RNAs,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37835504/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-14T10:00:00.000Z",
+          "wordCount": 1424,
+          "title": "The Role of Non-Coding RNAs in Myelodysplastic Neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -330,6 +380,26 @@
           "publishedOn": "2023-10-14T10:00:00.000Z",
           "wordCount": 1067,
           "title": "The Role of Non-Coding RNAs in Myelodysplastic Neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37833013",
+          "author": "A S Bryukhovetskiy",
+          "description": "A biotechnology for personalized ex vivo gene therapy based on molecular genomic balancing of hematopoietic stem cell (HSC) chromatin with nucleosome monomers of human genomic DNA (hDNA^(nmr)) has been developed and implemented in the clinic to change (to \"correct\") mutant chromosome loci genomes of dominant HSC clones that form mono- and oligoclonal hematopoiesis during aging and major (oncological, cardiovascular, neurodegenerative and autoimmune) fatal immune-mediated diseases of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37833013/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-13T10:00:00.000Z",
+          "wordCount": 1463,
+          "title": "Technology of genomic balancing of chromatin of autologous hematopoietic stem cells for gene therapy of fatal immune-mediated diseases of civilization, extended life expectancy and sudden human death prevention",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37832948",
+          "author": "Rashmi Kanagal-Shamanna",
+          "description": "Somatic or acquired mutations are postzygotic genetic variations that can occur within any tissue. These mutations accumulate during aging and have classically been linked to malignant processes. Tremendous advancements over the past years have led to a deeper understanding of the role of somatic mutations in benign and malignant age-related diseases. Here, we review the somatic mutations that accumulate in the blood and their connection to disease states, with a particular focus on inflammatory...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37832948/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-13T10:00:00.000Z",
+          "wordCount": 1301,
+          "title": "Clonal Hematopoiesis, Inflammation, and Hematologic Malignancy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -496,6 +566,16 @@
           "id": "pubmed:37827894",
           "author": "Dharamveer Tatwavedi",
           "description": "Acquired myeloid malignancies are a spectrum of clonal disorders known to be caused by sequential acquisition of genetic lesions in hematopoietic stem and progenitor cells, leading to their aberrant self-renewal and differentiation. The increasing use of induced pluripotent stem cell (iPSC) technology to study myeloid malignancies has helped usher a paradigm shift in approaches to disease modeling and drug discovery, especially when combined with gene-editing technology. The process of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37827894/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-12T10:00:00.000Z",
+          "wordCount": 1398,
+          "title": "Recent advances in the application of induced pluripotent stem cell technology to the study of myeloid malignancies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37827894",
+          "author": "Dharamveer Tatwavedi",
+          "description": "Acquired myeloid malignancies are a spectrum of clonal disorders known to be caused by sequential acquisition of genetic lesions in hematopoietic stem and progenitor cells, leading to their aberrant self-renewal and differentiation. The increasing use of induced pluripotent stem cell (iPSC) technology to study myeloid malignancies has helped usher a paradigm shift in approaches to disease modeling and drug discovery, especially when combined with gene-editing technology. The process of...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37827894/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231021205333&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-10-12T10:00:00.000Z",
           "wordCount": 1398,
@@ -580,6 +660,16 @@
           "publishedOn": "2023-10-12T10:00:00.000Z",
           "wordCount": 1364,
           "title": "Recent advances in the application of induced pluripotent stem cell technology to the study of myeloid malignancies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37816954",
+          "author": "Jiaying Xie",
+          "description": "Somatic loss-of-function mutations of the dioxygenase Ten-eleven translocation-2 (TET2) occur frequently in individuals with clonal hematopoiesis (CH) and acute myeloid leukemia (AML). These common hematopoietic disorders can be recapitulated in mouse models. However, the underlying mechanisms by which the deficiency in TET2 promotes these disorders remain unclear. Here we show that the cyclic guanosine monophosphate-adenosine monophosphate synthase (cGAS)-stimulator of interferon genes (STING)...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37816954/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-10T10:00:00.000Z",
+          "wordCount": 2076,
+          "title": "STING activation in TET2-mutated hematopoietic stem/progenitor cells contributes to the increased self-renewal and neoplastic transformation",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -690,6 +780,16 @@
           "publishedOn": "2023-10-10T10:00:00.000Z",
           "wordCount": 2043,
           "title": "STING activation in TET2-mutated hematopoietic stem/progenitor cells contributes to the increased self-renewal and neoplastic transformation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37809221",
+          "author": "Armaan Dhaliwal",
+          "description": "The utility of CD19-targeted chimeric antigen receptor T-cell (CAR-T cell) therapy in the management of refractory/relapsed B-cell malignancies has increased tremendously in recent times. In addition to cytokine release syndrome (CRS), neurotoxicity, and infections, CAR-T cell patients develop cytopenias, with about 15% of the patients continuing to have severe cytopenias up to three months after treatment. Retrospective reviews have reported the development of myelodysplastic syndrome (MDS) in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37809221/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-09T10:00:00.000Z",
+          "wordCount": 1559,
+          "title": "Myelodysplastic Syndrome After Anti-CD19 Chimeric Antigen Receptor T-cell Therapy: A Case Series",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -820,6 +920,16 @@
           "publishedOn": "2023-10-09T10:00:00.000Z",
           "wordCount": 1494,
           "title": "Myelodysplastic Syndrome After Anti-CD19 Chimeric Antigen Receptor T-cell Therapy: A Case Series",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37804041",
+          "author": "Hugh Young Rienhoff",
+          "description": "INTRODUCTION: Myeloproliferative neoplasm (MPN) is a heterogeneous group of hematopoietic stem cell disorders characterized by clonal proliferation of one of more of the hematopoietic stem cell lineages. Clinical manifestations result from uncontrolled myeloproliferation, extramedullary hematopoiesis with splenomegaly and excessive inflammatory cytokine production. Currently available therapy improves hematologic parameters and symptoms but does not adequately address the underlying neoplastic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37804041/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-07T10:00:00.000Z",
+          "wordCount": 1198,
+          "title": "Bomedemstat as an investigative treatment for myeloproliferative neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -970,6 +1080,16 @@
           "publishedOn": "2023-10-07T10:00:00.000Z",
           "wordCount": 1147,
           "title": "Bomedemstat as an investigative treatment for myeloproliferative neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37799345",
+          "author": "Victoria Panagiota",
+          "description": "Recent evidence revealed important interactions between clonal hematopoiesis (CH) and cellular therapies established for the treatment of hematologic malignancies. The impact of CH on safety, efficacy, and outcome of chimeric antigen receptor (CAR) T-cell therapy is currently under investigation. We analyzed 110 patients with relapsed/refractory B-cell non-Hodgkin lymphoma (n = 105) or acute lymphoblastic leukemia (ALL) (n = 5), treated with Axicabtagene-Ciloleucel (39%), Tisagenlecleucel (51%),...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37799345/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-06T10:00:00.000Z",
+          "wordCount": 1845,
+          "title": "Clinical Implications and Dynamics of Clonal Hematopoiesis in Anti-CD19 CAR T-cell Treated Patients",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1130,6 +1250,36 @@
           "publishedOn": "2023-10-06T10:00:00.000Z",
           "wordCount": 1813,
           "title": "Clinical Implications and Dynamics of Clonal Hematopoiesis in Anti-CD19 CAR T-cell Treated Patients",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37793870",
+          "author": "Kenichi Yoshida",
+          "description": "With recent advances in sequencing technologies, novel genes associated with the predisposition to myeloid neoplasms have been discovered, and subsequent studies have shown that the incidence of myeloid neoplasms associated with germline variants is higher than expected. Accordingly, myeloid neoplasms with germline predisposition have represented a unique category in the recent WHO classification and the International Consensus Classification, and DDX41 mutation accounts for 2-5% of myeloid...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37793870/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1192,
+          "title": "Myeloid neoplasms with germline predisposition",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37793865",
+          "author": "Kohei Hosokawa",
+          "description": "Bone marrow (BM) failure is a condition characterized by peripheral pancytopenia due to decreased BM function. It includes conditions such as acquired aplastic anemia (AA), myelodysplastic syndrome (MDS), and paroxysmal nocturnal hemoglobinuria (PNH). AA is characterized by pancytopenia and BM hypoplasia, and is primarily caused by an autoimmune mechanism involving cytotoxic T cells that damage hematopoietic stem cells (HSCs). Recent genomic research has revealed that patients with AA often...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37793865/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1165,
+          "title": "Immune pathophysiology of bone marrow failure",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37793858",
+          "author": "Hideyo Hirai",
+          "description": "Myelopoiesis is a process that produces myeloid cells including granulocytes and mononuclear phagocytes. The differentiation and proliferation of hematopoietic stem and progenitor cells are tightly regulated to meet demands for such myeloid cells both at steady state and under stressed conditions. CCAAT/enhancer-binding protein family transcription factors are involved not only in the appropriate regulation of myelopoiesis but also in dysregulated myelopoiesis. A recent study has revealed that...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37793858/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1199,
+          "title": "Human diseases and the mechanisms regulating myelopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7531,404 +7681,24 @@
           "wordCount": 1194,
           "title": "Unveiling the Genetic Footprint: Exploring Somatic Mutations in Peripheral Arterial Disease Progression",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230913204840&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3700,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230912205016&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3700,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230911204717&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3700,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230911204717&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3319,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230910204912&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3624,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230910204912&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3319,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230909205145&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3607,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230909205145&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3319,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230908204701&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1771,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230908204701&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3319,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230907204816&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1772,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230907204816&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3319,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230906204801&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1772,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230906204801&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3319,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230905204848&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1772,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230905204848&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3319,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230904204751&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1772,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230904204751&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3319,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230903204939&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1772,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230903204939&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3301,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230902205121&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1772,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230902205121&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3293,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230901204619&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1772,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230901204619&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3293,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230831205203&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1772,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230831205203&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3293,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230830204850&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1772,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230830204850&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3293,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230829204824&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1772,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230829204824&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3293,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230828204854&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1772,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230828204854&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3317,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230827204908&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1772,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230827204908&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3310,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230826205107&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1735,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230826205107&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3293,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230825204557&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1735,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230825204557&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1660,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37615936",
-          "author": "Yang Feng",
-          "description": "Clonal hematopoiesis (CH) is defined as clonal expansion of mutant hematopoietic stem cells absent diagnosis of a hematologic malignancy. Presence of CH in solid tumor patients, including colon cancer, correlates with shorter survival. We hypothesized that bone marrow-derived cells with heterozygous loss-of-function mutations of DNMT3A, the most common genetic alteration in CH, contribute to the pathogenesis of colon cancer. In a mouse model that combines colitis-associated colon cancer (CAC)...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37615936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20230824204823&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 1467,
-          "title": "Hematopoietic-specific heterozygous loss of Dnmt3a exacerbates colitis-associated colon cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&v=2.17.9.post6+86293ac&ff=20231021205333&utm_medium=rss&utm_campaign=pubmed-2",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&v=2.17.9.post6+86293ac&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&utm_source=axios&fc=20220608010801&ff=20231022205027",
       "articles": [
+        {
+          "id": "pubmed:37858853",
+          "author": "Tommaso Becchi",
+          "description": "CONCLUSION: This study contributes to elucidate the functional impact of pathogenic CNVs in tumor progression and sheds light on their potential as prognostic markers in specific cancer types.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37858853/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-20T10:00:00.000Z",
+          "wordCount": 1284,
+          "title": "A pan-cancer landscape of pathogenic somatic copy number variations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:37858853",
           "author": "Tommaso Becchi",
@@ -7953,6 +7723,16 @@
           "id": "pubmed:37858132",
           "author": "Alessandro Ottaiano",
           "description": "BACKGROUND: Metastatic disease in tumors originating from the gastrointestinal tract can exhibit varying degrees of tumor burden at presentation. Some patients follow a less aggressive disease course, characterized by a limited number of metastatic sites, referred to as \"oligo-metastatic disease\" (OMD). The precise biological characteristics that define the oligometastatic behavior remain uncertain. In this study, we present a protocol designed to prospectively identify OMD, with the aim of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37858132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-19T10:00:00.000Z",
+          "wordCount": 2350,
+          "title": "Oligo-metastatic neoPlasms from the gastro-intestinal tract: iDentIfiCaTIon of cliNical and molecular drivers: the PREDICTION study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37858132",
+          "author": "Alessandro Ottaiano",
+          "description": "BACKGROUND: Metastatic disease in tumors originating from the gastrointestinal tract can exhibit varying degrees of tumor burden at presentation. Some patients follow a less aggressive disease course, characterized by a limited number of metastatic sites, referred to as \"oligo-metastatic disease\" (OMD). The precise biological characteristics that define the oligometastatic behavior remain uncertain. In this study, we present a protocol designed to prospectively identify OMD, with the aim of...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37858132/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231021205333&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-10-19T10:00:00.000Z",
           "wordCount": 2314,
@@ -7967,6 +7747,16 @@
           "publishedOn": "2023-10-19T10:00:00.000Z",
           "wordCount": 2146,
           "title": "Oligo-metastatic neoPlasms from the gastro-intestinal tract: iDentIfiCaTIon of cliNical and molecular drivers: the PREDICTION study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37835504",
+          "author": "Vasileios Georgoulis",
+          "description": "Myelodysplastic syndromes or neoplasms (MDS) are a heterogeneous group of myeloid clonal disorders characterized by peripheral blood cytopenias, blood and marrow cell dysplasia, and increased risk of evolution to acute myeloid leukemia (AML). Non-coding RNAs, especially microRNAs and long non-coding RNAs, serve as regulators of normal and malignant hematopoiesis and have been implicated in carcinogenesis. This review presents a comprehensive summary of the biology and role of non-coding RNAs,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37835504/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-14T10:00:00.000Z",
+          "wordCount": 1424,
+          "title": "The Role of Non-Coding RNAs in Myelodysplastic Neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8047,6 +7837,16 @@
           "publishedOn": "2023-10-14T10:00:00.000Z",
           "wordCount": 1067,
           "title": "The Role of Non-Coding RNAs in Myelodysplastic Neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37823726",
+          "author": "Xiaohui Shen",
+          "description": "Hematologic malignancies are the most common hematopoietic diseases and a major public health concern. However, the mechanisms underlying myeloid tumors remain unknown owing to the intricate interplay between mutations and diverse clonal evolution patterns, as evidenced by the analysis of bulk cell-derived omics data. Several single-cell omics techniques have been used to characterize the hierarchies and altered immune microenvironments of hematologic malignancies. The comprehensive single-cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37823726/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-12T10:00:00.000Z",
+          "wordCount": 1749,
+          "title": "Targeted single-cell RNA sequencing analysis reveals metabolic reprogramming and the ferroptosis-resistant state in hematologic malignancies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8147,6 +7947,16 @@
           "publishedOn": "2023-10-12T10:00:00.000Z",
           "wordCount": 1702,
           "title": "Targeted single-cell RNA sequencing analysis reveals metabolic reprogramming and the ferroptosis-resistant state in hematologic malignancies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37819942",
+          "author": "Leah L Weber",
+          "description": "Emerging ultra-low coverage single-cell DNA sequencing (scDNA-seq) technologies have enabled high resolution evolutionary studies of copy number aberrations (CNAs) within tumors. While these sequencing technologies are well suited for identifying CNAs due to the uniformity of sequencing coverage, the sparsity of coverage poses challenges for the study of single-nucleotide variants (SNVs). In order to maximize the utility of increasingly available ultra-low coverage scDNA-seq data and obtain a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37819942/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-11T10:00:00.000Z",
+          "wordCount": 1319,
+          "title": "Phertilizer: Growing a clonal tree from ultra-low coverage single-cell DNA sequencing of tumors",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8257,6 +8067,16 @@
           "publishedOn": "2023-10-11T10:00:00.000Z",
           "wordCount": 1267,
           "title": "Phertilizer: Growing a clonal tree from ultra-low coverage single-cell DNA sequencing of tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37812025",
+          "author": "Michael D Kinnaman",
+          "description": "Multiple large-scale genomic profiling efforts have been undertaken in osteosarcoma to define the genomic drivers of tumorigenesis, therapeutic response, and disease recurrence. The spatial and temporal intratumor heterogeneity could also play a role in promoting tumor growth and treatment resistance. We conducted longitudinal whole-genome sequencing of 37 tumor samples from 8 patients with relapsed or refractory osteosarcoma. Each patient had at least one sample from a primary site and a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37812025/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-09T10:00:00.000Z",
+          "wordCount": 1999,
+          "title": "Subclonal Somatic Copy-Number Alterations Emerge and Dominate in Recurrent Osteosarcoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8387,6 +8207,26 @@
           "publishedOn": "2023-10-09T10:00:00.000Z",
           "wordCount": 1856,
           "title": "Subclonal Somatic Copy-Number Alterations Emerge and Dominate in Recurrent Osteosarcoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37803464",
+          "author": "Edoardo Peroni",
+          "description": "Acute myeloid leukemia (AML) is a malignant blood cancer with marked cellular heterogeneity due to altered maturation and differentiation of myeloid blasts, the possible causes of which are transcriptional or epigenetic alterations, impaired apoptosis, and excessive cell proliferation. This neoplasm has a high rate of resistance to anticancer therapies and thus a high risk of relapse and mortality because of both the biological diversity of the patient and intratumoral heterogeneity due to the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37803464/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-06T10:00:00.000Z",
+          "wordCount": 2398,
+          "title": "Acute myeloid leukemia: from NGS, through scRNA-seq, to CAR-T. dissect cancer heterogeneity and tailor the treatment",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37803452",
+          "author": "Tao Guo",
+          "description": "CONCLUSIONS: Small eccDNAs carrying TSG mutations may serve as an important source supporting intratumor heterogeneity and tumor evolution in mouse liver cancer induced by multiplexed CRISPR/Cas9.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37803452/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-06T10:00:00.000Z",
+          "wordCount": 3867,
+          "title": "Small extrachromosomal circular DNA harboring targeted tumor suppressor gene mutations supports intratumor heterogeneity in mouse liver cancer induced by multiplexed CRISPR/Cas9",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8693,6 +8533,16 @@
           "id": "pubmed:37794586",
           "author": "Lu-Ping Yang",
           "description": "Sporadic synchronous colorectal cancer (SCRC) refers to multiple primary CRC tumors detected simultaneously in an individual without predisposing hereditary conditions, which accounts for the majority of multiple CRCs while lacking a profound understanding of the genomic landscape and evolutionary dynamics to optimize its treatment. In this study, 103 primary tumor samples from 51 patients with SCRC undergo whole-exome sequencing. The germline and somatic mutations and evolutionary and clinical...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37794586/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-05T10:00:00.000Z",
+          "wordCount": 1429,
+          "title": "Comprehensive genomic characterization of sporadic synchronous colorectal cancer: Implications for treatment optimization and clinical outcome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37794586",
+          "author": "Lu-Ping Yang",
+          "description": "Sporadic synchronous colorectal cancer (SCRC) refers to multiple primary CRC tumors detected simultaneously in an individual without predisposing hereditary conditions, which accounts for the majority of multiple CRCs while lacking a profound understanding of the genomic landscape and evolutionary dynamics to optimize its treatment. In this study, 103 primary tumor samples from 51 patients with SCRC undergo whole-exome sequencing. The germline and somatic mutations and evolutionary and clinical...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37794586/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231021205333&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-10-05T10:00:00.000Z",
           "wordCount": 1429,
@@ -8857,6 +8707,46 @@
           "publishedOn": "2023-10-05T10:00:00.000Z",
           "wordCount": 1405,
           "title": "Comprehensive genomic characterization of sporadic synchronous colorectal cancer: Implications for treatment optimization and clinical outcome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37794100",
+          "author": "Bruno Fattizzo",
+          "description": "Non-severe aplastic anemia is a rare bone marrow failure disorder characterized by variable degrees and combination of cytopenias, with limited data on management and outcome. We describe a large multicentric series of 259 patients, focusing on clinical and molecular features, treatment, evolution, and survival. The majority required treatment with cyclosporine (CyA) alone (N = 84) or in combination with anti-thymocyte globulin (ATG,44) or eltrombopag (20), eltrombopag alone (10), or others (25)...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37794100/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1645,
+          "title": "Deciphering treatment patterns in non-severe/moderate aplastic anemia: an international observational study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37794034",
+          "author": "Chunyang Bao",
+          "description": "The progression of precancerous lesions to malignancy is often accompanied by increasing complexity of chromosomal alterations but how these alterations arise is poorly understood. Here we perform haplotype-specific analysis of chromosomal copy-number evolution in the progression of Barrett's esophagus (BE) to esophageal adenocarcinoma (EAC) on multiregional whole-genome sequencing data of BE with dysplasia and microscopic EAC foci. We identify distinct patterns of copy-number evolution...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37794034/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 5038,
+          "title": "Genomic signatures of past and present chromosomal instability in Barrett's esophagus and early esophageal adenocarcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37793870",
+          "author": "Kenichi Yoshida",
+          "description": "With recent advances in sequencing technologies, novel genes associated with the predisposition to myeloid neoplasms have been discovered, and subsequent studies have shown that the incidence of myeloid neoplasms associated with germline variants is higher than expected. Accordingly, myeloid neoplasms with germline predisposition have represented a unique category in the recent WHO classification and the International Consensus Classification, and DDX41 mutation accounts for 2-5% of myeloid...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37793870/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 1199,
+          "title": "Myeloid neoplasms with germline predisposition",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37792958",
+          "author": "Quanhua Mu",
+          "description": "Clonal evolution drives cancer progression and therapeutic resistance. Recent studies have revealed divergent longitudinal trajectories in gliomas, but early molecular features steering posttreatment cancer evolution remain unclear. Here, we collected sequencing and clinical data of initial-recurrent tumor pairs from 544 adult diffuse gliomas and performed multivariate analysis to identify early molecular predictors of tumor evolution in three diffuse glioma subtypes. We found that CDKN2A...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37792958/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-04T10:00:00.000Z",
+          "wordCount": 2007,
+          "title": "Identifying predictors of glioma evolution from longitudinal sequencing",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9543,6 +9433,16 @@
           "id": "pubmed:37786705",
           "author": "Luigi Perelli",
           "description": "Mesenchymal plasticity has been extensively described in advanced and metastatic epithelial cancers; however, its functional role in malignant progression, metastatic dissemination and therapy response is controversial. More importantly, the role of epithelial mesenchymal transition (EMT) and cell plasticity in tumor heterogeneity, clonal selection and clonal evolution is poorly understood. Functionally, our work clarifies the contribution of EMT to malignant progression and metastasis in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37786705/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-03T10:00:00.000Z",
+          "wordCount": 1391,
+          "title": "Evolutionary fingerprints of EMT in pancreatic cancers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:37786705",
+          "author": "Luigi Perelli",
+          "description": "Mesenchymal plasticity has been extensively described in advanced and metastatic epithelial cancers; however, its functional role in malignant progression, metastatic dissemination and therapy response is controversial. More importantly, the role of epithelial mesenchymal transition (EMT) and cell plasticity in tumor heterogeneity, clonal selection and clonal evolution is poorly understood. Functionally, our work clarifies the contribution of EMT to malignant progression and metastasis in...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/37786705/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231021205333&v=2.17.9.post6+86293ac",
           "publishedOn": "2023-10-03T10:00:00.000Z",
           "wordCount": 1391,
@@ -9728,6 +9628,16 @@
           "wordCount": 1327,
           "title": "Evolutionary fingerprints of EMT in pancreatic cancers",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
+          "id": "pubmed:37783803",
+          "author": "Alicia L Bruzos",
+          "description": "Transmissible cancers are malignant cell lineages that spread clonally between individuals. Several such cancers, termed bivalve transmissible neoplasia (BTN), induce leukemia-like disease in marine bivalves. This is the case of BTN lineages affecting the common cockle, Cerastoderma edule, which inhabits the Atlantic coasts of Europe and northwest Africa. To investigate the evolution of cockle BTN, we collected 6,854 cockles, diagnosed 390 BTN tumors, generated a reference genome and assessed...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/37783803/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231022205027&v=2.17.9.post6+86293ac",
+          "publishedOn": "2023-10-02T10:00:00.000Z",
+          "wordCount": 2510,
+          "title": "Somatic evolution of marine transmissible leukemias in the common cockle, Cerastoderma edule",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
           "id": "pubmed:37783803",
@@ -14747,306 +14657,6 @@
           "publishedOn": "2023-08-26T10:00:00.000Z",
           "wordCount": 1231,
           "title": "Unravelling the Complexity of Colorectal Cancer: Heterogeneity, Clonal Evolution, and Clinical Implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230919204929&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3703,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230918204942&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3700,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230917204936&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3700,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230917204936&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4390,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230916205201&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3700,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230916205201&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4369,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230915204741&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3700,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230915204741&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4369,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230914204950&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3700,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230914204950&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4369,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230913204840&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3700,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230913204840&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4369,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230912205015&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3700,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230912205015&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4369,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620601",
-          "author": "Muxin Gu",
-          "description": "The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic syndromes and myeloproliferative neoplasms. Most cases arise from the shared ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years after recruitment. We describe the differences in CH mutational landscapes and hematology/biochemistry test parameters among individuals that later develop myeloid neoplasms (pre-MN) versus controls,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230911204717&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 3700,
-          "title": "Multiparameter prediction of myeloid neoplasia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230911204717&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4362,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230910204912&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4317,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230909205145&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4317,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230908204701&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4317,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230907204816&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4317,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230906204801&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4317,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230905204848&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4317,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230904204751&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4317,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230903204939&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4310,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230902205121&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4310,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230901204619&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4310,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230831205203&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4310,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230830204850&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4310,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230829204824&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4310,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "pubmed:37620322",
-          "author": "Marta Isidro-Hernández",
-          "description": "The initial steps of B-cell acute lymphoblastic leukemia (B-ALL) development usually pass unnoticed in children. Several preclinical studies have shown that exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-ALL, but how this takes place is still a longstanding and unsolved challenge. Here we show that dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5^(+/-) B-cell precursors toward leukemia....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37620322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20230828204854&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-08-24T10:00:00.000Z",
-          "wordCount": 4317,
-          "title": "Immune stress suppresses innate immune signaling in preleukemic precursor B-cells to provoke leukemia in predisposed mice",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
         }
       ]
