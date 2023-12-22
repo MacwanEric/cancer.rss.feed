@@ -210,8 +210,18 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20231220195219&utm_campaign=pubmed-2&v=2.18.0&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&fc=20220608003622",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&utm_campaign=pubmed-2&utm_medium=rss&v=2.18.0",
       "articles": [
+        {
+          "id": "pubmed:38116660",
+          "author": "Chao Liu",
+          "description": "CONCLUSIONS: This is the first study to show that CHIP mutations occurred in 9.4% of patients with CTEPH are associated with a severe inflammatory state and confer a poorer prognosis in long-term follow-up.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38116660/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-20T11:00:00.000Z",
+          "wordCount": 1601,
+          "title": "Clonal Hematopoiesis of Indeterminate Potential in Chronic Thromboembolic Pulmonary Hypertension: A Multicenter Study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38116660",
           "author": "Chao Liu",
@@ -226,10 +236,30 @@
           "id": "pubmed:38113007",
           "author": "Yadong Wang",
           "description": "The Ten-Eleven-Translocation (TET) family of genes, including TET1, TET2, and TET3, play critical roles in the oxidation of 5-methylcytosine marks in both DNA and RNA, thereby regulating the epigenome and epitranscriptome in cells. These genes are frequently mutated in both hematopoietic malignancies and in solid cancers. TET2, in particular, is one of the most frequently mutated genes in clonal hematopoiesis in the general population, which impacts both the transformation of hematopoietic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38113007/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-19T11:00:00.000Z",
+          "wordCount": 1634,
+          "title": "Ten-Eleven-Translocation Genes in Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38113007",
+          "author": "Yadong Wang",
+          "description": "The Ten-Eleven-Translocation (TET) family of genes, including TET1, TET2, and TET3, play critical roles in the oxidation of 5-methylcytosine marks in both DNA and RNA, thereby regulating the epigenome and epitranscriptome in cells. These genes are frequently mutated in both hematopoietic malignancies and in solid cancers. TET2, in particular, is one of the most frequently mutated genes in clonal hematopoiesis in the general population, which impacts both the transformation of hematopoietic...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38113007/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231220195219&v=2.18.0",
           "publishedOn": "2023-12-19T11:00:00.000Z",
           "wordCount": 1415,
           "title": "Ten-Eleven-Translocation Genes in Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38104193",
+          "author": "Xin Qiu",
+          "description": "CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-16T11:00:00.000Z",
+          "wordCount": 2160,
+          "title": "Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -270,6 +300,16 @@
           "publishedOn": "2023-12-16T11:00:00.000Z",
           "wordCount": 1760,
           "title": "Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38102116",
+          "author": "Muran Xiao",
+          "description": "ATP-dependent chromatin remodeling SWI/SNF complexes exist in three subcomplexes: canonical BAF (cBAF), polybromo BAF (PBAF), and a newly described non-canonical BAF (ncBAF). While cBAF and PBAF regulate fates of multiple cell types, roles for ncBAF in hematopoietic stem cells (HSCs) have not been investigated. Motivated by recent discovery of disrupted expression of BRD9, an essential component of ncBAF, in multiple cancers, including clonal hematopoietic disorders, we evaluate here the role of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38102116/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-15T11:00:00.000Z",
+          "wordCount": 5515,
+          "title": "BRD9 determines the cell fate of hematopoietic stem cells by regulating chromatin state",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -320,6 +360,36 @@
           "publishedOn": "2023-12-15T11:00:00.000Z",
           "wordCount": 2314,
           "title": "BRD9 determines the cell fate of hematopoietic stem cells by regulating chromatin state",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38095828",
+          "author": "Terra Lasho",
+          "description": "PURPOSE OF REVIEW: Telomere biology disorders (TBDs) are germline-inherited conditions characterized by reduction in telomerase function, accelerated shortening of telomeres, predisposition to organ-failure syndromes, and increased risk of neoplasms, especially myeloid malignancies. In normal cells, critically short telomeres trigger apoptosis and/or cellular senescence. However, the evolutionary mechanism by which TBD-related telomerase-deficient cells can overcome this fitness constraint...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38095828/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-14T11:00:00.000Z",
+          "wordCount": 1337,
+          "title": "Adaptive and Maladaptive Clonal Hematopoiesis in Telomere Biology Disorders",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38093748",
+          "author": "Megan A Evans",
+          "description": "No abstract",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38093748/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-14T11:00:00.000Z",
+          "wordCount": 1240,
+          "title": "Clonal Hematopoiesis and Transcatheter Aortic Valve Replacement: A Fatal Connection",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38093739",
+          "author": "Fanny Lassalle",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is considered as being a novel age-related risk factor for cardiovascular diseases. By capture-sequencing of a 67-gene panel, we established a large spectrum of CHIP in 258 patients with aortic valve stenosis undergoing transcatheter aortic valve replacement (TAVR) and assessed their association with long-term survival after TAVR. One or several CHIP variants in 35 genes were identified in 68% of the cohort, DNMT3A and TET2 being the 2 most...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38093739/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-14T11:00:00.000Z",
+          "wordCount": 2154,
+          "title": "Negative Impact of <em>TET2</em> Mutations on Long-Term Survival After Transcatheter Aortic Valve Replacement",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -520,6 +590,66 @@
           "publishedOn": "2023-12-14T11:00:00.000Z",
           "wordCount": 1510,
           "title": "Negative Impact of <em>TET2</em> Mutations on Long-Term Survival After Transcatheter Aortic Valve Replacement",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38092472",
+          "author": "Yi Ning",
+          "description": "According to the 2022 World Health Organization (WHO) Classification (5th edition), the term myelodysplastic neoplasms (abbreviated MDS) has been introduced to replace myelodysplastic syndromes. MDS are a group of clonal hematopoietic stem cell diseases characterized by cytopenia(s), dysplasia in one or more of lineages, ineffective hematopoiesis, and an increased risk of progression to bone marrow failure or to acute myeloid leukemia (AML). Current NCCN guidelines and recent review articles...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38092472/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-13T11:00:00.000Z",
+          "wordCount": 1487,
+          "title": "Cytogenetics and molecular genetics of myelodysplastic neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38092420",
+          "author": "Vijay Kumar",
+          "description": "Obesity has taken the face of a pandemic with less direct concern among the general population and scientific community. However, obesity is considered a low-grade systemic inflammation that impacts multiple organs. Chronic inflammation is also associated with different solid and blood cancers. In addition, emerging evidence demonstrates that individuals with obesity are at higher risk of developing blood cancers and have poorer clinical outcomes than individuals in a normal weight range. The...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38092420/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-13T11:00:00.000Z",
+          "wordCount": 1288,
+          "title": "Obesity, bone marrow adiposity, and leukemia: Time to act",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38092383",
+          "author": "Hiroshi Kadowaki",
+          "description": "Epidemiological evidence of increased risks of cancer in heart failure (HF) patients and HF in cancer patients has suggested close relationships between the pathogenesis of both diseases. Indeed, HF and cancer share common risk factors, including aging and unhealthy lifestyles, and underlying mechanisms, including activation of the sympathetic nervous system and renin-angiotensin-aldosterone system, chronic inflammation, and clonal hematopoiesis of indeterminate potential. Mechanistically, HF...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38092383/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-13T11:00:00.000Z",
+          "wordCount": 1234,
+          "title": "Shared and Reciprocal Mechanisms Between Heart Failure and Cancer　- An Emerging Concept of Heart-Cancer Axis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38091010",
+          "author": "Niklas Landberg",
+          "description": "Rare preleukemic hematopoietic stem cells (pHSCs) harboring only the initiating mutations can be detected at the time of AML diagnosis. pHSCs are the origin of leukemia and a potential reservoir for relapse. Using primary human samples and gene-editing to model isocitrate dehydrogenase 1 (IDH1) mutant pHSCs, we show epigenetic, transcriptional, and metabolic differences between pHSCs and healthy hematopoietic stem cells (HSCs). We confirm that IDH1 driven clonal hematopoiesis is associated with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38091010/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-13T11:00:00.000Z",
+          "wordCount": 1298,
+          "title": "IDH1-mutant preleukemic hematopoietic stem cells can be eliminated by inhibition of oxidative phosphorylation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38088145",
+          "author": "Caitlin O'Neill",
+          "description": "BACKGROUND: Clonal cytopenia of undetermined significance (CCUS) is defined as somatic mutations of myeloid malignancy-associated genes in the blood or bone marrow with one or more persistent unexplained cytopenias that do not meet diagnostic criteria for a defined myeloid neoplasm. CCUS with isolated thrombocytopenia (CCUS-IT) is rare.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38088145/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-13T11:00:00.000Z",
+          "wordCount": 1413,
+          "title": "Clinical and pathological features of clonal cytopenia of undetermined significance presenting with isolated thrombocytopenia (CCUS-IT)",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38087308",
+          "author": "Jae Kwang Yun",
+          "description": "CONCLUSIONS: In resected NSCLC, existence of preoperative CH might amplify CH-related adverse outcomes through adjuvant treatments, resulting in poor survival results.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38087308/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-13T11:00:00.000Z",
+          "wordCount": 2038,
+          "title": "Pre-operative clonal hematopoiesis is related to adverse outcome in lung cancer after adjuvant therapy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -976,6 +1106,16 @@
           "id": "pubmed:38073183",
           "author": "Eren Arslan Davulcu",
           "description": "INTRODUCTION: Myelofibrosis is a clonal myeloproliferative neoplasm associated with the proliferation of hematopoietic stem cells, increased bone marrow fibrosis, extramedullary hematopoiesis, hepatosplenomegaly, abnormal cytokine production, and constitutional symptoms. These and many other factors contribute to the development of anemia in myelofibrosis patients.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38073183/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-11T11:00:00.000Z",
+          "wordCount": 1192,
+          "title": "Treatment of anemia in myelofibrosis: focusing on novel therapeutic options",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38073183",
+          "author": "Eren Arslan Davulcu",
+          "description": "INTRODUCTION: Myelofibrosis is a clonal myeloproliferative neoplasm associated with the proliferation of hematopoietic stem cells, increased bone marrow fibrosis, extramedullary hematopoiesis, hepatosplenomegaly, abnormal cytokine production, and constitutional symptoms. These and many other factors contribute to the development of anemia in myelofibrosis patients.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38073183/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231220195219&v=2.18.0",
           "publishedOn": "2023-12-11T11:00:00.000Z",
           "wordCount": 1192,
@@ -1070,6 +1210,16 @@
           "publishedOn": "2023-12-11T11:00:00.000Z",
           "wordCount": 1146,
           "title": "Treatment of anemia in myelofibrosis: focusing on Novel Therapeutic Options",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38066914",
+          "author": "Kristen E Schratz",
+          "description": "Progression to myelodysplastic syndromes (MDS) and acute myeloid leukemia is one of the most serious complications of the inherited bone marrow failure and MDS-predisposition syndromes. Given the lack of predictive markers, this risk can also be a source of great uncertainty and anxiety to patients and their providers alike. Recent data show that some acquired mutations may provide a window into this risk. While maladaptive mechanisms, such as monosomy 7, are associated with a high risk of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38066914/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-09T11:00:00.000Z",
+          "wordCount": 2053,
+          "title": "Clonal evolution in inherited marrow failure syndromes predicts disease progression",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7751,164 +7901,34 @@
           "wordCount": 1331,
           "title": "Clonal Hematopoiesis and Inflammation: A Review of Mechanisms and Clinical Implications",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231106195136&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231105195156&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231104205408&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231103204956&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231102205033&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1699,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231101205012&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231031205323&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231030205036&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231029205030&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231028205254&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231027204803&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231026204906&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231025204855&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231024204954&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1699,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231023204958&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1682,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&v=2.18.0&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_medium=rss&ff=20231220195218&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&fc=20220608010801&v=2.18.0&ff=20231221195154&utm_source=axios&utm_medium=rss&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
       "articles": [
+        {
+          "id": "pubmed:38106049",
+          "author": "Nishat Anjum Bristy",
+          "description": "Clonal lineage inference (\"tumor phylogenetics\") has become a crucial tool for making sense of somatic evolution processes that underlie cancer development and are increasingly recognized as part of normal tissue growth and aging. The inference of clonal lineage trees from single cell sequence data offers particular promise for revealing processes of somatic evolution in unprecedented detail. However, most such tools are based on fairly restrictive models of the types of mutation events observed...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38106049/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-18T11:00:00.000Z",
+          "wordCount": 1245,
+          "title": "Sc-TUSV-ext: Single-cell clonal lineage inference from single nucleotide variants (SNV), copy number alterations (CNA) and structural variants (SV)",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38106028",
+          "author": "Joon-Hyun Song",
+          "description": "Evolvability is an emergent hallmark of cancer that depends on intra-tumor heterogeneity and, ultimately, genetic variation. Mutations generated by APOBEC3 cytidine deaminases can contribute to genetic variation and the consequences of APOBEC activation differ depending on the stage of cancer, with the most significant impact observed during the early stages. However, how APOBEC activity shapes evolutionary patterns of genes in the host genome and differential impacts on cancer-associated and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38106028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-18T11:00:00.000Z",
+          "wordCount": 1268,
+          "title": "Evolvability of cancer-associated genes under APOBEC3A/B selection",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38106049",
           "author": "Nishat Anjum Bristy",
@@ -7973,6 +7993,16 @@
           "id": "pubmed:38104908",
           "author": "Quincy C C van den Bosch",
           "description": "Despite extensive research and refined therapeutic options, the survival for metastasized uveal melanoma (UM) patients has not improved significantly. UM, a malignant tumor originating from melanocytes in the uveal tract, can be asymptomatic and small tumors may be detected only during routine ophthalmic exams; making early detection and treatment difficult. UM is the result of a number of characteristic somatic alterations which are associated with prognosis. Although UM morphology and biology...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38104908/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-17T11:00:00.000Z",
+          "wordCount": 1366,
+          "title": "Uveal melanoma modeling in mice and zebrafish",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38104908",
+          "author": "Quincy C C van den Bosch",
+          "description": "Despite extensive research and refined therapeutic options, the survival for metastasized uveal melanoma (UM) patients has not improved significantly. UM, a malignant tumor originating from melanocytes in the uveal tract, can be asymptomatic and small tumors may be detected only during routine ophthalmic exams; making early detection and treatment difficult. UM is the result of a number of characteristic somatic alterations which are associated with prognosis. Although UM morphology and biology...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38104908/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231220195218&v=2.18.0",
           "publishedOn": "2023-12-17T11:00:00.000Z",
           "wordCount": 1366,
@@ -7997,6 +8027,26 @@
           "publishedOn": "2023-12-17T11:00:00.000Z",
           "wordCount": 1321,
           "title": "Uveal melanoma modeling in mice and zebrafish",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38101410",
+          "author": "Yunfan Sun",
+          "description": "Comprehensive molecular analyses of metastatic hepatocellular carcinoma (HCC) are lacking. Here, we generate multi-omic profiling of 257 primary and 176 metastatic regions from 182 HCC patients. Primary tumors rich in hypoxia signatures facilitated polyclonal dissemination. Genomic divergence between primary and metastatic HCC is high, and early dissemination is prevalent. The remarkable neoantigen intratumor heterogeneity observed in metastases is associated with decreased T cell reactivity,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38101410/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-15T11:00:00.000Z",
+          "wordCount": 2067,
+          "title": "Integrated multi-omics profiling to dissect the spatiotemporal evolution of metastatic hepatocellular carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38098507",
+          "author": "Raquel Carrasco",
+          "description": "CONCLUSION: The analysis of BC mutations associated with poor prognosis in plasma cfDNA could be a valuable tool to monitor tumor evolution, thus improving the clinical management of BC patients.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38098507/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-15T11:00:00.000Z",
+          "wordCount": 1985,
+          "title": "Assessment of aggressive bladder cancer mutations in plasma cell-free DNA",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8113,6 +8163,16 @@
           "id": "pubmed:38096267",
           "author": "Carine Legrand",
           "description": "Clonal genome evolution is a key feature of asexually reproducing species and human cancer development. While many studies have described the landscapes of clonal genome evolution in cancer, few determine the underlying evolutionary parameters from molecular data, and even fewer integrate theory with data. We derived theoretical results linking mutation rate, time, expansion dynamics, and biological/clinical parameters. Subsequently, we inferred time-resolved estimates of evolutionary parameters...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38096267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-14T11:00:00.000Z",
+          "wordCount": 1313,
+          "title": "Time-resolved, integrated analysis of clonally evolving genomes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38096267",
+          "author": "Carine Legrand",
+          "description": "Clonal genome evolution is a key feature of asexually reproducing species and human cancer development. While many studies have described the landscapes of clonal genome evolution in cancer, few determine the underlying evolutionary parameters from molecular data, and even fewer integrate theory with data. We derived theoretical results linking mutation rate, time, expansion dynamics, and biological/clinical parameters. Subsequently, we inferred time-resolved estimates of evolutionary parameters...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38096267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231220195218&v=2.18.0",
           "publishedOn": "2023-12-14T11:00:00.000Z",
           "wordCount": 1313,
@@ -8183,6 +8243,16 @@
           "id": "pubmed:38087308",
           "author": "Jae Kwang Yun",
           "description": "CONCLUSIONS: In resected NSCLC, existence of preoperative CH might amplify CH-related adverse outcomes through adjuvant treatments, resulting in poor survival results.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38087308/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-13T11:00:00.000Z",
+          "wordCount": 2038,
+          "title": "Pre-operative clonal hematopoiesis is related to adverse outcome in lung cancer after adjuvant therapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38087308",
+          "author": "Jae Kwang Yun",
+          "description": "CONCLUSIONS: In resected NSCLC, existence of preoperative CH might amplify CH-related adverse outcomes through adjuvant treatments, resulting in poor survival results.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38087308/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231220195218&v=2.18.0",
           "publishedOn": "2023-12-13T11:00:00.000Z",
           "wordCount": 2038,
@@ -8217,6 +8287,26 @@
           "publishedOn": "2023-12-13T11:00:00.000Z",
           "wordCount": 2032,
           "title": "Pre-operative clonal hematopoiesis is related to adverse outcome in lung cancer after adjuvant therapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38077330",
+          "author": "Mário Sousa-Pimenta",
+          "description": "CONCLUSION: This is the first meta-analysis of early clinical trials assessing the impact of different therapeutics in RS. By analyzing the pooled efficacy estimates, our work suggests the role of a tailor-made bridging therapy for young patients with RS eligible for allogeneic hematopoietic stem cell transplantation (alloSCT), formally the only curative strategy.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38077330/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-11T11:00:00.000Z",
+          "wordCount": 1982,
+          "title": "Response to therapy in Richter syndrome: a systematic review with meta-analysis of early clinical trials",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38077009",
+          "author": "Alexander Stein",
+          "description": "Evolution during range expansions is an important feature of many biological systems including tumours, microbial communities, and invasive species. A selective sweep is a fundamental process, in which an advantageous mutation evades clonal interference and spreads through the population to fixation. However, most theoretical investigations of selective sweeps have assumed constant population size or have ignored spatial structure. Here we use mathematical modelling and analysis to investigate...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38077009/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-11T11:00:00.000Z",
+          "wordCount": 2055,
+          "title": "Selective sweep probabilities in spatially expanding populations",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8363,6 +8453,16 @@
           "id": "pubmed:38071748",
           "author": "Joana Albuquerque",
           "description": "CONCLUSIONS: In conclusion, monitoring clonal evolution in mCRC by LB may provide an additional treatment line for patients with NeoRAS-wt in advanced disease.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38071748/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-10T11:00:00.000Z",
+          "wordCount": 1482,
+          "title": "Loss of RAS Mutations in Liquid Biopsies of Patients With Multi-Treated Metastatic Colorectal Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38071748",
+          "author": "Joana Albuquerque",
+          "description": "CONCLUSIONS: In conclusion, monitoring clonal evolution in mCRC by LB may provide an additional treatment line for patients with NeoRAS-wt in advanced disease.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38071748/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231220195218&v=2.18.0",
           "publishedOn": "2023-12-10T11:00:00.000Z",
           "wordCount": 1482,
@@ -8467,6 +8567,46 @@
           "publishedOn": "2023-12-10T11:00:00.000Z",
           "wordCount": 1422,
           "title": "Loss of RAS Mutations in Liquid Biopsies of Patients With Multi-Treated Metastatic Colorectal Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38071056",
+          "author": "Qing-Zhao Li",
+          "description": "CONCLUSION: different gene \"mutational spectra\" exist in myeloma patients at different stages and are associated with progression through all stages of the disease.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38071056/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-09T11:00:00.000Z",
+          "wordCount": 1408,
+          "title": "Preliminary Study on the Relationship between the Developmental Stage of Multiple Myeloma Disease and the Results of Bone Marrow Whole Exome Sequencing",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38067352",
+          "author": "Haiyue Wang",
+          "description": "Histologic transformation (HT) is common following targeted therapy in adenocarcinoma. However, whether the transformed tumor is a new component or a combined neuroendocrine carcinoma (C-NEC) remains controversial. We aimed to explore the relationship between pulmonary C-NEC and HT. Macro-dissection was performed on different components of surgically resected C-NEC samples. Molecular alterations and clonal evolution were analyzed using whole exome sequencing (WES). The gene statuses for TP53 and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38067352/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-09T11:00:00.000Z",
+          "wordCount": 2105,
+          "title": "Clonality Analysis for the Relationship between the Pulmonary Combined Neuroendocrine Carcinoma and \"the So-Called Reported Histologic Transformation\"",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38067255",
+          "author": "Yanping Yang",
+          "description": "Epithelial cell adhesion molecule (EpCAM) is a tumor-associated antigen that is frequently overexpressed in various carcinomas. We have developed chimeric antigen receptor (CAR) T cells specifically targeting EpCAM for the treatment of gastric cancer. This study sought to unravel the precise mechanisms by which tumors evade immune surveillance and develop resistance to CAR T cell therapy. Through a combination of whole-body CAR T cell imaging and single-cell multiomic analyses, we uncovered...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38067255/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-09T11:00:00.000Z",
+          "wordCount": 2588,
+          "title": "Chimeric Antigen Receptor T Cell Therapy Targeting Epithelial Cell Adhesion Molecule in Gastric Cancer: Mechanisms of Tumor Resistance",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38066914",
+          "author": "Kristen E Schratz",
+          "description": "Progression to myelodysplastic syndromes (MDS) and acute myeloid leukemia is one of the most serious complications of the inherited bone marrow failure and MDS-predisposition syndromes. Given the lack of predictive markers, this risk can also be a source of great uncertainty and anxiety to patients and their providers alike. Recent data show that some acquired mutations may provide a window into this risk. While maladaptive mechanisms, such as monosomy 7, are associated with a high risk of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38066914/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-09T11:00:00.000Z",
+          "wordCount": 2053,
+          "title": "Clonal evolution in inherited marrow failure syndromes predicts disease progression",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8787,6 +8927,16 @@
           "publishedOn": "2023-12-09T11:00:00.000Z",
           "wordCount": 1380,
           "title": "Chimeric Antigen Receptor T Cell Therapy Targeting Epithelial Cell Adhesion Molecule in Gastric Cancer: Mechanisms of Tumor Resistance",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38065082",
+          "author": "Cody N Heiser",
+          "description": "Colorectal cancer exhibits dynamic cellular and genetic heterogeneity during progression from precursor lesions toward malignancy. Analysis of spatial multi-omic data from 31 human colorectal specimens enabled phylogeographic mapping of tumor evolution that revealed individualized progression trajectories and accompanying microenvironmental and clonal alterations. Phylogeographic mapping ordered genetic events, classified tumors by their evolutionary dynamics, and placed clonal regions along...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38065082/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231221195154&v=2.18.0",
+          "publishedOn": "2023-12-08T11:00:00.000Z",
+          "wordCount": 2274,
+          "title": "Molecular cartography uncovers evolutionary and microenvironmental dynamics in sporadic colorectal tumors",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -15807,356 +15957,6 @@
           "publishedOn": "2023-10-24T10:00:00.000Z",
           "wordCount": 1176,
           "title": "A guide to epigenetics in leukaemia stem cells",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231111195446&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 3682,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231110195009&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 3682,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231109195049&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 3682,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231108195217&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 3682,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231107195058&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 3682,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231106195136&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 3682,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231106195136&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231105195156&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 3599,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231105195156&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231104205408&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 3588,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231104205408&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231103204955&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 3588,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231103204955&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231102205033&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1997,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231102205033&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231101205012&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 2001,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231101205012&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231031205323&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 2001,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231031205323&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231030205036&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 2001,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231030205036&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231029205030&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 2001,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231029205030&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231028205254&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 2001,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231028205254&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231027204802&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 2001,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231027204802&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231026204906&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 2001,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231026204906&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231025204855&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 2001,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231025204855&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1706,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231024204954&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1950,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231024204954&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1699,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37871126",
-          "author": "Thomas B K Watkins",
-          "description": "Most computational methods that infer somatic copy number alterations (SCNAs) from bulk sequencing of DNA analyse tumour samples individually. However, the sequencing of multiple tumour samples from a patient's disease is an increasingly common practice. We introduce Refphase, an algorithm that leverages this multi-sampling approach to infer haplotype-specific copy numbers through multi-sample phasing. We demonstrate Refphase's ability to infer haplotype-specific SCNAs and characterise their...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37871126/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231023204959&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1950,
-          "title": "Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:37870568",
-          "author": "Dominik Nann",
-          "description": "T‑follicular helper (TFH) cell lymphoma (TFHL) is a lymphoma of mature T cells with phenotypic characteristics and gene expression signature of TFH cells. The lymphoma harbors recurrent mutations of RHOA^(G17V), IDH2^(R172), TET2 and DNMT3A. Whereas RHOA^(G17V) and IDH2^(R172) are almost exclusively found in this entity, TET2 and DNMT3A mutations occur in a broad variety of hematological neoplasms and are the most frequently affected genes in clonal hematopoiesis (CH). CH in humans shows a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/37870568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20231023204959&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-10-23T10:00:00.000Z",
-          "wordCount": 1682,
-          "title": "TFH lymphoma and associated clonal hematopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
