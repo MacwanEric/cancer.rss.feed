@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.18.0&ff=20240128195055&fc=20220608003622&utm_source=axios&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&utm_campaign=pubmed-2",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&utm_medium=rss&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.18.0&ff=20240129195013&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:38283344",
+          "author": "Ratchapong Netsrithong",
+          "description": "Induced pluripotent stem cell (iPSC)-derived T (iT) cells represent a groundbreaking frontier in adoptive cell therapies with engineered T cells, poised to overcome pivotal limitations associated with conventional manufacturing methods. iPSCs offer an off-the-shelf source of therapeutic T cells with the potential for infinite expansion and straightforward genetic manipulation to ensure hypo-immunogenicity and introduce specific therapeutic functions, such as antigen specificity through a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38283344/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-29T11:00:00.000Z",
+          "wordCount": 1303,
+          "title": "Engineered T cells from induced pluripotent stem cells: from research towards clinical implementation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38276052",
+          "author": "Ioana Butnariu",
+          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-26T11:00:00.000Z",
+          "wordCount": 1499,
+          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38276052",
           "author": "Ioana Butnariu",
@@ -240,6 +260,26 @@
           "publishedOn": "2024-01-26T11:00:00.000Z",
           "wordCount": 1205,
           "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38270950",
+          "author": "Art Schuermans",
+          "description": "CONCLUSIONS AND RELEVANCE: In this cohort study, TET2 CHIP was an independent risk factor associated with incident HFpEF. This finding may have implications for the prevention and management of HFpEF, including development of targeted therapies.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38270950/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-25T11:00:00.000Z",
+          "wordCount": 2936,
+          "title": "Clonal Hematopoiesis and Incident Heart Failure With Preserved Ejection Fraction",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38269586",
+          "author": "Tsai-Sang Dederichs",
+          "description": "CONCLUSIONS: Quantitatively, CHIP-mutated myeloid cells did not preferentially accumulate in cardiovascular tissues, but qualitatively, they expressed a more disease-prone phenotype.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38269586/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-25T11:00:00.000Z",
+          "wordCount": 1400,
+          "title": "Nonpreferential but Detrimental Accumulation of Macrophages With Clonal Hematopoiesis-Driver Mutations in Cardiovascular Tissues",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -326,6 +366,16 @@
           "id": "pubmed:38266446",
           "author": "Qibing Wu",
           "description": "Periodontitis, which is related to various systemic diseases, is a chronic inflammatory disease caused by periodontal dysbiosis of the microbiota. Multiple factors can influence the interaction of periodontitis and associated inflammatory disorders, among which host immunity is an important contributor to this interaction. Innate immunity can be activated aberrantly because of the systemic inflammation induced by periodontitis. This aberrant activation not only exacerbates periodontal tissue...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38266446/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-24T11:00:00.000Z",
+          "wordCount": 1360,
+          "title": "Association between periodontitis and inflammatory comorbidities: The common role of innate immune cells, underlying mechanisms and therapeutic targets",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38266446",
+          "author": "Qibing Wu",
+          "description": "Periodontitis, which is related to various systemic diseases, is a chronic inflammatory disease caused by periodontal dysbiosis of the microbiota. Multiple factors can influence the interaction of periodontitis and associated inflammatory disorders, among which host immunity is an important contributor to this interaction. Innate immunity can be activated aberrantly because of the systemic inflammation induced by periodontitis. This aberrant activation not only exacerbates periodontal tissue...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38266446/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240128195055&v=2.18.0",
           "publishedOn": "2024-01-24T11:00:00.000Z",
           "wordCount": 1360,
@@ -360,6 +410,36 @@
           "publishedOn": "2024-01-24T11:00:00.000Z",
           "wordCount": 1353,
           "title": "Association between periodontitis and inflammatory comorbidities: The common role of innate immune cells, underlying mechanisms and therapeutic targets",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38261864",
+          "author": "Niklas Landberg",
+          "description": "Rare preleukemic hematopoietic stem cells (pHSC) harboring only the initiating mutations can be detected at the time of acute myeloid leukemia (AML) diagnosis. pHSCs are the origin of leukemia and a potential reservoir for relapse. Using primary human samples and gene editing to model isocitrate dehydrogenase 1 (IDH1) mutant pHSCs, we show epigenetic, transcriptional, and metabolic differences between pHSCs and healthy hematopoietic stem cells (HSC). We confirm that IDH1-driven clonal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38261864/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-23T11:00:00.000Z",
+          "wordCount": 1405,
+          "title": "IDH1-Mutant Preleukemic Hematopoietic Stem Cells Can Be Eliminated by Inhibition of Oxidative Phosphorylation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38260600",
+          "author": "August Yue Huang",
+          "description": "Alzheimer's disease (AD) is an age-associated neurodegenerative disorder characterized by progressive neuronal loss and pathological accumulation of the misfolded proteins amyloid-β and tau ^(1,2) . Neuroinflammation mediated by microglia and brain-resident macrophages plays a crucial role in AD pathogenesis ^(1-5) , though the mechanisms by which age, genes, and other risk factors interact remain largely unknown. Somatic mutations accumulate with age and lead to clonal expansion of many cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38260600/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-23T11:00:00.000Z",
+          "wordCount": 1399,
+          "title": "Somatic cancer driver mutations are enriched and associated with inflammatory states in Alzheimer's disease microglia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38255313",
+          "author": "Aurelia Collados-Ros",
+          "description": "Acute myeloid leukemia (AML) is a diverse group of leukemias characterized by the uncontrolled proliferation of clonal neoplastic hematopoietic precursor cells with chromosomal rearrangements and multiple gene mutations and the impairment of normal hematopoiesis. Current efforts to improve AML outcomes have focused on developing targeted therapies that may allow for improved antileukemic effects while reducing toxicity significantly. Gemtuzumab ozogamicin (GO) is one of the most thoroughly...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38255313/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-23T11:00:00.000Z",
+          "wordCount": 1812,
+          "title": "Gemtuzumab Ozogamicin in Acute Myeloid Leukemia: Efficacy, Toxicity, and Resistance Mechanisms-A Systematic Review",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -546,6 +626,16 @@
           "id": "pubmed:38253266",
           "author": "Chen Weng",
           "description": "The human blood system is maintained through the differentiation and massive amplification of a limited number of long-lived hematopoietic stem cells (HSCs)¹. Perturbations to this process underlie diverse diseases, but the clonal contributions to human hematopoiesis and how this changes with age remain incompletely understood. While recent insights have emerged from barcoding studies in model systems^(4,5,16,17), simultaneous detection of cell states and phylogenies from natural barcodes in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38253266/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-22T11:00:00.000Z",
+          "wordCount": 1996,
+          "title": "Deciphering cell states and genealogies of human hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38253266",
+          "author": "Chen Weng",
+          "description": "The human blood system is maintained through the differentiation and massive amplification of a limited number of long-lived hematopoietic stem cells (HSCs)¹. Perturbations to this process underlie diverse diseases, but the clonal contributions to human hematopoiesis and how this changes with age remain incompletely understood. While recent insights have emerged from barcoding studies in model systems^(4,5,16,17), simultaneous detection of cell states and phylogenies from natural barcodes in...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38253266/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240128195055&v=2.18.0",
           "publishedOn": "2024-01-22T11:00:00.000Z",
           "wordCount": 1996,
@@ -600,6 +690,16 @@
           "publishedOn": "2024-01-22T11:00:00.000Z",
           "wordCount": 1989,
           "title": "Deciphering cell states and genealogies of human hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38244120",
+          "author": "E M Elli",
+          "description": "Polycythemia Vera (PV) is typically caused by V617F or exon 12 JAK2 mutations. Little is known about Polycythemia cases where no JAK2 variants can be detected, and no other causes identified. This condition is defined as idiopathic erythrocytosis (IE). We evaluated clinical-laboratory parameters of a cohort of 56 IE patients and we determined their molecular profile at diagnosis with paired blood/buccal-DNA exome-sequencing coupled with a high-depth targeted OncoPanel to identify a possible...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38244120/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-20T11:00:00.000Z",
+          "wordCount": 2655,
+          "title": "Idiopathic erythrocytosis: a germline disease?",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -680,6 +780,16 @@
           "publishedOn": "2024-01-20T11:00:00.000Z",
           "wordCount": 1678,
           "title": "Idiopathic erythrocytosis: a germline disease?",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38242884",
+          "author": "Mariana Shumliakivska",
+          "description": "Hematopoietic mutations in epigenetic regulators like DNA methyltransferase 3 alpha (DNMT3A), play a pivotal role in driving clonal hematopoiesis of indeterminate potential (CHIP), and are associated with unfavorable outcomes in patients suffering from heart failure (HF). However, the precise interactions between CHIP-mutated cells and other cardiac cell types remain unknown. Here, we identify fibroblasts as potential partners in interactions with CHIP-mutated monocytes. We used combined...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38242884/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-19T11:00:00.000Z",
+          "wordCount": 4717,
+          "title": "DNMT3A clonal hematopoiesis-driver mutations induce cardiac fibrosis by paracrine activation of fibroblasts",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -770,6 +880,16 @@
           "publishedOn": "2024-01-19T11:00:00.000Z",
           "wordCount": 1765,
           "title": "DNMT3A clonal hematopoiesis-driver mutations induce cardiac fibrosis by paracrine activation of fibroblasts",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38234783",
+          "author": "Ruaa Al-Qazazi",
+          "description": "CONCLUSIONS: Germline and acquired DNMT3A variants predispose to PAH in humans. DNMT3A mRNA expression is reduced in human PAH PBMCs. Hematopoietic depletion of Dnmt3a causes inflammatory PAH in mice. DNMT3A is a novel APAH gene and may be a biomarker and therapeutic target.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38234783/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-18T11:00:00.000Z",
+          "wordCount": 1504,
+          "title": "Germline and Somatic Mutations in DNA Methyltransferase 3A <em>(DNMT3A)</em> Predispose to Pulmonary Arterial Hypertension (PAH) in Humans and Mice: <em>Implications for Associated PAH</em>",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -880,6 +1000,16 @@
           "publishedOn": "2024-01-18T11:00:00.000Z",
           "wordCount": 1443,
           "title": "Germline and Somatic Mutations in DNA Methyltransferase 3A <em>(DNMT3A)</em> Predispose to Pulmonary Arterial Hypertension (PAH) in Humans and Mice: <em>Implications for Associated PAH</em>",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38231513",
+          "author": "Seyedmohammad Saadatagah",
+          "description": "CONCLUSIONS AND RELEVANCE: In this cohort study, the CHRS was associated with all-cause, HM-related, and cardiovascular disease mortality in older adults with CH and may be useful in shared decision-making to guide clinical management and identify appropriate candidates for clinical trials.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38231513/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-17T11:00:00.000Z",
+          "wordCount": 2491,
+          "title": "Clonal Hematopoiesis Risk Score and All-Cause and Cardiovascular Mortality in Older Adults",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1000,6 +1130,26 @@
           "publishedOn": "2024-01-17T11:00:00.000Z",
           "wordCount": 1755,
           "title": "Clonal Hematopoiesis Risk Score and All-Cause and Cardiovascular Mortality in Older Adults",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38228959",
+          "author": "Zhen Zhang",
+          "description": "Clonal expansion of hematopoietic cells is first observed in hematological malignancies where all the leukemic cells can be traced back to a single cell carrying oncogenic alterations. Interestingly, expansion of hematopoietic clones with defined genomic alterations, including single nucleotide variants (SNVs), small insertions and deletions (indels), and large structural chromosomal alterations (CAs), is also found in the healthy population. These genomic changes often affect leukemia driver...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38228959/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-16T11:00:00.000Z",
+          "wordCount": 1427,
+          "title": "The Origin of Clonal Hematopoiesis and Its Implication in Human Diseases",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38227718",
+          "author": "Carlotta Onnis",
+          "description": "Coronary artery calcification (CAC) accompanies the development of advanced atherosclerosis. Its role in atherosclerosis holds great interest because the presence and burden of coronary calcification provide direct evidence of the presence and extent of coronary artery disease; furthermore, CAC predicts future events independently of concomitant conventional cardiovascular risk factors and to a greater extent than any other noninvasive biomarker of this disease. Nevertheless, the relationship...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38227718/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-16T11:00:00.000Z",
+          "wordCount": 1994,
+          "title": "Coronary Artery Calcification: Current Concepts and Clinical Implications",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7821,374 +7971,24 @@
           "wordCount": 1459,
           "title": "Effect of clonal hematopoiesis in remission on hematopoiesis recovery in patients with NPM1 mutated acute myeloid leukemia after chemotherapy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38039845",
-          "author": "MariaSanta C Mangione",
-          "description": "The mechanistic target of rapamycin (mTOR) is evolutionarily conserved from yeast to humans and is one of the most fundamental pathways of living organisms. Since its discovery three decades ago, mTOR has been recognized as the center of nutrient sensing and growth, homeostasis, metabolism, life span, and aging. The role of dysregulated mTOR in common diseases, especially cancer, has been extensively studied and reported. Emerging evidence supports that mTOR critically regulates innate immune...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38039845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231213195241&v=2.18.0",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1279,
-          "title": "Mechanistic target of rapamycin in regulating macrophage function in inflammatory cardiovascular diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38039845",
-          "author": "MariaSanta C Mangione",
-          "description": "The mechanistic target of rapamycin (mTOR) is evolutionarily conserved from yeast to humans and is one of the most fundamental pathways of living organisms. Since its discovery three decades ago, mTOR has been recognized as the center of nutrient sensing and growth, homeostasis, metabolism, life span, and aging. The role of dysregulated mTOR in common diseases, especially cancer, has been extensively studied and reported. Emerging evidence supports that mTOR critically regulates innate immune...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38039845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231212195347&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1279,
-          "title": "Mechanistic target of rapamycin in regulating macrophage function in inflammatory cardiovascular diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037868",
-          "author": "Ming Li",
-          "description": "Circulating tumor DNA (ctDNA) analysis increasingly provides a promising minimally invasive alternative to tissue biopsies in precision oncology. However, there are no ctDNA analysis approaches available in nasopharyngeal carcinoma (NPC) and current methods of ctDNA mutation profiling have limited resolution because of the high background noise and false-positive rate caused by benign variants in plasma cell-free DNA (cfDNA), majorly generated during clonal hematopoiesis. Although personalized...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037868/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231212195347&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1408,
-          "title": "Circulating tumor DNA profiling approach based on in silico background elimination guides chemotherapy in nasopharyngeal carcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037800",
-          "author": "Bettina Bisig",
-          "description": "Predominantly nodal is the most common clinical presentation of peripheral T- (and NK-) cell lymphomas (PTCL), which comprise three main groups of diseases: (i) systemic anaplastic large cell lymphomas (ALCL), whether positive or negative for anaplastic lymphoma kinase (ALK); (ii) follicular helper T-cell lymphomas (TFHL); and (iii) PTCL, not otherwise specified (NOS). Recent advances in the genomic and molecular characterization of PTCL, with enhanced understanding of pathobiology, have...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231212195347&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 2304,
-          "title": "Pathobiology of nodal peripheral T-cell lymphomas: current understanding and future directions",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38039845",
-          "author": "MariaSanta C Mangione",
-          "description": "The mechanistic target of rapamycin (mTOR) is evolutionarily conserved from yeast to humans and is one of the most fundamental pathways of living organisms. Since its discovery three decades ago, mTOR has been recognized as the center of nutrient sensing and growth, homeostasis, metabolism, life span, and aging. The role of dysregulated mTOR in common diseases, especially cancer, has been extensively studied and reported. Emerging evidence supports that mTOR critically regulates innate immune...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38039845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231211195354&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1279,
-          "title": "Mechanistic target of rapamycin in regulating macrophage function in inflammatory cardiovascular diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037868",
-          "author": "Ming Li",
-          "description": "Circulating tumor DNA (ctDNA) analysis increasingly provides a promising minimally invasive alternative to tissue biopsies in precision oncology. However, there are no ctDNA analysis approaches available in nasopharyngeal carcinoma (NPC) and current methods of ctDNA mutation profiling have limited resolution because of the high background noise and false-positive rate caused by benign variants in plasma cell-free DNA (cfDNA), majorly generated during clonal hematopoiesis. Although personalized...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037868/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231211195354&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1408,
-          "title": "Circulating tumor DNA profiling approach based on in silico background elimination guides chemotherapy in nasopharyngeal carcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037800",
-          "author": "Bettina Bisig",
-          "description": "Predominantly nodal is the most common clinical presentation of peripheral T- (and NK-) cell lymphomas (PTCL), which comprise three main groups of diseases: (i) systemic anaplastic large cell lymphomas (ALCL), whether positive or negative for anaplastic lymphoma kinase (ALK); (ii) follicular helper T-cell lymphomas (TFHL); and (iii) PTCL, not otherwise specified (NOS). Recent advances in the genomic and molecular characterization of PTCL, with enhanced understanding of pathobiology, have...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231211195354&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 2304,
-          "title": "Pathobiology of nodal peripheral T-cell lymphomas: current understanding and future directions",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38039845",
-          "author": "MariaSanta C Mangione",
-          "description": "The mechanistic target of rapamycin (mTOR) is evolutionarily conserved from yeast to humans and is one of the most fundamental pathways of living organisms. Since its discovery three decades ago, mTOR has been recognized as the center of nutrient sensing and growth, homeostasis, metabolism, life span, and aging. The role of dysregulated mTOR in common diseases, especially cancer, has been extensively studied and reported. Emerging evidence supports that mTOR critically regulates innate immune...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38039845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231210195359&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1279,
-          "title": "Mechanistic target of rapamycin in regulating macrophage function in inflammatory cardiovascular diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037868",
-          "author": "Ming Li",
-          "description": "Circulating tumor DNA (ctDNA) analysis increasingly provides a promising minimally invasive alternative to tissue biopsies in precision oncology. However, there are no ctDNA analysis approaches available in nasopharyngeal carcinoma (NPC) and current methods of ctDNA mutation profiling have limited resolution because of the high background noise and false-positive rate caused by benign variants in plasma cell-free DNA (cfDNA), majorly generated during clonal hematopoiesis. Although personalized...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037868/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231210195359&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1408,
-          "title": "Circulating tumor DNA profiling approach based on in silico background elimination guides chemotherapy in nasopharyngeal carcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037800",
-          "author": "Bettina Bisig",
-          "description": "Predominantly nodal is the most common clinical presentation of peripheral T- (and NK-) cell lymphomas (PTCL), which comprise three main groups of diseases: (i) systemic anaplastic large cell lymphomas (ALCL), whether positive or negative for anaplastic lymphoma kinase (ALK); (ii) follicular helper T-cell lymphomas (TFHL); and (iii) PTCL, not otherwise specified (NOS). Recent advances in the genomic and molecular characterization of PTCL, with enhanced understanding of pathobiology, have...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231210195359&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 2304,
-          "title": "Pathobiology of nodal peripheral T-cell lymphomas: current understanding and future directions",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38039845",
-          "author": "MariaSanta C Mangione",
-          "description": "The mechanistic target of rapamycin (mTOR) is evolutionarily conserved from yeast to humans and is one of the most fundamental pathways of living organisms. Since its discovery three decades ago, mTOR has been recognized as the center of nutrient sensing and growth, homeostasis, metabolism, life span, and aging. The role of dysregulated mTOR in common diseases, especially cancer, has been extensively studied and reported. Emerging evidence supports that mTOR critically regulates innate immune...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38039845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231209195652&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1279,
-          "title": "Mechanistic target of rapamycin in regulating macrophage function in inflammatory cardiovascular diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037868",
-          "author": "Ming Li",
-          "description": "Circulating tumor DNA (ctDNA) analysis increasingly provides a promising minimally invasive alternative to tissue biopsies in precision oncology. However, there are no ctDNA analysis approaches available in nasopharyngeal carcinoma (NPC) and current methods of ctDNA mutation profiling have limited resolution because of the high background noise and false-positive rate caused by benign variants in plasma cell-free DNA (cfDNA), majorly generated during clonal hematopoiesis. Although personalized...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037868/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231209195652&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1408,
-          "title": "Circulating tumor DNA profiling approach based on in silico background elimination guides chemotherapy in nasopharyngeal carcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037800",
-          "author": "Bettina Bisig",
-          "description": "Predominantly nodal is the most common clinical presentation of peripheral T- (and NK-) cell lymphomas (PTCL), which comprise three main groups of diseases: (i) systemic anaplastic large cell lymphomas (ALCL), whether positive or negative for anaplastic lymphoma kinase (ALK); (ii) follicular helper T-cell lymphomas (TFHL); and (iii) PTCL, not otherwise specified (NOS). Recent advances in the genomic and molecular characterization of PTCL, with enhanced understanding of pathobiology, have...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231209195652&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 2304,
-          "title": "Pathobiology of nodal peripheral T-cell lymphomas: current understanding and future directions",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38039845",
-          "author": "MariaSanta C Mangione",
-          "description": "The mechanistic target of rapamycin (mTOR) is evolutionarily conserved from yeast to humans and is one of the most fundamental pathways of living organisms. Since its discovery three decades ago, mTOR has been recognized as the center of nutrient sensing and growth, homeostasis, metabolism, life span, and aging. The role of dysregulated mTOR in common diseases, especially cancer, has been extensively studied and reported. Emerging evidence supports that mTOR critically regulates innate immune...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38039845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231208195204&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1279,
-          "title": "Mechanistic target of rapamycin in regulating macrophage function in inflammatory cardiovascular diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037868",
-          "author": "Ming Li",
-          "description": "Circulating tumor DNA (ctDNA) analysis increasingly provides a promising minimally invasive alternative to tissue biopsies in precision oncology. However, there are no ctDNA analysis approaches available in nasopharyngeal carcinoma (NPC) and current methods of ctDNA mutation profiling have limited resolution because of the high background noise and false-positive rate caused by benign variants in plasma cell-free DNA (cfDNA), majorly generated during clonal hematopoiesis. Although personalized...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037868/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231208195204&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1408,
-          "title": "Circulating tumor DNA profiling approach based on in silico background elimination guides chemotherapy in nasopharyngeal carcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037800",
-          "author": "Bettina Bisig",
-          "description": "Predominantly nodal is the most common clinical presentation of peripheral T- (and NK-) cell lymphomas (PTCL), which comprise three main groups of diseases: (i) systemic anaplastic large cell lymphomas (ALCL), whether positive or negative for anaplastic lymphoma kinase (ALK); (ii) follicular helper T-cell lymphomas (TFHL); and (iii) PTCL, not otherwise specified (NOS). Recent advances in the genomic and molecular characterization of PTCL, with enhanced understanding of pathobiology, have...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231208195204&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 2304,
-          "title": "Pathobiology of nodal peripheral T-cell lymphomas: current understanding and future directions",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38039845",
-          "author": "MariaSanta C Mangione",
-          "description": "The mechanistic target of rapamycin (mTOR) is evolutionarily conserved from yeast to humans and is one of the most fundamental pathways of living organisms. Since its discovery three decades ago, mTOR has been recognized as the center of nutrient sensing and growth, homeostasis, metabolism, life span, and aging. The role of dysregulated mTOR in common diseases, especially cancer, has been extensively studied and reported. Emerging evidence supports that mTOR critically regulates innate immune...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38039845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231207195336&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1279,
-          "title": "Mechanistic target of rapamycin in regulating macrophage function in inflammatory cardiovascular diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037868",
-          "author": "Ming Li",
-          "description": "Circulating tumor DNA (ctDNA) analysis increasingly provides a promising minimally invasive alternative to tissue biopsies in precision oncology. However, there are no ctDNA analysis approaches available in nasopharyngeal carcinoma (NPC) and current methods of ctDNA mutation profiling have limited resolution because of the high background noise and false-positive rate caused by benign variants in plasma cell-free DNA (cfDNA), majorly generated during clonal hematopoiesis. Although personalized...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037868/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231207195336&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1408,
-          "title": "Circulating tumor DNA profiling approach based on in silico background elimination guides chemotherapy in nasopharyngeal carcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037800",
-          "author": "Bettina Bisig",
-          "description": "Predominantly nodal is the most common clinical presentation of peripheral T- (and NK-) cell lymphomas (PTCL), which comprise three main groups of diseases: (i) systemic anaplastic large cell lymphomas (ALCL), whether positive or negative for anaplastic lymphoma kinase (ALK); (ii) follicular helper T-cell lymphomas (TFHL); and (iii) PTCL, not otherwise specified (NOS). Recent advances in the genomic and molecular characterization of PTCL, with enhanced understanding of pathobiology, have...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231207195336&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 2304,
-          "title": "Pathobiology of nodal peripheral T-cell lymphomas: current understanding and future directions",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38039845",
-          "author": "MariaSanta C Mangione",
-          "description": "The mechanistic target of rapamycin (mTOR) is evolutionarily conserved from yeast to humans and is one of the most fundamental pathways of living organisms. Since its discovery three decades ago, mTOR has been recognized as the center of nutrient sensing and growth, homeostasis, metabolism, life span, and aging. The role of dysregulated mTOR in common diseases, especially cancer, has been extensively studied and reported. Emerging evidence supports that mTOR critically regulates innate immune...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38039845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231206195311&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1279,
-          "title": "Mechanistic target of rapamycin in regulating macrophage function in inflammatory cardiovascular diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037868",
-          "author": "Ming Li",
-          "description": "Circulating tumor DNA (ctDNA) analysis increasingly provides a promising minimally invasive alternative to tissue biopsies in precision oncology. However, there are no ctDNA analysis approaches available in nasopharyngeal carcinoma (NPC) and current methods of ctDNA mutation profiling have limited resolution because of the high background noise and false-positive rate caused by benign variants in plasma cell-free DNA (cfDNA), majorly generated during clonal hematopoiesis. Although personalized...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037868/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231206195311&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1408,
-          "title": "Circulating tumor DNA profiling approach based on in silico background elimination guides chemotherapy in nasopharyngeal carcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037800",
-          "author": "Bettina Bisig",
-          "description": "Predominantly nodal is the most common clinical presentation of peripheral T- (and NK-) cell lymphomas (PTCL), which comprise three main groups of diseases: (i) systemic anaplastic large cell lymphomas (ALCL), whether positive or negative for anaplastic lymphoma kinase (ALK); (ii) follicular helper T-cell lymphomas (TFHL); and (iii) PTCL, not otherwise specified (NOS). Recent advances in the genomic and molecular characterization of PTCL, with enhanced understanding of pathobiology, have...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231206195311&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 2304,
-          "title": "Pathobiology of nodal peripheral T-cell lymphomas: current understanding and future directions",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38039845",
-          "author": "MariaSanta C Mangione",
-          "description": "The mechanistic target of rapamycin (mTOR) is evolutionarily conserved from yeast to humans and is one of the most fundamental pathways of living organisms. Since its discovery three decades ago, mTOR has been recognized as the center of nutrient sensing and growth, homeostasis, metabolism, life span, and aging. The role of dysregulated mTOR in common diseases, especially cancer, has been extensively studied and reported. Emerging evidence supports that mTOR critically regulates innate immune...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38039845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231205195346&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1272,
-          "title": "Mechanistic target of rapamycin in regulating macrophage function in inflammatory cardiovascular diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037868",
-          "author": "Ming Li",
-          "description": "Circulating tumor DNA (ctDNA) analysis increasingly provides a promising minimally invasive alternative to tissue biopsies in precision oncology. However, there are no ctDNA analysis approaches available in nasopharyngeal carcinoma (NPC) and current methods of ctDNA mutation profiling have limited resolution because of the high background noise and false-positive rate caused by benign variants in plasma cell-free DNA (cfDNA), majorly generated during clonal hematopoiesis. Although personalized...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037868/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231205195346&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1401,
-          "title": "Circulating tumor DNA profiling approach based on in silico background elimination guides chemotherapy in nasopharyngeal carcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037800",
-          "author": "Bettina Bisig",
-          "description": "Predominantly nodal is the most common clinical presentation of peripheral T- (and NK-) cell lymphomas (PTCL), which comprise three main groups of diseases: (i) systemic anaplastic large cell lymphomas (ALCL), whether positive or negative for anaplastic lymphoma kinase (ALK); (ii) follicular helper T-cell lymphomas (TFHL); and (iii) PTCL, not otherwise specified (NOS). Recent advances in the genomic and molecular characterization of PTCL, with enhanced understanding of pathobiology, have...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231205195346&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 2297,
-          "title": "Pathobiology of nodal peripheral T-cell lymphomas: current understanding and future directions",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38039845",
-          "author": "MariaSanta C Mangione",
-          "description": "The mechanistic target of rapamycin (mTOR) is evolutionarily conserved from yeast to humans and is one of the most fundamental pathways of living organisms. Since its discovery three decades ago, mTOR has been recognized as the center of nutrient sensing and growth, homeostasis, metabolism, life span, and aging. The role of dysregulated mTOR in common diseases, especially cancer, has been extensively studied and reported. Emerging evidence supports that mTOR critically regulates innate immune...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38039845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231204195351&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1272,
-          "title": "Mechanistic target of rapamycin in regulating macrophage function in inflammatory cardiovascular diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037868",
-          "author": "Ming Li",
-          "description": "Circulating tumor DNA (ctDNA) analysis increasingly provides a promising minimally invasive alternative to tissue biopsies in precision oncology. However, there are no ctDNA analysis approaches available in nasopharyngeal carcinoma (NPC) and current methods of ctDNA mutation profiling have limited resolution because of the high background noise and false-positive rate caused by benign variants in plasma cell-free DNA (cfDNA), majorly generated during clonal hematopoiesis. Although personalized...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037868/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231204195351&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1401,
-          "title": "Circulating tumor DNA profiling approach based on in silico background elimination guides chemotherapy in nasopharyngeal carcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037800",
-          "author": "Bettina Bisig",
-          "description": "Predominantly nodal is the most common clinical presentation of peripheral T- (and NK-) cell lymphomas (PTCL), which comprise three main groups of diseases: (i) systemic anaplastic large cell lymphomas (ALCL), whether positive or negative for anaplastic lymphoma kinase (ALK); (ii) follicular helper T-cell lymphomas (TFHL); and (iii) PTCL, not otherwise specified (NOS). Recent advances in the genomic and molecular characterization of PTCL, with enhanced understanding of pathobiology, have...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231204195351&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 2294,
-          "title": "Pathobiology of nodal peripheral T-cell lymphomas: current understanding and future directions",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38039845",
-          "author": "MariaSanta C Mangione",
-          "description": "The mechanistic target of rapamycin (mTOR) is evolutionarily conserved from yeast to humans and is one of the most fundamental pathways of living organisms. Since its discovery three decades ago, mTOR has been recognized as the center of nutrient sensing and growth, homeostasis, metabolism, life span, and aging. The role of dysregulated mTOR in common diseases, especially cancer, has been extensively studied and reported. Emerging evidence supports that mTOR critically regulates innate immune...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38039845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231203195336&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1272,
-          "title": "Mechanistic target of rapamycin in regulating macrophage function in inflammatory cardiovascular diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037868",
-          "author": "Ming Li",
-          "description": "Circulating tumor DNA (ctDNA) analysis increasingly provides a promising minimally invasive alternative to tissue biopsies in precision oncology. However, there are no ctDNA analysis approaches available in nasopharyngeal carcinoma (NPC) and current methods of ctDNA mutation profiling have limited resolution because of the high background noise and false-positive rate caused by benign variants in plasma cell-free DNA (cfDNA), majorly generated during clonal hematopoiesis. Although personalized...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037868/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231203195336&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1382,
-          "title": "Circulating tumor DNA profiling approach based on in silico background elimination guides chemotherapy in nasopharyngeal carcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037800",
-          "author": "Bettina Bisig",
-          "description": "Predominantly nodal is the most common clinical presentation of peripheral T- (and NK-) cell lymphomas (PTCL), which comprise three main groups of diseases: (i) systemic anaplastic large cell lymphomas (ALCL), whether positive or negative for anaplastic lymphoma kinase (ALK); (ii) follicular helper T-cell lymphomas (TFHL); and (iii) PTCL, not otherwise specified (NOS). Recent advances in the genomic and molecular characterization of PTCL, with enhanced understanding of pathobiology, have...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231203195336&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 2107,
-          "title": "Pathobiology of nodal peripheral T-cell lymphomas: current understanding and future directions",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38039845",
-          "author": "MariaSanta C Mangione",
-          "description": "The mechanistic target of rapamycin (mTOR) is evolutionarily conserved from yeast to humans and is one of the most fundamental pathways of living organisms. Since its discovery three decades ago, mTOR has been recognized as the center of nutrient sensing and growth, homeostasis, metabolism, life span, and aging. The role of dysregulated mTOR in common diseases, especially cancer, has been extensively studied and reported. Emerging evidence supports that mTOR critically regulates innate immune...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38039845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231202195551&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1232,
-          "title": "Mechanistic target of rapamycin in regulating macrophage function in inflammatory cardiovascular diseases",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037868",
-          "author": "Ming Li",
-          "description": "Circulating tumor DNA (ctDNA) analysis increasingly provides a promising minimally invasive alternative to tissue biopsies in precision oncology. However, there are no ctDNA analysis approaches available in nasopharyngeal carcinoma (NPC) and current methods of ctDNA mutation profiling have limited resolution because of the high background noise and false-positive rate caused by benign variants in plasma cell-free DNA (cfDNA), majorly generated during clonal hematopoiesis. Although personalized...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037868/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231202195551&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1363,
-          "title": "Circulating tumor DNA profiling approach based on in silico background elimination guides chemotherapy in nasopharyngeal carcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037800",
-          "author": "Bettina Bisig",
-          "description": "Predominantly nodal is the most common clinical presentation of peripheral T- (and NK-) cell lymphomas (PTCL), which comprise three main groups of diseases: (i) systemic anaplastic large cell lymphomas (ALCL), whether positive or negative for anaplastic lymphoma kinase (ALK); (ii) follicular helper T-cell lymphomas (TFHL); and (iii) PTCL, not otherwise specified (NOS). Recent advances in the genomic and molecular characterization of PTCL, with enhanced understanding of pathobiology, have...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231202195551&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 2059,
-          "title": "Pathobiology of nodal peripheral T-cell lymphomas: current understanding and future directions",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037868",
-          "author": "Ming Li",
-          "description": "Circulating tumor DNA (ctDNA) analysis increasingly provides a promising minimally invasive alternative to tissue biopsies in precision oncology. However, there are no ctDNA analysis approaches available in nasopharyngeal carcinoma (NPC) and current methods of ctDNA mutation profiling have limited resolution because of the high background noise and false-positive rate caused by benign variants in plasma cell-free DNA (cfDNA), majorly generated during clonal hematopoiesis. Although personalized...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037868/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231201195140&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1363,
-          "title": "Circulating tumor DNA profiling approach based on in silico background elimination guides chemotherapy in nasopharyngeal carcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38037800",
-          "author": "Bettina Bisig",
-          "description": "Predominantly nodal is the most common clinical presentation of peripheral T- (and NK-) cell lymphomas (PTCL), which comprise three main groups of diseases: (i) systemic anaplastic large cell lymphomas (ALCL), whether positive or negative for anaplastic lymphoma kinase (ALK); (ii) follicular helper T-cell lymphomas (TFHL); and (iii) PTCL, not otherwise specified (NOS). Recent advances in the genomic and molecular characterization of PTCL, with enhanced understanding of pathobiology, have...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38037800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20231201195140&v=2.17.9.post6+86293ac",
-          "publishedOn": "2023-12-01T11:00:00.000Z",
-          "wordCount": 1230,
-          "title": "Pathobiology of nodal peripheral T-cell lymphomas: current understanding and future directions",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.18.0&ff=20240128195055&utm_source=axios&utm_medium=rss&fc=20220608010801&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20240129195013&utm_campaign=pubmed-2&v=2.18.0&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&fc=20220608010801&utm_medium=rss",
       "articles": [
+        {
+          "id": "pubmed:38270917",
+          "author": "Hunter R Underhill",
+          "description": "Adult diffuse gliomas commonly recur regardless of therapy. As recurrence typically arises from the peritumoral edema adjacent to the resected bulk tumor, the profiling of somatic mutations from infiltrative malignant cells within this critical, unresected region could provide important insights into residual disease. A key obstacle has been the inability to distinguish between next-generation sequencing (NGS) noise and the true but weak signal from tumor cells hidden among the noncancerous...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38270917/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-25T11:00:00.000Z",
+          "wordCount": 1388,
+          "title": "Subclonal Cancer Driver Mutations are Prevalent in the Unresected Peritumoral Edema of Adult Diffuse Gliomas",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38270917",
           "author": "Hunter R Underhill",
@@ -8227,6 +8027,26 @@
           "publishedOn": "2024-01-25T11:00:00.000Z",
           "wordCount": 1381,
           "title": "Subclonal Cancer Driver Mutations are Prevalent in the Unresected Peritumoral Edema of Adult Diffuse Gliomas",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38260336",
+          "author": "Jesse Garcia Castillo",
+          "description": "T cell receptor (TCR) recognition followed by clonal expansion is a fundamental feature of adaptive immune responses. Here, we developed a mass cytometric (CyTOF) approach combining antibodies specific for different TCR Vα- and Vβ-chains with antibodies against T cell activation and differentiation proteins to identify antigen-specific expansions of T cell subsets and assess aspects of cellular function. This strategy allowed for the identification of expansions of specific Vβ and Vα chain...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38260336/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-23T11:00:00.000Z",
+          "wordCount": 3006,
+          "title": "A mass cytometry approach to track the evolution of T cell responses during infection and immunotherapy by paired T cell receptor repertoire and T cell differentiation state analysis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38255173",
+          "author": "María García-Álvarez",
+          "description": "Single-cell DNA sequencing can address the sequence of somatic genetic events during myeloid transformation in relapsed acute myeloid leukemia (AML). We present an NPM1-mutated AML patient with an initial low ratio of FLT3-ITD (low-risk ELN-2017), treated with midostaurin combined with standard chemotherapy as front-line treatment, and with salvage therapy plus gilteritinib following allogenic stem cell transplantation after relapse. Simultaneous single-cell DNA sequencing and cell-surface...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38255173/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-23T11:00:00.000Z",
+          "wordCount": 1981,
+          "title": "Single-Cell DNA Sequencing and Immunophenotypic Profiling to Track Clonal Evolution in an Acute Myeloid Leukemia Patient",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8287,6 +8107,36 @@
           "publishedOn": "2024-01-23T11:00:00.000Z",
           "wordCount": 1327,
           "title": "Single-Cell DNA Sequencing and Immunophenotypic Profiling to Track Clonal Evolution in an Acute Myeloid Leukemia Patient",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38253539",
+          "author": "Hannah E Bergom",
+          "description": "Patients with prostate cancer (PC) generally do not respond favorably to immune checkpoint inhibitors, which may be due to a low abundance of tumor-infiltrating lymphocytes even when mutational load is high. Here, we identified a patient who presented with high-grade primary prostate cancer with two adjacent tumor nodules. While both nodules were mismatch repair-deficient (MMRd), exhibited pathogenic MSH2 and MSH6 alterations, had a high tumor mutational burden (TMB), and demonstrated high...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38253539/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-22T11:00:00.000Z",
+          "wordCount": 2715,
+          "title": "Divergent immune microenvironments in two tumor nodules from a patient with mismatch repair-deficient prostate cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38252063",
+          "author": "Darren Cowzer",
+          "description": "In advanced pancreatic neuroendocrine neoplasms (PanNEN), there is little data detailing the frequency of genetic alterations identified in cell free DNA (cfDNA), plasma-tissue concordance of detected alterations, and clinical utility of cfDNA. Patients with metastatic PanNENs underwent cfDNA collection in routine practice. Next-generation sequencing (NGS) of cfDNA and matched tissue when available was performed. Clinical actionability of variants was annotated by OncoKB. Thirty-two cfDNA...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38252063/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-22T11:00:00.000Z",
+          "wordCount": 1571,
+          "title": "Clinical utility of plasma cell-free DNA in pancreatic neuroendocrine neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38249329",
+          "author": "Jian Cui",
+          "description": "CONCLUSION: These findings highlighted the prognostic value of genetic testing in residual tumor cells, which may provide a deep understanding of clonal evolution and guide clinical therapeutic strategies.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38249329/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-22T11:00:00.000Z",
+          "wordCount": 2635,
+          "title": "Longitudinal genetically detectable minimal residual disease by fluorescence <em>in situ</em> hybridization confers a poor prognosis in myeloma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8493,6 +8343,16 @@
           "id": "pubmed:38243238",
           "author": "Ying Hu",
           "description": "CONCLUSIONS: Our findings provide new insight into the interaction between immunity and cancer evolution, which may contribute to optimizing immunotherapy strategies.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38243238/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-19T11:00:00.000Z",
+          "wordCount": 2641,
+          "title": "Immunogram defines four cancer-immunity cycle phenotypes with distinct clonal selection patterns across solid tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38243238",
+          "author": "Ying Hu",
+          "description": "CONCLUSIONS: Our findings provide new insight into the interaction between immunity and cancer evolution, which may contribute to optimizing immunotherapy strategies.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38243238/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240128195055&v=2.18.0",
           "publishedOn": "2024-01-19T11:00:00.000Z",
           "wordCount": 2641,
@@ -8577,6 +8437,16 @@
           "publishedOn": "2024-01-19T11:00:00.000Z",
           "wordCount": 1805,
           "title": "Immunogram defines four cancer-immunity cycle phenotypes with distinct clonal selection patterns across solid tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38238294",
+          "author": "Jonathan Mitchell",
+          "description": "The unexpected contamination of normal samples with tumour cells reduces variant detection sensitivity, compromising downstream analyses in canonical tumour-normal analyses. Leveraging whole-genome sequencing data available at Genomics England, we develop a tool for normal sample contamination assessment, which we validate in silico and against minimal residual disease testing. From a systematic review of [Formula: see text] patients with haematological malignancies and sarcomas, we find...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38238294/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-18T11:00:00.000Z",
+          "wordCount": 3648,
+          "title": "Clinical application of tumour-in-normal contamination assessment from whole genome sequencing",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8677,6 +8547,16 @@
           "publishedOn": "2024-01-18T11:00:00.000Z",
           "wordCount": 1492,
           "title": "Clinical application of tumour-in-normal contamination assessment from whole genome sequencing",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38231513",
+          "author": "Seyedmohammad Saadatagah",
+          "description": "CONCLUSIONS AND RELEVANCE: In this cohort study, the CHRS was associated with all-cause, HM-related, and cardiovascular disease mortality in older adults with CH and may be useful in shared decision-making to guide clinical management and identify appropriate candidates for clinical trials.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38231513/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-17T11:00:00.000Z",
+          "wordCount": 2491,
+          "title": "Clonal Hematopoiesis Risk Score and All-Cause and Cardiovascular Mortality in Older Adults",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8787,6 +8667,16 @@
           "publishedOn": "2024-01-17T11:00:00.000Z",
           "wordCount": 1906,
           "title": "Clonal Hematopoiesis Risk Score and All-Cause and Cardiovascular Mortality in Older Adults",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38225765",
+          "author": "In-Ho Kim",
+          "description": "In recent years, remarkable progress has been made in the molecular profiling of gastric cancer. This progress has led to the development of various molecular classifications to uncover subtype-specific dependencies that can be targeted for therapeutic interventions. Human epidermal growth factor receptor 2 (HER2) is a crucial biomarker for advanced gastric cancer. The recent promising results of novel approaches, including combination therapies or newer potent agents such as antibody-drug...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38225765/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-16T11:00:00.000Z",
+          "wordCount": 1484,
+          "title": "Emerging Targets for Systemic Treatment of Gastric Cancer: HER2 and Beyond",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8917,6 +8807,36 @@
           "publishedOn": "2024-01-16T11:00:00.000Z",
           "wordCount": 1284,
           "title": "Emerging Targets for Systemic Treatment of Gastric Cancer: HER2 and Beyond",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38225345",
+          "author": "Ashwin Kishtagari",
+          "description": "Clonal hematopoiesis (CH) can be caused by either single gene mutations (eg point mutations in JAK2 causing CHIP) or mosaic chromosomal alterations (e.g., loss of heterozygosity at chromosome 9p). CH is associated with a significantly increased risk of hematologic malignancies. However, the absolute rate of transformation on an annualized basis is low. Improved prognostication of transformation risk is urgently needed for routine clinical practice. We hypothesized that the co-occurrence of CHIP...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38225345/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-15T11:00:00.000Z",
+          "wordCount": 2354,
+          "title": "Driver mutation zygosity is a critical factor in predicting clonal hematopoiesis transformation risk",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38224461",
+          "author": "Andréa E Tijhuis",
+          "description": "Chromosomal instability (CIN), an increased rate of chromosome segregation errors during mitosis, is a hallmark of cancer cells. CIN leads to karyotype differences between cells and thus large-scale heterogeneity among individual cancer cells; therefore, it plays an important role in cancer evolution. Studying CIN and its consequences is technically challenging, but various technologies have been developed to track karyotype dynamics during tumorigenesis, trace clonal lineages and link genomic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38224461/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-15T11:00:00.000Z",
+          "wordCount": 1260,
+          "title": "Characterizing chromosomal instability-driven cancer evolution and cell fitness at a glance",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38223485",
+          "author": "Viviane Lamim Lovatel",
+          "description": "CONCLUSION: The study of uncommon cytogenetic alterations in pMDS is important to improve the prognosis and guide early indication of HSCT.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38223485/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-15T11:00:00.000Z",
+          "wordCount": 1832,
+          "title": "Association between Leukemic Evolution and Uncommon Chromosomal Alterations in Pediatric Myelodysplastic Syndrome",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9313,6 +9233,16 @@
           "id": "pubmed:38220297",
           "author": "Adriana Carneiro",
           "description": "BACKGROUND: Cancer is a leading cause of death worldwide, with metastasis playing a significant role. Circulating Tumour Cells (CTCs) can provide important real-time insights into tumour heterogeneity and clonal evolution, making them an important tool for early diagnosis and patient monitoring. Isolated CTCs are typically identified by immunocytochemistry using positive biomarkers (cytokeratin) and exclusion biomarkers (CD45). However, some white blood cell (WBC) populations can express low...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38220297/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-14T11:00:00.000Z",
+          "wordCount": 2100,
+          "title": "Minimizing false positives for CTC identification",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38220297",
+          "author": "Adriana Carneiro",
+          "description": "BACKGROUND: Cancer is a leading cause of death worldwide, with metastasis playing a significant role. Circulating Tumour Cells (CTCs) can provide important real-time insights into tumour heterogeneity and clonal evolution, making them an important tool for early diagnosis and patient monitoring. Isolated CTCs are typically identified by immunocytochemistry using positive biomarkers (cytokeratin) and exclusion biomarkers (CD45). However, some white blood cell (WBC) populations can express low...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38220297/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240128195055&v=2.18.0",
           "publishedOn": "2024-01-14T11:00:00.000Z",
           "wordCount": 2100,
@@ -9447,6 +9377,16 @@
           "publishedOn": "2024-01-14T11:00:00.000Z",
           "wordCount": 1957,
           "title": "Minimizing false positives for CTC identification",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38215748",
+          "author": "Danish Memon",
+          "description": "Although immunotherapy with PD-(L)1 blockade is routine for lung cancer, little is known about acquired resistance. Among 1,201 patients with non-small cell lung cancer (NSCLC) treated with PD-(L)1 blockade, acquired resistance is common, occurring in >60% of initial responders. Acquired resistance shows differential expression of inflammation and interferon (IFN) signaling. Relapsed tumors can be separated by upregulated or stable expression of IFNγ response genes. Upregulation of IFNγ response...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38215748/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240129195013&v=2.18.0",
+          "publishedOn": "2024-01-12T11:00:00.000Z",
+          "wordCount": 2917,
+          "title": "Clinical and molecular features of acquired resistance to immunotherapy in non-small cell lung cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
