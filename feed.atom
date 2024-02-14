@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2024-02-13T00:50:40.595Z</updated>
+    <updated>2024-02-14T00:50:50.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Section E6.1-6.6 of the American College of Medical Genetics and Genomics (ACMG) Technical Laboratory Standards: Cytogenomic studies of acquired chromosomal abnormalities in neoplastic blood, bone marrow, and lymph nodes]]></title>
+        <id>pubmed:38349293</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38349293/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cytogenomic analyses of acquired clonal chromosomal abnormalities in neoplastic blood, bone marrow, and/or lymph nodes are instrumental in the clinical management of patients with hematologic neoplasms. Cytogenetic analyses assist in the diagnosis of such disorders and can provide important prognostic information. Furthermore, cytogenetic studies can provide crucial information regarding specific genetically defined subtypes of these neoplasms that may have targeted therapies. At time of...]]></summary>
+        <author>
+            <name>Yassmine Akkari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minimal residual disease monitoring in acute myeloid leukemia: Focus on MFC-MRD and treatment guidance for elderly patients]]></title>
+        <id>pubmed:38342613</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38342613/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Acute myeloid leukemia (AML) is distinguished by clonal growth of myeloid precursor cells, which impairs normal hematopoiesis. Minimal residual disease (MRD) refers to the residual leukemia cells that persist after chemotherapy. Patients who test positive for MRD have a higher likelihood of experiencing a recurrence, regardless of the specific chemotherapy approach used. Multi-parameter flow cytometry (MFC), polymerase chain reaction (PCR), and next-generation sequencing (NGS) are commonly...]]></summary>
+        <author>
+            <name>Yue Sun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minimal residual disease monitoring in acute myeloid leukemia: Focus on MFC-MRD and treatment guidance for elderly patients]]></title>
         <id>pubmed:38342613</id>
@@ -14,6 +34,36 @@
         <summary type="html"><![CDATA[Acute myeloid leukemia (AML) is distinguished by clonal growth of myeloid precursor cells, which impairs normal hematopoiesis. Minimal residual disease (MRD) refers to the residual leukemia cells that persist after chemotherapy. Patients who test positive for MRD have a higher likelihood of experiencing a recurrence, regardless of the specific chemotherapy approach used. Multi-parameter flow cytometry (MFC), polymerase chain reaction (PCR), and next-generation sequencing (NGS) are commonly...]]></summary>
         <author>
             <name>Yue Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immune-driven clonal cell selection at the intersection among cancer, infections, autoimmunity and senescence]]></title>
+        <id>pubmed:38341340</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38341340/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Immune surveillance mechanisms play a crucial role in maintaining lifelong immune homeostasis in response to pathologic stimuli and aberrant cell states. However, their persistence, especially in the context of chronic antigenic exposure, can create a fertile ground for immune evasion. These escaping cell phenotypes, harboring a variety of genomic and transcriptomic aberrances, chiefly in human leukocyte antigen (HLA) and antigen presentation machinery genes, may survive and proliferate,...]]></summary>
+        <author>
+            <name>Simona Pagliuca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular Genetic Profile of Myelofibrosis: Implications in the Diagnosis, Prognosis, and Treatment Advancements]]></title>
+        <id>pubmed:38339265</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38339265/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelofibrosis (MF) is an essential element of primary myelofibrosis, whereas secondary MF may develop in the advanced stages of other myeloid neoplasms, especially polycythemia vera and essential thrombocythemia. Over the last two decades, advances in molecular diagnostic techniques, particularly the integration of next-generation sequencing in clinical laboratories, have revolutionized the diagnosis, classification, and clinical decision making of myelofibrosis. Driver mutations involving JAK2,...]]></summary>
+        <author>
+            <name>Tanvi Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Molecular Aspects of Myeloproliferative Neoplasms Associated with Unusual Site Vein Thrombosis: Review of the Literature and Latest Insights]]></title>
+        <id>pubmed:38338802</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38338802/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myeloproliferative neoplasms (MPNs) are the leading causes of unusual site thrombosis, affecting nearly 40% of individuals with conditions like Budd-Chiari syndrome or portal vein thrombosis. Diagnosing MPNs in these cases is challenging because common indicators, such as spleen enlargement and elevated blood cell counts, can be obscured by portal hypertension or bleeding issues. Recent advancements in diagnostic tools have enhanced the accuracy of MPN diagnosis and classification. While bone...]]></summary>
+        <author>
+            <name>Erika Morsia</name>
         </author>
     </entry>
     <entry>
@@ -94,6 +144,36 @@
         <summary type="html"><![CDATA[Myeloproliferative neoplasms (MPNs) are the leading causes of unusual site thrombosis, affecting nearly 40% of individuals with conditions like Budd-Chiari syndrome or portal vein thrombosis. Diagnosing MPNs in these cases is challenging because common indicators, such as spleen enlargement and elevated blood cell counts, can be obscured by portal hypertension or bleeding issues. Recent advancements in diagnostic tools have enhanced the accuracy of MPN diagnosis and classification. While bone...]]></summary>
         <author>
             <name>Erika Morsia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macromutations Yielding Karyotype Alterations (and the Process(es) behind Them) Are the Favored Route of Carcinogenesis and Speciation]]></title>
+        <id>pubmed:38339305</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38339305/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is argued that carcinogenesis and speciation are evolutionary events which are based on changes in the 'karyotypic code' through a phase of 'genome instability', followed by a bottleneck of selection for the viability and adaptability of the initial cells. Genomic (i.e., chromosomal) instability is caused by (massive) DNA breakage and the subsequent mis-repair of DNA double-strand breaks (DSBs) resulting in various chromosome rearrangements. Potential tumor cells are selected for rapid...]]></summary>
+        <author>
+            <name>Ingo Schubert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular Genetic Profile of Myelofibrosis: Implications in the Diagnosis, Prognosis, and Treatment Advancements]]></title>
+        <id>pubmed:38339265</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38339265/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelofibrosis (MF) is an essential element of primary myelofibrosis, whereas secondary MF may develop in the advanced stages of other myeloid neoplasms, especially polycythemia vera and essential thrombocythemia. Over the last two decades, advances in molecular diagnostic techniques, particularly the integration of next-generation sequencing in clinical laboratories, have revolutionized the diagnosis, classification, and clinical decision making of myelofibrosis. Driver mutations involving JAK2,...]]></summary>
+        <author>
+            <name>Tanvi Verma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Novel Insights into the Initiation, Evolution, and Progression of Multiple Myeloma by Multi-Omics Investigation]]></title>
+        <id>pubmed:38339250</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38339250/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The evolutionary history of multiple myeloma (MM) includes malignant transformation, followed by progression to pre-malignant stages and overt malignancy, ultimately leading to more aggressive and resistant forms. Over the past decade, large effort has been made to identify the potential therapeutic targets in MM. However, MM remains largely incurable. Most patients experience multiple relapses and inevitably become refractory to treatment. Tumor-initiating cell populations are the postulated...]]></summary>
+        <author>
+            <name>Lixin Gong</name>
         </author>
     </entry>
     <entry>
@@ -189,6 +269,16 @@
     <entry>
         <title type="html"><![CDATA[Case report: Cytopenias in VEXAS syndrome - a WHO 2022 based approach in a single-center cohort]]></title>
         <id>pubmed:38333211</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38333211/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VEXAS syndrome is an acquired autoinflammatory disease characterized in most cases by cytopenias and macrocytic anemia. Dyshematopoiesis is a frequent finding in chronic inflammatory conditions and therefore, cytopenias are not easily classified in VEXAS patients. Here we report a series of 7 patients affected by VEXAS associated cytopenias, treated at our center. The use of NGS, together with morphological assays, integrated with the WHO 2022 criteria, allowed to identify three subsets of VEXAS...]]></summary>
+        <author>
+            <name>Elisa Diral</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case report: Cytopenias in VEXAS syndrome - a WHO 2022 based approach in a single-center cohort]]></title>
+        <id>pubmed:38333211</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/38333211/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240212195038&amp;v=2.18.0"/>
         <updated>2024-02-09T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[VEXAS syndrome is an acquired autoinflammatory disease characterized in most cases by cytopenias and macrocytic anemia. Dyshematopoiesis is a frequent finding in chronic inflammatory conditions and therefore, cytopenias are not easily classified in VEXAS patients. Here we report a series of 7 patients affected by VEXAS associated cytopenias, treated at our center. The use of NGS, together with morphological assays, integrated with the WHO 2022 criteria, allowed to identify three subsets of VEXAS...]]></summary>
@@ -224,6 +314,16 @@
         <summary type="html"><![CDATA[VEXAS syndrome is an acquired autoinflammatory disease characterized in most cases by cytopenias and macrocytic anemia. Dyshematopoiesis is a frequent finding in chronic inflammatory conditions and therefore, cytopenias are not easily classified in VEXAS patients. Here we report a series of 7 patients affected by VEXAS associated cytopenias, treated at our center. The use of NGS, together with morphological assays, integrated with the WHO 2022 criteria, allowed to identify three subsets of VEXAS...]]></summary>
         <author>
             <name>Elisa Diral</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oxford Nanopore Technology and its Application in Liquid Biopsies]]></title>
+        <id>pubmed:38327653</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38327653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Advanced medical technologies are transforming the future of healthcare, in particular, the screening and detection of molecular-genetic changes in patients suspected of having a neoplasm. They are based on the assumption that neoplasms release small amounts of various neoplasm-specific molecules, such as tumor DNA, called circulating DNA (cirDNA), into the extracellular space and subsequently into the blood. The detection of tumor-specific molecules and specific molecular changes in body fluids...]]></summary>
+        <author>
+            <name>Mariya Levkova</name>
         </author>
     </entry>
     <entry>
@@ -274,6 +374,16 @@
         <summary type="html"><![CDATA[Advanced medical technologies are transforming the future of healthcare, in particular, the screening and detection of molecular-genetic changes in patients suspected of having a neoplasm. They are based on the assumption that neoplasms release small amounts of various neoplasm-specific molecules, such as tumor DNA, called circulating DNA (cirDNA), into the extracellular space and subsequently into the blood. The detection of tumor-specific molecules and specific molecular changes in body fluids...]]></summary>
         <author>
             <name>Mariya Levkova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomic evolutional analysis of surgical resected specimen to assess osimertinib as a first-line therapy in two patients with lung cancer harboring EGFR mutation: Case series]]></title>
+        <id>pubmed:38323355</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38323355/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI) is crucial for patients with lung cancer harboring EGFR mutations. However, almost all patients experience disease progression, regardless of their response to the targeted therapy, necessitating the development of additional treatment options. Two patients with lung cancer harboring EGFR-L858R mutations in exon 21 were treated by surgical resection during successful osimertinib treatment. Because the pathological diagnosis...]]></summary>
+        <author>
+            <name>Hayato Koba</name>
         </author>
     </entry>
     <entry>
@@ -334,6 +444,26 @@
         <summary type="html"><![CDATA[Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI) is crucial for patients with lung cancer harboring EGFR mutations. However, almost all patients experience disease progression, regardless of their response to the targeted therapy, necessitating the development of additional treatment options. Two patients with lung cancer harboring EGFR-L858R mutations in exon 21 were treated by surgical resection during successful osimertinib treatment. Because the pathological diagnosis...]]></summary>
         <author>
             <name>Hayato Koba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential is associated with current smoking status and history of exacerbation in patients with COPD]]></title>
+        <id>pubmed:38320547</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38320547/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: Given that CHIP in specific genes was significantly associated with current smoking status and acute exacerbation, CHIP can be considered as a candidate biomarker for COPD patients.]]></summary>
+        <author>
+            <name>Jung-Kyu Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Great Is the Threat of Clonal Hematopoiesis? Let This New Risk Score Be Your Guide]]></title>
+        <id>pubmed:38320009</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38320009/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The recent expanding compendium of sequencing analysis has offered insight into the pathobiology of myeloid neoplasms. This molecular evidence of clonal hematopoiesis provides information to allow earlier identification of predisposition states to myeloid neoplasms, such as clonal hematopoiesis of indeterminate potential (CHIP) and clonal cytopenia of unknown significance (CCUS). The ability to risk-stratify cases of clonal hematopoiesis that may evolve to frank myeloid neoplasms is essential to...]]></summary>
+        <author>
+            <name>Zhuoer Xie</name>
         </author>
     </entry>
     <entry>
@@ -464,6 +594,36 @@
         <summary type="html"><![CDATA[The recent expanding compendium of sequencing analysis has offered insight into the pathobiology of myeloid neoplasms. This molecular evidence of clonal hematopoiesis provides information to allow earlier identification of predisposition states to myeloid neoplasms, such as clonal hematopoiesis of indeterminate potential (CHIP) and clonal cytopenia of unknown significance (CCUS). The ability to risk-stratify cases of clonal hematopoiesis that may evolve to frank myeloid neoplasms is essential to...]]></summary>
         <author>
             <name>Zhuoer Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rare subclonal sequencing of breast cancers indicates putative metastatic driver mutations are predominately acquired after dissemination]]></title>
+        <id>pubmed:38321573</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38321573/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Our results strongly suggest that metastatic driver mutations are sequentially acquired and selected within the same clonal lineage both before, but more commonly after, dissemination from the primary tumor, and that these mutations are biologically consequential. Despite inherent limitations in sampling archival primary tumors, our findings indicate that tumor cells in most patients continue to undergo clinically relevant genomic evolution after their dissemination from the primary...]]></summary>
+        <author>
+            <name>Matthew R Lawrence-Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Great Is the Threat of Clonal Hematopoiesis? Let This New Risk Score Be Your Guide]]></title>
+        <id>pubmed:38320009</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38320009/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The recent expanding compendium of sequencing analysis has offered insight into the pathobiology of myeloid neoplasms. This molecular evidence of clonal hematopoiesis provides information to allow earlier identification of predisposition states to myeloid neoplasms, such as clonal hematopoiesis of indeterminate potential (CHIP) and clonal cytopenia of unknown significance (CCUS). The ability to risk-stratify cases of clonal hematopoiesis that may evolve to frank myeloid neoplasms is essential to...]]></summary>
+        <author>
+            <name>Zhuoer Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolving the heterogeneous tumour microenvironment in cardiac myxoma through single-cell and spatial transcriptomics]]></title>
+        <id>pubmed:38318640</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38318640/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Our study presents the first comprehensive characterisation of the TME in CM at both single-cell and spatial resolution. Our study provides novel insight into the differentiation of myxoma tumour cells and advance our understanding of the TME in CM. Given the rarity of cardiac tumours, our study provides invaluable datasets and promotes the development of medical therapies for CM.]]></summary>
+        <author>
+            <name>Xuanyu Liu</name>
         </author>
     </entry>
     <entry>
@@ -639,6 +799,16 @@
     <entry>
         <title type="html"><![CDATA[Natural history of germline BRCA1 mutated and BRCA wild-type triple-negative breast cancer]]></title>
         <id>pubmed:38315150</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38315150/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-05T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We report a deep next-generation sequencing (NGS) analysis of 13 sequentially sampled tumours, eight sequentially sampled circulating tumour DNA (ctDNA) and three germline DNA samples over the life history of three triple-negative breast cancer (TNBC) patients, two of whom had germline pathogenic BRCA1 mutation, to unravel tumour evolution. Tumour tissue from all timepoints and germline DNA was subjected to whole exome sequencing (WES), custom amplicon deep sequencing (30,000X) of a WES-derived...]]></summary>
+        <author>
+            <name>Nilesh Laxman Gardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Natural history of germline BRCA1 mutated and BRCA wild-type triple-negative breast cancer]]></title>
+        <id>pubmed:38315150</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/38315150/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240212195038&amp;v=2.18.0"/>
         <updated>2024-02-05T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[We report a deep next-generation sequencing (NGS) analysis of 13 sequentially sampled tumours, eight sequentially sampled circulating tumour DNA (ctDNA) and three germline DNA samples over the life history of three triple-negative breast cancer (TNBC) patients, two of whom had germline pathogenic BRCA1 mutation, to unravel tumour evolution. Tumour tissue from all timepoints and germline DNA was subjected to whole exome sequencing (WES), custom amplicon deep sequencing (30,000X) of a WES-derived...]]></summary>
@@ -714,6 +884,36 @@
         <summary type="html"><![CDATA[We report a deep next-generation sequencing (NGS) analysis of 13 sequentially sampled tumours, eight sequentially sampled circulating tumour DNA (ctDNA) and three germline DNA samples over the life history of three triple-negative breast cancer (TNBC) patients, two of whom had germline pathogenic BRCA1 mutation, to unravel tumour evolution. Tumour tissue from all timepoints and germline DNA was subjected to whole exome sequencing (WES), custom amplicon deep sequencing (30,000X) of a WES-derived...]]></summary>
         <author>
             <name>Nilesh Laxman Gardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis in children with predisposing conditions]]></title>
+        <id>pubmed:38311515</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38311515/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-04T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis in children and young adults differs from that occuring in the older adult population. A variety of stressors drive this phenomenon, sometimes independent of age-related processes. For the purposes of this review, we adopt the term clonal hematopoiesis in predisposed individuals (CHIPI) to differentiate it from classical, age-related clonal hematopoiesis of indeterminate potential (CHIP). Stress-induced CHIPI selection can be extrinsic, such as following immunologic,...]]></summary>
+        <author>
+            <name>Enrico Attardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germline predisposition for clonal hematopoiesis]]></title>
+        <id>pubmed:38311514</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38311514/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-04T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is an entity hallmarked by skewed hematopoiesis with persistent overrepresentation of cells from a common stem/progenitor lineage harboring single-nucleotide variants and/or insertions/deletions. CH is a common and age-related phenomenon that is associated with an increased risk of hematological malignancies, cardiovascular disease, and all-cause mortality. While CH is a term of the hematological aspect, there exists a complex interaction with other organ systems,...]]></summary>
+        <author>
+            <name>Yasuo Kubota</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting Multiple Driver Mutations in a Patient with Essential Thrombocythemia]]></title>
+        <id>pubmed:38310350</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38310350/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-04T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BACKGROUND Three driver mutations have been identified in patients with essential thrombocythemia - JAK2 V617F, CALR, and MPL. Out of these, JAK2 V617F is mostly common. These mutations are thought to be mutually exclusive; therefore, the initial workup may not include the identification of all mutations separately. CASE REPORT We present a case of a 55-year-old woman who was referred to the hematology clinic for an elevated platelet count noted when she was hospitalized for a renal stone. The...]]></summary>
+        <author>
+            <name>Shivani Sharma</name>
         </author>
     </entry>
     <entry>
@@ -969,6 +1169,26 @@
     <entry>
         <title type="html"><![CDATA[Myelodysplastic neoplasms evolving from inherited bone marrow failure syndromes / germline predisposition syndromes: Back under the microscope]]></title>
         <id>pubmed:38301422</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38301422/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inherited bone marrow failure syndromes and germline predisposition syndromes (IBMFS/GPS) are associated with increased risk for hematologic malignancies, particularly myeloid neoplasms, such as myelodysplastic neoplasms (MDS) and acute myeloid leukemia (AML). The diagnosis of MDS in these syndromes poses difficulty due to frequent bone marrow hypocellularity and the presence of some degree of dysplastic features related to the underlying germline defect causing abnormal maturation of one or...]]></summary>
+        <author>
+            <name>M Tarek Elghetany</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single-cell Multiomics Analysis of Myelodysplastic Syndromes and Clinical Response to Hypomethylating Therapy]]></title>
+        <id>pubmed:38300528</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38300528/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-02-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Alterations in epigenetic marks, such as DNA methylation, represent a hallmark of cancer that has been successfully exploited for therapy in myeloid malignancies. Hypomethylating agents (HMA), such as azacitidine, have become standard-of-care therapy to treat myelodysplastic syndromes (MDS), myeloid neoplasms that can evolve into acute myeloid leukemia. However, our capacity to identify who will respond to HMAs, and the duration of response, remains limited. To shed light on this question, we...]]></summary>
+        <author>
+            <name>Ignacio Campillo-Marcos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myelodysplastic neoplasms evolving from inherited bone marrow failure syndromes / germline predisposition syndromes: Back under the microscope]]></title>
+        <id>pubmed:38301422</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/38301422/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240212195038&amp;v=2.18.0"/>
         <updated>2024-02-01T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Inherited bone marrow failure syndromes and germline predisposition syndromes (IBMFS/GPS) are associated with increased risk for hematologic malignancies, particularly myeloid neoplasms, such as myelodysplastic neoplasms (MDS) and acute myeloid leukemia (AML). The diagnosis of MDS in these syndromes poses difficulty due to frequent bone marrow hypocellularity and the presence of some degree of dysplastic features related to the underlying germline defect causing abnormal maturation of one or...]]></summary>
@@ -1074,6 +1294,16 @@
         <summary type="html"><![CDATA[Inherited bone marrow failure syndromes and germline predisposition syndromes (IBMFS/GPS) are associated with increased risk for hematologic malignancies, particularly myeloid neoplasms, such as myelodysplastic neoplasms (MDS) and acute myeloid leukemia (AML). The diagnosis of MDS in these syndromes poses difficulty due to frequent bone marrow hypocellularity and the presence of some degree of dysplastic features related to the underlying germline defect causing abnormal maturation of one or...]]></summary>
         <author>
             <name>M Tarek Elghetany</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential-associated non-small cell lung cancer risk is potentiated by small particulate matter air pollution among non-smokers: a novel somatic variant-environment interaction]]></title>
+        <id>pubmed:38293139</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38293139/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-01-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Small particulate matter air pollution (PM (2.5) ) is a recognized driver of non-small cell lung cancer (NSCLC) among non-smoking individuals. Inhaled PM (2.5) recruits pro-inflammatory macrophages to the air-lung interface, which promotes malignant lung epithelial cell growth and progression to overt cancer. We sought to determine whether clonal hematopoiesis of indeterminate potential (CHIP), a common age-related condition characterized by hyperinflammatory macrophages, exacerbates PM (2.5)...]]></summary>
+        <author>
+            <name>Caitlyn Vlasschaert</name>
         </author>
     </entry>
     <entry>
@@ -1204,6 +1434,36 @@
         <summary type="html"><![CDATA[Small particulate matter air pollution (PM (2.5) ) is a recognized driver of non-small cell lung cancer (NSCLC) among non-smoking individuals. Inhaled PM (2.5) recruits pro-inflammatory macrophages to the air-lung interface, which promotes malignant lung epithelial cell growth and progression to overt cancer. We sought to determine whether clonal hematopoiesis of indeterminate potential (CHIP), a common age-related condition characterized by hyperinflammatory macrophages, exacerbates PM (2.5)...]]></summary>
         <author>
             <name>Caitlyn Vlasschaert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computational validation of clonal and subclonal copy number alterations from bulk tumor sequencing using CNAqc]]></title>
+        <id>pubmed:38297376</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38297376/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-01-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Copy number alterations (CNAs) are among the most important genetic events in cancer, but their detection from sequencing data is challenging because of unknown sample purity, tumor ploidy, and general intra-tumor heterogeneity. Here, we present CNAqc, an evolution-inspired method to perform the computational validation of clonal and subclonal CNAs detected from bulk DNA sequencing. CNAqc is validated using single-cell data and simulations, is applied to over 4000 TCGA and PCAWG samples, and is...]]></summary>
+        <author>
+            <name>Alice Antonello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Control of Tumor Growth]]></title>
+        <id>pubmed:38294947</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38294947/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-01-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cancer treatment optimizations select the most optimum combinations of drugs, sequencing schedules, and appropriate doses that would limit toxicity and yield an improved patient quality of life. However, these optimizations often lack an adequate consideration of cancer's near-infinite potential for evolutionary adaptation to therapeutic interventions. Adapting cancer therapy based on monitored tumor burden and clonal composition is an intuitively sound approach to the treatment of cancer as an...]]></summary>
+        <author>
+            <name>Youcef Derbal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single cell RNA-sequencing of Ewing sarcoma tumors demonstrates transcriptional heterogeneity and clonal evolution]]></title>
+        <id>pubmed:38293103</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38293103/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-01-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ewing sarcoma is the second most common bone cancer in children, accounting for 2% of pediatric cancer diagnoses. Patients who present with metastatic disease at the time of diagnosis have a dismal prognosis, compared to the >70% 5-year survival of those with localized disease. Here, we utilized single cell RNA-sequencing to characterize the transcriptional landscape of primary Ewing sarcoma tumors and surrounding tumor microenvironment (TME). Copy-number analysis identified subclonal evolution...]]></summary>
+        <author>
+            <name>Andrew Goodspeed</name>
         </author>
     </entry>
     <entry>
@@ -1699,6 +1959,16 @@
     <entry>
         <title type="html"><![CDATA[Engineered T cells from induced pluripotent stem cells: from research towards clinical implementation]]></title>
         <id>pubmed:38283344</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38283344/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-01-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Induced pluripotent stem cell (iPSC)-derived T (iT) cells represent a groundbreaking frontier in adoptive cell therapies with engineered T cells, poised to overcome pivotal limitations associated with conventional manufacturing methods. iPSCs offer an off-the-shelf source of therapeutic T cells with the potential for infinite expansion and straightforward genetic manipulation to ensure hypo-immunogenicity and introduce specific therapeutic functions, such as antigen specificity through a...]]></summary>
+        <author>
+            <name>Ratchapong Netsrithong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engineered T cells from induced pluripotent stem cells: from research towards clinical implementation]]></title>
+        <id>pubmed:38283344</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/38283344/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240212195038&amp;v=2.18.0"/>
         <updated>2024-01-29T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Induced pluripotent stem cell (iPSC)-derived T (iT) cells represent a groundbreaking frontier in adoptive cell therapies with engineered T cells, poised to overcome pivotal limitations associated with conventional manufacturing methods. iPSCs offer an off-the-shelf source of therapeutic T cells with the potential for infinite expansion and straightforward genetic manipulation to ensure hypo-immunogenicity and introduce specific therapeutic functions, such as antigen specificity through a...]]></summary>
@@ -1844,6 +2114,16 @@
         <summary type="html"><![CDATA[Induced pluripotent stem cell (iPSC)-derived T (iT) cells represent a groundbreaking frontier in adoptive cell therapies with engineered T cells, poised to overcome pivotal limitations associated with conventional manufacturing methods. iPSCs offer an off-the-shelf source of therapeutic T cells with the potential for infinite expansion and straightforward genetic manipulation to ensure hypo-immunogenicity and introduce specific therapeutic functions, such as antigen specificity through a...]]></summary>
         <author>
             <name>Ratchapong Netsrithong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review]]></title>
+        <id>pubmed:38276052</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-01-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...]]></summary>
+        <author>
+            <name>Ioana Butnariu</name>
         </author>
     </entry>
     <entry>
@@ -2024,6 +2304,26 @@
         <summary type="html"><![CDATA[Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...]]></summary>
         <author>
             <name>Ioana Butnariu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis and Incident Heart Failure With Preserved Ejection Fraction]]></title>
+        <id>pubmed:38270950</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38270950/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-01-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS AND RELEVANCE: In this cohort study, TET2 CHIP was an independent risk factor associated with incident HFpEF. This finding may have implications for the prevention and management of HFpEF, including development of targeted therapies.]]></summary>
+        <author>
+            <name>Art Schuermans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonpreferential but Detrimental Accumulation of Macrophages With Clonal Hematopoiesis-Driver Mutations in Cardiovascular Tissues]]></title>
+        <id>pubmed:38269586</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/38269586/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240213195048&amp;v=2.18.0"/>
+        <updated>2024-01-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Quantitatively, CHIP-mutated myeloid cells did not preferentially accumulate in cardiovascular tissues, but qualitatively, they expressed a more disease-prone phenotype.]]></summary>
+        <author>
+            <name>Tsai-Sang Dederichs</name>
         </author>
     </entry>
     <entry>
@@ -14084,186 +14384,6 @@
         <summary type="html"><![CDATA[Despite extensive research and refined therapeutic options, the survival for metastasized uveal melanoma (UM) patients has not improved significantly. UM, a malignant tumor originating from melanocytes in the uveal tract, can be asymptomatic and small tumors may be detected only during routine ophthalmic exams; making early detection and treatment difficult. UM is the result of a number of characteristic somatic alterations which are associated with prognosis. Although UM morphology and biology...]]></summary>
         <author>
             <name>Quincy C C van den Bosch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240103195259&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240102195247&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20240101195419&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231231195742&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231230195628&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231229195054&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231228194204&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231227195056&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231226195107&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231225195059&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231224195316&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231223195542&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231222195013&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231221195154&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231220195219&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231219194249&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231218195330&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis-related gene mutations and unfavorable functional outcome in patients with large-artery atherosclerotic stroke]]></title>
-        <id>pubmed:38104193</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/38104193/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20231217195410&amp;v=2.18.0"/>
-        <updated>2023-12-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: CHIP is associated with unfavorable functional outcomes in patients with LAA stroke and hyper-inflammation. Genetic IL-6 signaling inhibition might attenuate the risk of unfavorable functional outcomes in CHIP carriers, especially in LAA stroke patients.]]></summary>
-        <author>
-            <name>Xin Qiu</name>
         </author>
     </entry>
     <entry>
