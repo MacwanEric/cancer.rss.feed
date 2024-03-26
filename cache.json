@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&utm_campaign=pubmed-2&ff=20240324205157&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.18.0.post9+e462414&utm_source=axios&fc=20220608003622&utm_campaign=pubmed-2&ff=20240325205025&utm_medium=rss",
       "articles": [
+        {
+          "id": "pubmed:38522849",
+          "author": "Shyam A Patel",
+          "description": "Recursive partitioning of healthy consortia led to the development of the Clonal Hematopoiesis Risk Score (CHRS) for clonal haematopoiesis (CH); however, in the practical setting, most cases of CH are diagnosed after patients present with cytopenias or related symptoms. To address this real-world population, we characterize the clinical trajectories of 94 patients with CH and distinguish CH harbouring canonical DNMT3A/TET2/ASXL1 mutations alone ('sole DTA') versus all other groups ('non-sole...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38522849/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-24T10:00:00.000Z",
+          "wordCount": 1553,
+          "title": "Natural history of clonal haematopoiesis seen in real-world haematology settings",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38514772",
+          "author": "Susann Winter",
+          "description": "Clonal hematopoiesis (CH) defines a premalignant state predominantly found in older persons that increases the risk of developing hematologic malignancies and age-related inflammatory diseases. However, the risk for malignant transformation or non-malignant disorders is variable and difficult to predict, and defining the clinical relevance of specific candidate driver mutations in individual carriers has proved to be challenging. In addition to the cell-intrinsic mechanisms, mutant cells rely on...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38514772/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-22T10:00:00.000Z",
+          "wordCount": 2153,
+          "title": "Clonal hematopoiesis and its impact on the aging osteo-hematopoietic niche",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38514772",
           "author": "Susann Winter",
@@ -240,6 +260,26 @@
           "publishedOn": "2024-03-22T10:00:00.000Z",
           "wordCount": 2116,
           "title": "Clonal hematopoiesis and its impact on the aging osteo-hematopoietic niche",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38508850",
+          "author": "Sandro Ninni",
+          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-20T10:00:00.000Z",
+          "wordCount": 1903,
+          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38507736",
+          "author": "Jonathan Brett Heimlich",
+          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-20T10:00:00.000Z",
+          "wordCount": 1649,
+          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -330,6 +370,66 @@
           "publishedOn": "2024-03-20T10:00:00.000Z",
           "wordCount": 1302,
           "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38498034",
+          "author": "Trent Hall",
+          "description": "The spectrum of myeloid disorders ranges from aplastic bone marrow failure characterized by an empty bone marrow completely lacking in hematopoiesis to acute myeloid leukemia where the marrow space is replaced by undifferentiated leukemic blasts. Recent advances in the capacity to sequence bulk tumor population as well as at a single cell level has provided significant insight into the stepwise process of transformation to acute myeloid leukemia. Using models of progression in the context of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38498034/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-18T10:00:00.000Z",
+          "wordCount": 1492,
+          "title": "Malignant progression of pre-leukemic disorders",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38497538",
+          "author": "Kelly S Chien",
+          "description": "CONCLUSIONS: In a population including mostly cancer patients, CH was associated with comorbidities and myeloid transformation in patients with higher mutational burdens and anemia. Nevertheless, such patients were less likely to die of their myeloid neoplasm than of primary malignancy or comorbidities.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38497538/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-18T10:00:00.000Z",
+          "wordCount": 2075,
+          "title": "Cancer patients with clonal hematopoiesis die from primary malignancy or comorbidities despite higher rates of transformation to myeloid neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38497167",
+          "author": "Armin P Piehler",
+          "description": "Hemoglobinopathies including thalassemias are among the most frequent genetic disorders worldwide. Primarily, these entities result from germline variants in the globin gene clusters and their cis-acting regulatory elements, and thus the WHO classifies thalassemias as inherited diseases. Non-inherited disorders of globin chain synthesis mimicking the phenotype of thalassemias have also been described and are referred to as acquired thalassemias. These forms mainly affect the alpha-globin genes...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38497167/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-18T10:00:00.000Z",
+          "wordCount": 1296,
+          "title": "Classical meets malignant hematology: a case of acquired epsilongammadeltabeta-thalassemia in clonal hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38496542",
+          "author": "Jesse Kreger",
+          "description": "Clonal hematopoiesis becomes increasingly common with age, but its cause is enigmatic because driver mutations are often absent. Serial observations infer weak selection indicating variants are acquired much earlier in life with unexplained initial growth spurts. Here we use fluctuating CpG methylation as a lineage marker to track stem cell clonal dynamics of hematopoiesis. We show, via the shared prenatal circulation of monozygotic twins, that weak selection conferred by stem cell variation...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38496542/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-18T10:00:00.000Z",
+          "wordCount": 2467,
+          "title": "Developmental hematopoietic stem cell variation explains clonal hematopoiesis later in life",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38496258",
+          "author": "Georg Stachel",
+          "description": "CONCLUSION: Elevated preprocedural RDW identifies patients at risk for impaired functional outcome after TAVI and may represent a useful low-cost parameter to guide intensity of outpatient surveillance strategies.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38496258/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-18T10:00:00.000Z",
+          "wordCount": 2092,
+          "title": "Red blood cell distribution width (RDW) is associated with unfavorable functional outcome after transfemoral transcatheter aortic valve implantation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38495711",
+          "author": "Mohammad Haft-Javaherian",
+          "description": "Intravascular ultrasound and optical coherence tomography are widely available for assessing coronary stenoses and provide critical information to optimize percutaneous coronary intervention. Intravascular polarization-sensitive optical coherence tomography (PS-OCT) measures the polarization state of the light scattered by the vessel wall in addition to conventional cross-sectional images of subsurface microstructure. This affords reconstruction of tissue polarization properties and reveals...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38495711/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-18T10:00:00.000Z",
+          "wordCount": 2403,
+          "title": "Segmentation of anatomical layers and imaging artifacts in intravascular polarization sensitive optical coherence tomography using attending physician and boundary cardinality losses",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -756,6 +856,16 @@
           "id": "pubmed:38488948",
           "author": "Peijun Ren",
           "description": "Time always leaves its mark, and our genome is no exception. Mutations in the genome of somatic cells were first hypothesized to be the cause of aging in the 1950s, shortly after the molecular structure of DNA had been described. Somatic mutation theories of aging are based on the fact that mutations in DNA as the ultimate template for all cellular functions are irreversible. However, it took until the 1990s to develop the methods to test if DNA mutations accumulate with age in different organs...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38488948/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-15T10:00:00.000Z",
+          "wordCount": 1755,
+          "title": "Somatic mutations in aging and disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38488948",
+          "author": "Peijun Ren",
+          "description": "Time always leaves its mark, and our genome is no exception. Mutations in the genome of somatic cells were first hypothesized to be the cause of aging in the 1950s, shortly after the molecular structure of DNA had been described. Somatic mutation theories of aging are based on the fact that mutations in DNA as the ultimate template for all cellular functions are irreversible. However, it took until the 1990s to develop the methods to test if DNA mutations accumulate with age in different organs...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38488948/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240324205157&v=2.18.0.post9+e462414",
           "publishedOn": "2024-03-15T10:00:00.000Z",
           "wordCount": 1755,
@@ -850,6 +960,26 @@
           "publishedOn": "2024-03-15T10:00:00.000Z",
           "wordCount": 1476,
           "title": "Somatic mutations in aging and disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38485690",
+          "author": "Irenaeus C C Chan",
+          "description": "MOTIVATION: The acquisition of somatic mutations in hematopoietic stem and progenitor stem cells (HSPCs) with resultant clonal expansion, termed clonal hematopoiesis (CH), is associated with increased risk of hematologic malignancies and other adverse outcomes. CH is generally present at low allelic fractions, but clonal expansion and acquisition of additional mutations leads to hematologic cancers in a small proportion of individuals. With high depth and high sensitivity sequencing, CH can be...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38485690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-14T10:00:00.000Z",
+          "wordCount": 1821,
+          "title": "ArCH: Improving the performance of clonal hematopoiesis variant calling and interpretation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38481290",
+          "author": "Joanna E Zawacka",
+          "description": "Myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) originate from preleukemic hematopoietic conditions, such as clonal hematopoiesis of indeterminate potential (CHIP) or clonal cytopenia of undetermined significance (CCUS) and have variable outcomes despite the successful implementation of targeted therapies. The prognosis differs depending on the molecular subgroup. In patients with TP53 mutations, the most inferior outcomes across independent studies were observed. Myeloid...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38481290/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-14T10:00:00.000Z",
+          "wordCount": 2235,
+          "title": "p53 biology and reactivation for improved therapy in MDS and AML",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1066,6 +1196,16 @@
           "id": "pubmed:38470216",
           "author": "Alfredo Marchetti",
           "description": "CONCLUSIONS: We observed an independent association between CHIP, particularly related to non-DNTM3A and TET2 genetic lesions, and MASLD-HCC.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38470216/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-12T10:00:00.000Z",
+          "wordCount": 2186,
+          "title": "Impact of clonal hematopoiesis of indeterminate potential on hepatocellular carcinoma in individuals with steatotic liver disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38470216",
+          "author": "Alfredo Marchetti",
+          "description": "CONCLUSIONS: We observed an independent association between CHIP, particularly related to non-DNTM3A and TET2 genetic lesions, and MASLD-HCC.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38470216/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240324205157&v=2.18.0.post9+e462414",
           "publishedOn": "2024-03-12T10:00:00.000Z",
           "wordCount": 2186,
@@ -1190,6 +1330,16 @@
           "publishedOn": "2024-03-12T10:00:00.000Z",
           "wordCount": 1846,
           "title": "Impact of clonal hematopoiesis of indeterminate potential on hepatocellular carcinoma in individuals with steatotic liver disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38454125",
+          "author": "Caitlyn Vlasschaert",
+          "description": "Age is a predominant risk factor for acute kidney injury (AKI), yet the biological mechanisms underlying this risk are largely unknown. Clonal hematopoiesis of indeterminate potential (CHIP) confers increased risk for several chronic diseases associated with aging. Here we sought to test whether CHIP increases the risk of AKI. In three population-based epidemiology cohorts, we found that CHIP was associated with a greater risk of incident AKI, which was more pronounced in patients with AKI...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38454125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-07T11:00:00.000Z",
+          "wordCount": 5354,
+          "title": "Clonal hematopoiesis of indeterminate potential is associated with acute kidney injury",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7111,214 +7261,44 @@
           "wordCount": 1303,
           "title": "Engineered T cells from induced pluripotent stem cells: from research towards clinical implementation",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240214195122&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240213195048&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240212195038&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240211195044&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240210195415&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240209194815&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240208194923&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240207194932&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240206194820&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240205194943&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240204195148&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240203195418&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240202194939&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1556,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240201195024&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240131195240&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240130195039&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1549,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240129195013&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1499,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240128195055&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1384,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240127195322&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1380,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38276052",
-          "author": "Ioana Butnariu",
-          "description": "Chorea is a hyperkinetic movement disorder, accompanied by dystonia, myoclonus, tics, stereotypies, and tremors. It is characterized by excessive, purposeless movements that are distressing, irregularly timed, and randomly distributed. Chorea can be present in many diseases, such as hereditary, metabolic disturbance, drug-induced, and functional disorders, and, rarely, genetic, autoimmune, and infectious diseases. Primary myelofibrosis (PMF) is a myeloproliferative neoplasm that leads to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38276052/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240126194954&v=2.18.0",
-          "publishedOn": "2024-01-26T11:00:00.000Z",
-          "wordCount": 1205,
-          "title": "Chorea and Cognitive Impairment in JAK2V617F-Positive Myeloproliferative Disorders: A Case Report and Literature Review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&utm_medium=rss&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&v=2.18.0.post9+e462414&utm_source=axios&ff=20240324205157",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&ff=20240325205025&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_source=axios&v=2.18.0.post9+e462414&utm_medium=rss",
       "articles": [
+        {
+          "id": "pubmed:38523646",
+          "author": "Dev Kumar Tripathy",
+          "description": "Glioblastoma (GB) is an intrusive and recurrent primary brain tumor with low survivability. The heterogeneity of the tumor microenvironment plays a crucial role in the stemness and proliferation of GB. The tumor microenvironment induces tumor heterogeneity of cancer cells by facilitating clonal evolution and promoting multidrug resistance, leading to cancer cell progression and metastasis. It also plays an important role in angiogenesis to nourish the hypoxic tumor environment. There is a strong...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38523646/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-25T10:00:00.000Z",
+          "wordCount": 1501,
+          "title": "Insights into the glioblastoma tumor microenvironment: current and emerging therapeutic approaches",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38523186",
+          "author": "Henry G Kaplan",
+          "description": "CONCLUSION: While most co-occurring DCIS and IBC were mutationally similar and suggestive of a common clonal progenitor, transcriptionally the lesions are highly distinct, with IBC expressing key pathways that facilitate invasion and proliferation. These results are suggestive of additional levels of regulation, epigenetic or other, that facilitate the acquisition of invasive properties during tumor evolution.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38523186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-25T10:00:00.000Z",
+          "wordCount": 1515,
+          "title": "Multi-omic profiling of simultaneous ductal carcinoma in situ and invasive breast cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38513819",
+          "author": "Kulvinder Kaur",
+          "description": "Skin cancer risk is increased by exposure to ultraviolet radiation (UVR). Since UVR exposure accumulates over time and lighter skin is more susceptible to UVR, age and skin tone are risk factors for skin cancer. However, measurements of somatic mutations in healthy-appearing skin have not been used to calculate skin cancer risk. Herein, we developed a noninvasive test that quantifies somatic mutations in healthy-appearing sun-exposed skin and applied it to a 1,038-subject cohort. Somatic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38513819/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-21T10:00:00.000Z",
+          "wordCount": 1374,
+          "title": "Skin cancer risk is increased by somatic mutations detected noninvasively in healthy-appearing sun-exposed skin",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38513819",
           "author": "Kulvinder Kaur",
@@ -7347,6 +7327,26 @@
           "publishedOn": "2024-03-21T10:00:00.000Z",
           "wordCount": 1370,
           "title": "Skin cancer risk is increased by somatic mutations detected noninvasively in healthy-appearing sun-exposed skin",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38508089",
+          "author": "E A Bryushkova",
+          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-20T10:00:00.000Z",
+          "wordCount": 1865,
+          "title": "B cell clonality in cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38503736",
+          "author": "Ryan T Bishop",
+          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-20T10:00:00.000Z",
+          "wordCount": 4160,
+          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7443,6 +7443,16 @@
           "id": "pubmed:38502057",
           "author": "Yuanyuan Zhao",
           "description": "Metastasis of primary tumors remains a challenge for early diagnosis and prevention. The cellular properties and molecular drivers of metastatically competent clones within primary tumors remain unclear. Here, we generated 10-16 single cell-derived lines from each of three colorectal cancer (CRC) tumors to identify and characterize metastatic seeds. We found that intrinsic factors conferred clones with distinct metastatic potential and cellular communication capabilities, determining...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38502057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-19T10:00:00.000Z",
+          "wordCount": 2134,
+          "title": "Distinct molecular profiles drive multifaceted characteristics of colorectal cancer metastatic seeds",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38502057",
+          "author": "Yuanyuan Zhao",
+          "description": "Metastasis of primary tumors remains a challenge for early diagnosis and prevention. The cellular properties and molecular drivers of metastatically competent clones within primary tumors remain unclear. Here, we generated 10-16 single cell-derived lines from each of three colorectal cancer (CRC) tumors to identify and characterize metastatic seeds. We found that intrinsic factors conferred clones with distinct metastatic potential and cellular communication capabilities, determining...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38502057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240324205157&v=2.18.0.post9+e462414",
           "publishedOn": "2024-03-19T10:00:00.000Z",
           "wordCount": 2134,
@@ -7497,6 +7507,36 @@
           "publishedOn": "2024-03-19T10:00:00.000Z",
           "wordCount": 1507,
           "title": "Distinct molecular profiles drive multifaceted characteristics of colorectal cancer metastatic seeds",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38497538",
+          "author": "Kelly S Chien",
+          "description": "CONCLUSIONS: In a population including mostly cancer patients, CH was associated with comorbidities and myeloid transformation in patients with higher mutational burdens and anemia. Nevertheless, such patients were less likely to die of their myeloid neoplasm than of primary malignancy or comorbidities.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38497538/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-18T10:00:00.000Z",
+          "wordCount": 2075,
+          "title": "Cancer patients with clonal hematopoiesis die from primary malignancy or comorbidities despite higher rates of transformation to myeloid neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38496472",
+          "author": "Anjun Hu",
+          "description": "Cancer clonal evolution, especially following anti-cancer treatments, depends on the locations of the mutated cells within the tumor tissue. Cells near the vessels, exposed to higher concentrations of drugs, will undergo a different evolutionary path than cells residing far from the vasculature in the areas of lower drug levels. However, classical representations of cell lineage trees do not account for this spatial component of emerging cancer clones. Here, we propose the LinG3D (Lineage Graphs...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38496472/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-18T10:00:00.000Z",
+          "wordCount": 2502,
+          "title": "Visualizing the Spatio-Temporal Dynamics of Clonal Evolution with LinG3D software",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38496441",
+          "author": "Arthur Dondi",
+          "description": "In cancer, genetic and transcriptomic variations generate clonal heterogeneity, possibly leading to treatment resistance. Long-read single-cell RNA sequencing (LR scRNA-seq) has the potential to detect genetic and transcriptomic variations simultaneously. Here, we present LongSom, a computational workflow leveraging LR scRNA-seq data to call de novo somatic single-nucleotide variants (SNVs), copy-number alterations (CNAs), and gene fusions to reconstruct the tumor clonal heterogeneity. For SNV...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38496441/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-18T10:00:00.000Z",
+          "wordCount": 3001,
+          "title": "De novo detection of somatic variants in long-read single-cell RNA sequencing data",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7703,6 +7743,16 @@
           "id": "pubmed:38486887",
           "author": "Xiangqi Bai",
           "description": "Latest advancements in the high-throughput single-cell genome (scDNA) and transcriptome (scRNA) sequencing technologies enabled cell-resolved investigation of tissue clones. However, it remains challenging to cluster and couple single cells for heterogeneous scRNA and scDNA data generated from the same specimen. In this study, we present a computational framework called CCNMF, which employs a novel Coupled-Clone Non-negative Matrix Factorization technique to jointly infer clonal structure for...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38486887/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-15T10:00:00.000Z",
+          "wordCount": 2208,
+          "title": "Joint inference of clonal structure using single-cell genome and transcriptome sequencing data",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38486887",
+          "author": "Xiangqi Bai",
+          "description": "Latest advancements in the high-throughput single-cell genome (scDNA) and transcriptome (scRNA) sequencing technologies enabled cell-resolved investigation of tissue clones. However, it remains challenging to cluster and couple single cells for heterogeneous scRNA and scDNA data generated from the same specimen. In this study, we present a computational framework called CCNMF, which employs a novel Coupled-Clone Non-negative Matrix Factorization technique to jointly infer clonal structure for...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38486887/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240324205157&v=2.18.0.post9+e462414",
           "publishedOn": "2024-03-15T10:00:00.000Z",
           "wordCount": 2208,
@@ -7797,6 +7847,16 @@
           "publishedOn": "2024-03-15T10:00:00.000Z",
           "wordCount": 1870,
           "title": "Joint inference of clonal structure using single-cell genome and transcriptome sequencing data",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38480884",
+          "author": "Julie George",
+          "description": "The evolutionary processes that underlie the marked sensitivity of small cell lung cancer (SCLC) to chemotherapy and rapid relapse are unknown^(1-3). Here we determined tumour phylogenies at diagnosis and throughout chemotherapy and immunotherapy by multiregion sequencing of 160 tumours from 65 patients. Treatment-naive SCLC exhibited clonal homogeneity at distinct tumour sites, whereas first-line platinum-based chemotherapy led to a burst in genomic intratumour heterogeneity and spatial clonal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38480884/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-14T10:00:00.000Z",
+          "wordCount": 3591,
+          "title": "Evolutionary trajectories of small cell lung cancer under therapy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7907,6 +7967,26 @@
           "publishedOn": "2024-03-14T10:00:00.000Z",
           "wordCount": 3157,
           "title": "Evolutionary trajectories of small cell lung cancer under therapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38473705",
+          "author": "Antonio Santisteban-Espejo",
+          "description": "Classic Hodgkin lymphoma (cHL) constitutes a B-cell neoplasm derived from germinal center lymphocytes. Despite high cure rates (80-90%) obtained with the current multiagent protocols, a significant proportion of cHL patients experience recurrences, characterized by a lower sensitivity to second-line treatments. The genomic background of chemorefractory cHL is still poorly understood, limiting personalized treatment strategies based on molecular features. In this study, using a targeted...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38473705/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-13T10:00:00.000Z",
+          "wordCount": 2480,
+          "title": "Pathogenic Variants Associated with Epigenetic Control and the NOTCH Pathway Are Frequent in Classic Hodgkin Lymphoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38473206",
+          "author": "Thomas Rachman",
+          "description": "Circulating tumor DNA (ctDNA) monitoring, while sufficiently advanced to reflect tumor evolution in real time and inform cancer diagnosis, treatment, and prognosis, mainly relies on DNA that originates from cell death via apoptosis or necrosis. In solid tumors, chemotherapy and immune infiltration can induce spatially variable rates of cell death, with the potential to bias and distort the clonal composition of ctDNA. Using a stochastic evolutionary model of boundary-driven growth, we study how...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38473206/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-13T10:00:00.000Z",
+          "wordCount": 2614,
+          "title": "Modeling the Effect of Spatial Structure on Solid Tumor Evolution and Circulating Tumor DNA Composition",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8143,6 +8223,16 @@
           "id": "pubmed:38459936",
           "author": "Kotaro Takahashi",
           "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-09T11:00:00.000Z",
+          "wordCount": 2229,
+          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38459936",
+          "author": "Kotaro Takahashi",
+          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240324205157&v=2.18.0.post9+e462414",
           "publishedOn": "2024-03-09T11:00:00.000Z",
           "wordCount": 2229,
@@ -8287,6 +8377,16 @@
           "publishedOn": "2024-03-09T11:00:00.000Z",
           "wordCount": 1617,
           "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38459554",
+          "author": "Jae-Won Cho",
+          "description": "CONCLUSIONS: Our results show that lung cancer and chronic myeloid leukemia maintain a high clonal and transcriptional diversity, and we find little evidence in favor of clonal sweeps. This suggests that for these cancers selection based solely on growth rate is unlikely to be the dominating driving force during cancer evolution.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38459554/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-08T11:00:00.000Z",
+          "wordCount": 3026,
+          "title": "Joint analysis of mutational and transcriptional landscapes in human cancer reveals key perturbations during cancer evolution",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
