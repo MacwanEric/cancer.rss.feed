@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&ff=20240415205111&fc=20220608003622&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.18.0.post9+e462414&fc=20220608003622&ff=20240416205154&utm_source=axios&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:38623936",
+          "author": "Hirona Maeda",
+          "description": "Cancer originates from a single ancestral cell that acquires a driver mutation, which confers a growth or survival advantage, followed by the acquisition of additional driver mutations by descendant cells. Recently, it has become evident that somatic cell mutations accumulate in normal tissues with aging and exposure to environmental factors, such as alcohol, smoking, and UV rays, increases the mutation rate. Clones harboring driver mutations expand with age, leading to tissue remodeling....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38623936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-16T10:00:00.000Z",
+          "wordCount": 1314,
+          "title": "Clonal expansion in normal tissues",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38617287",
+          "author": "Michael Scherer",
+          "description": "Current approaches to lineage tracing of stem cell clones require genetic engineering or rely on sparse somatic DNA variants, which are difficult to capture at single-cell resolution. Here, we show that targeted single-cell measurements of DNA methylation at single-CpG resolution deliver joint information about cellular differentiation state and clonal identities. We develop EPI-clone, a droplet-based method for transgene-free lineage tracing, and apply it to study hematopoiesis, capturing...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38617287/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-15T10:00:00.000Z",
+          "wordCount": 1142,
+          "title": "Somatic epimutations enable single-cell lineage tracing in native hematopoiesis across the murine and human lifespan",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38617287",
           "author": "Michael Scherer",
@@ -220,6 +240,16 @@
           "publishedOn": "2024-04-15T10:00:00.000Z",
           "wordCount": 1102,
           "title": "Somatic epimutations enable single-cell lineage tracing in native hematopoiesis across the murine and human lifespan",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38608257",
+          "author": "Morgan L Shannon",
+          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon leading to increased risk of both hematologic malignancy and non-malignant organ dysfunction. Increasingly available genetic testing has made incidental discovery of CH clinically common, yet evidence-based guidelines and effective management strategies to prevent adverse CH health outcomes are lacking. To address this gap, the prospective CHIVE registry and biorepository was created to identify and monitor individuals at risk, support...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38608257/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-12T10:00:00.000Z",
+          "wordCount": 1544,
+          "title": "Clonal Hematopoiesis and Inflammation in the VasculaturE (CHIVE): a prospective, longitudinal cohort and biorepository",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -260,6 +290,26 @@
           "publishedOn": "2024-04-12T10:00:00.000Z",
           "wordCount": 1493,
           "title": "Clonal Hematopoiesis and Inflammation in the VasculaturE (CHIVE): a prospective, longitudinal cohort and biorepository",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38602586",
+          "author": "Weijia Zhao",
+          "description": "Leukemia is a malignant disease of the hematopoietic system, in which clonal leukemia cells accumulate and inhibit normal hematopoiesis in the bone marrow and other hematopoietic tissues as a result of uncontrolled proliferation and impaired apoptosis, among other mechanisms. In this study, the anti-leukemic effect of a compound (SGP-17-S) extracted from Chloranthus multistachys, a plant with anti-inflammatory, antibacterial and anti-tumor effects, was evaluated. The effect of SGP-17-S on the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38602586/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-11T10:00:00.000Z",
+          "wordCount": 1886,
+          "title": "A novel α,β-unsaturated ketone inhibits leukemia cell growth as PARP1 inhibitor",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38601955",
+          "author": "David M Mueller",
+          "description": "Patients with inflammatory bowel disease (IBD) are exposed to chronic systemic inflammation and are at risk for secondary malignancies. Here we review the literature on the risk of myeloid neoplasms (MN) in IBD and present the disease profiles of patients at a single institution with IBD who later developed MN, comparing them to those in the literature. No IBD characteristic was found to associate with MN disease severity, including the previously-identified association between MNs and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38601955/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-11T10:00:00.000Z",
+          "wordCount": 1560,
+          "title": "Myeloid neoplasms in inflammatory bowel disease: A case series and review of the literature",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -366,6 +416,16 @@
           "id": "pubmed:38598228",
           "author": "Seyedmohammad Saadatagah",
           "description": "CONCLUSIONS AND RELEVANCE: Large TET2 and ASXL1, but not DNMT3A, CHIP was associated with higher IL-6 level, indices of cardiac remodeling, and increased risk for AF. Future research is needed to elaborate on the mechanisms driving the associations and to investigate potential interventions to reduce the risk.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38598228/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-10T10:00:00.000Z",
+          "wordCount": 2474,
+          "title": "Atrial Fibrillation and Clonal Hematopoiesis in TET2 and ASXL1",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38598228",
+          "author": "Seyedmohammad Saadatagah",
+          "description": "CONCLUSIONS AND RELEVANCE: Large TET2 and ASXL1, but not DNMT3A, CHIP was associated with higher IL-6 level, indices of cardiac remodeling, and increased risk for AF. Future research is needed to elaborate on the mechanisms driving the associations and to investigate potential interventions to reduce the risk.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38598228/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240415205111&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-10T10:00:00.000Z",
           "wordCount": 2474,
@@ -420,6 +480,16 @@
           "publishedOn": "2024-04-10T10:00:00.000Z",
           "wordCount": 1912,
           "title": "Atrial Fibrillation and Clonal Hematopoiesis in TET2 and ASXL1",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38591109",
+          "author": "Dongchan Kim",
+          "description": "CONCLUSIONS: In this study, we observed treatment persistent MR leukemic subclones and their phenotypic changes during the treatment process of R/R AML patients. This underscores the importance of preemptive inhibition of clonal promiscuity in R/R AML, proposing a practical method for monitoring AML MR subclones.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38591109/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-09T10:00:00.000Z",
+          "wordCount": 2198,
+          "title": "Pursuing dynamics of minimal residual leukemic subclones in relapsed and refractory acute myeloid leukemia during conventional therapy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -490,6 +560,26 @@
           "publishedOn": "2024-04-09T10:00:00.000Z",
           "wordCount": 1492,
           "title": "Pursuing dynamics of minimal residual leukemic subclones in relapsed and refractory acute myeloid leukemia during conventional therapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38588769",
+          "author": "Taralynn Mack",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is a common age-related phenomenon that occurs when hematopoietic stem cells acquire mutations in a select set of genes commonly mutated in myeloid neoplasia which then expand clonally. Current sequencing assays to detect CHIP mutations are not optimized for the detection of these variants and can be cost-prohibitive when applied to large cohorts or serial sequencing. In this study, an affordable (∼$8 per sample), accurate, and scalable...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38588769/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-08T10:00:00.000Z",
+          "wordCount": 1542,
+          "title": "Cost-effective and scalable clonal hematopoiesis assay provides insight into clonal dynamics",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38585779",
+          "author": "Jayna J Mistry",
+          "description": "Clonal hematopoiesis (CH) can predispose to blood cancers due to enhanced fitness of mutant hematopoietic stem and progenitor cells (HSPCs), but the mechanisms driving this progression are not understood. We hypothesized that malignant progression is related to microenvironment-remodelling properties of CH-mutant HSPCs. Single-cell transcriptomic profiling of the bone marrow microenvironment in Dnmt3a ^(R878H/+) mice revealed signatures of cellular senescence in mesenchymal stromal cells (MSCs)....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38585779/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-08T10:00:00.000Z",
+          "wordCount": 1221,
+          "title": "Mesenchymal Stromal Cell Senescence Induced by Dnmt3a -Mutant Hematopoietic Cells is a Targetable Mechanism Driving Clonal Hematopoiesis and Initiation of Hematologic Malignancy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -640,6 +730,56 @@
           "publishedOn": "2024-04-08T10:00:00.000Z",
           "wordCount": 1154,
           "title": "Mesenchymal Stromal Cell Senescence Induced by Dnmt3a -Mutant Hematopoietic Cells is a Targetable Mechanism Driving Clonal Hematopoiesis and Initiation of Hematologic Malignancy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38580008",
+          "author": "Ruoqiong Cao",
+          "description": "Quiescence and differentiation of hematopoietic stem and progenitor cells (HSPC) can be modified by systemic inflammatory cues. Such cues can not only yield short term changes in HSPCs such as in supporting emergency granulopoiesis but can also promote lasting influences on the HSPC compartment. First, inflammation can be a driver for clonal expansion, promoting clonal hematopoiesis for certain mutant clones, reducing overall clonal diversity, and reshaping the composition of the HSPC pool with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38580008/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 1458,
+          "title": "Forged in the Fire: Lasting Impacts of Inflammation on Hematopoietic Progenitors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38579483",
+          "author": "Mia Brunetti",
+          "description": "Over the years, the overall survival of older patients diagnosed with acute myeloid leukemia (AML) has not significantly increased. Although standard cytotoxic therapies that rapidly eliminate dividing myeloblasts are used to induce remission, relapse can occur due to surviving therapy-resistant leukemic stem cells (LSCs). Hence, anti-LSC strategies have become a key target to cure AML. We have recently shown that previously approved cardiac glycosides and glucocorticoids target LSC-enriched...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38579483/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 1615,
+          "title": "Mathematical modelling of clonal reduction therapeutic strategies in acute myeloid leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38578383",
+          "author": "Valentina Giudice",
+          "description": "Liquid biopsy is a minimally invasive diagnostic tool for identification of tumor-related mutations in circulating cell-free DNA (cfDNA). The aim of this study was to investigate feasibility, sensitivity, and specificity of non-invasive prenatal test (NIPT) for identification of chromosomal abnormalities in cfDNA from a total of 77 consecutive patients with non-Hodgkin B-cell lymphomas, Hodgkin lymphoma (HL), or plasma cell dyscrasia. In this case series, half of patients had at least one...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38578383/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 2154,
+          "title": "Non-invasive prenatal test identifies circulating cell-free DNA chromosomal abnormalities derived from clonal hematopoiesis in aggressive hematological malignancies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38578156",
+          "author": "Daisuke Hoshi",
+          "description": "Nodal T-follicular helper cell lymphoma (TFHL) is a subset of T-cell lymphoma and frequently co-occurs with Epstein-Barr virus (EBV)-positive B-cell lymphoma but not with T/NK-cell lymphoma. Recently, a new entity with a worse prognosis, called EBV-positive nodal T/NK-cell lymphoma (NTNKL) has been established. Here, we report an autopsy case of synchronous multiple lymphomas, including TFHL and NTNKL. The patient was a 78-year-old female admitted with pneumonia. Although pneumonic symptoms were...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38578156/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 1528,
+          "title": "Co-occurrence of Epstein-Barr virus-positive nodal T/NK-cell lymphoma and nodal T-follicular helper cell lymphoma of different clonal origins: An autopsy case report",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38577341",
+          "author": "Yanliang Bai",
+          "description": "CONCLUSION: CD7+ with DNMT3A mutation predicts a poor prognosis in AML patients, and the immunophenotype combined with molecular genetic markers can help to further refine the current risk stratification of AML.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38577341/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 1792,
+          "title": "CD7-positive leukemic blasts with <em>DNMT3A</em> mutations predict poor prognosis in patients with acute myeloid leukemia",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1170,6 +1310,16 @@
           "publishedOn": "2024-04-05T10:00:00.000Z",
           "wordCount": 1740,
           "title": "CD7-positive leukemic blasts with <em>DNMT3A</em> mutations predict poor prognosis in patients with acute myeloid leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38573824",
+          "author": "Candice Quin",
+          "description": "Individuals with clonal hematopoiesis of indeterminate potential (CHIP) are at increased risk of aging related health conditions and all-cause mortality, but whether CHIP impacts risk of infection is much less clear. Using UK Biobank data, we revealed a positive association between CHIP and incident pneumonia in 438,421 individuals. We show that inflammation enhanced pneumonia risk, as CHIP carriers with a hypomorphic IL6 receptor polymorphism were protected. To better characterize the pathways...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38573824/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-04T10:00:00.000Z",
+          "wordCount": 1409,
+          "title": "Neutrophil-mediated innate immune resistance to bacterial pneumonia is dependent on Tet2 function",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7567,8 +7717,28 @@
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&ff=20240415205110&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_campaign=pubmed-2&utm_medium=rss&ff=20240416205154&utm_source=axios&v=2.18.0.post9+e462414",
       "articles": [
+        {
+          "id": "pubmed:38623936",
+          "author": "Hirona Maeda",
+          "description": "Cancer originates from a single ancestral cell that acquires a driver mutation, which confers a growth or survival advantage, followed by the acquisition of additional driver mutations by descendant cells. Recently, it has become evident that somatic cell mutations accumulate in normal tissues with aging and exposure to environmental factors, such as alcohol, smoking, and UV rays, increases the mutation rate. Clones harboring driver mutations expand with age, leading to tissue remodeling....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38623936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-16T10:00:00.000Z",
+          "wordCount": 1314,
+          "title": "Clonal expansion in normal tissues",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38617360",
+          "author": "Tongwu Zhang",
+          "description": "APOBEC enzymes are part of the innate immunity and are responsible for restricting viruses and retroelements by deaminating cytosine residues ^(1,2) . Most solid tumors harbor different levels of somatic mutations attributed to the off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B) ^(3-6) . However, how APOBEC3A/B enzymes shape the tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, by combining deep whole-genome sequencing with multi-omics...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38617360/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-15T10:00:00.000Z",
+          "wordCount": 1370,
+          "title": "APOBEC shapes tumor evolution and age at onset of lung cancer in smokers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38617360",
           "author": "Tongwu Zhang",
@@ -7577,6 +7747,16 @@
           "publishedOn": "2024-04-15T10:00:00.000Z",
           "wordCount": 1342,
           "title": "APOBEC shapes tumor evolution and age at onset of lung cancer in smokers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38611021",
+          "author": "Eleonora Secomandi",
+          "description": "Neuroblastoma (NB) is an embryonal tumor arising from the sympathetic central nervous system. The epidermal growth factor (EGF) plays a role in NB growth and metastatic behavior. Recently, we have demonstrated that cathepsin D (CD) contrasts EGF-induced NB cell growth in 2D by downregulating EGFR/MAPK signaling. Aggressive NB is highly metastatic to the bone and the brain. In the metastatic process, adherent cells detach to form clusters of suspended cells that adhere once they reach the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38611021/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-13T10:00:00.000Z",
+          "wordCount": 4366,
+          "title": "Differential Competitive Growth of Transgenic Subclones of Neuroblastoma Cells Expressing Different Levels of Cathepsin D Co-Cultured in 2D and 3D in Response to EGF: Implications in Tumor Heterogeneity and Metastasis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7613,6 +7793,16 @@
           "id": "pubmed:38609353",
           "author": "Xiaodong Liu",
           "description": "Solid tumors are complex ecosystems with heterogeneous 3D structures, but the spatial intra-tumor heterogeneity (sITH) at the macroscopic (i.e., whole tumor) level is under-explored. Using a phylogeographic approach, we sequence genomes and transcriptomes from 235 spatially informed sectors across 13 hepatocellular carcinomas (HCC), generating one of the largest datasets for studying sITH. We find that tumor heterogeneity in HCC segregates into spatially variegated blocks with large genotypic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38609353/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-12T10:00:00.000Z",
+          "wordCount": 3099,
+          "title": "Tumor phylogeography reveals block-shaped spatial heterogeneity and the mode of evolution in Hepatocellular Carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38609353",
+          "author": "Xiaodong Liu",
+          "description": "Solid tumors are complex ecosystems with heterogeneous 3D structures, but the spatial intra-tumor heterogeneity (sITH) at the macroscopic (i.e., whole tumor) level is under-explored. Using a phylogeographic approach, we sequence genomes and transcriptomes from 235 spatially informed sectors across 13 hepatocellular carcinomas (HCC), generating one of the largest datasets for studying sITH. We find that tumor heterogeneity in HCC segregates into spatially variegated blocks with large genotypic...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38609353/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240415205110&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-12T10:00:00.000Z",
           "wordCount": 3091,
@@ -7637,6 +7827,26 @@
           "publishedOn": "2024-04-12T10:00:00.000Z",
           "wordCount": 1840,
           "title": "Tumor phylogeography reveals block-shaped spatial heterogeneity and the mode of evolution in Hepatocellular Carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38589411",
+          "author": "Amélie Roehrig",
+          "description": "Hepatoblastomas (HB) display heterogeneous cellular phenotypes that influence the clinical outcome, but the underlying mechanisms are poorly understood. Here, we use a single-cell multiomic strategy to unravel the molecular determinants of this plasticity. We identify a continuum of HB cell states between hepatocytic (scH), liver progenitor (scLP) and mesenchymal (scM) differentiation poles, with an intermediate scH/LP population bordering scLP and scH areas in spatial transcriptomics. Chromatin...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38589411/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-08T10:00:00.000Z",
+          "wordCount": 4054,
+          "title": "Single-cell multiomics reveals the interplay of clonal evolution and cellular plasticity in hepatoblastoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38586041",
+          "author": "Xuecong Fu",
+          "description": "MOTIVATION: Blood-based profiling of tumor DNA (\"liquid biopsy\") has offered great prospects for non-invasive early cancer diagnosis, treatment monitoring, and clinical guidance, but require further advances in computational methods to become a robust quantitative assay of tumor clonal evolution. We propose new methods to better characterize tumor clonal dynamics from circulating tumor DNA (ctDNA), through application to two specific questions: 1) How to apply longitudinal ctDNA data to refine...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38586041/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-08T10:00:00.000Z",
+          "wordCount": 2183,
+          "title": "Marker selection strategies for circulating tumor DNA guided by phylogenetic inference",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7793,6 +8003,16 @@
           "id": "pubmed:38582370",
           "author": "Vladimir Bezrookove",
           "description": "The evolution of primary melanoma to lymph node and distant metastasis is incompletely understood. We examined the genomic diversity in melanoma progression in matched primary melanomas, lymph node and distant metastases from 17 patients. Fluorescence in situ hybridization (FISH) analysis revealed cancer cell fractions with monotonic copy number alterations (CNAs), including PHIP gain and PTEN loss, in the metastatic cascade. By contrast, the cancer cell fraction with CNAs for BPTF and MITF was...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38582370/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-06T10:00:00.000Z",
+          "wordCount": 1303,
+          "title": "The molecular evolution of melanoma distant metastases",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38582370",
+          "author": "Vladimir Bezrookove",
+          "description": "The evolution of primary melanoma to lymph node and distant metastasis is incompletely understood. We examined the genomic diversity in melanoma progression in matched primary melanomas, lymph node and distant metastases from 17 patients. Fluorescence in situ hybridization (FISH) analysis revealed cancer cell fractions with monotonic copy number alterations (CNAs), including PHIP gain and PTEN loss, in the metastatic cascade. By contrast, the cancer cell fraction with CNAs for BPTF and MITF was...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38582370/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240415205110&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-06T10:00:00.000Z",
           "wordCount": 1303,
@@ -7877,6 +8097,36 @@
           "publishedOn": "2024-04-06T10:00:00.000Z",
           "wordCount": 1274,
           "title": "The molecular evolution of melanoma distant metastases",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38580746",
+          "author": "Jinge Wang",
+          "description": "Emerging studies underscore the promising capabilities of large language model-based chatbots in conducting basic bioinformatics data analyses. The recent feature of accepting image inputs by ChatGPT, also known as GPT-4V(ision), motivated us to explore its efficacy in deciphering bioinformatics scientific figures. Our evaluation with examples in cancer research, including sequencing data analysis, multimodal network-based drug repositioning, and tumor clonal evolution, revealed that ChatGPT can...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38580746/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 1827,
+          "title": "Scientific figures interpreted by ChatGPT: strengths in plot recognition and limits in color perception",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38578383",
+          "author": "Valentina Giudice",
+          "description": "Liquid biopsy is a minimally invasive diagnostic tool for identification of tumor-related mutations in circulating cell-free DNA (cfDNA). The aim of this study was to investigate feasibility, sensitivity, and specificity of non-invasive prenatal test (NIPT) for identification of chromosomal abnormalities in cfDNA from a total of 77 consecutive patients with non-Hodgkin B-cell lymphomas, Hodgkin lymphoma (HL), or plasma cell dyscrasia. In this case series, half of patients had at least one...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38578383/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 2154,
+          "title": "Non-invasive prenatal test identifies circulating cell-free DNA chromosomal abnormalities derived from clonal hematopoiesis in aggressive hematological malignancies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38577791",
+          "author": "Oliver Kutz",
+          "description": "CONCLUSIONS: We demonstrate that tracing the temporal heterogeneity of ctDNA, even below exome scale resolution, deciphers evolutionary trajectories in ovarian cancer. Furthermore, we describe two evolutionary patterns that may help to identify relapse seeding clones for targeted therapy.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38577791/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-05T10:00:00.000Z",
+          "wordCount": 2054,
+          "title": "Exploring evolutionary trajectories in ovarian cancer patients by longitudinal analysis of ctDNA",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8173,6 +8423,16 @@
           "id": "pubmed:38575672",
           "author": "Charles Dussiau",
           "description": "Myelodysplastic neoplasms (MDS) are characterized by clonal evolution starting from the compartment of hematopoietic stem and progenitors cells (HSPCs), leading in some cases to leukemic transformation. We hypothesized that deciphering the diversity of the HSPCs compartment may allow for the early detection of an emergent sub-clone that drives disease progression. Deep analysis of HSPCs repartition by multiparametric flow cytometry revealed a strong disorder of the hematopoietic branching system...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38575672/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-04T10:00:00.000Z",
+          "wordCount": 1740,
+          "title": "Loss of hematopoietic progenitors heterogeneity is an adverse prognostic factor in lower-risk myelodysplastic neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38575672",
+          "author": "Charles Dussiau",
+          "description": "Myelodysplastic neoplasms (MDS) are characterized by clonal evolution starting from the compartment of hematopoietic stem and progenitors cells (HSPCs), leading in some cases to leukemic transformation. We hypothesized that deciphering the diversity of the HSPCs compartment may allow for the early detection of an emergent sub-clone that drives disease progression. Deep analysis of HSPCs repartition by multiparametric flow cytometry revealed a strong disorder of the hematopoietic branching system...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38575672/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240415205110&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-04T10:00:00.000Z",
           "wordCount": 1740,
@@ -8277,6 +8537,16 @@
           "publishedOn": "2024-04-04T10:00:00.000Z",
           "wordCount": 1708,
           "title": "Loss of hematopoietic progenitors heterogeneity is an adverse prognostic factor in lower-risk myelodysplastic neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38553628",
+          "author": "Zeynep Kacar",
+          "description": "Hepatocellular carcinoma (HCC) is a molecularly heterogeneous solid malignancy, and its fitness may be shaped by how its tumor cells evolve. However, ability to monitor tumor cell evolution is hampered by the presence of numerous passenger mutations that do not provide any biological consequences. Here we develop a strategy to determine the tumor clonality of three independent HCC cohorts of 524 patients with diverse etiologies and race/ethnicity by utilizing somatic mutations in cancer driver...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38553628/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-30T10:00:00.000Z",
+          "wordCount": 2192,
+          "title": "Characterization of tumor evolution by functional clonality and phylogenetics in hepatocellular carcinoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8447,6 +8717,36 @@
           "publishedOn": "2024-03-30T10:00:00.000Z",
           "wordCount": 1779,
           "title": "Characterization of tumor evolution by functional clonality and phylogenetics in hepatocellular carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38525515",
+          "author": "Irem Kilic",
+          "description": "The current WHO classification of testicular germ cell tumors is based on the pathogenesis of the tumors driven by different genomic events. The germ cell neoplasia in situ is the precursor lesion for all malignant germ cell tumors. The current understanding of pathogenesis is that the developmental and environmental factors with the erasure of parental genomic imprinting lead to the development of abnormal gonocytes that settle in the \"spermatogonial Niche\" in seminiferous tubules. The abnormal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38525515/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-25T10:00:00.000Z",
+          "wordCount": 1786,
+          "title": "Evolution of Testicular Germ Cell Tumors in the Molecular Era With Histogenetic Implications",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38523646",
+          "author": "Dev Kumar Tripathy",
+          "description": "Glioblastoma (GB) is an intrusive and recurrent primary brain tumor with low survivability. The heterogeneity of the tumor microenvironment plays a crucial role in the stemness and proliferation of GB. The tumor microenvironment induces tumor heterogeneity of cancer cells by facilitating clonal evolution and promoting multidrug resistance, leading to cancer cell progression and metastasis. It also plays an important role in angiogenesis to nourish the hypoxic tumor environment. There is a strong...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38523646/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-25T10:00:00.000Z",
+          "wordCount": 1778,
+          "title": "Insights into the glioblastoma tumor microenvironment: current and emerging therapeutic approaches",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38523186",
+          "author": "Henry G Kaplan",
+          "description": "CONCLUSION: While most co-occurring DCIS and IBC were mutationally similar and suggestive of a common clonal progenitor, transcriptionally the lesions are highly distinct, with IBC expressing key pathways that facilitate invasion and proliferation. These results are suggestive of additional levels of regulation, epigenetic or other, that facilitate the acquisition of invasive properties during tumor evolution.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38523186/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240416205154&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-03-25T10:00:00.000Z",
+          "wordCount": 1839,
+          "title": "Multi-omic profiling of simultaneous ductal carcinoma in situ and invasive breast cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
