@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20240428205330&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&utm_source=axios&v=2.18.0.post9+e462414&utm_medium=rss",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&v=2.18.0.post9+e462414&ff=20240429205219&utm_campaign=pubmed-2&fc=20220608003622&utm_source=axios&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
       "articles": [
+        {
+          "id": "pubmed:38677009",
+          "author": "Abigail Ward",
+          "description": "CONCLUSIONS: Determining the etiology of low VAF TP53 PVs requires ancillary tissue testing and incorporation of clinical phenotype. Discerning PZM versus CH is important to provide optimal care and follow-up.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38677009/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-27T10:00:00.000Z",
+          "wordCount": 1582,
+          "title": "Clinical management of TP53 mosaic variants found on germline genetic testing",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38673836",
+          "author": "Amanda Frydendahl",
+          "description": "Circulating tumor DNA (ctDNA) is a promising biomarker, reflecting the presence of tumor cells. Sequencing-based detection of ctDNA at low tumor fractions is challenging due to the crude error rate of sequencing. To mitigate this challenge, we developed ultra-deep mutation-integrated sequencing (UMIseq), a fixed-panel deep targeted sequencing approach, which is universally applicable to all colorectal cancer (CRC) patients. UMIseq features UMI-mediated error correction, the exclusion of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38673836/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-27T10:00:00.000Z",
+          "wordCount": 3276,
+          "title": "Error-Corrected Deep Targeted Sequencing of Circulating Cell-Free DNA from Colorectal Cancer Patients for Sensitive Detection of Circulating Tumor DNA",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38677009",
           "author": "Abigail Ward",
@@ -240,6 +260,26 @@
           "publishedOn": "2024-04-27T10:00:00.000Z",
           "wordCount": 1682,
           "title": "Error-Corrected Deep Targeted Sequencing of Circulating Cell-Free DNA from Colorectal Cancer Patients for Sensitive Detection of Circulating Tumor DNA",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38668051",
+          "author": "Daniel Karel",
+          "description": "Myelodysplastic neoplasms (MDS) are a heterogenous clonal disorder of hemopoietic stem cells characterized by cytomorphologic dysplasia, ineffective hematopoiesis, peripheral cytopenias and risk of progression to acute myeloid leukemia (AML). Our understanding of this disease has continued to evolve over the last century. More recently, prognostication and treatment have been determined by cytogenetic and molecular data. Specific genetic abnormalities, such as deletion of the long arm of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38668051/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-26T10:00:00.000Z",
+          "wordCount": 1485,
+          "title": "Myelodysplastic Neoplasms (MDS): The Current and Future Treatment Landscape",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38667272",
+          "author": "Enrica Borsi",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) refers to the phenomenon where a hematopoietic stem cell acquires fitness-increasing mutation(s), resulting in its clonal expansion. CHIP is frequently observed in multiple myeloma (MM) patients, and it is associated with a worse outcome. High-throughput amplicon-based single-cell DNA sequencing was performed on circulating CD34+ cells collected from twelve MM patients before autologous stem cell transplantation (ASCT). Moreover, in four MM...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38667272/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-26T10:00:00.000Z",
+          "wordCount": 2880,
+          "title": "Single-Cell DNA Sequencing Reveals an Evolutionary Pattern of CHIP in Transplant Eligible Multiple Myeloma Patients",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -306,6 +346,16 @@
           "id": "pubmed:38657098",
           "author": "Nancy Gillis",
           "description": "CONCLUSION: This study provides the first evidence that PWH may have a higher prevalence of CH than PWoH with the same cancers. CH may be an independent biological aging risk factor contributing to inferior survival for PWH and cancer.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38657098/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-24T10:00:00.000Z",
+          "wordCount": 1675,
+          "title": "Clonal hematopoiesis in patients with HIV and cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38657098",
+          "author": "Nancy Gillis",
+          "description": "CONCLUSION: This study provides the first evidence that PWH may have a higher prevalence of CH than PWoH with the same cancers. CH may be an independent biological aging risk factor contributing to inferior survival for PWH and cancer.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38657098/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240428205330&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-24T10:00:00.000Z",
           "wordCount": 1675,
@@ -350,6 +400,26 @@
           "publishedOn": "2024-04-24T10:00:00.000Z",
           "wordCount": 1675,
           "title": "Clonal hematopoiesis in patients with HIV and cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38652890",
+          "author": "Paolo Lopedote",
+          "description": "Immunoglobulin light chain (AL) amyloidosis is characterized by the deposition of misfolded monoclonal free light chains, with cardiac complications accounting for patients' mortality. Clonal hematopoiesis of indeterminate potential (CHIP) has been associated with worse cardiovascular outcomes in the general population. Its significance in AL amyloidosis remains unclear. We collected clinical information and outcome data on 76 patients with a diagnosis of AL amyloidosis who underwent...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38652890/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-23T10:00:00.000Z",
+          "wordCount": 1217,
+          "title": "Clonal Hematopoiesis of Indeterminate Potential in Patients with Immunoglobulin Light Chain AL Amyloidosis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38651690",
+          "author": "Rebecca Austin",
+          "description": "The spatial distribution of cells carrying clonal hematopoiesis mutations in the bone marrow and the potential role of interactions with the microenvironment are largely unknown. This study takes clonal evolution to the spatial level by describing a novel technique examining the spatial location of mutated clones in the bone marrow and the first evidence that mutated hematopoietic clones are spatially constrained and have heterogenous locations within millimeters of distance. See related article...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38651690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-23T10:00:00.000Z",
+          "wordCount": 1084,
+          "title": "Hematopoietic Clonal Evolution Goes Spatial",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -476,6 +546,16 @@
           "id": "pubmed:38646919",
           "author": "Ernesto José Cuenca-Zamora",
           "description": "Emerging evidence shows the crucial role of inflammation (particularly NF-κB pathway) in the development and progression of myelofibrosis (MF), becoming a promising therapeutic target. Furthermore, tailoring treatment with currently available JAK inhibitors (such as ruxolitinib or fedratinib) does not modify the natural history of the disease and has important limitations, including cytopenias. Since recent studies have highlighted the role of miR-146a, a negative regulator of the NF-κB pathway,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38646919/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-22T10:00:00.000Z",
+          "wordCount": 1485,
+          "title": "miR-146a<sup>-/-</sup> mice model reveals that NF-κB inhibition reverts inflammation-driven myelofibrosis-like phenotype",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38646919",
+          "author": "Ernesto José Cuenca-Zamora",
+          "description": "Emerging evidence shows the crucial role of inflammation (particularly NF-κB pathway) in the development and progression of myelofibrosis (MF), becoming a promising therapeutic target. Furthermore, tailoring treatment with currently available JAK inhibitors (such as ruxolitinib or fedratinib) does not modify the natural history of the disease and has important limitations, including cytopenias. Since recent studies have highlighted the role of miR-146a, a negative regulator of the NF-κB pathway,...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38646919/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240428205330&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-22T10:00:00.000Z",
           "wordCount": 1500,
@@ -536,6 +616,16 @@
           "id": "pubmed:38641986",
           "author": "Catherine H Marshall",
           "description": "CONCLUSION: CH alterations are frequently found after treatment with PARP inhibitors in patients with prostate cancer and this may be one mechanism by which PARP inhibitors lead to increased risk of MDS/AML.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38641986/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-20T10:00:00.000Z",
+          "wordCount": 1579,
+          "title": "Association of PARP inhibitor treatment on the prevalence and progression of clonal hematopoiesis in patients with advanced prostate cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38641986",
+          "author": "Catherine H Marshall",
+          "description": "CONCLUSION: CH alterations are frequently found after treatment with PARP inhibitors in patients with prostate cancer and this may be one mechanism by which PARP inhibitors lead to increased risk of MDS/AML.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38641986/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240428205330&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-20T10:00:00.000Z",
           "wordCount": 1579,
@@ -590,6 +680,26 @@
           "publishedOn": "2024-04-20T10:00:00.000Z",
           "wordCount": 1560,
           "title": "Association of PARP inhibitor treatment on the prevalence and progression of clonal hematopoiesis in patients with advanced prostate cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38640196",
+          "author": "Philip Hollingsworth Imus",
+          "description": "Allogeneic blood and marrow transplantation (alloBMT) is increasingly being used in older patients with blood cancer. Aging is associated with an increasing incidence of clonal hematopoiesis (CH). Although the effects of donor CH on alloBMT has been reported, the impact of recipient CH on alloBMT outcomes is unknown. In this retrospective study, alloBMT recipients age 60 and older with lymphoid malignancies were included. Among 97 consecutive patients who received alloBMT between 2017 and 2022,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38640196/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-19T10:00:00.000Z",
+          "wordCount": 1340,
+          "title": "Recipient clonal hematopoiesis in allogeneic bone marrow transplantation for lymphoid malignancies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38640133",
+          "author": "Santhosh Kumar Pasupuleti",
+          "description": "PURPOSE OF REVIEW: This review meticulously delves into existing literature and recent findings to elucidate the intricate link between obesity and clonal hematopoiesis of indeterminate potential (CHIP) associated clonal hematopoiesis. It aims to enhance our comprehension of this multifaceted association, offering insights into potential avenues for future research and therapeutic interventions.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38640133/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-19T10:00:00.000Z",
+          "wordCount": 1275,
+          "title": "The impact of obesity-induced inflammation on clonal hematopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -710,6 +820,36 @@
           "publishedOn": "2024-04-19T10:00:00.000Z",
           "wordCount": 1275,
           "title": "The impact of obesity-induced inflammation on clonal hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38637689",
+          "author": "Christopher Maximilian Arends",
+          "description": "Clonal hematopoiesis (CH) driven by mutations in the DNA damage response (DDR) pathway is frequent in patients with cancer and is associated with a higher risk of therapy-related myeloid neoplasms (t-MNs). Here, we analyzed 423 serial whole blood and plasma samples from 103 patients with relapsed high-grade ovarian cancer receiving carboplatin, poly(ADP-ribose) polymerase inhibitor (PARPi) and heat shock protein 90 inhibitor (HSP90i) treatment within the phase II EUDARIO trial using...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38637689/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-18T10:00:00.000Z",
+          "wordCount": 2047,
+          "title": "Dynamics of clonal hematopoiesis under DNA-damaging treatment in patients with ovarian cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38635938",
+          "author": "Chengcheng Yan",
+          "description": "CONCLUSION: The presence of TP53 and/or PPM1D mutations in the PBSC product increases the risk of post-aPBSCT t-MN and nonrelapse mortality among patients with HL and may support alternative therapeutic strategies.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38635938/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-18T10:00:00.000Z",
+          "wordCount": 1435,
+          "title": "Clonal Hematopoiesis and Therapy-Related Myeloid Neoplasms After Autologous Transplant for Hodgkin Lymphoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38634106",
+          "author": "J Sebastian Garcia-Medina",
+          "description": "CONCLUSION: Our findings provide valuable insights into the physiological consequences of short-duration spaceflight, with telomere dynamics and immune cell gene expression adapting to spaceflight and persisting after return to Earth. CHIP sequencing data will serve as a reference point for studying the early development of CHIP in astronauts, an understudied phenomenon as previous studies have focused on career astronauts. This study will serve as a reference point for future commercial and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38634106/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-18T10:00:00.000Z",
+          "wordCount": 3269,
+          "title": "Genome and clonal hematopoiesis stability contrasts with immune, cfDNA, mitochondrial, and telomere length changes during short duration spaceflight",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -910,6 +1050,16 @@
           "publishedOn": "2024-04-18T10:00:00.000Z",
           "wordCount": 2268,
           "title": "Genome and clonal hematopoiesis stability contrasts with immune, cfDNA, mitochondrial, and telomere length changes during short duration spaceflight",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38629639",
+          "author": "Jihyun Song",
+          "description": "Polycythemia vera (PV) is a clonal disorder arising from the acquired somatic mutations of the JAK2 gene, including JAK2^(V617F) or several others in exon 12. A 38-year-old female had a stroke at age 32 and found to have elevated hemoglobin, normal leukocytes, normal platelets, and tested negative for JAK2^(V617F) and exon 12 mutations. Next generation sequencing revealed a novel mutation: JAK2^(R715T) in the pseudokinase domain (JH2) at 47.5%. Its presence in her nail DNA confirmed a germline...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38629639/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-17T10:00:00.000Z",
+          "wordCount": 1584,
+          "title": "Novel germline JAK2<sup>R715T</sup> mutation causing PV-like erythrocytosis in 3 generations. Amelioration by Ropeg-Interferon",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -6701,674 +6851,44 @@
           "wordCount": 1296,
           "title": "TET2 mutation as prototypic clonal hematopoiesis lesion",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240317205113&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1475,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240317205113&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1930,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240317205113&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2082,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240317205113&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2513,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240316205329&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1468,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240316205329&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1930,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240316205329&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2082,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240316205329&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2513,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240315204911&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1468,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240315204911&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1930,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240315204911&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2082,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240315204911&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2519,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240314205048&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1468,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240314205048&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1930,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240314205048&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2082,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240314205048&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2519,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240313205031&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1468,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240313205031&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1930,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240313205031&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2082,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240313205031&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2519,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240312205055&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1468,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240312205055&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1930,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240312205055&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2082,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240312205055&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2519,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240311204947&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1468,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240311204947&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1930,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240311204947&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2082,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240311204947&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2519,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240310205110&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1468,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240310205110&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1930,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240310205110&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2082,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240310205110&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2519,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240309195348&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1468,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240309195348&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1930,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240309195348&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2082,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240309195348&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2544,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240308194754&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1138,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240308194754&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1605,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240308194754&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1723,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240308194754&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2274,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240307195005&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1138,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240307195005&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1598,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240307195005&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1723,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240307195005&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2267,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240306193958&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1138,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240306193958&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1598,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240306193958&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1723,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240306193958&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2267,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240305195013&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1104,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240305195013&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1571,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240305195013&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1723,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240305195013&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2263,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240304194947&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1104,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240304194947&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1571,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240304194947&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1723,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240304194947&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2263,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240303195045&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1104,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240303195045&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1571,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240303195045&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1723,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240303195045&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2176,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429201",
-          "author": "Christopher J Gibson",
-          "description": "Clonal hematopoiesis (CH) in autologous transplant recipients and allogeneic transplant donors has genetic features and clinical associations that are distinct from each other and from non-cancer populations. CH in the setting of autologous transplant is enriched for mutations in DNA damage response pathway genes and is associated with adverse outcomes, including an increased risk of therapy-related myeloid neoplasm and inferior overall survival. Studies of CH in allogeneic transplant donors...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429201/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240302195240&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1104,
-          "title": "Clonal hematopoiesis in the setting of hematopoietic cell transplantation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38429084",
-          "author": "Seiichi Kato",
-          "description": "Epstein-Barr virus (EBV)+ nodal T- and NK-cell lymphoma (EBV+ nPTCL) is a peripheral T-cell lymphoma (PTCL) that presents as a primary nodal disease with T-cell phenotype and EBV harboring on tumor cells. To date, the genetic aspect of EBV+ nPTCL has not been fully investigated. In this study, whole-exome and/or genome sequencing was performed on 22 cases of EBV+ nPTCL. TET2 (68%) and DNMT3A (32%) were observed to be the most frequently mutated genes whose presence was associated with poor...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38429084/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240302195240&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1552,
-          "title": "EBV+ nodal T/NK-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240302195240&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1672,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240302195240&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 2125,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38427753",
-          "author": "Yasunori Kogure",
-          "description": "It remains elusive how driver mutations, including those detected in circulating tumor DNA (ctDNA), affect prognosis in relapsed/refractory multiple myeloma (RRMM). Here we performed targeted-capture sequencing using bone marrow plasma cells (BMPC) and ctDNA of 261 RRMM cases uniformly treated with ixazomib, lenalidomide, and dexamethasone in a multicenter, prospective, observational study. We detected 24 and 47 recurrently mutated genes in BMPC and ctDNA, respectively. In addition to clonal...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38427753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240301194836&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1672,
-          "title": "ctDNA improves prognostic prediction in relapsed/refractory MM receiving ixazomib, lenalidomide, and dexamethasone",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38426096",
-          "author": "Xi-Chen Zhao",
-          "description": "Aplastic anemia (AA) and hypoplastic myelodysplastic syndrome are paradigms of autoimmune hematopoietic failure (AHF). Myelodysplastic syndrome and acute myeloid leukemia are unequivocal myeloid neoplasms (MNs). Currently, AA is also known to be a clonal hematological disease. Genetic aberrations typically observed in MNs are detected in approximately one-third of AA patients. In AA patients harboring MN-related genetic aberrations, a poor response to immunosuppressive therapy (IST) and an...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38426096/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240301194836&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-01T11:00:00.000Z",
-          "wordCount": 1340,
-          "title": "When inflammatory stressors dramatically change, disease phenotypes may transform between autoimmune hematopoietic failure and myeloid neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20240428205330&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&fc=20220608010801&utm_source=axios&utm_medium=rss",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&ff=20240429205219&fc=20220608010801&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
       "articles": [
+        {
+          "id": "pubmed:38683764",
+          "author": "Sai Harisha Rajanala",
+          "description": "Somatic Y chromosome loss in hematopoietic cells is associated with higher mortality in men. However, the status of the Y chromosome in cancer tissue is not fully known due to technical limitations, such as difficulties in labelling and sequencing DNA from the Y chromosome. We have developed a system to quantify Y chromosome gain or loss in patient-derived prostate cancer organoids. Using our system, we observed Y chromosome loss in 4 of the 13 (31%) patient-derived metastatic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38683764/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-29T10:00:00.000Z",
+          "wordCount": 1741,
+          "title": "Quantifying Y chromosome loss in primary and metastatic prostate cancer by chromosome painting",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38668357",
+          "author": "Pierrick Martinez",
+          "description": "The cancer paradigm is generally based on the somatic mutation model, asserting that cancer is a disease of genetic origin. The mitochondrial-stem cell connection (MSCC) proposes that tumorigenesis may result from an alteration of the mitochondria, specifically a chronic oxidative phosphorylation (OxPhos) insufficiency in stem cells, which forms cancer stem cells (CSCs) and leads to malignancy. Reviewed evidence suggests that the MSCC could provide a comprehensive understanding of all the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38668357/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-26T10:00:00.000Z",
+          "wordCount": 1851,
+          "title": "Mitochondrial-Stem Cell Connection: Providing Additional Explanations for Understanding Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38667272",
+          "author": "Enrica Borsi",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) refers to the phenomenon where a hematopoietic stem cell acquires fitness-increasing mutation(s), resulting in its clonal expansion. CHIP is frequently observed in multiple myeloma (MM) patients, and it is associated with a worse outcome. High-throughput amplicon-based single-cell DNA sequencing was performed on circulating CD34+ cells collected from twelve MM patients before autologous stem cell transplantation (ASCT). Moreover, in four MM...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38667272/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-26T10:00:00.000Z",
+          "wordCount": 2880,
+          "title": "Single-Cell DNA Sequencing Reveals an Evolutionary Pattern of CHIP in Transplant Eligible Multiple Myeloma Patients",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38668357",
           "author": "Pierrick Martinez",
@@ -7433,6 +6953,16 @@
           "id": "pubmed:38662960",
           "author": "Yosub Ha",
           "description": "Tumor heterogeneity requires development of an anticancer system equipped with both chemical and physical therapeutics to eradicate cancer exhibiting drug resistance and clonal evolution into diverse tumor cells. Assortment of various toxic components into one platform without compromising their individual toxic activity remains a formidable task. Herein, a novel drug delivery system (DDS) exerting potent cytotoxicity toward cancer cells was fabricated with gold nanoparticles (AuNPs) coated with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38662960/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-25T10:00:00.000Z",
+          "wordCount": 1299,
+          "title": "Combination of Chemical and Physical Cancer Therapeutics Developed with Microcapsules Made of kappa-Casein and Gold Nanoparticles in the Presence of Drug-Loaded Phase Change Materials",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38662960",
+          "author": "Yosub Ha",
+          "description": "Tumor heterogeneity requires development of an anticancer system equipped with both chemical and physical therapeutics to eradicate cancer exhibiting drug resistance and clonal evolution into diverse tumor cells. Assortment of various toxic components into one platform without compromising their individual toxic activity remains a formidable task. Herein, a novel drug delivery system (DDS) exerting potent cytotoxicity toward cancer cells was fabricated with gold nanoparticles (AuNPs) coated with...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38662960/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240428205330&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-25T10:00:00.000Z",
           "wordCount": 1299,
@@ -7467,6 +6997,16 @@
           "publishedOn": "2024-04-25T10:00:00.000Z",
           "wordCount": 1275,
           "title": "Combination of Chemical and Physical Cancer Therapeutics Developed with Microcapsules Made of kappa-Casein and Gold Nanoparticles in the Presence of Drug-Loaded Phase Change Materials",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38656785",
+          "author": "Georgina Bramwell",
+          "description": "Evolutionary theory predicts that accumulation of deleterious mutations in asexually reproducing organisms should lead to genomic decay. Clonally reproducing cell lines, i.e., transmissible cancers, when cells are transmitted as allografts/xenografts, break these rules, and survive for centuries and millennia. The currently known 11 transmissible cancer lineages occur in dogs (Canine Venereal Tumour Disease, CTVT), in Tasmanian devils (Devil Facial Tumour Diseases, DFT 1 and DFT2) and in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38656785/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-24T10:00:00.000Z",
+          "wordCount": 1177,
+          "title": "Transmissible cancers, the genomes that don't melt down",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7517,6 +7057,16 @@
           "publishedOn": "2024-04-24T10:00:00.000Z",
           "wordCount": 1177,
           "title": "Transmissible cancers, the genomes that don't melt down",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38650456",
+          "author": "Reinhard Grausenburger",
+          "description": "PURPOSE OF REVIEW: Current risk stratification and treatment decision-making for bladder cancer informed by histopathology as well as molecular diagnostics face limitations. This review summarizes recent advancements in single-cell and spatial omics methodologies for understanding bladder cancer biology and their potential impact on development of novel therapeutic strategies.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38650456/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-23T10:00:00.000Z",
+          "wordCount": 1525,
+          "title": "Recent contributions of single-cell and spatial profiling to the understanding of bladder cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7583,6 +7133,16 @@
           "id": "pubmed:38645136",
           "author": "Jacob C Massey",
           "description": "Genome instability is a hallmark of cancer and are driven by mutations in oncogenes and tumor suppressor genes. Despite successes seen with select targeted therapeutics, this type of personalized medicine is only beneficial for a small subpopulation of cancer patients who have one of a few actionable genetic changes. Most tumors also contain hundreds of passenger mutations that offered no fitness advantage or disadvantage during tumor evolution. Mutations in known pharmacogenetic (PGx) loci for...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38645136/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-22T10:00:00.000Z",
+          "wordCount": 1309,
+          "title": "Collateral damage of NUDT15 deficiency in cancer provides a cancer pharmacogenetic therapeutic window with thiopurines",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38645136",
+          "author": "Jacob C Massey",
+          "description": "Genome instability is a hallmark of cancer and are driven by mutations in oncogenes and tumor suppressor genes. Despite successes seen with select targeted therapeutics, this type of personalized medicine is only beneficial for a small subpopulation of cancer patients who have one of a few actionable genetic changes. Most tumors also contain hundreds of passenger mutations that offered no fitness advantage or disadvantage during tumor evolution. Mutations in known pharmacogenetic (PGx) loci for...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38645136/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240428205330&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-22T10:00:00.000Z",
           "wordCount": 1309,
@@ -7637,6 +7197,16 @@
           "publishedOn": "2024-04-22T10:00:00.000Z",
           "wordCount": 1281,
           "title": "Collateral damage of NUDT15 deficiency in cancer provides a cancer pharmacogenetic therapeutic window with thiopurines",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38633600",
+          "author": "Neelakanta Sarvashiva Kiran",
+          "description": "Precision medicine is transforming colorectal cancer treatment through the integration of advanced technologies and biomarkers, enhancing personalized and effective disease management. Identification of key driver mutations and molecular profiling have deepened our comprehension of the genetic alterations in colorectal cancer, facilitating targeted therapy and immunotherapy selection. Biomarkers such as microsatellite instability (MSI) and DNA mismatch repair deficiency (dMMR) guide treatment...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38633600/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-18T10:00:00.000Z",
+          "wordCount": 1473,
+          "title": "Advances in Precision Medicine Approaches for Colorectal Cancer: From Molecular Profiling to Targeted Therapies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7707,6 +7277,16 @@
           "publishedOn": "2024-04-18T10:00:00.000Z",
           "wordCount": 1292,
           "title": "Advances in Precision Medicine Approaches for Colorectal Cancer: From Molecular Profiling to Targeted Therapies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38623936",
+          "author": "Hirona Maeda",
+          "description": "Cancer originates from a single ancestral cell that acquires a driver mutation, which confers a growth or survival advantage, followed by the acquisition of additional driver mutations by descendant cells. Recently, it has become evident that somatic cell mutations accumulate in normal tissues with aging and exposure to environmental factors, such as alcohol, smoking, and UV rays, increases the mutation rate. Clones harboring driver mutations expand with age, leading to tissue remodeling....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38623936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-16T10:00:00.000Z",
+          "wordCount": 1349,
+          "title": "Clonal expansion in normal tissues",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7797,6 +7377,16 @@
           "publishedOn": "2024-04-16T10:00:00.000Z",
           "wordCount": 1314,
           "title": "Clonal expansion in normal tissues",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38617360",
+          "author": "Tongwu Zhang",
+          "description": "APOBEC enzymes are part of the innate immunity and are responsible for restricting viruses and retroelements by deaminating cytosine residues^(1,2). Most solid tumors harbor different levels of somatic mutations attributed to the off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B)^(3-6). However, how APOBEC3A/B enzymes shape the tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, by combining deep whole-genome sequencing with multi-omics profiling...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38617360/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-15T10:00:00.000Z",
+          "wordCount": 2925,
+          "title": "APOBEC shapes tumor evolution and age at onset of lung cancer in smokers",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7897,6 +7487,16 @@
           "publishedOn": "2024-04-15T10:00:00.000Z",
           "wordCount": 1342,
           "title": "APOBEC shapes tumor evolution and age at onset of lung cancer in smokers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38611021",
+          "author": "Eleonora Secomandi",
+          "description": "Neuroblastoma (NB) is an embryonal tumor arising from the sympathetic central nervous system. The epidermal growth factor (EGF) plays a role in NB growth and metastatic behavior. Recently, we have demonstrated that cathepsin D (CD) contrasts EGF-induced NB cell growth in 2D by downregulating EGFR/MAPK signaling. Aggressive NB is highly metastatic to the bone and the brain. In the metastatic process, adherent cells detach to form clusters of suspended cells that adhere once they reach the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38611021/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-13T10:00:00.000Z",
+          "wordCount": 4625,
+          "title": "Differential Competitive Growth of Transgenic Subclones of Neuroblastoma Cells Expressing Different Levels of Cathepsin D Co-Cultured in 2D and 3D in Response to EGF: Implications in Tumor Heterogeneity and Metastasis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8023,6 +7623,16 @@
           "id": "pubmed:38609353",
           "author": "Xiaodong Liu",
           "description": "Solid tumors are complex ecosystems with heterogeneous 3D structures, but the spatial intra-tumor heterogeneity (sITH) at the macroscopic (i.e., whole tumor) level is under-explored. Using a phylogeographic approach, we sequence genomes and transcriptomes from 235 spatially informed sectors across 13 hepatocellular carcinomas (HCC), generating one of the largest datasets for studying sITH. We find that tumor heterogeneity in HCC segregates into spatially variegated blocks with large genotypic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38609353/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-12T10:00:00.000Z",
+          "wordCount": 3410,
+          "title": "Tumor phylogeography reveals block-shaped spatial heterogeneity and the mode of evolution in Hepatocellular Carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38609353",
+          "author": "Xiaodong Liu",
+          "description": "Solid tumors are complex ecosystems with heterogeneous 3D structures, but the spatial intra-tumor heterogeneity (sITH) at the macroscopic (i.e., whole tumor) level is under-explored. Using a phylogeographic approach, we sequence genomes and transcriptomes from 235 spatially informed sectors across 13 hepatocellular carcinomas (HCC), generating one of the largest datasets for studying sITH. We find that tumor heterogeneity in HCC segregates into spatially variegated blocks with large genotypic...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38609353/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240428205330&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-12T10:00:00.000Z",
           "wordCount": 3410,
@@ -8137,6 +7747,26 @@
           "publishedOn": "2024-04-12T10:00:00.000Z",
           "wordCount": 1840,
           "title": "Tumor phylogeography reveals block-shaped spatial heterogeneity and the mode of evolution in Hepatocellular Carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38589411",
+          "author": "Amélie Roehrig",
+          "description": "Hepatoblastomas (HB) display heterogeneous cellular phenotypes that influence the clinical outcome, but the underlying mechanisms are poorly understood. Here, we use a single-cell multiomic strategy to unravel the molecular determinants of this plasticity. We identify a continuum of HB cell states between hepatocytic (scH), liver progenitor (scLP) and mesenchymal (scM) differentiation poles, with an intermediate scH/LP population bordering scLP and scH areas in spatial transcriptomics. Chromatin...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38589411/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-08T10:00:00.000Z",
+          "wordCount": 4305,
+          "title": "Single-cell multiomics reveals the interplay of clonal evolution and cellular plasticity in hepatoblastoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38586041",
+          "author": "Xuecong Fu",
+          "description": "MOTIVATION: Blood-based profiling of tumor DNA (\"liquid biopsy\") has offered great prospects for non-invasive early cancer diagnosis, treatment monitoring, and clinical guidance, but require further advances in computational methods to become a robust quantitative assay of tumor clonal evolution. We propose new methods to better characterize tumor clonal dynamics from circulating tumor DNA (ctDNA), through application to two specific questions: 1) How to apply longitudinal ctDNA data to refine...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38586041/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-08T10:00:00.000Z",
+          "wordCount": 2451,
+          "title": "Marker selection strategies for circulating tumor DNA guided by phylogenetic inference",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8467,6 +8097,16 @@
           "publishedOn": "2024-04-08T10:00:00.000Z",
           "wordCount": 1213,
           "title": "Marker selection strategies for circulating tumor DNA guided by phylogenetic inference",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38582370",
+          "author": "Vladimir Bezrookove",
+          "description": "The evolution of primary melanoma to lymph node and distant metastasis is incompletely understood. We examined the genomic diversity in melanoma progression in matched primary melanomas and lymph node and distant metastases from 17 patients. FISH analysis revealed cancer cell fractions with monotonic copy number alterations, including PHIP gain and PTEN loss, in the metastatic cascade. By contrast, the cancer cell fraction with copy number alterations for BPTF and MITF was reduced in lymph node...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38582370/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240429205219&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-06T10:00:00.000Z",
+          "wordCount": 1602,
+          "title": "The Molecular Evolution of Melanoma Distant Metastases",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
