@@ -210,8 +210,18 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&utm_source=axios&ff=20240506205257",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=axios&fc=20220608003622&ff=20240507204304&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
       "articles": [
+        {
+          "id": "pubmed:38707601",
+          "author": "Jennifer Cai",
+          "description": "The coexistence of extramedullary hematopoiesis and extramedullary multiple myeloma can occur and present as painful pelvic masses. In such a case, normal hematopoietic cells may outnumber clonal plasma cells, posing a diagnostic challenge.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38707601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-06T10:00:00.000Z",
+          "wordCount": 1662,
+          "title": "Unusual painful pelvic masses: Extramedullary hematopoiesis with extramedullary multiple myeloma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38707601",
           "author": "Jennifer Cai",
@@ -220,6 +230,16 @@
           "publishedOn": "2024-05-06T10:00:00.000Z",
           "wordCount": 1139,
           "title": "Unusual painful pelvic masses: Extramedullary hematopoiesis with extramedullary multiple myeloma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38701435",
+          "author": "Janghee Woo",
+          "description": "Clonal hematopoiesis (CH) is more common in older persons and has been associated with an increased risk of hematological cancers and cardiovascular diseases. The most common CH mutations occur in the DNMT3A and TET2 genes and result in increased pro-inflammatory signaling. The Canakinumab Anti-inflammatory Thrombosis Outcome Study (CANTOS, NCT01327846) evaluated the neutralizing anti-IL-1β antibody canakinumab in 10,061 randomized patients with a history of myocardial infarction and persistent...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38701435/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-03T10:00:00.000Z",
+          "wordCount": 1465,
+          "title": "Effect of Clonal Hematopoiesis Mutations and Canakinumab Treatment on Incidence of Solid Tumors in the CANTOS Randomized Clinical Trial",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -260,6 +280,16 @@
           "publishedOn": "2024-05-03T10:00:00.000Z",
           "wordCount": 1157,
           "title": "Effect of Clonal Hematopoiesis Mutations and Canakinumab Treatment on Incidence of Solid Tumors in the CANTOS Randomized Clinical Trial",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38695144",
+          "author": "Alex Bataller",
+          "description": "Patients with relapsed acute myeloid leukemia (rAML) experience dismal outcomes. We performed a comprehensive analysis of patients with rAML to determine the genetic dynamics and survival predictive factors. We analyzed 875 patients with newly diagnosed AML who received intensive treatment (IT) or low-intensity treatment (LIT). Of these patients, 197 experienced subsequent rAML. Data was available for 164 patients, with a median time from CR/CRi to relapse of 6.5 months. Thirty-five of the 164...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38695144/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-02T10:00:00.000Z",
+          "wordCount": 1756,
+          "title": "Outcomes and genetic dynamics of acute myeloid leukemia at first relapse",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -310,6 +340,26 @@
           "publishedOn": "2024-05-02T10:00:00.000Z",
           "wordCount": 1372,
           "title": "Outcomes and genetic dynamics of acute myeloid leukemia at first relapse",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38692825",
+          "author": "Roland Jäger",
+          "description": "CONCLUSIONS: CH status in combination with the extent of carotid atherosclerosis jointly predict long-term mortality. Determination of CH can provide additional prognostic information in patients with asymptomatic carotid atherosclerosis.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38692825/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-01T10:00:00.000Z",
+          "wordCount": 2197,
+          "title": "Combined Effects of Clonal Hematopoiesis and Carotid Stenosis on Cardiovascular Mortality",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38689559",
+          "author": "Ilaria Iacobucci",
+          "description": "In Blood Cancer Discovery, Saygin and colleagues report that somatic variants that are recurrent in myeloid malignancies can also occur with high frequency (16%) in adult acute lymphoblastic leukemia (ALL) where they correlate with older age, diagnosis following genotoxic therapy for a prior malignancy and worse outcome to chemotherapy. Mutations in these \"myeloid\" genes can precede ALL diagnosis and arise in hematopoietic stem or progenitor cells that clonally expand and differentiate into both...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38689559/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-01T10:00:00.000Z",
+          "wordCount": 1645,
+          "title": "\"Myeloid\" Mutations in ALL Are Not Uncommon: Implications for Etiology and Therapies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -426,6 +476,16 @@
           "id": "pubmed:38688725",
           "author": "Xinrong Jin",
           "description": "As the demographic structure shifts towards an aging society, strategies aimed at slowing down or reversing the aging process become increasingly essential. Aging is a major predisposing factor for many chronic diseases in humans. The hematopoietic system, comprising blood cells and their associated bone marrow microenvironment, intricately participates in hematopoiesis, coagulation, immune regulation and other physiological phenomena. The aging process triggers various alterations within the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38688725/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-30T10:00:00.000Z",
+          "wordCount": 1462,
+          "title": "Unveiling aging dynamics in the hematopoietic system insights from single-cell technologies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38688725",
+          "author": "Xinrong Jin",
+          "description": "As the demographic structure shifts towards an aging society, strategies aimed at slowing down or reversing the aging process become increasingly essential. Aging is a major predisposing factor for many chronic diseases in humans. The hematopoietic system, comprising blood cells and their associated bone marrow microenvironment, intricately participates in hematopoiesis, coagulation, immune regulation and other physiological phenomena. The aging process triggers various alterations within the...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38688725/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240506205257&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-30T10:00:00.000Z",
           "wordCount": 1462,
@@ -480,6 +540,26 @@
           "publishedOn": "2024-04-30T10:00:00.000Z",
           "wordCount": 1217,
           "title": "Unveiling aging dynamics in the hematopoietic system insights from single-cell technologies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38684821",
+          "author": "Hussein Awada",
+          "description": "Therapy-related myeloid neoplasms (tMN) are complications of cytotoxic therapies. Risk of tMN is high in recipients of autologous hematopoietic stem cell transplantation (aHSCT). Acquisition of genomic mutations represents a key pathogenic driver but the origins, timing and dynamics, particularly in the context of preexisting or emergent clonal hematopoiesis (CH), have not been sufficiently clarified. We studied a cohort of 1507 patients undergoing aHSCT and a cohort of 263 patients who...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38684821/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-29T10:00:00.000Z",
+          "wordCount": 1929,
+          "title": "Clonal hematopoiesis-derived therapy-related myeloid neoplasms after autologous hematopoietic stem cell transplant for lymphoid and non-lymphoid disorders",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38684435",
+          "author": "Yoshihiro Hayashi",
+          "description": "Myelodysplastic syndromes (MDS) are a group of heterogenous hematopoietic stem cell (HSC) malignancies characterized by ineffective hematopoiesis in which clonal progenitor expansion occurs alongside impaired myelopoiesis. Inflammatory signaling activation due to dysregulated innate immunity is also a hallmark of MDS pathogenesis. We recently established a useful preclinical tool that recapitulates bona fide MDS phenotypes and gene expression profiles based on previously unreported co-mutations...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38684435/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-29T10:00:00.000Z",
+          "wordCount": 1477,
+          "title": "Pathogenesis of myelodysplastic syndromes by excessive mitochondrial fragmentation",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -620,6 +700,26 @@
           "publishedOn": "2024-04-29T10:00:00.000Z",
           "wordCount": 1216,
           "title": "Pathogenesis of myelodysplastic syndromes by excessive mitochondrial fragmentation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38677009",
+          "author": "Abigail Ward",
+          "description": "CONCLUSIONS: Determining the etiology of low VAF TP53 PVs requires ancillary tissue testing and incorporation of clinical phenotype. Discerning PZM versus CH is important to provide optimal care and follow-up.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38677009/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-27T10:00:00.000Z",
+          "wordCount": 1981,
+          "title": "Clinical management of TP53 mosaic variants found on germline genetic testing",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38673836",
+          "author": "Amanda Frydendahl",
+          "description": "Circulating tumor DNA (ctDNA) is a promising biomarker, reflecting the presence of tumor cells. Sequencing-based detection of ctDNA at low tumor fractions is challenging due to the crude error rate of sequencing. To mitigate this challenge, we developed ultra-deep mutation-integrated sequencing (UMIseq), a fixed-panel deep targeted sequencing approach, which is universally applicable to all colorectal cancer (CRC) patients. UMIseq features UMI-mediated error correction, the exclusion of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38673836/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-27T10:00:00.000Z",
+          "wordCount": 3627,
+          "title": "Error-Corrected Deep Targeted Sequencing of Circulating Cell-Free DNA from Colorectal Cancer Patients for Sensitive Detection of Circulating Tumor DNA",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -810,6 +910,26 @@
           "publishedOn": "2024-04-27T10:00:00.000Z",
           "wordCount": 1682,
           "title": "Error-Corrected Deep Targeted Sequencing of Circulating Cell-Free DNA from Colorectal Cancer Patients for Sensitive Detection of Circulating Tumor DNA",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38668051",
+          "author": "Daniel Karel",
+          "description": "Myelodysplastic neoplasms (MDS) are a heterogenous clonal disorder of hemopoietic stem cells characterized by cytomorphologic dysplasia, ineffective hematopoiesis, peripheral cytopenias and risk of progression to acute myeloid leukemia (AML). Our understanding of this disease has continued to evolve over the last century. More recently, prognostication and treatment have been determined by cytogenetic and molecular data. Specific genetic abnormalities, such as deletion of the long arm of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38668051/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-26T10:00:00.000Z",
+          "wordCount": 1776,
+          "title": "Myelodysplastic Neoplasms (MDS): The Current and Future Treatment Landscape",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38667272",
+          "author": "Enrica Borsi",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) refers to the phenomenon where a hematopoietic stem cell acquires fitness-increasing mutation(s), resulting in its clonal expansion. CHIP is frequently observed in multiple myeloma (MM) patients, and it is associated with a worse outcome. High-throughput amplicon-based single-cell DNA sequencing was performed on circulating CD34+ cells collected from twelve MM patients before autologous stem cell transplantation (ASCT). Moreover, in four MM...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38667272/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-26T10:00:00.000Z",
+          "wordCount": 3230,
+          "title": "Single-Cell DNA Sequencing Reveals an Evolutionary Pattern of CHIP in Transplant Eligible Multiple Myeloma Patients",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1036,6 +1156,16 @@
           "id": "pubmed:38657098",
           "author": "Nancy Gillis",
           "description": "CONCLUSION: This study provides the first evidence that PWH may have a higher prevalence of CH than PWoH with the same cancers. CH may be an independent biological aging risk factor contributing to inferior survival for PWH and cancer.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38657098/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-24T10:00:00.000Z",
+          "wordCount": 2176,
+          "title": "Clonal hematopoiesis in patients with HIV and cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38657098",
+          "author": "Nancy Gillis",
+          "description": "CONCLUSION: This study provides the first evidence that PWH may have a higher prevalence of CH than PWoH with the same cancers. CH may be an independent biological aging risk factor contributing to inferior survival for PWH and cancer.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38657098/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240506205257&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-24T10:00:00.000Z",
           "wordCount": 2176,
@@ -1160,6 +1290,26 @@
           "publishedOn": "2024-04-24T10:00:00.000Z",
           "wordCount": 1675,
           "title": "Clonal hematopoiesis in patients with HIV and cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38652890",
+          "author": "Paolo Lopedote",
+          "description": "Immunoglobulin light chain (AL) amyloidosis is characterized by the deposition of misfolded monoclonal free light chains, with cardiac complications accounting for patients' mortality. Clonal hematopoiesis of indeterminate potential (CHIP) has been associated with worse cardiovascular outcomes in the general population. Its significance in AL amyloidosis remains unclear. We collected clinical information and outcome data on 76 patients with a diagnosis of AL amyloidosis who underwent...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38652890/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-23T10:00:00.000Z",
+          "wordCount": 1528,
+          "title": "Clonal Hematopoiesis of Indeterminate Potential in Patients with Immunoglobulin Light Chain AL Amyloidosis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38651690",
+          "author": "Rebecca Austin",
+          "description": "The spatial distribution of cells carrying clonal hematopoiesis mutations in the bone marrow and the potential role of interactions with the microenvironment are largely unknown. This study takes clonal evolution to the spatial level by describing a novel technique examining the spatial location of mutated clones in the bone marrow and the first evidence that mutated hematopoietic clones are spatially constrained and have heterogenous locations within millimeters of distance. See related article...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38651690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-23T10:00:00.000Z",
+          "wordCount": 1561,
+          "title": "Hematopoietic Clonal Evolution Goes Spatial",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7017,8 +7167,38 @@
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&utm_medium=rss&fc=20220608010801&ff=20240506205257&v=2.18.0.post9+e462414&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&ff=20240507204304&v=2.18.0.post9+e462414&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:38712152",
+          "author": "M G Hirsch",
+          "description": "Cancer progression is an evolutionary process driven by the selection of cells adapted to gain growth advantage. We present the first formal study on the adaptation of gene expression in subclonal evolution. We model evolutionary changes in gene expression as stochastic Ornstein-Uhlenbeck processes, jointly leveraging the evolutionary history of subclones and single-cell expression data. Applying our model to sublines derived from single cells of a mouse melanoma revealed that sublines with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38712152/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-07T10:00:00.000Z",
+          "wordCount": 1114,
+          "title": "Stochastic modelling of single-cell gene expression adaptation reveals non-genomic contribution to evolution of tumor subclones",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38710133",
+          "author": "Ruihao Liang",
+          "description": "Meningioma is a benign tumor with slow growth and long course. However, patients with recurrent malignant meningioma still face a lack of effective treatment. Here, we report a rare case of primary mediastinal malignant meningioma with lung and bone metastases, who benefited from the treatment of apatinib (≥33 months) and anlotinib (until the publication date). Retrospective molecular analysis revealed the frequent amplification of FGF6 in primary and metastatic lesions. Then we constructed the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38710133/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-06T10:00:00.000Z",
+          "wordCount": 1460,
+          "title": "The FGF6 amplification mutation plays an important role in the progression and treatment of malignant meningioma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38706595",
+          "author": "Axel Lechner",
+          "description": "CONCLUSION: Genomic alterations as well as aberrant immune gene expression can be observed early in the evolution of tumors of the upper aerodigestive tract, highlighting the potential for targeting early mechanisms of disease progression.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38706595/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-06T10:00:00.000Z",
+          "wordCount": 2621,
+          "title": "Molecular characterization of the evolution of premalignant lesions in the upper aerodigestive tract",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38706595",
           "author": "Axel Lechner",
@@ -7027,6 +7207,16 @@
           "publishedOn": "2024-05-06T10:00:00.000Z",
           "wordCount": 1445,
           "title": "Molecular characterization of the evolution of premalignant lesions in the upper aerodigestive tract",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38704802",
+          "author": "Robert A Gatenby",
+          "description": "Somatic evolution selects cancer cell phenotypes that maximize survival and proliferation in dynamic environments. Although cancer cells are molecularly heterogeneous, we hypothesized convergent adaptive strategies to common host selection forces can be inferred from patterns of epigenetic and genetic evolutionary selection in similar tumors. We systematically investigated gene mutations and expression changes in lung adenocarcinomas with no common driver genes (n = 313). Although 13,461 genes...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38704802/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-05T10:00:00.000Z",
+          "wordCount": 2505,
+          "title": "Lung adenocarcinomas without driver genes converge to common adaptive strategies through diverse genetic, epigenetic, and niche construction evolutionary pathways",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7053,6 +7243,16 @@
           "id": "pubmed:38704377",
           "author": "Pengfei Yu",
           "description": "Ovarian metastasis is one of the major causes of treatment failure in patients with gastric cancer (GC). However, the genomic characteristics of ovarian metastasis in GC remain poorly understood. In this study, we enroll 74 GC patients with ovarian metastasis, with 64 having matched primary and metastatic samples. Here, we show a characterization of the mutation landscape of this disease, alongside an investigation into the molecular heterogeneity and pathway mutation enrichments between...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38704377/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-04T10:00:00.000Z",
+          "wordCount": 3530,
+          "title": "Mutation characteristics and molecular evolution of ovarian metastasis from gastric cancer and potential biomarkers for paclitaxel treatment",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38704377",
+          "author": "Pengfei Yu",
+          "description": "Ovarian metastasis is one of the major causes of treatment failure in patients with gastric cancer (GC). However, the genomic characteristics of ovarian metastasis in GC remain poorly understood. In this study, we enroll 74 GC patients with ovarian metastasis, with 64 having matched primary and metastatic samples. Here, we show a characterization of the mutation landscape of this disease, alongside an investigation into the molecular heterogeneity and pathway mutation enrichments between...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38704377/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240506205257&v=2.18.0.post9+e462414",
           "publishedOn": "2024-05-04T10:00:00.000Z",
           "wordCount": 3530,
@@ -7067,6 +7267,16 @@
           "publishedOn": "2024-05-04T10:00:00.000Z",
           "wordCount": 2153,
           "title": "Mutation characteristics and molecular evolution of ovarian metastasis from gastric cancer and potential biomarkers for paclitaxel treatment",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38702773",
+          "author": "Joo Kyung Park",
+          "description": "CONCLUSION: We uncover that the proportion of basal-like subtype is a key determinant for chemotherapy response and patient outcome, and that PDAC clonally evolves with subtype-specific dosage changes of cancer-associated genes by forming immunosuppressive microenvironments in its progression and metastasis.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38702773/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-03T10:00:00.000Z",
+          "wordCount": 3485,
+          "title": "Single-cell transcriptome analysis reveals subtype-specific clonal evolution and microenvironmental changes in liver metastasis of pancreatic adenocarcinoma and their clinical implications",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7097,6 +7307,16 @@
           "publishedOn": "2024-05-03T10:00:00.000Z",
           "wordCount": 2540,
           "title": "Single-cell transcriptome analysis reveals subtype-specific clonal evolution and microenvironmental changes in liver metastasis of pancreatic adenocarcinoma and their clinical implications",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38697850",
+          "author": "Seung-Been Lee",
+          "description": "CONCLUSION: While ttDNA remains more sensitive than ctDNA, our ctDNA platform demonstrated validity and potential value when ttDNA was unavailable. Post-treatment analysis of PD-ctDNA unveiled new pathogenic mutations, signifying cancer's clonal evolution. Additionally, baseline-ctDNA's VAF values were prognostic after treatment.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38697850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-02T10:00:00.000Z",
+          "wordCount": 1745,
+          "title": "Longitudinal Comparative Analysis of Circulating Tumor DNA and Matched Tumor Tissue DNA in Patients with Metastatic Colorectal Cancer Receiving Palliative First-Line Systemic Anti-Cancer Therapy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7137,6 +7357,36 @@
           "publishedOn": "2024-05-02T10:00:00.000Z",
           "wordCount": 1402,
           "title": "Longitudinal Comparative Analysis of Circulating Tumor DNA and Matched Tumor Tissue DNA in Patients with Metastatic Colorectal Cancer Receiving Palliative First-Line Systemic Anti-Cancer Therapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38685127",
+          "author": "Anna S Trigos",
+          "description": "CONCLUSIONS: Our study shows the greatest changes to gene co-expression patterns during tumor progression occur between genes of MC and UC origins, implicating the breakdown and rewiring of metazoan gene regulatory networks in cancer development and progression.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38685127/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-29T10:00:00.000Z",
+          "wordCount": 3113,
+          "title": "Disruption of metazoan gene regulatory networks in cancer alters the balance of co-expression between genes of unicellular and multicellular origins",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38684821",
+          "author": "Hussein Awada",
+          "description": "Therapy-related myeloid neoplasms (tMN) are complications of cytotoxic therapies. Risk of tMN is high in recipients of autologous hematopoietic stem cell transplantation (aHSCT). Acquisition of genomic mutations represents a key pathogenic driver but the origins, timing and dynamics, particularly in the context of preexisting or emergent clonal hematopoiesis (CH), have not been sufficiently clarified. We studied a cohort of 1507 patients undergoing aHSCT and a cohort of 263 patients who...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38684821/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-29T10:00:00.000Z",
+          "wordCount": 1929,
+          "title": "Clonal hematopoiesis-derived therapy-related myeloid neoplasms after autologous hematopoietic stem cell transplant for lymphoid and non-lymphoid disorders",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38683764",
+          "author": "Sai Harisha Rajanala",
+          "description": "Somatic Y chromosome loss in hematopoietic cells is associated with higher mortality in men. However, the status of the Y chromosome in cancer tissue is not fully known due to technical limitations, such as difficulties in labelling and sequencing DNA from the Y chromosome. We have developed a system to quantify Y chromosome gain or loss in patient-derived prostate cancer organoids. Using our system, we observed Y chromosome loss in 4 of the 13 (31%) patient-derived metastatic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38683764/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-29T10:00:00.000Z",
+          "wordCount": 2679,
+          "title": "Quantifying Y chromosome loss in primary and metastatic prostate cancer by chromosome painting",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7363,6 +7613,26 @@
           "id": "pubmed:38668357",
           "author": "Pierrick Martinez",
           "description": "The cancer paradigm is generally based on the somatic mutation model, asserting that cancer is a disease of genetic origin. The mitochondrial-stem cell connection (MSCC) proposes that tumorigenesis may result from an alteration of the mitochondria, specifically a chronic oxidative phosphorylation (OxPhos) insufficiency in stem cells, which forms cancer stem cells (CSCs) and leads to malignancy. Reviewed evidence suggests that the MSCC could provide a comprehensive understanding of all the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38668357/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-26T10:00:00.000Z",
+          "wordCount": 2195,
+          "title": "Mitochondrial-Stem Cell Connection: Providing Additional Explanations for Understanding Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38667272",
+          "author": "Enrica Borsi",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) refers to the phenomenon where a hematopoietic stem cell acquires fitness-increasing mutation(s), resulting in its clonal expansion. CHIP is frequently observed in multiple myeloma (MM) patients, and it is associated with a worse outcome. High-throughput amplicon-based single-cell DNA sequencing was performed on circulating CD34+ cells collected from twelve MM patients before autologous stem cell transplantation (ASCT). Moreover, in four MM...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38667272/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-26T10:00:00.000Z",
+          "wordCount": 3230,
+          "title": "Single-Cell DNA Sequencing Reveals an Evolutionary Pattern of CHIP in Transplant Eligible Multiple Myeloma Patients",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38668357",
+          "author": "Pierrick Martinez",
+          "description": "The cancer paradigm is generally based on the somatic mutation model, asserting that cancer is a disease of genetic origin. The mitochondrial-stem cell connection (MSCC) proposes that tumorigenesis may result from an alteration of the mitochondria, specifically a chronic oxidative phosphorylation (OxPhos) insufficiency in stem cells, which forms cancer stem cells (CSCs) and leads to malignancy. Reviewed evidence suggests that the MSCC could provide a comprehensive understanding of all the...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38668357/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240506205257&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-26T10:00:00.000Z",
           "wordCount": 2195,
@@ -7583,6 +7853,16 @@
           "id": "pubmed:38662960",
           "author": "Yosub Ha",
           "description": "Tumor heterogeneity requires development of an anticancer system equipped with both chemical and physical therapeutics to eradicate cancer exhibiting drug resistance and clonal evolution into diverse tumor cells. Assortment of various toxic components into one platform without compromising their individual toxic activity remains a formidable task. Herein, a novel drug delivery system (DDS) exerting potent cytotoxicity toward cancer cells was fabricated with gold nanoparticles (AuNPs) coated with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38662960/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-25T10:00:00.000Z",
+          "wordCount": 1610,
+          "title": "Combination of Chemical and Physical Cancer Therapeutics Developed with Microcapsules Made of kappa-Casein and Gold Nanoparticles in the Presence of Drug-Loaded Phase Change Materials",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38662960",
+          "author": "Yosub Ha",
+          "description": "Tumor heterogeneity requires development of an anticancer system equipped with both chemical and physical therapeutics to eradicate cancer exhibiting drug resistance and clonal evolution into diverse tumor cells. Assortment of various toxic components into one platform without compromising their individual toxic activity remains a formidable task. Herein, a novel drug delivery system (DDS) exerting potent cytotoxicity toward cancer cells was fabricated with gold nanoparticles (AuNPs) coated with...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38662960/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240506205257&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-25T10:00:00.000Z",
           "wordCount": 1610,
@@ -7697,6 +7977,26 @@
           "publishedOn": "2024-04-25T10:00:00.000Z",
           "wordCount": 1275,
           "title": "Combination of Chemical and Physical Cancer Therapeutics Developed with Microcapsules Made of kappa-Casein and Gold Nanoparticles in the Presence of Drug-Loaded Phase Change Materials",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38658701",
+          "author": "Insoo Yoon",
+          "description": "In recent years, Hi-C technology has revolutionized cancer research by elucidating the mystery of three-dimensional chromatin organization and its role in gene regulation. This paper explored the impact of Hi-C advancements on cancer research by delving into high-resolution techniques, such as chromatin loops, structural variants, haplotype phasing, and extrachromosomal DNA (ecDNA). Distant regulatory elements interact with their target genes through chromatin loops. Structural variants...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38658701/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-24T10:00:00.000Z",
+          "wordCount": 2354,
+          "title": "3C methods in cancer research: recent advances and future prospects",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38656785",
+          "author": "Georgina Bramwell",
+          "description": "Evolutionary theory predicts that accumulation of deleterious mutations in asexually reproducing organisms should lead to genomic decay. Clonally reproducing cell lines, i.e., transmissible cancers, when cells are transmitted as allografts/xenografts, break these rules, and survive for centuries and millennia. The currently known 11 transmissible cancer lineages occur in dogs (Canine Venereal Tumour Disease, CTVT), in Tasmanian devils (Devil Facial Tumour Diseases, DFT 1 and DFT2) and in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38656785/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240507204304&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-24T10:00:00.000Z",
+          "wordCount": 1470,
+          "title": "Transmissible cancers, the genomes that don't melt down",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -13527,266 +13827,6 @@
           "publishedOn": "2024-03-13T10:00:00.000Z",
           "wordCount": 1228,
           "title": "Modeling the Effect of Spatial Structure on Solid Tumor Evolution and Circulating Tumor DNA Composition",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240404205211&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2172,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240403205209&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2172,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240402205026&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2172,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240401205322&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2172,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240331205600&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2199,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240330205536&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2199,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240329204847&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2218,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240328205051&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2218,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240327205053&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2229,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240326205025&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2229,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2229,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240324205157&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2229,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240323205541&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2229,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240322204906&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2229,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240321205008&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2229,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240320205145&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 2229,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240319205002&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 1875,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240318205006&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 1875,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240317205113&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 1875,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240316205329&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 1875,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240315204911&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 1875,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240314205048&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 1875,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240313205031&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 1875,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240312205055&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 1856,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240311204947&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 1846,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38459936",
-          "author": "Kotaro Takahashi",
-          "description": "Lynch syndrome-associated endometrial cancer patients often present multiple synchronous tumors and this assessment can affect treatment strategies. We present a case of a 27-year-old woman with tumors in the uterine corpus, cervix, and ovaries who was diagnosed with endometrial cancer and exhibited cervical invasion and ovarian metastasis. Her family history suggested Lynch syndrome, and genetic testing identified a variant of uncertain significance, MLH1 p.L582H. We conducted...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38459936/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240310205110&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-09T11:00:00.000Z",
-          "wordCount": 1617,
-          "title": "Clonal origin and genomic diversity in Lynch syndrome-associated endometrial cancer with multiple synchronous tumors: Identification of the pathogenicity of MLH1 p.L582H",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
