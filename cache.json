@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&v=2.18.0.post9+e462414&utm_medium=rss&utm_campaign=pubmed-2&utm_source=axios&ff=20240517205324",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&utm_medium=rss&ff=20240518205750&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:38759798",
+          "author": "Roberto Molinaro",
+          "description": "CONCLUSIONS: These observations provide new mechanistic insight into the pathophysiology of superficial erosion, the heightened risk for myocardial infarction in JAK2^(V617F) CHIP, and point the way to personalized therapeutics based on CHIP status.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38759798/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-17T10:00:00.000Z",
+          "wordCount": 1740,
+          "title": "The clonal hematopoiesis mutation Jak2(V617F) aggravates endothelial injury and thrombosis in arteries with erosion-like intimas",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38753705",
+          "author": "Daniel R Zollinger",
+          "description": "Emerging technologies focused on the detection and quantification of circulating tumor DNA (ctDNA) in blood show extensive potential for managing patient treatment decisions, informing risk of recurrence, and predicting response to therapy. Currently available tissue-informed approaches are often limited by the need for additional sequencing of normal tissue or peripheral mononuclear cells to identify non-tumor-derived alterations while tissue-naïve approaches are often limited in sensitivity....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38753705/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-16T10:00:00.000Z",
+          "wordCount": 2771,
+          "title": "Analytical validation of a novel comprehensive genomic profiling informed circulating tumor DNA monitoring assay for solid tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38753705",
           "author": "Daniel R Zollinger",
@@ -230,6 +250,16 @@
           "publishedOn": "2024-05-16T10:00:00.000Z",
           "wordCount": 1798,
           "title": "Analytical validation of a novel comprehensive genomic profiling informed circulating tumor DNA monitoring assay for solid tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38744975",
+          "author": "Nicholas Bernstein",
+          "description": "Human aging is marked by the emergence of a tapestry of clonal expansions in dividing tissues, particularly evident in blood as clonal hematopoiesis (CH). CH, linked to cancer risk and aging-related phenotypes, often stems from somatic mutations in a set of established genes. However, the majority of clones lack known drivers. Here we infer gene-level positive selection in whole blood exomes from 200,618 individuals in UK Biobank. We identify 17 additional genes, ZBTB33, ZNF318, ZNF234, SPRED2,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38744975/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-14T10:00:00.000Z",
+          "wordCount": 1433,
+          "title": "Analysis of somatic mutations in whole blood from 200,618 individuals identifies pervasive positive selection and novel drivers of clonal hematopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -260,6 +290,16 @@
           "publishedOn": "2024-05-14T10:00:00.000Z",
           "wordCount": 1389,
           "title": "Analysis of somatic mutations in whole blood from 200,618 individuals identifies pervasive positive selection and novel drivers of clonal hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38734989",
+          "author": "Yeon Soo Yeom",
+          "description": "CONCLUSIONS: We confirmed that our method estimates ABM doses across treatment sites accurately, while providing high computational efficiency. The method will be used to reconstruct patient-specific ABM doses for dose-response assessment in a large cohort study. The method can also be applied to prospective dose calculation within a clinical TPS to support clinical decision making at the point of care.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38734989/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-12T10:00:00.000Z",
+          "wordCount": 1686,
+          "title": "A novel method for rapid estimation of active bone marrow dose for radiotherapy patients in epidemiological studies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -326,6 +366,16 @@
           "id": "pubmed:38733986",
           "author": "Rasoul Pourebrahim",
           "description": "The investigation of the mechanisms behind p53 mutations in acute myeloid leukemia (AML) has been limited by the lack of suitable mouse models, which historically have resulted in lymphoma rather than leukemia. This study introduces two new AML mouse models. One model induces mutant p53 and Mdm2 haploinsufficiency in early development, showing the role of Mdm2 in myeloid-biased hematopoiesis and AML predisposition, independent of p53. The second model mimics clonal hematopoiesis by inducing...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38733986/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-11T10:00:00.000Z",
+          "wordCount": 1528,
+          "title": "Age-specific induction of mutant p53 drives clonal hematopoiesis and acute myeloid leukemia in adult mice",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38733986",
+          "author": "Rasoul Pourebrahim",
+          "description": "The investigation of the mechanisms behind p53 mutations in acute myeloid leukemia (AML) has been limited by the lack of suitable mouse models, which historically have resulted in lymphoma rather than leukemia. This study introduces two new AML mouse models. One model induces mutant p53 and Mdm2 haploinsufficiency in early development, showing the role of Mdm2 in myeloid-biased hematopoiesis and AML predisposition, independent of p53. The second model mimics clonal hematopoiesis by inducing...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38733986/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240517205324&v=2.18.0.post9+e462414",
           "publishedOn": "2024-05-11T10:00:00.000Z",
           "wordCount": 1528,
@@ -380,6 +430,16 @@
           "publishedOn": "2024-05-11T10:00:00.000Z",
           "wordCount": 1495,
           "title": "Age-specific induction of mutant p53 drives clonal hematopoiesis and acute myeloid leukemia in adult mice",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38722595",
+          "author": "Santiago Demajo",
+          "description": "Clonal hematopoiesis (CH) is a phenomenon of clonal expansion of hematopoietic stem cells driven by somatic mutations affecting certain genes. Recently, CH has been linked to the development of hematologic malignancies, cardiovascular diseases, and other conditions. Although the most frequently mutated CH driver genes have been identified, a systematic landscape of the mutations capable of initiating this phenomenon is still lacking. Here, we trained machine-learning models for 12 of the most...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38722595/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-09T10:00:00.000Z",
+          "wordCount": 1125,
+          "title": "Identification of Clonal Hematopoiesis Driver Mutations through In Silico Saturation Mutagenesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -476,6 +536,16 @@
           "id": "pubmed:38720070",
           "author": "Franco Izzo",
           "description": "In somatic tissue differentiation, chromatin accessibility changes govern priming and precursor commitment towards cellular fates^(1-3). Therefore, somatic mutations are likely to alter chromatin accessibility patterns, as they disrupt differentiation topologies leading to abnormal clonal outgrowth. However, defining the impact of somatic mutations on the epigenome in human samples is challenging due to admixed mutated and wild-type cells. Here, to chart how somatic mutations disrupt epigenetic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38720070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-08T10:00:00.000Z",
+          "wordCount": 2229,
+          "title": "Mapping genotypes to chromatin accessibility profiles in single cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38720070",
+          "author": "Franco Izzo",
+          "description": "In somatic tissue differentiation, chromatin accessibility changes govern priming and precursor commitment towards cellular fates^(1-3). Therefore, somatic mutations are likely to alter chromatin accessibility patterns, as they disrupt differentiation topologies leading to abnormal clonal outgrowth. However, defining the impact of somatic mutations on the epigenome in human samples is challenging due to admixed mutated and wild-type cells. Here, to chart how somatic mutations disrupt epigenetic...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38720070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240517205324&v=2.18.0.post9+e462414",
           "publishedOn": "2024-05-08T10:00:00.000Z",
           "wordCount": 2215,
@@ -560,6 +630,16 @@
           "publishedOn": "2024-05-08T10:00:00.000Z",
           "wordCount": 2181,
           "title": "Mapping genotypes to chromatin accessibility profiles in single cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38714703",
+          "author": "Yash Pershad",
+          "description": "Clonal hematopoiesis (CH) is characterized by the acquisition of a somatic mutation in a hematopoietic stem cell that results in a clonal expansion. These driver mutations can be single nucleotide variants in cancer driver genes or larger structural rearrangements called mosaic chromosomal alterations (mCAs). The factors that influence the variations in mCA fitness and ultimately result in different clonal expansion rates are not well understood. We used the Passenger-Approximated Clonal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38714703/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-07T10:00:00.000Z",
+          "wordCount": 4133,
+          "title": "Determinants of mosaic chromosomal alteration fitness",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -660,6 +740,16 @@
           "publishedOn": "2024-05-07T10:00:00.000Z",
           "wordCount": 2957,
           "title": "Determinants of mosaic chromosomal alteration fitness",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38707601",
+          "author": "Jennifer Cai",
+          "description": "The coexistence of extramedullary hematopoiesis and extramedullary multiple myeloma can occur and present as painful pelvic masses. In such a case, normal hematopoietic cells may outnumber clonal plasma cells, posing a diagnostic challenge.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38707601/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-06T10:00:00.000Z",
+          "wordCount": 1708,
+          "title": "Unusual painful pelvic masses: Extramedullary hematopoiesis with extramedullary multiple myeloma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -780,6 +870,16 @@
           "publishedOn": "2024-05-06T10:00:00.000Z",
           "wordCount": 1139,
           "title": "Unusual painful pelvic masses: Extramedullary hematopoiesis with extramedullary multiple myeloma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38701435",
+          "author": "Janghee Woo",
+          "description": "Clonal hematopoiesis (CH) is more common in older persons and has been associated with an increased risk of hematological cancers and cardiovascular diseases. The most common CH mutations occur in the DNMT3A and TET2 genes and result in increased pro-inflammatory signaling. The Canakinumab Anti-inflammatory Thrombosis Outcome Study (CANTOS, NCT01327846) evaluated the neutralizing anti-IL-1β antibody canakinumab in 10,061 randomized patients with a history of myocardial infarction and persistent...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38701435/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-03T10:00:00.000Z",
+          "wordCount": 1472,
+          "title": "Effect of Clonal Hematopoiesis Mutations and Canakinumab Treatment on Incidence of Solid Tumors in the CANTOS Randomized Clinical Trial",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -930,6 +1030,16 @@
           "publishedOn": "2024-05-03T10:00:00.000Z",
           "wordCount": 1157,
           "title": "Effect of Clonal Hematopoiesis Mutations and Canakinumab Treatment on Incidence of Solid Tumors in the CANTOS Randomized Clinical Trial",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38695144",
+          "author": "Alex Bataller",
+          "description": "Patients with relapsed acute myeloid leukemia (rAML) experience dismal outcomes. We performed a comprehensive analysis of patients with rAML to determine the genetic dynamics and survival predictive factors. We analyzed 875 patients with newly diagnosed AML who received intensive treatment (IT) or low-intensity treatment (LIT). Of these patients, 197 experienced subsequent rAML. Data was available for 164 patients, with a median time from CR/CRi to relapse of 6.5 months. Thirty-five of the 164...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38695144/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-02T10:00:00.000Z",
+          "wordCount": 1756,
+          "title": "Outcomes and genetic dynamics of acute myeloid leukemia at first relapse",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1090,6 +1200,26 @@
           "publishedOn": "2024-05-02T10:00:00.000Z",
           "wordCount": 1372,
           "title": "Outcomes and genetic dynamics of acute myeloid leukemia at first relapse",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38692825",
+          "author": "Roland Jäger",
+          "description": "CONCLUSIONS: CH status in combination with the extent of carotid atherosclerosis jointly predict long-term mortality. Determination of CH can provide additional prognostic information in patients with asymptomatic carotid atherosclerosis.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38692825/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-01T10:00:00.000Z",
+          "wordCount": 2197,
+          "title": "Combined Effects of Clonal Hematopoiesis and Carotid Stenosis on Cardiovascular Mortality",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38689559",
+          "author": "Ilaria Iacobucci",
+          "description": "In Blood Cancer Discovery, Saygin and colleagues report that somatic variants that are recurrent in myeloid malignancies can also occur with high frequency (16%) in adult acute lymphoblastic leukemia (ALL) where they correlate with older age, diagnosis following genotoxic therapy for a prior malignancy and worse outcome to chemotherapy. Mutations in these \"myeloid\" genes can precede ALL diagnosis and arise in hematopoietic stem or progenitor cells that clonally expand and differentiate into both...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38689559/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-01T10:00:00.000Z",
+          "wordCount": 1645,
+          "title": "\"Myeloid\" Mutations in ALL Are Not Uncommon: Implications for Etiology and Therapies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1426,6 +1556,16 @@
           "id": "pubmed:38688725",
           "author": "Xinrong Jin",
           "description": "As the demographic structure shifts towards an aging society, strategies aimed at slowing down or reversing the aging process become increasingly essential. Aging is a major predisposing factor for many chronic diseases in humans. The hematopoietic system, comprising blood cells and their associated bone marrow microenvironment, intricately participates in hematopoiesis, coagulation, immune regulation and other physiological phenomena. The aging process triggers various alterations within the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38688725/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-30T10:00:00.000Z",
+          "wordCount": 1465,
+          "title": "Unveiling aging dynamics in the hematopoietic system insights from single-cell technologies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38688725",
+          "author": "Xinrong Jin",
+          "description": "As the demographic structure shifts towards an aging society, strategies aimed at slowing down or reversing the aging process become increasingly essential. Aging is a major predisposing factor for many chronic diseases in humans. The hematopoietic system, comprising blood cells and their associated bone marrow microenvironment, intricately participates in hematopoiesis, coagulation, immune regulation and other physiological phenomena. The aging process triggers various alterations within the...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38688725/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240517205324&v=2.18.0.post9+e462414",
           "publishedOn": "2024-04-30T10:00:00.000Z",
           "wordCount": 1465,
@@ -1590,6 +1730,16 @@
           "publishedOn": "2024-04-30T10:00:00.000Z",
           "wordCount": 1217,
           "title": "Unveiling aging dynamics in the hematopoietic system insights from single-cell technologies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38684821",
+          "author": "Hussein Awada",
+          "description": "Therapy-related myeloid neoplasms (tMN) are complications of cytotoxic therapies. Risk of tMN is high in recipients of autologous hematopoietic stem cell transplantation (aHSCT). Acquisition of genomic mutations represents a key pathogenic driver but the origins, timing and dynamics, particularly in the context of preexisting or emergent clonal hematopoiesis (CH), have not been sufficiently clarified. We studied a cohort of 1507 patients undergoing aHSCT and a cohort of 263 patients who...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38684821/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-04-29T10:00:00.000Z",
+          "wordCount": 1932,
+          "title": "Clonal hematopoiesis-derived therapy-related myeloid neoplasms after autologous hematopoietic stem cell transplant for lymphoid and non-lymphoid disorders",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -6561,364 +6711,34 @@
           "wordCount": 2116,
           "title": "Clonal hematopoiesis and its impact on the aging osteo-hematopoietic niche",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240407205227&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1893,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240406205547&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1893,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240405204949&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1893,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240405204949&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1649,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240404205211&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1893,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240404205211&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1649,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240403205209&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1890,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240403205209&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1649,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240402205026&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1890,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240402205026&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1649,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240401205322&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1890,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240401205322&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1649,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240331205600&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1890,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240331205600&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1649,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240330205536&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1890,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240330205536&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1649,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240329204847&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1890,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240329204847&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1649,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240328205051&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1903,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240328205051&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1649,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240327205053&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1903,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240327205053&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1649,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240326205025&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1903,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240326205025&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1649,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1903,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240325205025&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1649,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240324205157&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1881,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240324205157&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1642,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240323205541&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1865,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240323205541&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1642,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240322204906&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1865,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240322204906&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1642,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508850",
-          "author": "Sandro Ninni",
-          "description": "Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide and is associated with a range of adverse clinical outcomes. Accumulating evidence points to inflammatory processes resulting from innate immune responses as a cornerstone in AF pathogenesis. Genetic and epigenetic factors affecting leukocytes have been identified as key modulators of the inflammatory response. Inherited variants in genes encoding proteins involved in the innate immune response have been associated with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240321205008&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1791,
-          "title": "Genetic Factors Altering Immune Responses in Atrial Fibrillation: JACC Review Topic of the Week",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240321205008&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1642,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38507736",
-          "author": "Jonathan Brett Heimlich",
-          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon that increases risk for hematologic malignancy and cardiovascular disease. CH is thought to enhance disease risk through inflammation in the peripheral blood1. Here, we profile peripheral blood gene expression in 66,968 single cells from a cohort of 17 CH patients and 7 controls. Using a novel mitochondrial DNA barcoding approach, we were able to identify and separately compare mutant TET2 and DNMT3A cells to non-mutant counterparts. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38507736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240320205145&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1302,
-          "title": "Multiomic Profiling of Human Clonal Hematopoiesis Reveals Genotype and Cell-Specific Inflammatory Pathway Activation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20240517205325&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_medium=rss&fc=20220608010801",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.18.0.post9+e462414&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&fc=20220608010801&ff=20240518205750&utm_medium=rss&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:38759655",
+          "author": "Hengkang Liu",
+          "description": "In acral melanoma (AM), progression from in situ (AMis) to invasive AM (iAM) leads to significantly reduced survival. However, evolutionary dynamics during this process remain elusive. Here, we report integrative molecular and spatial characterization of 147 AMs using genomics, bulk and single-cell transcriptomics, and spatial transcriptomics and proteomics. Vertical invasion from AMis to iAM displays an early and monoclonal seeding pattern. The subsequent regional expansion of iAM exhibits two...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38759655/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-17T10:00:00.000Z",
+          "wordCount": 1753,
+          "title": "Integrative molecular and spatial analysis reveals evolutionary dynamics and tumor-immune interplay of in situ and invasive acral melanoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38757376",
+          "author": "Asli Küçükosmanoglu",
+          "description": "Genetic heterogeneity in tumors can show a remarkable selectivity when two or more independent genetic events occur in the same gene. This phenomenon, called composite mutation, points toward a selective pressure, which frequently causes therapy resistance to mutation-specific drugs. Since composite mutations have been described to occur in sub-clonal populations, they are not always captured through biopsy sampling. Here, we provide a proof of concept to predict composite mutations to...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38757376/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-17T10:00:00.000Z",
+          "wordCount": 1391,
+          "title": "Oncogenic composite mutations can be predicted by co-mutations and their chromosomal location",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:38757376",
           "author": "Asli Küçükosmanoglu",
@@ -6927,6 +6747,16 @@
           "publishedOn": "2024-05-17T10:00:00.000Z",
           "wordCount": 1391,
           "title": "Oncogenic composite mutations can be predicted by co-mutations and their chromosomal location",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38746396",
+          "author": "Marc J Williams",
+          "description": "Cancer-associated mutations have been documented in normal tissues, but the prevalence and nature of somatic copy number alterations and their role in tumor initiation and evolution is not well understood. Here, using single cell DNA sequencing, we describe the landscape of CNAs in >42,000 breast epithelial cells from women with normal or high risk of developing breast cancer. Accumulation of individual cells with one or two of a specific subset of CNAs (e.g. 1q gain and 16q, 22q, 7q, and 10q...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38746396/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-15T10:00:00.000Z",
+          "wordCount": 1348,
+          "title": "Luminal breast epithelial cells from wildtype and BRCA mutation carriers harbor copy number alterations commonly associated with breast cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -6963,6 +6793,16 @@
           "id": "pubmed:38744814",
           "author": "Alvin Wei Tian Ng",
           "description": "Esophageal adenocarcinoma is a prominent example of cancer characterized by frequent amplifications in oncogenes. However, the mechanisms leading to amplicons that involve breakage-fusion-bridge cycles and extrachromosomal DNA are poorly understood. Here, we use 710 esophageal adenocarcinoma cases with matched samples and patient-derived organoids to disentangle complex amplicons and their associated mechanisms. Short-read sequencing identifies ERBB2, MYC, MDM2, and HMGA2 as the most frequent...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38744814/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-14T10:00:00.000Z",
+          "wordCount": 3287,
+          "title": "Disentangling oncogenic amplicons in esophageal adenocarcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38744814",
+          "author": "Alvin Wei Tian Ng",
+          "description": "Esophageal adenocarcinoma is a prominent example of cancer characterized by frequent amplifications in oncogenes. However, the mechanisms leading to amplicons that involve breakage-fusion-bridge cycles and extrachromosomal DNA are poorly understood. Here, we use 710 esophageal adenocarcinoma cases with matched samples and patient-derived organoids to disentangle complex amplicons and their associated mechanisms. Short-read sequencing identifies ERBB2, MYC, MDM2, and HMGA2 as the most frequent...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38744814/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240517205325&v=2.18.0.post9+e462414",
           "publishedOn": "2024-05-14T10:00:00.000Z",
           "wordCount": 3287,
@@ -6987,6 +6827,26 @@
           "publishedOn": "2024-05-14T10:00:00.000Z",
           "wordCount": 2123,
           "title": "Disentangling oncogenic amplicons in esophageal adenocarcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38739001",
+          "author": "Hye Won Hwang",
+          "description": "Cutaneous squamous cell carcinoma (cSCC) is the second most common skin cancer. While many treatments exist, our understanding of its genomic progression, especially from the epidermis to the deep dermis, remains limited. This study aims to identify genetic mutations associated with the progression of cSCC into the deep dermis, providing insights into its aggressive behavior and high-risk features. We performed high-depth whole-exome sequencing on 12 cSCC tissues, along with paired normal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38739001/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-13T10:00:00.000Z",
+          "wordCount": 1422,
+          "title": "Genomic progression for local invasion of cutaneous squamous cell carcinoma from the superficial to the deep portion",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38736105",
+          "author": "Adebowale J Adeniran",
+          "description": "Renal cell carcinoma (RCC) with sarcomatoid and rhabdoid morphologies has an aggressive biological behavior and a typically poor prognosis. The current 2022 WHO classification of renal tumors does not include them as distinct histologic entities but rather as transformational changes that may arise in a background of various distinct histologic types of RCC. The sarcomatoid component shows malignant spindle cells that may grow as intersecting fascicles, which is reminiscent of pleomorphic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38736105/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-13T10:00:00.000Z",
+          "wordCount": 1349,
+          "title": "Sarcomatoid and Rhabdoid Renal Cell Carcinoma: Clinical, Pathologic, and Molecular Genetic Features",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7093,6 +6953,16 @@
           "id": "pubmed:38730632",
           "author": "Hammad Tashkandi",
           "description": "Myeloproliferative neoplasms (MPNs), including Polycythemia Vera (PV), Essential Thrombocythemia (ET), and Primary Myelofibrosis (PMF), are characterized by the clonal proliferation of hematopoietic stem cells leading to an overproduction of hematopoietic cells. The last two decades have seen significant advances in our understanding of the molecular pathogenesis of these diseases, with the discovery of key mutations in the JAK2, CALR, and MPL genes being pivotal. This review provides a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38730632/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-11T10:00:00.000Z",
+          "wordCount": 1463,
+          "title": "Advances in Molecular Understanding of Polycythemia Vera, Essential Thrombocythemia, and Primary Myelofibrosis: Towards Precision Medicine",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38730632",
+          "author": "Hammad Tashkandi",
+          "description": "Myeloproliferative neoplasms (MPNs), including Polycythemia Vera (PV), Essential Thrombocythemia (ET), and Primary Myelofibrosis (PMF), are characterized by the clonal proliferation of hematopoietic stem cells leading to an overproduction of hematopoietic cells. The last two decades have seen significant advances in our understanding of the molecular pathogenesis of these diseases, with the discovery of key mutations in the JAK2, CALR, and MPL genes being pivotal. This review provides a...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38730632/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240517205325&v=2.18.0.post9+e462414",
           "publishedOn": "2024-05-11T10:00:00.000Z",
           "wordCount": 1463,
@@ -7157,6 +7027,16 @@
           "publishedOn": "2024-05-11T10:00:00.000Z",
           "wordCount": 1157,
           "title": "Advances in Molecular Understanding of Polycythemia Vera, Essential Thrombocythemia, and Primary Myelofibrosis: Towards Precision Medicine",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38723776",
+          "author": "Luca Roma",
+          "description": "CONCLUSION: LUAD-like PPCs are mainly driven by RTK-RAS signaling, whereas epithelial-mesenchymal transition programs as highlighted by increased NCAM1 and decreased CDH1 expression govern the epithelial-sarcomatoid transition between the clonally related tumor components. Several alterations in PPCs pinpoint therapeutic opportunities.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38723776/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-09T10:00:00.000Z",
+          "wordCount": 1527,
+          "title": "Tracing tumor heterogeneity of pleomorphic carcinoma of the lung",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7237,6 +7117,16 @@
           "publishedOn": "2024-05-09T10:00:00.000Z",
           "wordCount": 1498,
           "title": "Tracing tumor heterogeneity of pleomorphic carcinoma of the lung",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38712152",
+          "author": "M G Hirsch",
+          "description": "Cancer progression is an evolutionary process driven by the selection of cells adapted to gain growth advantage. We present the first formal study on the adaptation of gene expression in subclonal evolution. We model evolutionary changes in gene expression as stochastic Ornstein-Uhlenbeck processes, jointly leveraging the evolutionary history of subclones and single-cell expression data. Applying our model to sublines derived from single cells of a mouse melanoma revealed that sublines with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38712152/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-07T10:00:00.000Z",
+          "wordCount": 3221,
+          "title": "Stochastic modelling of single-cell gene expression adaptation reveals non-genomic contribution to evolution of tumor subclones",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7347,6 +7237,26 @@
           "publishedOn": "2024-05-07T10:00:00.000Z",
           "wordCount": 1114,
           "title": "Stochastic modelling of single-cell gene expression adaptation reveals non-genomic contribution to evolution of tumor subclones",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38710133",
+          "author": "Ruihao Liang",
+          "description": "Meningioma is a benign tumor with slow growth and long course. However, patients with recurrent malignant meningioma still face a lack of effective treatment. Here, we report a rare case of primary mediastinal malignant meningioma with lung and bone metastases, who benefited from the treatment of apatinib (≥33 months) and anlotinib (until the publication date). Retrospective molecular analysis revealed the frequent amplification of FGF6 in primary and metastatic lesions. Then we constructed the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38710133/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-06T10:00:00.000Z",
+          "wordCount": 2656,
+          "title": "The FGF6 amplification mutation plays an important role in the progression and treatment of malignant meningioma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38706595",
+          "author": "Axel Lechner",
+          "description": "CONCLUSION: Genomic alterations as well as aberrant immune gene expression can be observed early in the evolution of tumors of the upper aerodigestive tract, highlighting the potential for targeting early mechanisms of disease progression.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38706595/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-06T10:00:00.000Z",
+          "wordCount": 2661,
+          "title": "Molecular characterization of the evolution of premalignant lesions in the upper aerodigestive tract",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7583,6 +7493,16 @@
           "id": "pubmed:38704802",
           "author": "Robert A Gatenby",
           "description": "Somatic evolution selects cancer cell phenotypes that maximize survival and proliferation in dynamic environments. Although cancer cells are molecularly heterogeneous, we hypothesized convergent adaptive strategies to common host selection forces can be inferred from patterns of epigenetic and genetic evolutionary selection in similar tumors. We systematically investigated gene mutations and expression changes in lung adenocarcinomas with no common driver genes (n = 313). Although 13,461 genes...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38704802/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-05T10:00:00.000Z",
+          "wordCount": 2559,
+          "title": "Lung adenocarcinomas without driver genes converge to common adaptive strategies through diverse genetic, epigenetic, and niche construction evolutionary pathways",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38704802",
+          "author": "Robert A Gatenby",
+          "description": "Somatic evolution selects cancer cell phenotypes that maximize survival and proliferation in dynamic environments. Although cancer cells are molecularly heterogeneous, we hypothesized convergent adaptive strategies to common host selection forces can be inferred from patterns of epigenetic and genetic evolutionary selection in similar tumors. We systematically investigated gene mutations and expression changes in lung adenocarcinomas with no common driver genes (n = 313). Although 13,461 genes...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38704802/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240517205325&v=2.18.0.post9+e462414",
           "publishedOn": "2024-05-05T10:00:00.000Z",
           "wordCount": 2559,
@@ -7713,6 +7633,16 @@
           "id": "pubmed:38704377",
           "author": "Pengfei Yu",
           "description": "Ovarian metastasis is one of the major causes of treatment failure in patients with gastric cancer (GC). However, the genomic characteristics of ovarian metastasis in GC remain poorly understood. In this study, we enroll 74 GC patients with ovarian metastasis, with 64 having matched primary and metastatic samples. Here, we show a characterization of the mutation landscape of this disease, alongside an investigation into the molecular heterogeneity and pathway mutation enrichments between...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38704377/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-04T10:00:00.000Z",
+          "wordCount": 3574,
+          "title": "Mutation characteristics and molecular evolution of ovarian metastasis from gastric cancer and potential biomarkers for paclitaxel treatment",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38704377",
+          "author": "Pengfei Yu",
+          "description": "Ovarian metastasis is one of the major causes of treatment failure in patients with gastric cancer (GC). However, the genomic characteristics of ovarian metastasis in GC remain poorly understood. In this study, we enroll 74 GC patients with ovarian metastasis, with 64 having matched primary and metastatic samples. Here, we show a characterization of the mutation landscape of this disease, alongside an investigation into the molecular heterogeneity and pathway mutation enrichments between...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38704377/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240517205325&v=2.18.0.post9+e462414",
           "publishedOn": "2024-05-04T10:00:00.000Z",
           "wordCount": 3574,
@@ -7837,6 +7767,16 @@
           "publishedOn": "2024-05-04T10:00:00.000Z",
           "wordCount": 2153,
           "title": "Mutation characteristics and molecular evolution of ovarian metastasis from gastric cancer and potential biomarkers for paclitaxel treatment",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38702773",
+          "author": "Joo Kyung Park",
+          "description": "CONCLUSION: We uncover that the proportion of basal-like subtype is a key determinant for chemotherapy response and patient outcome, and that PDAC clonally evolves with subtype-specific dosage changes of cancer-associated genes by forming immunosuppressive microenvironments in its progression and metastasis.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38702773/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-03T10:00:00.000Z",
+          "wordCount": 3522,
+          "title": "Single-cell transcriptome analysis reveals subtype-specific clonal evolution and microenvironmental changes in liver metastasis of pancreatic adenocarcinoma and their clinical implications",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7977,6 +7917,16 @@
           "publishedOn": "2024-05-03T10:00:00.000Z",
           "wordCount": 2540,
           "title": "Single-cell transcriptome analysis reveals subtype-specific clonal evolution and microenvironmental changes in liver metastasis of pancreatic adenocarcinoma and their clinical implications",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38697850",
+          "author": "Seung-Been Lee",
+          "description": "CONCLUSION: While ttDNA remains more sensitive than ctDNA, our ctDNA platform demonstrated validity and potential value when ttDNA was unavailable. Post-treatment analysis of PD-ctDNA unveiled new pathogenic mutations, signifying cancer's clonal evolution. Additionally, baseline-ctDNA's VAF values were prognostic after treatment.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38697850/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240518205750&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-05-02T10:00:00.000Z",
+          "wordCount": 1745,
+          "title": "Longitudinal Comparative Analysis of Circulating Tumor DNA and Matched Tumor Tissue DNA in Patients with Metastatic Colorectal Cancer Receiving Palliative First-Line Systemic Anti-Cancer Therapy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -12737,496 +12687,6 @@
           "publishedOn": "2024-03-21T10:00:00.000Z",
           "wordCount": 1370,
           "title": "Skin cancer risk is increased by somatic mutations detected noninvasively in healthy-appearing sun-exposed skin",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240414231458&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240413211003&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240412204212&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240412204212&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240411205415&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240411205415&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240410205143&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240410205143&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240409205114&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240409205114&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240408205127&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240408205127&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240407205227&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240407205227&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240406205547&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240406205547&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240405204949&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240405204949&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240404205211&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240404205211&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240403205209&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240403205209&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240402205026&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240402205026&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240401205322&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1909,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240401205322&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240331205600&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1864,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240331205600&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240330205536&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1864,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240330205536&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240329204847&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1865,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240329204847&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240328205051&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1865,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240328205051&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240327205053&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1865,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240327205053&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240326205025&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1865,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240326205025&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1865,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240325205025&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4160,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240324205157&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1865,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240324205157&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4157,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240323205541&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1865,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240323205541&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 4149,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240322204906&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1858,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240322204906&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1921,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38508089",
-          "author": "E A Bryushkova",
-          "description": "Carcinogenesis in the process of long-term co-evolution of tumor cells and immune environment essentially becomes possible due to incorrect decisions made, remembered, and reproduced by the immune system at the level of clonal populations of antigen-specific T- and B-lymphocytes. Tumor-immunity interaction determines the nature of such errors and, consequently, delineates the possible ways of successful immunotherapeutic intervention. It is generally recognized that tumor-infiltrating B cells...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38508089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240321205008&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1858,
-          "title": "B cell clonality in cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240321205008&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1908,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38503736",
-          "author": "Ryan T Bishop",
-          "description": "Multiple myeloma (MM) is an osteolytic malignancy that is incurable due to the emergence of treatment resistant disease. Defining how, when and where myeloma cell intrinsic and extrinsic bone microenvironmental mechanisms cause relapse is challenging with current biological approaches. Here, we report a biology-driven spatiotemporal hybrid agent-based model of the MM-bone microenvironment. Results indicate MM intrinsic mechanisms drive the evolution of treatment resistant disease but that the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38503736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240320205145&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-03-20T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
