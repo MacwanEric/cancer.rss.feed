@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&utm_source=axios&utm_medium=rss&v=2.18.0.post9+e462414&ff=20240715205901&fc=20220608003622",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&ff=20240716205837&v=2.18.0.post9+e462414&utm_medium=rss&fc=20220608003622&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:39012906",
+          "author": "Pinkal Desai",
+          "description": "CONCLUSIONS: CHIP and mCA (CF >5%) were associated with higher breast cancer risk and colorectal cancer mortality individually. These data could inform on novel pathways that impact cancer risk and lead to better risk stratification.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39012906/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-16T10:00:00.000Z",
+          "wordCount": 2132,
+          "title": "Association of clonal hematopoiesis and mosaic chromosomal alterations with solid malignancy incidence and mortality",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39006763",
+          "author": "Tian-Jie Lyu",
+          "description": "Somatic mutations related to clonal hematopoiesis of indeterminate potential (CHIP) are risk factors for stroke. The impact of DNMT3A, the most mutated gene in CHIP, on clinical functional outcomes of acute ischemic stroke (AIS) remains unclear. In a well-characterized cohort of 8524 ischemic stroke patients, we demonstrated that DNMT3A-driven CHIP was significantly associated with neurological disability in these patients. With a stroke mouse model of transient middle cerebral artery occlusion...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39006763/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-15T10:00:00.000Z",
+          "wordCount": 3380,
+          "title": "DNMT3A dysfunction promotes neuroinflammation and exacerbates acute ischemic stroke",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:39006763",
           "author": "Tian-Jie Lyu",
@@ -220,6 +240,26 @@
           "publishedOn": "2024-07-15T10:00:00.000Z",
           "wordCount": 3073,
           "title": "DNMT3A dysfunction promotes neuroinflammation and exacerbates acute ischemic stroke",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38992437",
+          "author": "Liping Hu",
+          "description": "Fanconi Anemia (FA) is an inherited disorder of DNA-repair due to mutation in one of 20+ interrelated genes that repair intra-strand DNA crosslinks and rescue collapsed or stalled replication forks. The most common hematologic abnormality in FA is anemia, but progression to bone marrow failure (BMF), clonal hematopoiesis, or acute myeloid leukemia (AML) may also occur. In prior studies, we found that Fanconi DNA-repair is required for successful emergency granulopoiesis; the process for rapid...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38992437/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-11T10:00:00.000Z",
+          "wordCount": 1596,
+          "title": "In Fanconi Anemia, impaired accumulation of bone marrow neutrophils during emergency granulopoiesis induces hematopoietic stem cell stress",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38989576",
+          "author": "Haotian Zhang",
+          "description": "CONCLUSIONS: JAK2V617F mutant endothelial cells play a critical role in the development of cardiovascular diseases in JAK2V617F-positive MPNs, and endothelial MPL could be a promising therapeutic target for preventing or ameliorating cardiovascular complications in these patients.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38989576/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-11T10:00:00.000Z",
+          "wordCount": 1556,
+          "title": "Decoding Endothelial MPL and JAK2V617F Mutation: Insight Into Cardiovascular Dysfunction in Myeloproliferative Neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -310,6 +350,36 @@
           "publishedOn": "2024-07-11T10:00:00.000Z",
           "wordCount": 1275,
           "title": "Decoding Endothelial MPL and JAK2V617F Mutation: Insight Into Cardiovascular Dysfunction in Myeloproliferative Neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38976813",
+          "author": "Yael Kusne",
+          "description": "CONCLUSION: CH is present in 35.1% of patients with NET and is associated with thrombocytopenia risk during PRRT. Future studies with long-term follow-up will delineate whether CH might be a predictor for higher risk of t-MN after PRRT.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38976813/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-08T10:00:00.000Z",
+          "wordCount": 1925,
+          "title": "Clonal Hematopoiesis in Patients With Neuroendocrine Tumor Treated With Lutetium-177 and the Risk of Thrombocytopenia: A Prospective Study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38976142",
+          "author": "Narasimha M Beeraka",
+          "description": "Haematopoiesis within the bone marrow (BM) represents a complex and dynamic process intricately regulated by neural signaling pathways. This delicate orchestration is susceptible to disruption by factors such as aging, diabetes, and obesity, which can impair the BM niche and consequently affect haematopoiesis. Genetic mutations in Tet2, Dnmt3a, Asxl1, and Jak2 are known to give rise to clonal haematopoiesis of intermediate potential (CHIP), a condition linked to age-related haematological...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38976142/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-08T10:00:00.000Z",
+          "wordCount": 1999,
+          "title": "Role of Neurotransmitters in Steady State Hematopoiesis, Aging, and Leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38974956",
+          "author": "Xinyuan Ge",
+          "description": "CONCLUSIONS: The presence of mCAs is associated with increased susceptibility to cirrhosis risk and could be combined with PRS for personalized cirrhosis risk stratification.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38974956/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-08T10:00:00.000Z",
+          "wordCount": 2415,
+          "title": "Association of Mosaic Chromosomal Alterations and Genetic Factors with the Risk of Cirrhosis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -555,6 +625,16 @@
         {
           "id": "pubmed:38972534",
           "author": "Yu Kang",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is a common risk factor for hematologic malignancies and cardiovascular diseases. This study aimed to investigate the association between CHIP-related mutations and symptomatic heart failure (HF) in patients diagnosed with acute myeloid leukemia (AML). A total of 563 patients with newly diagnosed AML who underwent DNA sequencing of bone marrow before treatment were retrospectively investigated. Cox proportional hazard regression models and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38972534/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-07T10:00:00.000Z",
+          "wordCount": 1868,
+          "title": "Symptomatic Heart Failure and Clonal Hematopoiesis-Related Mutations in Patients With Acute Myeloid Leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38972534",
+          "author": "Yu Kang",
           "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is a common risk factor for both hematological malignancies and cardiovascular (CV) diseases. The purpose of this study was to investigate the association between CHIP-related mutations and symptomatic heart failure in patients diagnosed with acute myeloid leukemia (AML). A total of 563 patients with newly-diagnosed AML who underwent DNA sequencing of bone marrow before treatment were retrospectively investigated. Cox proportional hazard...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38972534/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240715205901&v=2.18.0.post9+e462414",
           "publishedOn": "2024-07-07T10:00:00.000Z",
@@ -630,6 +710,16 @@
           "publishedOn": "2024-07-07T10:00:00.000Z",
           "wordCount": 1509,
           "title": "Symptomatic Heart Failure and Clonal Hematopoiesis-related Mutations in Patients with Acute Myeloid Leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38969020",
+          "author": "Kanaka Dhuri",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) has emerged as a significant precursor to hematological malignancies and is associated with several age-related diseases. We leveraged public data to explore differences in the mutational landscape of CHIP between males and females and across diverse racial populations. DNMT3A mutations were substantially more prevalent in females than in males (38.94% vs. 31.37%, p-value: <0.001, q-value: <0.001). While ASXL1 mutations were more frequent in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38969020/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-05T10:00:00.000Z",
+          "wordCount": 1548,
+          "title": "Differences in the mutational landscape of clonal hematopoiesis of indeterminate potential among Races and between Male and Female patients with cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -730,6 +820,16 @@
           "publishedOn": "2024-07-05T10:00:00.000Z",
           "wordCount": 1225,
           "title": "Differences in the mutational landscape of clonal hematopoiesis of indeterminate potential among Races and between Male and Female patients with cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38960508",
+          "author": "A Michael Lincoff",
+          "description": "CONCLUSIONS: Cardiovascular risk reduction with bempedoic acid is similar to that achieved with statins for a given absolute magnitude of LDL-C lowering. (Evaluation of Major Adverse Cardiovascular Events in Participants With, or at High Risk for, Cardiovascular Disease Who Are Statin Intolerant Treated with Bempedoic Acid [ETC-1002] or Placebo [CLEAR Outcomes]; NCT02993406).",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38960508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-03T10:00:00.000Z",
+          "wordCount": 3022,
+          "title": "Comparative Cardiovascular Benefits of Bempedoic Acid and Statin Drugs",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -850,6 +950,16 @@
           "publishedOn": "2024-07-03T10:00:00.000Z",
           "wordCount": 2657,
           "title": "Comparative Cardiovascular Benefits of Bempedoic Acid and Statin Drugs",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38952007",
+          "author": "Xiaoxuan Wei",
+          "description": "BACKGROUND The relationship between clonal hematopoiesis (CH)-associated gene mutations and allogeneic hematopoietic stem cell transplantation (allo-HSCT) has been extensively studied since next-generation sequencing (NGS) technology became widely available. However, research has mainly focused on the relationship between donor CH mutations and transplant prognosis, and research into the relationship between CH mutations in the recipient and acute graft-versus-host disease (aGVHD) is lacking....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38952007/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-02T10:00:00.000Z",
+          "wordCount": 1974,
+          "title": "Clonal Hematopoiesis-Associated Gene Mutations Affect Acute Graft-Versus-Host Disease After Hematopoietic Stem Cell Transplantation in AML Patients",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -990,6 +1100,26 @@
           "publishedOn": "2024-07-02T10:00:00.000Z",
           "wordCount": 1614,
           "title": "Clonal Hematopoiesis-Associated Gene Mutations Affect Acute Graft-Versus-Host Disease After Hematopoietic Stem Cell Transplantation in AML Patients",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38951008",
+          "author": "Shoshana M Rosenberg",
+          "description": "PURPOSE: Compared with older women diagnosed with breast cancer, younger women are more likely to die of breast cancer and more likely to suffer psychosocially in both the short-term and long term. The Young Women's Breast Cancer Study (YWS) is a multisite prospective cohort study established to address gaps in our knowledge about this vulnerable and understudied population.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38951008/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-01T10:00:00.000Z",
+          "wordCount": 2560,
+          "title": "Helping ourselves, helping others: the Young Women's Breast Cancer Study (YWS) - a multisite prospective cohort study to advance the understanding of breast cancer diagnosed in women aged 40 years and younger",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38946975",
+          "author": "Caitlyn Vlasschaert",
+          "description": "CONCLUSION: Non- DNMT3A CHIP is a potentially targetable novel risk factor for CKD progression.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38946975/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-01T10:00:00.000Z",
+          "wordCount": 1817,
+          "title": "Clonal hematopoiesis of indeterminate potential contributes to accelerated chronic kidney disease progression",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1286,6 +1416,16 @@
           "id": "pubmed:38939956",
           "author": "J Brett Heimlich",
           "description": "CONCLUSIONS: This is the first invasive assessment of coronary artery disease in CHIP and offers a description of a specific atherosclerotic phenotype in CHIP wherein there is an increased risk of obstructive left main and left anterior descending artery stenosis, especially among TET2 mutation carriers. This serves as a basis for understanding enhanced morbidity and mortality in CHIP.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38939956/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-06-28T10:00:00.000Z",
+          "wordCount": 1735,
+          "title": "Invasive Assessment of Coronary Artery Disease in Clonal Hematopoiesis of Indeterminate Potential",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38939956",
+          "author": "J Brett Heimlich",
+          "description": "CONCLUSIONS: This is the first invasive assessment of coronary artery disease in CHIP and offers a description of a specific atherosclerotic phenotype in CHIP wherein there is an increased risk of obstructive left main and left anterior descending artery stenosis, especially among TET2 mutation carriers. This serves as a basis for understanding enhanced morbidity and mortality in CHIP.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38939956/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240715205901&v=2.18.0.post9+e462414",
           "publishedOn": "2024-06-28T10:00:00.000Z",
           "wordCount": 1735,
@@ -1460,6 +1600,16 @@
           "publishedOn": "2024-06-28T10:00:00.000Z",
           "wordCount": 1690,
           "title": "Invasive Assessment of Coronary Artery Disease in Clonal Hematopoiesis of Indeterminate Potential",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38924753",
+          "author": "Candice Quin",
+          "description": "Somatic mutations in the TET2 gene occur more frequently with age, imparting an intrinsic hematopoietic stem cell (HSC) advantage and contributing to a phenomenon termed clonal hematopoiesis of indeterminate potential (CHIP). Individuals with TET2-mutant CHIP have a higher risk of developing myeloid neoplasms and other aging-related conditions. Despite its role in unhealthy aging, the extrinsic mechanisms driving TET2-mutant CHIP clonal expansion remain unclear. We previously showed an...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38924753/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-06-26T10:00:00.000Z",
+          "wordCount": 1529,
+          "title": "Chronic TNF in the aging microenvironment exacerbates Tet2-loss-of-function myeloid expansion",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7887,8 +8037,18 @@
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&utm_medium=rss&v=2.18.0.post9+e462414&ff=20240715205901&fc=20220608010801&utm_campaign=pubmed-2",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.18.0.post9+e462414&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&utm_campaign=pubmed-2&ff=20240716205837&fc=20220608010801&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:39005348",
+          "author": "Yujie Jiang",
+          "description": "Intra-tumor heterogeneity is an important driver of tumor evolution and therapy response. Advances in precision cancer treatment will require understanding of mutation clonality and subclonal architecture. Currently the slow computational speed of subclonal reconstruction hinders large cohort studies. To overcome this bottleneck, we developed Clonal structure identification through Pairwise Penalization, or CliPP, which clusters subclonal mutations using a regularized likelihood model. CliPP...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39005348/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-15T10:00:00.000Z",
+          "wordCount": 1514,
+          "title": "Pan-cancer subclonal mutation analysis of 7,827 tumors predicts clinical outcome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:39005348",
           "author": "Yujie Jiang",
@@ -7903,10 +8063,40 @@
           "id": "pubmed:39004242",
           "author": "Zhouting Tuo",
           "description": "Bladder cancer stands as a prevalent global malignancy, exhibiting notable sex-based variations in both incidence and prognosis. Despite substantial strides in therapeutic approaches, the formidable challenge of drug resistance persists. The genomic landscape of bladder cancer, characterized by intricate clonal heterogeneity, emerges as a pivotal determinant in fostering this resistance. Clonal evolution, encapsulating the dynamic transformations within subpopulations of tumor cells over time,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39004242/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-14T10:00:00.000Z",
+          "wordCount": 2075,
+          "title": "Relationship Between Clonal Evolution and Drug Resistance in Bladder Cancer: A Genomic Research Review",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39004242",
+          "author": "Zhouting Tuo",
+          "description": "Bladder cancer stands as a prevalent global malignancy, exhibiting notable sex-based variations in both incidence and prognosis. Despite substantial strides in therapeutic approaches, the formidable challenge of drug resistance persists. The genomic landscape of bladder cancer, characterized by intricate clonal heterogeneity, emerges as a pivotal determinant in fostering this resistance. Clonal evolution, encapsulating the dynamic transformations within subpopulations of tumor cells over time,...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39004242/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240715205901&v=2.18.0.post9+e462414",
           "publishedOn": "2024-07-14T10:00:00.000Z",
           "wordCount": 1761,
           "title": "Relationship Between Clonal Evolution and Drug Resistance in Bladder Cancer: A Genomic Research Review",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39002207",
+          "author": "Mudassir Hassan",
+          "description": "Breast cancer (BC) is a complex and multifactorial disease, driven by genetic alterations that promote tumor growth and progression. However, recent research has highlighted the importance of non-genetic factors in shaping cancer evolution and influencing therapeutic outcomes. Non-genetic heterogeneity refers to diverse subpopulations of cancer cells within breast tumors, exhibiting distinct phenotypic and functional properties. These subpopulations can arise through various mechanisms,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39002207/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-13T10:00:00.000Z",
+          "wordCount": 1635,
+          "title": "Non-genetic heterogeneity and immune subtyping in breast cancer: Implications for immunotherapy and targeted therapeutics",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39001492",
+          "author": "Patrick G Schupp",
+          "description": "Tumors may contain billions of cells, including distinct malignant clones and nonmalignant cell types. Clarifying the evolutionary histories, prevalence, and defining molecular features of these cells is essential for improving clinical outcomes, since intratumoral heterogeneity provides fuel for acquired resistance to targeted therapies. Here we present a statistically motivated strategy for deconstructing intratumoral heterogeneity through multiomic and multiscale analysis of serial tumor...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39001492/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-13T10:00:00.000Z",
+          "wordCount": 3658,
+          "title": "Deconstructing Intratumoral Heterogeneity through Multiomic and Multiscale Analysis of Serial Sections",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7957,6 +8147,26 @@
           "publishedOn": "2024-07-13T10:00:00.000Z",
           "wordCount": 1388,
           "title": "Deconstructing Intratumoral Heterogeneity through Multiomic and Multiscale Analysis of Serial Sections",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38993743",
+          "author": "Baldeep Wirk",
+          "description": "Immunosuppressive therapy for acquired severe aplastic anemia improves pancytopenia but has a significant risk of relapse (40%) and clonal evolution to myeloid neoplasms (15%), especially in patients older than 40. Yet, current guidelines for newly diagnosed severe aplastic anemia patients over the age of 40 recommend immunosuppressive therapy instead of curative allogeneic stem cell transplantation. Upfront allogeneic stem cell transplants are restricted to the rare patient who is not only...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38993743/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-12T10:00:00.000Z",
+          "wordCount": 1610,
+          "title": "Acquired Aplastic Anemia Therapies: Immunosuppressive Therapy Versus Alternative Donor Hematopoietic Cell Transplantation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38993187",
+          "author": "Xiang-Yu Meng",
+          "description": "CONCLUSIONS: It is possible that APOBEC3-related rs1014971 is involved in the different BCa incidence across ethnic groups, and this difference is potentially derived from human evolution. Our findings suggested an evolutionary link between contemporary population-level variations in malignancy susceptibility and pathogen-driven selection in the past, not unlike previously reported cases of certain autoimmune and metabolic disorders.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38993187/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-12T10:00:00.000Z",
+          "wordCount": 2028,
+          "title": "Historical Pathogen-Driven Selection May Contribute to Contemporary Ethnic Difference in Bladder Cancer Susceptibility",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8037,6 +8247,26 @@
           "publishedOn": "2024-07-12T10:00:00.000Z",
           "wordCount": 1290,
           "title": "Historical Pathogen-Driven Selection May Contribute to Contemporary Ethnic Difference in Bladder Cancer Susceptibility",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38987297",
+          "author": "Yoko Ushijima",
+          "description": "Most of essential thrombocythemia (ET) patients have the clone harboring a mutation in one of the JAK2, CALR, or MPL gene, and these clones generally acquire additional mutations at transformation to acute myeloid leukemia (AML). However, the proliferation of triple-negative clones has sometimes been observed at AML transformation. To clarify the clonal evolution of ET to AML, we analyzed paired samples at ET and AML transformation in eight patients. We identified that JAK2-unmutated AML clones...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38987297/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-10T10:00:00.000Z",
+          "wordCount": 2503,
+          "title": "Initiating-clone analysis in patients with acute myeloid leukemia secondary to essential thrombocythemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38986623",
+          "author": "Tianyu Qin",
+          "description": "Ovarian cancer (OC) manifests as a complex disease characterized by inter- and intra-patient heterogeneity. Despite enhanced biological and genetic insights, OC remains a recalcitrant malignancy with minimal survival improvement. Based on multi-site sampling and a multi-lineage patient-derived xenograft (PDX) establishment strategy, we present herein the establishment of a comprehensive PDX biobank from histologically and molecularly heterogeneous OC patients. Comprehensive profiling of matched...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38986623/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-10T10:00:00.000Z",
+          "wordCount": 2106,
+          "title": "Genomic profiling of a multi-lineage and multi-passage patient-derived xenograft biobank reflects heterogeneity of ovarian cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8137,6 +8367,26 @@
           "publishedOn": "2024-07-10T10:00:00.000Z",
           "wordCount": 1727,
           "title": "Genomic profiling of a multi-lineage and multi-passage patient-derived xenograft biobank reflects heterogeneity of ovarian cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38977645",
+          "author": "Reham Ahmed",
+          "description": "A 51-year-old female with menorrhagia was found to have a cervical polyp. Polypectomy and endometrial curettage showed an atypical lymphoid infiltrate. Hysterectomy was performed, showing extensive myometrial infiltration by small, cytologically bland CD3-positive αβ T cells with a non-activated cytotoxic phenotype and a low proliferative rate. PCR showed clonal TCR-β gene rearrangement. Lymph nodes were uninvolved. PET-CT was negative. A diagnosis of CD8-positive T-cell lymphoproliferative...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38977645/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-08T10:00:00.000Z",
+          "wordCount": 1746,
+          "title": "CD8-positive T-cell lymphoproliferative disorder of the uterus: a new subtype of indolent extranodal T-cell neoplasm?",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38976813",
+          "author": "Yael Kusne",
+          "description": "CONCLUSION: CH is present in 35.1% of patients with NET and is associated with thrombocytopenia risk during PRRT. Future studies with long-term follow-up will delineate whether CH might be a predictor for higher risk of t-MN after PRRT.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38976813/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-08T10:00:00.000Z",
+          "wordCount": 1925,
+          "title": "Clonal Hematopoiesis in Patients With Neuroendocrine Tumor Treated With Lutetium-177 and the Risk of Thrombocytopenia: A Prospective Study",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8293,6 +8543,16 @@
           "id": "pubmed:38970827",
           "author": "Frank Ernesto Alvarez",
           "description": "We discuss the mathematical modelling of two of the main mechanisms that pushed forward the emergence of multicellularity: phenotype divergence in cell differentiation and between-cell cooperation. In line with the atavistic theory of cancer, this disease being specific of multicellular animals, we set special emphasis on how both mechanisms appear to be reversed, however not totally impaired, rather hijacked, in tumour cell populations. Two settings are considered: the completely innovating,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38970827/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-06T10:00:00.000Z",
+          "wordCount": 1377,
+          "title": "Phenotype divergence and cooperation in isogenic multicellularity and in cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38970827",
+          "author": "Frank Ernesto Alvarez",
+          "description": "We discuss the mathematical modelling of two of the main mechanisms that pushed forward the emergence of multicellularity: phenotype divergence in cell differentiation and between-cell cooperation. In line with the atavistic theory of cancer, this disease being specific of multicellular animals, we set special emphasis on how both mechanisms appear to be reversed, however not totally impaired, rather hijacked, in tumour cell populations. Two settings are considered: the completely innovating,...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38970827/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240715205901&v=2.18.0.post9+e462414",
           "publishedOn": "2024-07-06T10:00:00.000Z",
           "wordCount": 1159,
@@ -8393,6 +8653,16 @@
           "id": "pubmed:38969342",
           "author": "Ryan N Serio",
           "description": "The patterns by which primary tumors spread to metastatic sites remain poorly understood. Here, we define patterns of metastatic seeding in prostate cancer (PCa) using a novel injection-based mouse model - EvoCaP (Evolution in Cancer of the Prostate), featuring aggressive metastatic cancer to bone, liver, lungs, and lymph nodes. To define migration histories between primary and metastatic sites, we used our EvoTraceR pipeline to track distinct tumor clones containing recordable barcodes. We...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38969342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-05T10:00:00.000Z",
+          "wordCount": 1626,
+          "title": "Clonal Lineage Tracing with Somatic Delivery of Recordable Barcodes Reveals Migration Histories of Metastatic Prostate Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38969342",
+          "author": "Ryan N Serio",
+          "description": "The patterns by which primary tumors spread to metastatic sites remain poorly understood. Here, we define patterns of metastatic seeding in prostate cancer (PCa) using a novel injection-based mouse model - EvoCaP (Evolution in Cancer of the Prostate), featuring aggressive metastatic cancer to bone, liver, lungs, and lymph nodes. To define migration histories between primary and metastatic sites, we used our EvoTraceR pipeline to track distinct tumor clones containing recordable barcodes. We...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/38969342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240715205901&v=2.18.0.post9+e462414",
           "publishedOn": "2024-07-05T10:00:00.000Z",
           "wordCount": 1315,
@@ -8487,6 +8757,16 @@
           "publishedOn": "2024-07-05T10:00:00.000Z",
           "wordCount": 1265,
           "title": "Clonal Lineage Tracing with Somatic Delivery of Recordable Barcodes Reveals Migration Histories of Metastatic Prostate Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38962422",
+          "author": "Yoko Ushijima",
+          "description": "We previously reported the Marimo cell line, which was established from the bone marrow cells of a patient with essential thrombocythemia (ET) at the last stage after transformation to acute myeloid leukemia (AML). This cell line is widely used for the biological analysis of ET because it harbors CALR mutation. However, genetic processes during disease progression in the original patient were not analyzed. We sequentially analyzed the genetic status in the original patient samples during disease...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38962422/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-04T10:00:00.000Z",
+          "wordCount": 2601,
+          "title": "Clonal evolution process from essential thrombocythemia to acute myeloid leukemia in the original patient from whom the CALR-mutated Marimo cell line was established",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8607,6 +8887,26 @@
           "publishedOn": "2024-07-04T10:00:00.000Z",
           "wordCount": 1744,
           "title": "Clonal evolution process from essential thrombocythemia to acute myeloid leukemia in the original patient from whom the CALR-mutated Marimo cell line was established",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38960646",
+          "author": "Shinnosuke Tokuda",
+          "description": "A 69-year-old man presented with lumbago and was diagnosed with multiple myeloma (IgD-λ type, R-ISS stage II) with bone-destructive lesions in the lumbar spine and sacrum. Chromosome analysis showed t (8;14)(q24;q32) and t (11;14)(q13;q32). Treatment with daratumumab, lenalidomide, and dexamethasone resulted in partial response, but the disease relapsed, with a copy number increase in t (11;14) and abnormal amplification of the 1q21 region. The patient was treated for CMV enteritis, and was...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38960646/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-03T10:00:00.000Z",
+          "wordCount": 1652,
+          "title": "Multiple myeloma with t (8;14) and t (11;14) and extramedullary infiltration of multiple organs",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:38956687",
+          "author": "Xi Liu",
+          "description": "CONCLUSIONS: The extent of inter-tumor heterogeneity suggests both monoclonal and polyclonal origins of MECC, which could provide insight into the genome diversity of MECC and guide clinical implementation.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/38956687/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240716205837&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-07-03T10:00:00.000Z",
+          "wordCount": 2890,
+          "title": "Genomic characteristics and evolution of Multicentric Esophageal and gastric Cardiac Cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -15547,136 +15847,6 @@
           "publishedOn": "2024-05-20T10:00:00.000Z",
           "wordCount": 1596,
           "title": "Combined DNA Analysis from Stool and Blood Samples Improves Tumor Tracking and Assessment of Clonal Heterogeneity in Localized Rectal Cancer Patients",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38761799",
-          "author": "Daniel J Sheward",
-          "description": "Descendants of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant now account for almost all SARS-CoV-2 infections. The Omicron variant and its sublineages have spike glycoproteins that are highly diverged from the pandemic founder and first-generation vaccine strain, resulting in significant evasion from monoclonal antibody therapeutics and vaccines. Understanding how commonly elicited antibodies can broaden to cross-neutralize escape variants is crucial. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38761799/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240531205818&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-05-18T10:00:00.000Z",
-          "wordCount": 1716,
-          "title": "Structural basis of broad SARS-CoV-2 cross-neutralization by affinity-matured public antibodies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38761799",
-          "author": "Daniel J Sheward",
-          "description": "Descendants of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant now account for almost all SARS-CoV-2 infections. The Omicron variant and its sublineages have spike glycoproteins that are highly diverged from the pandemic founder and first-generation vaccine strain, resulting in significant evasion from monoclonal antibody therapeutics and vaccines. Understanding how commonly elicited antibodies can broaden to cross-neutralize escape variants is crucial. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38761799/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240530205547&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-05-18T10:00:00.000Z",
-          "wordCount": 1709,
-          "title": "Structural basis of broad SARS-CoV-2 cross-neutralization by affinity-matured public antibodies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38761799",
-          "author": "Daniel J Sheward",
-          "description": "Descendants of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant now account for almost all SARS-CoV-2 infections. The Omicron variant and its sublineages have spike glycoproteins that are highly diverged from the pandemic founder and first-generation vaccine strain, resulting in significant evasion from monoclonal antibody therapeutics and vaccines. Understanding how commonly elicited antibodies can broaden to cross-neutralize escape variants is crucial. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38761799/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240529205451&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-05-18T10:00:00.000Z",
-          "wordCount": 1709,
-          "title": "Structural basis of broad SARS-CoV-2 cross-neutralization by affinity-matured public antibodies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38761799",
-          "author": "Daniel J Sheward",
-          "description": "Descendants of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant now account for almost all SARS-CoV-2 infections. The Omicron variant and its sublineages have spike glycoproteins that are highly diverged from the pandemic founder and first-generation vaccine strain, resulting in significant evasion from monoclonal antibody therapeutics and vaccines. Understanding how commonly elicited antibodies can broaden to cross-neutralize escape variants is crucial. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38761799/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240528205757&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-05-18T10:00:00.000Z",
-          "wordCount": 1709,
-          "title": "Structural basis of broad SARS-CoV-2 cross-neutralization by affinity-matured public antibodies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38761799",
-          "author": "Daniel J Sheward",
-          "description": "Descendants of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant now account for almost all SARS-CoV-2 infections. The Omicron variant and its sublineages have spike glycoproteins that are highly diverged from the pandemic founder and first-generation vaccine strain, resulting in significant evasion from monoclonal antibody therapeutics and vaccines. Understanding how commonly elicited antibodies can broaden to cross-neutralize escape variants is crucial. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38761799/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240527205440&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-05-18T10:00:00.000Z",
-          "wordCount": 1709,
-          "title": "Structural basis of broad SARS-CoV-2 cross-neutralization by affinity-matured public antibodies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38761799",
-          "author": "Daniel J Sheward",
-          "description": "Descendants of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant now account for almost all SARS-CoV-2 infections. The Omicron variant and its sublineages have spike glycoproteins that are highly diverged from the pandemic founder and first-generation vaccine strain, resulting in significant evasion from monoclonal antibody therapeutics and vaccines. Understanding how commonly elicited antibodies can broaden to cross-neutralize escape variants is crucial. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38761799/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240526205540&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-05-18T10:00:00.000Z",
-          "wordCount": 1709,
-          "title": "Structural basis of broad SARS-CoV-2 cross-neutralization by affinity-matured public antibodies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38761799",
-          "author": "Daniel J Sheward",
-          "description": "Descendants of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant now account for almost all SARS-CoV-2 infections. The Omicron variant and its sublineages have spike glycoproteins that are highly diverged from the pandemic founder and first-generation vaccine strain, resulting in significant evasion from monoclonal antibody therapeutics and vaccines. Understanding how commonly elicited antibodies can broaden to cross-neutralize escape variants is crucial. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38761799/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240525205843&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-05-18T10:00:00.000Z",
-          "wordCount": 1709,
-          "title": "Structural basis of broad SARS-CoV-2 cross-neutralization by affinity-matured public antibodies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38761799",
-          "author": "Daniel J Sheward",
-          "description": "Descendants of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant now account for almost all SARS-CoV-2 infections. The Omicron variant and its sublineages have spike glycoproteins that are highly diverged from the pandemic founder and first-generation vaccine strain, resulting in significant evasion from monoclonal antibody therapeutics and vaccines. Understanding how commonly elicited antibodies can broaden to cross-neutralize escape variants is crucial. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38761799/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240524205312&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-05-18T10:00:00.000Z",
-          "wordCount": 1709,
-          "title": "Structural basis of broad SARS-CoV-2 cross-neutralization by affinity-matured public antibodies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38761799",
-          "author": "Daniel J Sheward",
-          "description": "Descendants of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant now account for almost all SARS-CoV-2 infections. The Omicron variant and its sublineages have spike glycoproteins that are highly diverged from the pandemic founder and first-generation vaccine strain, resulting in significant evasion from monoclonal antibody therapeutics and vaccines. Understanding how commonly elicited antibodies can broaden to cross-neutralize escape variants is crucial. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38761799/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240523205431&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-05-18T10:00:00.000Z",
-          "wordCount": 1709,
-          "title": "Structural basis of broad SARS-CoV-2 cross-neutralization by affinity-matured public antibodies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38761799",
-          "author": "Daniel J Sheward",
-          "description": "Descendants of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant now account for almost all SARS-CoV-2 infections. The Omicron variant and its sublineages have spike glycoproteins that are highly diverged from the pandemic founder and first-generation vaccine strain, resulting in significant evasion from monoclonal antibody therapeutics and vaccines. Understanding how commonly elicited antibodies can broaden to cross-neutralize escape variants is crucial. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38761799/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240522205409&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-05-18T10:00:00.000Z",
-          "wordCount": 1709,
-          "title": "Structural basis of broad SARS-CoV-2 cross-neutralization by affinity-matured public antibodies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38761799",
-          "author": "Daniel J Sheward",
-          "description": "Descendants of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant now account for almost all SARS-CoV-2 infections. The Omicron variant and its sublineages have spike glycoproteins that are highly diverged from the pandemic founder and first-generation vaccine strain, resulting in significant evasion from monoclonal antibody therapeutics and vaccines. Understanding how commonly elicited antibodies can broaden to cross-neutralize escape variants is crucial. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38761799/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240521205458&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-05-18T10:00:00.000Z",
-          "wordCount": 1709,
-          "title": "Structural basis of broad SARS-CoV-2 cross-neutralization by affinity-matured public antibodies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38761799",
-          "author": "Daniel J Sheward",
-          "description": "Descendants of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant now account for almost all SARS-CoV-2 infections. The Omicron variant and its sublineages have spike glycoproteins that are highly diverged from the pandemic founder and first-generation vaccine strain, resulting in significant evasion from monoclonal antibody therapeutics and vaccines. Understanding how commonly elicited antibodies can broaden to cross-neutralize escape variants is crucial. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38761799/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240520205411&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-05-18T10:00:00.000Z",
-          "wordCount": 1709,
-          "title": "Structural basis of broad SARS-CoV-2 cross-neutralization by affinity-matured public antibodies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:38761799",
-          "author": "Daniel J Sheward",
-          "description": "Descendants of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant now account for almost all SARS-CoV-2 infections. The Omicron variant and its sublineages have spike glycoproteins that are highly diverged from the pandemic founder and first-generation vaccine strain, resulting in significant evasion from monoclonal antibody therapeutics and vaccines. Understanding how commonly elicited antibodies can broaden to cross-neutralize escape variants is crucial. We...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/38761799/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240519205444&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-05-18T10:00:00.000Z",
-          "wordCount": 1683,
-          "title": "Structural basis of broad SARS-CoV-2 cross-neutralization by affinity-matured public antibodies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
