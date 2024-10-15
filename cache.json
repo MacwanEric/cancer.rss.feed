@@ -210,8 +210,18 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20241013210815&v=2.18.0.post9+e462414&utm_medium=rss&utm_campaign=pubmed-2&fc=20220608003622&utm_source=axios&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.18.0.post9+e462414&utm_source=axios&ff=20241014210709&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&fc=20220608003622&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:39393068",
+          "author": "Jingqiong Hu",
+          "description": "The United States Food and Drug Administration (FDA) announcement in November 2023 regarding reports of the occurrence of secondary T-cell lymphomas in patients receiving chimeric antigen receptor T-cells (CAR-T) for B-cell malignancies resulted in widespread concern among patients, clinicians and scientists. Little information relevant to assessing causality, most importantly whether CAR retroviral or lentiviral vector genomic insertions contribute to oncogenesis, was initially available....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39393068/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-11T10:00:00.000Z",
+          "wordCount": 1172,
+          "title": "T-Cell Lymphomas in Recipients of CAR-T Cells: Assessing Risks and Causalities",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:39393068",
           "author": "Jingqiong Hu",
@@ -240,6 +250,26 @@
           "publishedOn": "2024-10-11T10:00:00.000Z",
           "wordCount": 1133,
           "title": "T-Cell Lymphomas in Recipients of CAR-T Cells: Assessing Risks and Causalities",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39388542",
+          "author": "Tae Gun Kang",
+          "description": "Epigenetic reinforcement of T cell exhaustion is known to be a major barrier limiting T cell responses during immunotherapy. However, the core epigenetic regulators restricting antitumor immunity during prolonged antigen exposure are not clear. We investigated three commonly mutated epigenetic regulators that promote clonal hematopoiesis to determine whether they affect T cell stemness and response to checkpoint blockade immunotherapy. CD8 T cells lacking Dnmt3a, Tet2, or Asxl1 preserved a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39388542/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-10T10:00:00.000Z",
+          "wordCount": 2134,
+          "title": "Epigenetic regulators of clonal hematopoiesis control CD8 T cell stemness during immunotherapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39386685",
+          "author": "Silvia Vicenzi",
+          "description": "Organismal aging has been associated with diverse metabolic and functional changes across tissues. Within the immune system, key features of physiological hematopoietic cell aging include increased fat deposition in the bone marrow, impaired hematopoietic stem and progenitor cell (HSPC) function, and a propensity towards myeloid differentiation. This shift in lineage bias can lead to pre-malignant bone marrow conditions such as clonal hematopoiesis of indeterminate potential (CHIP) or clonal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39386685/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-10T10:00:00.000Z",
+          "wordCount": 1445,
+          "title": "Systemic deficits in lipid homeostasis promote aging-associated impairments in B cell progenitor development",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -326,6 +356,16 @@
           "id": "pubmed:39382597",
           "author": "Daniel Körfer",
           "description": "CONCLUSION: All nine patients in this study carried variants in genes associated with vascular diseases. Current knowledge of the specific variants is insufficient to classify them as pathogenic at the present time, underlining the need for a better understanding of the consequences of genetic variants. WES should be considered for patients with multiple arterial aneurysms to detect germline variants and to improve clinical management for the individual and family members.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39382597/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-09T10:00:00.000Z",
+          "wordCount": 1734,
+          "title": "Genetic variants in patients with multiple arterial aneurysms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39382597",
+          "author": "Daniel Körfer",
+          "description": "CONCLUSION: All nine patients in this study carried variants in genes associated with vascular diseases. Current knowledge of the specific variants is insufficient to classify them as pathogenic at the present time, underlining the need for a better understanding of the consequences of genetic variants. WES should be considered for patients with multiple arterial aneurysms to detect germline variants and to improve clinical management for the individual and family members.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39382597/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241013210815&v=2.18.0.post9+e462414",
           "publishedOn": "2024-10-09T10:00:00.000Z",
           "wordCount": 1726,
@@ -370,6 +410,16 @@
           "publishedOn": "2024-10-09T10:00:00.000Z",
           "wordCount": 1664,
           "title": "Genetic variants in patients with multiple arterial aneurysms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39371150",
+          "author": "Yash Pershad",
+          "description": "Gene-gene (GxG) interactions play an important role in human genetics, potentially explaining part of the \"missing heritability\" of polygenic traits and the variable expressivity of monogenic traits. Many GxG interactions have been identified in model organisms through experimental breeding studies, but they have been difficult to identify in human populations. To address this challenge, we applied two complementary variance QTL (vQTL)-based approaches to identify GxG interactions that...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39371150/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-07T10:00:00.000Z",
+          "wordCount": 2359,
+          "title": "Variance quantitative trait loci reveal gene-gene interactions which alter blood traits",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -440,6 +490,16 @@
           "publishedOn": "2024-10-07T10:00:00.000Z",
           "wordCount": 1171,
           "title": "Variance quantitative trait loci reveal gene-gene interactions which alter blood traits",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39363743",
+          "author": "Elmira Khabusheva",
+          "description": "In this issue, Waarts and colleagues developed an advanced ex vivo CRISPR screening platform to identify vulnerabilities in clonal hematopoiesis (CH). This unique system allowed the authors to identify a link between IDH2 and TET2 CH mutations, histone demethylases, and altered cytokine signaling, which enabled targeting by ruxolitinib leading to the elimination of CH clones, offering a possible path for preventing the development of malignancy. See related article by Waarts et al., p. 1860.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39363743/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-04T10:00:00.000Z",
+          "wordCount": 1349,
+          "title": "Can Ruxolitinib Crash TET2- and IDH2-Driven Clonal Hematopoiesis?",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -546,6 +606,16 @@
           "id": "pubmed:39362468",
           "author": "Adil Menon",
           "description": "Clonal hematopoiesis (CH) and clonal cytopenia of undetermined significance (CCUS) are recently recognized diagnostic entities that serve as an independent risk factors for cardiovascular disease and myeloid malignancy. CH is an incidental finding, and evaluation of the incidence of CH/CCUS-associated mutations in solid tumor next-generation sequencing samples was undertaken to better understand the prevalence of mutations in this population. A retrospective review of clinical sequencing data...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39362468/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-03T10:00:00.000Z",
+          "wordCount": 1261,
+          "title": "Detection and Interpretation of Clonal Hematopoiesis Variants during Routine Solid Tumor Next-Generation Sequencing: A Single-Institution Experience",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39362468",
+          "author": "Adil Menon",
+          "description": "Clonal hematopoiesis (CH) and clonal cytopenia of undetermined significance (CCUS) are recently recognized diagnostic entities that serve as an independent risk factors for cardiovascular disease and myeloid malignancy. CH is an incidental finding, and evaluation of the incidence of CH/CCUS-associated mutations in solid tumor next-generation sequencing samples was undertaken to better understand the prevalence of mutations in this population. A retrospective review of clinical sequencing data...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39362468/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241013210815&v=2.18.0.post9+e462414",
           "publishedOn": "2024-10-03T10:00:00.000Z",
           "wordCount": 1261,
@@ -640,6 +710,16 @@
           "publishedOn": "2024-10-03T10:00:00.000Z",
           "wordCount": 1249,
           "title": "Detection and interpretation of clonal hematopoiesis variants during routine solid tumor next-generation sequencing: a single institution experience",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39358284",
+          "author": "Yoshihiro Hayashi",
+          "description": "Age-related clonal hematopoiesis and myeloid malignancies arise from hematopoietic stem cells and progenitors with genetic abnormalities. Advances in next-generation sequencing technology have led to the identification of a wide variety of genetic alterations involved in disease onset. However, it remains unclear how diverse genetic alterations, lacking disease specificity, lead to the development of myeloid malignancies and the progression of clonal hematopoiesis. Mitochondrial abnormalities...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39358284/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-02T10:00:00.000Z",
+          "wordCount": 1173,
+          "title": "Aberrant mitochondrial dynamics in myeloid neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -750,6 +830,36 @@
           "publishedOn": "2024-10-02T10:00:00.000Z",
           "wordCount": 1166,
           "title": "Aberrant mitochondrial dynamics in myeloid neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39352393",
+          "author": "William G Dunn",
+          "description": "Clonal hematopoiesis (CH), the expansion of hematopoietic stem cells and their progeny driven by somatic mutations in leukemia-associated genes, is a common phenomenon that rises in prevalence with advancing age to affect most people older than 70 years. CH remains subclinical in most carriers, but, in a minority, it progresses to a myeloid neoplasm, such as acute myeloid leukemia, myelodysplastic syndrome, or myeloproliferative neoplasm. Over the last decade, advances in our understanding of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39352393/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-01T10:00:00.000Z",
+          "wordCount": 2211,
+          "title": "Clonal hematopoiesis and hematological malignancy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39352380",
+          "author": "Koichi Takahashi",
+          "description": "Therapy-related clonal hematopoiesis (t-CH) is defined as clonal hematopoiesis detected in individuals previously treated with chemotherapy and/or radiation therapy. With the increased use of genetic analysis in oncological care, the detection of t-CH among cancer patients is becoming increasingly common. t-CH arises through the selective bottleneck imposed by chemotherapies and potentially through direct mutagenesis from chemotherapies, resulting in a distinct mutational landscape enriched with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39352380/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-01T10:00:00.000Z",
+          "wordCount": 1956,
+          "title": "Distinct landscape and clinical implications of therapy-related clonal hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39352379",
+          "author": "Ohad Oren",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) has emerged as a previously unrecognized, potent, age-related, and common risk factor for atherosclerosis. Somatic mutations in certain known leukemia driver genes give rise to clones of mutant cells in peripheral blood. The increased risk of developing hematologic malignancy does not, on its own, explain excess mortality in individuals with CHIP. Cardiovascular disease accounts for much of this gap. Experimental evidence supports the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39352379/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-01T10:00:00.000Z",
+          "wordCount": 2053,
+          "title": "Clonal hematopoiesis and atherosclerosis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1146,6 +1256,16 @@
           "id": "pubmed:39346739",
           "author": "Howard S Oster",
           "description": "The Myelodysplastic syndromes (MDS) are a heterogenous group of clonal bone marrow (BM) stem cell myeloid neoplasms, characterized by ineffective hematopoiesis that results in dysplasia in hematopoietic cells and peripheral cytopenias, especially anemia, and a propensity to leukemic transformation. The suspicion of MDS is raised by a typical but not specific clinical picture and routine laboratory findings, but the gold standard for MDS diagnosis is still BM examination with the presence of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39346739/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-09-30T10:00:00.000Z",
+          "wordCount": 1417,
+          "title": "How we diagnose Myelodysplastic syndromes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39346739",
+          "author": "Howard S Oster",
+          "description": "The Myelodysplastic syndromes (MDS) are a heterogenous group of clonal bone marrow (BM) stem cell myeloid neoplasms, characterized by ineffective hematopoiesis that results in dysplasia in hematopoietic cells and peripheral cytopenias, especially anemia, and a propensity to leukemic transformation. The suspicion of MDS is raised by a typical but not specific clinical picture and routine laboratory findings, but the gold standard for MDS diagnosis is still BM examination with the presence of...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39346739/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241013210815&v=2.18.0.post9+e462414",
           "publishedOn": "2024-09-30T10:00:00.000Z",
           "wordCount": 1417,
@@ -1280,6 +1400,16 @@
           "publishedOn": "2024-09-30T10:00:00.000Z",
           "wordCount": 1353,
           "title": "How we diagnose Myelodysplastic syndromes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39335587",
+          "author": "Irina Kologrivova",
+          "description": "Cardiogenic shock (CS) is one of the most serious complications of myocardial infarction (MI) with a high mortality rate. The timely and effective prevention and early suppression of this adverse event may influence the prognosis and outcome in patients with MI complicated by CS (MI CS). Despite the use of existing pharmaco-invasive options for maintaining an optimal pumping function of the heart in patients with MI CS, its mortality remains high, prompting the search for new approaches to...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39335587/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-09-28T10:00:00.000Z",
+          "wordCount": 1920,
+          "title": "The Role of Inflammation in the Pathogenesis of Cardiogenic Shock Secondary to Acute Myocardial Infarction: A Narrative Review",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1430,6 +1560,16 @@
           "publishedOn": "2024-09-28T10:00:00.000Z",
           "wordCount": 1244,
           "title": "The Role of Inflammation in the Pathogenesis of Cardiogenic Shock Secondary to Acute Myocardial Infarction: A Narrative Review",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39327604",
+          "author": "Manuela Krumbholz",
+          "description": "Chronic myeloid leukemia (CML) typically occurs in late adulthood. Pediatric CML is a rare form of leukemia. In all age groups, the characteristic genetic driver of the disease is the BCR::ABL1 fusion gene. However, additional genomic events contribute to leukemic transformation, which is not yet well-characterized in pediatric CML. We investigated the mutational landscape of pediatric CML to determine whether predisposing germline variants may play a role in early-age disease development. Whole...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39327604/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-09-26T10:00:00.000Z",
+          "wordCount": 2610,
+          "title": "A high proportion of germline variants in pediatric chronic myeloid leukemia",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1600,6 +1740,16 @@
           "publishedOn": "2024-09-26T10:00:00.000Z",
           "wordCount": 2008,
           "title": "A high proportion of germline variants in pediatric chronic myeloid leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39321421",
+          "author": "Abi Vijenthira",
+          "description": "Clonal hematopoeisis of indeterminate potential (CHIP) in patients with CLL has not been extensively characterized. The objective of this study was to describe the prevalence of myeloid CHIP (M-CHIP) in patients with CLL, and to determine its association with time to first treatment (TTFT) and overall survival (OS). We retrospectively analysed data from patients participating in a prospective CLL database at Dana Farber Cancer Institute who had standard of care targeted 95-gene next-generation...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39321421/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-09-25T10:00:00.000Z",
+          "wordCount": 1450,
+          "title": "Myeloid clonal hematopoiesis of indeterminate potential in patients with chronic lymphocytic leukemia",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7481,164 +7631,24 @@
           "wordCount": 1356,
           "title": "Gamma-delta T-cell large granular lymphocytic leukemia in the setting of rheumatologic diseases",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240830210149&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2973,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240829210223&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2973,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240828210200&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2973,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240827210128&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2973,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240826210057&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2973,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240825210033&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2973,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240824210458&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2973,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240823205829&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2973,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240822205951&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2966,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240821210044&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2966,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240820205929&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2966,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240819205908&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2966,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240818210022&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2716,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240817210319&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1504,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39148820",
-          "author": "Myvizhi Esai Selvan",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of somatic mutations in myeloid and lymphoid malignancy genes in the blood cells of individuals without a hematologic malignancy. Inflammation is hypothesized to be a key mediator in the progression of CHIP to hematologic malignancy and patients with CHIP have a high prevalence of inflammatory diseases. This study aimed to identify the prevalence and characteristics of CHIP in patients with inflammatory bowel disease (IBD)....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39148820/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20240816205741&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1504,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.18.0.post9+e462414&utm_source=axios&ff=20241013210815&fc=20220608010801&utm_medium=rss",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&ff=20241014210709&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.18.0.post9+e462414&fc=20220608010801&utm_campaign=pubmed-2&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:39389340",
+          "author": "Deepa Rajendran",
+          "description": "Colorectal cancer (CRC) remains a leading cause of death globally despite the improvements in cancer treatment. Autophagy is an evolutionarily conserved lysosomal-dependent degradation pathway that is critical in maintaining cellular homeostasis. However, in cancer, autophagy may have conflicting functions in preventing early tumour formation versus the maintenance of advanced-stage tumours. Defective autophagy has a broad and dynamic effect not just on cancer cells, but also on the tumour...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39389340/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-10T10:00:00.000Z",
+          "wordCount": 1254,
+          "title": "Navigating therapeutic prospects by modulating autophagy in colorectal cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:39389340",
           "author": "Deepa Rajendran",
@@ -7667,6 +7677,16 @@
           "publishedOn": "2024-10-10T10:00:00.000Z",
           "wordCount": 1254,
           "title": "Navigating therapeutic prospects by modulating autophagy in colorectal cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39383458",
+          "author": "Christine N Duncan",
+          "description": "CONCLUSIONS: Hematologic cancer developed in a subgroup of patients who were treated with eli-cel; the cases are associated with clonal vector insertions within oncogenes and clonal evolution with acquisition of somatic genetic defects. (Funded by Bluebird Bio; ALD-102, ALD-104, and LTF-304 ClinicalTrials.gov numbers, NCT01896102, NCT03852498, and NCT02698579, respectively.).",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39383458/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-09T10:00:00.000Z",
+          "wordCount": 2100,
+          "title": "Hematologic Cancer after Gene Therapy for Cerebral Adrenoleukodystrophy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7717,6 +7737,16 @@
           "publishedOn": "2024-10-09T10:00:00.000Z",
           "wordCount": 2023,
           "title": "Hematologic Cancer after Gene Therapy for Cerebral Adrenoleukodystrophy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39355236",
+          "author": "Lichao Cao",
+          "description": "CONCLUSION: CSRLs are promising biomarkers to forecast survival and therapeutic responses in colon cancer patients. Furthermore, MYOSLID, one of 3-CSRLs in the prognostic model, could dramatically regulate the proliferation and CS of colon cancer.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39355236/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-10-02T10:00:00.000Z",
+          "wordCount": 2546,
+          "title": "Prognostic cellular senescence-related lncRNAs patterns to predict clinical outcome and immune response in colon cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7837,6 +7867,16 @@
           "publishedOn": "2024-10-02T10:00:00.000Z",
           "wordCount": 2494,
           "title": "Prognostic cellular senescence-related lncRNAs patterns to predict clinical outcome and immune response in colon cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39333105",
+          "author": "Eun Seop Seo",
+          "description": "Germline genetic context may play a significant role in the development and evolution of cancer, particularly in childhood cancers such as neuroblastoma. This study investigates the role of putatively functional germline variants in neuroblastoma, even if they do not directly increase disease risk. Our whole-exome sequencing analysis of 125 patients with neuroblastoma reveals a positive correlation between germline variant burden and somatic mutations. Moreover, patients with higher germline...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39333105/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-09-27T10:00:00.000Z",
+          "wordCount": 2671,
+          "title": "Germline functional variants contribute to somatic mutation and outcomes in neuroblastoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7967,6 +8007,16 @@
           "publishedOn": "2024-09-27T10:00:00.000Z",
           "wordCount": 1706,
           "title": "Germline functional variants contribute to somatic mutation and outcomes in neuroblastoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39310778",
+          "author": "Nicole Zatorski",
+          "description": "Structural features of proteins capture underlying information about protein evolution and function, which enhances the analysis of proteomic and transcriptomic data. Here, we develop Structural Analysis of Gene and protein Expression Signatures (SAGES), a method that describes expression data using features calculated from sequence-based prediction methods and 3D structural models. We used SAGES, along with machine learning, to characterize tissues from healthy individuals and those with breast...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39310778/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-09-23T10:00:00.000Z",
+          "wordCount": 2455,
+          "title": "Structural analysis of genomic and proteomic signatures reveal dynamic expression of intrinsically disordered regions in breast cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8177,6 +8227,16 @@
           "publishedOn": "2024-09-23T10:00:00.000Z",
           "wordCount": 2309,
           "title": "Structural analysis of genomic and proteomic signatures reveal dynamic expression of intrinsically disordered regions in breast cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39289779",
+          "author": "Richard A Hickman",
+          "description": "The characterization of genetic alterations in tumor samples has become standard practice for many human cancers to achieve more precise disease classification and guide the selection of targeted therapies. Cerebrospinal fluid (CSF) can serve as a source of tumor DNA in patients with central nervous system (CNS) cancer. We performed comprehensive profiling of CSF circulating tumor DNA (ctDNA) in 711 patients using an FDA-authorized platform (MSK-IMPACT™) in a hospital laboratory. We identified...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39289779/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-09-17T10:00:00.000Z",
+          "wordCount": 3365,
+          "title": "Real-world experience with circulating tumor DNA in cerebrospinal fluid from patients with central nervous system tumors",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8437,6 +8497,26 @@
           "publishedOn": "2024-09-17T10:00:00.000Z",
           "wordCount": 3335,
           "title": "Real-world experience with circulating tumor DNA in cerebrospinal fluid from patients with central nervous system tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39231709",
+          "author": "Kenichi Yoshida",
+          "description": "Recent advances in sequencing technologies have clarified the driver gene landscape in Philadelphia chromosomenegative (Ph-) myeloproliferative neoplasms (MPNs) and progressed understanding of MPN pathogenesis. Beyond mutations in the main three drivers of MPN, namely JAK2, MPL and CALR, somatic mutations in the epigenetic regulators and RNA splicing factors have been identified and their association with transformation to myelofibrosis and acute myeloid leukemia have been determined. Clonal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39231709/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-09-04T10:00:00.000Z",
+          "wordCount": 1145,
+          "title": "Clonal evolution in myeloproliferative neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39228741",
+          "author": "Roni Haas",
+          "description": "Multifocal prostate cancer is a prevalent phenomenon, with most cases remaining uncharacterized from a genomic perspective. A patient presented with bilateral prostate cancer. On systematic biopsy, two indistinguishable clinicopathologic lesions were detected. Whole-genome sequencing displayed somatically unrelated tumours with distinct driver CNA regions, suggesting independent origins of the two tumors. We demonstrated that similar clinicopathologic multifocal tumours, which might be...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39228741/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-09-04T10:00:00.000Z",
+          "wordCount": 1586,
+          "title": "Divergent Evolution in Bilateral Prostate Cancer: a Case Study",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9233,6 +9313,16 @@
           "id": "pubmed:39224803",
           "author": "Matheus Correia Casotti",
           "description": "Cancer therapy is facing increasingly significant challenges, marked by a wide range of techniques and research efforts centered around somatic mutations, precision oncology, and the vast amount of big data. Despite this abundance of information, the quest to cure cancer often seems more elusive, with the \"war on cancer\" yet to deliver a definitive victory. A particularly pressing issue is the development of tumor treatment resistance, highlighting the urgent need for innovative approaches....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39224803/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-09-03T10:00:00.000Z",
+          "wordCount": 3104,
+          "title": "Integrating frontiers: a holistic, quantum and evolutionary approach to conquering cancer through systems biology and multidisciplinary synergy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39224803",
+          "author": "Matheus Correia Casotti",
+          "description": "Cancer therapy is facing increasingly significant challenges, marked by a wide range of techniques and research efforts centered around somatic mutations, precision oncology, and the vast amount of big data. Despite this abundance of information, the quest to cure cancer often seems more elusive, with the \"war on cancer\" yet to deliver a definitive victory. A particularly pressing issue is the development of tumor treatment resistance, highlighting the urgent need for innovative approaches....",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39224803/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241013210815&v=2.18.0.post9+e462414",
           "publishedOn": "2024-09-03T10:00:00.000Z",
           "wordCount": 3104,
@@ -9637,6 +9727,16 @@
           "publishedOn": "2024-09-03T10:00:00.000Z",
           "wordCount": 1780,
           "title": "Integrating frontiers: a holistic, quantum and evolutionary approach to conquering cancer through systems biology and multidisciplinary synergy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39192001",
+          "author": "Jan Budczies",
+          "description": "Tumour mutational burden (TMB), defined as the total number of somatic non-synonymous mutations present within the cancer genome, varies across and within cancer types. A first wave of retrospective and prospective research identified TMB as a predictive biomarker of response to immune-checkpoint inhibitors and culminated in the disease-agnostic approval of pembrolizumab for patients with TMB-high tumours based on data from the Keynote-158 trial. Although the applicability of outcomes from this...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39192001/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-08-27T10:00:00.000Z",
+          "wordCount": 1907,
+          "title": "Tumour mutational burden: clinical utility, challenges and emerging improvements",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -10107,6 +10207,16 @@
           "publishedOn": "2024-08-27T10:00:00.000Z",
           "wordCount": 1763,
           "title": "Tumour mutational burden: clinical utility, challenges and emerging improvements",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39185534",
+          "author": "Angelo Fortunato",
+          "description": "Progression from pre-cancers like ductal carcinoma in situ (DCIS) to invasive disease (cancer) is driven by somatic evolution and is altered by clinical interventions. We hypothesized that genetic and/or phenotypic intra-tumor heterogeneity would predict clinical outcomes for DCIS since it serves as the substrate for natural selection among cells. We profiled two samples from two geographically distinct foci from each DCIS in both cross-sectional (N = 119) and longitudinal cohorts (N = 224),...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39185534/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-08-26T10:00:00.000Z",
+          "wordCount": 2545,
+          "title": "Evolutionary Measures Show that Recurrence of DCIS is Distinct from Progression to Breast Cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -10597,6 +10707,16 @@
           "publishedOn": "2024-08-26T10:00:00.000Z",
           "wordCount": 1242,
           "title": "Evolutionary Measures Show that Recurrence of DCIS is Distinct from Progression to Breast Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39180486",
+          "author": "Samantha Martin",
+          "description": "Microsatellite unstable colorectal cancer (MSI-CRC) can arise through germline mutations in mismatch repair (MMR) genes in individuals with Lynch syndrome (LS), or sporadically through promoter methylation of the MMR gene MLH1. Despite the different origins of hereditary and sporadic MSI tumours, their genomic features have not been extensively compared. A prominent feature of MMR-deficient genomes is the occurrence of many indels in short repeat sequences, an understudied mutation type due to...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39180486/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-08-24T10:00:00.000Z",
+          "wordCount": 1736,
+          "title": "Lynch syndrome-associated and sporadic microsatellite unstable colorectal cancers: different patterns of clonal evolution yield highly similar tumours",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -11107,6 +11227,16 @@
           "publishedOn": "2024-08-24T10:00:00.000Z",
           "wordCount": 1692,
           "title": "Lynch syndrome-associated and sporadic microsatellite unstable colorectal cancers: different patterns of clonal evolution yield highly similar tumours",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39176294",
+          "author": "Ashish A Kumar",
+          "description": "Prostate cancer (PC) is the most frequently diagnosed cancer and second leading cause of cancer-related deaths in men. It is heterogeneous, as is evident from the wide spectrum of therapeutic approaches. Most patients with PC are initially responsive to androgen deprivation therapy; however, the majority of cases are either hormone-sensitive PC or castration-resistant PC. Current therapeutic protocols follow the evolution of PC, a continuously progressive process involving a combination of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39176294/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-08-23T10:00:00.000Z",
+          "wordCount": 1656,
+          "title": "Prostate cancer genotyping for risk stratification and precision treatment",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -11627,6 +11757,16 @@
           "publishedOn": "2024-08-23T10:00:00.000Z",
           "wordCount": 1160,
           "title": "Prostate cancer genotyping for risk stratification and precision treatment",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39170579",
+          "author": "Guoliang Yao",
+          "description": "CONCLUSIONS: In conclusion, metastasis of pancreatic cancer may be influenced by variables other than KRAS mutations, such as TP53. PDAC peritoneal and liver metastases may differ in potential therapeutic biomarkers. Further inquiry is needed on the biological mechanisms underlying metastasis and the treatment of diverse metastases.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39170579/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-08-22T10:00:00.000Z",
+          "wordCount": 2443,
+          "title": "Comparative analysis of the mutational landscape and evolutionary patterns of pancreatic ductal adenocarcinoma metastases in the liver or peritoneum",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -12157,6 +12297,16 @@
           "publishedOn": "2024-08-22T10:00:00.000Z",
           "wordCount": 1419,
           "title": "Comparative analysis of the mutational landscape and evolutionary patterns of pancreatic ductal adenocarcinoma metastases in the liver or peritoneum",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39160568",
+          "author": "Dong-Jin Han",
+          "description": "CONCLUSIONS: We propose that the ED of gene pairs evaluated by dNdS ratios can advance our understanding of the functional relationship of genes with potential biological and clinical implications.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39160568/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241014210709&v=2.18.0.post9+e462414",
+          "publishedOn": "2024-08-19T10:00:00.000Z",
+          "wordCount": 3325,
+          "title": "Evolutionary dependency of cancer mutations in gene pairs inferred by nonsynonymous-synonymous mutation ratios",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -12707,1096 +12857,6 @@
           "publishedOn": "2024-08-19T10:00:00.000Z",
           "wordCount": 1902,
           "title": "Evolutionary dependency of cancer mutations in gene pairs inferred by nonsynonymous-synonymous mutation ratios",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241010210554&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1416,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241009210529&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241008210537&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241008210537&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241007210554&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241007210554&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241006210818&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241006210818&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241005211137&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241005211137&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241004210519&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241004210519&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241003210609&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241003210609&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241002210620&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241002210620&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241001210600&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20241001210600&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240930211236&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240930211236&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240929210827&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240929210827&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240928211135&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240928211135&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240927210529&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240927210529&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240926210604&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240926210604&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240925210526&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240925210526&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240924210720&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240924210720&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240923210626&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240923210626&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240922210558&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240922210558&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240921211034&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240921211034&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240920210312&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240920210312&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240919210411&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240919210411&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240918210407&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240918210407&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240917210311&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240917210311&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240916205255&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240916205255&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240915210709&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1409,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240915210709&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2250,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240914211017&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240914211017&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240913210223&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240913210223&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2424,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240912210304&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240912210304&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2250,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240911210300&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240911210300&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2433,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240910210302&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240910210302&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2250,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240909210324&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240909210324&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2250,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240908210442&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240908210442&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2250,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240907210758&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240907210758&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240906210127&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240906210127&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240905210233&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240905210233&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240904210237&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240904210237&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240903210242&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1733,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240903210242&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240902210147&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1735,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240902210147&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240901210338&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1735,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240901210338&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240831211220&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1735,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240831211220&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240830210149&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1735,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240830210149&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240829210223&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1735,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240829210223&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240828210200&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1735,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240828210200&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2431,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240827210128&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1735,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240827210128&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2424,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240826210057&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1735,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240826210057&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2424,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240825210033&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1728,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240825210033&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2424,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240824210458&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1735,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240824210458&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2424,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240823205829&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1735,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240823205829&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2424,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240822205951&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1728,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240822205951&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2424,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240821210044&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1728,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240821210044&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 2146,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240820205929&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1728,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240820205929&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1410,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240819205908&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1728,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240819205908&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1410,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240818210022&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1728,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240818210022&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1402,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39151453",
-          "author": "Meredith S Irwin",
-          "description": "Neuroblastoma has heterogenous clinical presentations that are reflected by several well-defined clinical factors and biomarkers. Combinations of these clinical and biologic prognostic factors have been used for decades to generate classifiers to stratify patients into risk groups (low, intermediate, and high), which in turn are used to inform and tailor treatment as reported in the new NCCN Clinical Practice Guidelines in Oncology for Neuroblastoma. Risk classification uses clinical features,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39151453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240817210319&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1688,
-          "title": "Current and Emerging Biomarkers: Impact on Risk Stratification for Neuroblastoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240817210319&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1350,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39149342",
-          "author": "Steven M Foltz",
-          "description": "Somatic mutation phasing informs our understanding of cancer-related events, like driver mutations. We generated linked-read whole genome sequencing data for 23 samples across disease stages from 14 multiple myeloma (MM) patients and systematically assigned somatic mutations to haplotypes using linked-reads. Here, we report the reconstructed cancer haplotypes and phase blocks from several MM samples and show how phase block length can be extended by integrating samples from the same individual....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39149342/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20240816205741&v=2.18.0.post9+e462414",
-          "publishedOn": "2024-08-16T10:00:00.000Z",
-          "wordCount": 1350,
-          "title": "Somatic mutation phasing and haplotype extension using linked-reads in multiple myeloma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
