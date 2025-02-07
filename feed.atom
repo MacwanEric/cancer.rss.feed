@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2025-02-06T01:06:30.962Z</updated>
+    <updated>2025-02-07T01:06:41.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[X-linked sideroblastic anemia in females]]></title>
+        <id>pubmed:39912603</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39912603/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-02-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[X-linked sideroblastic anemia (XLSA) in carrier females of ALAS2 mutations is not uncommon. We describe unique features and genotype/phenotype correlations in XLSA females and evaluate the contributions of X-chromosome skewing and clonal hematopoiesis, emphasizing the importance of distinguishing it from myelodysplastic syndromes with ring sideroblasts.]]></summary>
+        <author>
+            <name>Sarah Ducamp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantifying cell divisions along evolutionary lineages in cancer]]></title>
+        <id>pubmed:39905260</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39905260/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-02-05T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cell division drives somatic evolution but is challenging to quantify. We developed a framework to count cell divisions with DNA replication-related mutations in polyguanine homopolymers. Analyzing 505 samples from 37 patients, we studied the milestones of colorectal cancer evolution. Primary tumors diversify at ~250 divisions from the founder cell, while distant metastasis divergence occurs significantly later, at ~500 divisions. Notably, distant but not lymph node metastases originate from...]]></summary>
+        <author>
+            <name>Martin Blohmer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quantifying cell divisions along evolutionary lineages in cancer]]></title>
         <id>pubmed:39905260</id>
@@ -14,6 +34,46 @@
         <summary type="html"><![CDATA[Cell division drives somatic evolution but is challenging to quantify. We developed a framework to count cell divisions with DNA replication-related mutations in polyguanine homopolymers. Analyzing 505 samples from 37 patients, we studied the milestones of colorectal cancer evolution. Primary tumors diversify at ~250 divisions from the founder cell, while distant metastasis divergence occurs significantly later, at ~500 divisions. Notably, distant but not lymph node metastases originate from...]]></summary>
         <author>
             <name>Martin Blohmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDM2 inhibition is associated with the emergence of TP53-altered clonal hematopoiesis]]></title>
+        <id>pubmed:39900989</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39900989/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-02-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Murine double minute 2 (MDM2) inhibitors have shown promising activity in TP53-wild type tumors and are under active investigation across a spectrum of malignancies. Herein, we report a 51-year-old female with MDM2-amplified, TP53-wild type adenoid cystic carcinoma who was treated with a MDM2 inhibitor and developed persistent pancytopenia despite drug discontinuation. Her pancytopenia was associated with 20 distinct pathogenic TP53 mutations in peripheral blood and bone marrow not present in...]]></summary>
+        <author>
+            <name>Vishesh Khanna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hematopoietic stem cell discovery: unveiling the historical and future perspective of colony-forming units assay]]></title>
+        <id>pubmed:39897489</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39897489/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-02-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stem cells are special cells with the distinctive capability to self-renew, forming a new pool of undifferentiated stem cells. They are also able to differentiate into lineage-specific cell types that are specialized and matured. Thus, stem cells are considered as the building blocks of tissues and organs in which they reside. Among the many types of stem cells, hematopoietic stem cells (HSCs) are the most studied adult stem cells and are considered as a promising source of cells for...]]></summary>
+        <author>
+            <name>Nur Afizah Yusoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis and Risk of Heart Failure After Autologous Hematopoietic Cell Transplantation for Lymphoma]]></title>
+        <id>pubmed:39896122</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39896122/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-02-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CHIP was highly prevalent and associated with risk for HF and nonrelapse mortality after HCT. These findings highlight the role of CHIP as a novel biomarker and potential target for intervention to improve outcomes after autologous HCT.]]></summary>
+        <author>
+            <name>June-Wha Rhee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telomere Length Is Associated With Adverse Atrial Remodeling in Patients With Atrial Fibrillation]]></title>
+        <id>pubmed:39895528</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39895528/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-02-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Telomere shortening is correlated with left atrial remodeling. Shorter telomeres are associated with a series of molecular events which could eventually lead to cardiac fibrosis and perpetuate AF.]]></summary>
+        <author>
+            <name>Kabita Pradhan</name>
         </author>
     </entry>
     <entry>
@@ -99,6 +159,26 @@
     <entry>
         <title type="html"><![CDATA[Myelodysplastic syndrome with dual germline RUNX1 and DDX41 variants: a rare genetic predisposition case]]></title>
         <id>pubmed:39890690</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39890690/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Germline variants in RUNX1 and DDX41 are well-established contributors to hereditary myeloid neoplasms and are increasingly recognized as critical predisposing factors in the developing myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML). This case report details a 51-year-old male diagnosed with MDS with excess blasts-1 (MDS-EB1), who harbored a rare combination of pathogenic germline variants in RUNX1 and a novel potentially pathogenic variant in DDX41 variant, alongside a somatic...]]></summary>
+        <author>
+            <name>Virginia Bove</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis Is Associated With Adverse Clinical Outcomes and Left Ventricular Remodeling in Aortic Stenosis]]></title>
+        <id>pubmed:39886300</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39886300/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Our study supports the adverse clinical impact of CHIP in AS patients undergoing TAVI, which could be attributed to systemic inflammation and maladaptive LV remodeling. Prospective trials are anticipated to validate our findings and provide further evidence that CHIP holds the potential of being an actionable therapeutic target in AS.]]></summary>
+        <author>
+            <name>Chi-Yuan Yao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myelodysplastic syndrome with dual germline RUNX1 and DDX41 variants: a rare genetic predisposition case]]></title>
+        <id>pubmed:39890690</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/39890690/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250205200628&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-01-31T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Germline variants in RUNX1 and DDX41 are well-established contributors to hereditary myeloid neoplasms and are increasingly recognized as critical predisposing factors in the developing myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML). This case report details a 51-year-old male diagnosed with MDS with excess blasts-1 (MDS-EB1), who harbored a rare combination of pathogenic germline variants in RUNX1 and a novel potentially pathogenic variant in DDX41 variant, alongside a somatic...]]></summary>
@@ -174,6 +254,36 @@
         <summary type="html"><![CDATA[CONCLUSIONS: Our study supports the adverse clinical impact of CHIP in AS patients undergoing TAVI, which could be attributed to systemic inflammation and maladaptive LV remodeling. Prospective trials are anticipated to validate our findings and provide further evidence that CHIP holds the potential of being an actionable therapeutic target in AS.]]></summary>
         <author>
             <name>Chi-Yuan Yao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A non-conditioned bone marrow transplantation mouse model to study clonal hematopoiesis and myeloid malignancies]]></title>
+        <id>pubmed:39885602</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39885602/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) is a condition where blood or bone marrow cells carry mutations associated with hematological malignancies. Individuals with CHIP have an increased risk of developing hematological malignancies, atherosclerotic cardiovascular disease, and all-cause mortality. Bone marrow transplantation (BMT) of cells carrying CHIP mutations into irradiated mice are useful procedures to investigate the dynamics of clonal expansion and potential therapeutic...]]></summary>
+        <author>
+            <name>Sofia Bentivegna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variation in cancer risk between organs can not be explained by the degree of somatic clonal expansion]]></title>
+        <id>pubmed:39883325</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39883325/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Somatic clonal expansion refers to the proliferation and expansion of a cell clone within a multicellular organism. Since cancer also results from the uncontrolled proliferation of few cell clones, it is generally believed that aging-associated somatic clonal expansion observed in normal tissues represents a precancerous condition. For instance, hematological malignancy is often preceded by clonal hematopoiesis. However, the precise connection between cancer and somatic clonal expansion remains...]]></summary>
+        <author>
+            <name>Di Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redox biomarker levels in patients with myelodysplastic syndrome]]></title>
+        <id>pubmed:39882334</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39882334/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndrome (MDS) is a heterogeneous clonal disorder characterized by insufficient hematopoiesis, peripheral blood cytopenia and an increased risk for malignant transformation to acute myeloid leukemia. Several factors, such as age, sex and lifestyle, promote the development of MDS syndrome. Oxidative stress, along with its detrimental effects, cause hematological disorders; however, its role in the pathogenesis of MDS is unknown. The present study enrolled 50 patients with MDS and...]]></summary>
+        <author>
+            <name>Eleni Tsiara</name>
         </author>
     </entry>
     <entry>
@@ -349,6 +459,16 @@
     <entry>
         <title type="html"><![CDATA[Hematopoietic stem cell transplantation and immunosuppressive therapy: implications of clonal haematopoiesis]]></title>
         <id>pubmed:39873798</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39873798/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aplastic anemia (AA) is a life-threatening bone marrow failure syndrome. The advent of next-generation sequencing (NGS) has shed light on the link between somatic mutations (SM) and the efficacy of immunosuppressive therapy (IST) in AA patients. However, the relationship between SM and hematopoietic stem cell transplantation (HSCT) has not been extensively explored. In this retrospective analysis, we examined 166 AA patients who received HSCT or IST at our institution between May 2019 and...]]></summary>
+        <author>
+            <name>Zhengwei Tan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hematopoietic stem cell transplantation and immunosuppressive therapy: implications of clonal haematopoiesis]]></title>
+        <id>pubmed:39873798</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/39873798/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250205200628&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-01-28T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Aplastic anemia (AA) is a life-threatening bone marrow failure syndrome. The advent of next-generation sequencing (NGS) has shed light on the link between somatic mutations (SM) and the efficacy of immunosuppressive therapy (IST) in AA patients. However, the relationship between SM and hematopoietic stem cell transplantation (HSCT) has not been extensively explored. In this retrospective analysis, we examined 166 AA patients who received HSCT or IST at our institution between May 2019 and...]]></summary>
@@ -429,6 +549,16 @@
     <entry>
         <title type="html"><![CDATA[Cancer phylogenetic inference using copy number alterations detected from DNA sequencing data]]></title>
         <id>pubmed:39872371</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39872371/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cancer is an evolutionary process involving the accumulation of diverse somatic mutations and clonal evolution over time. Phylogenetic inference from samples obtained from an individual patient offers a powerful approach to unraveling the intricate evolutionary history of cancer and provides insights that can inform cancer treatment. Somatic copy number alterations (CNAs) are important in cancer evolution and are often used as markers, alone or with other somatic mutations, for phylogenetic...]]></summary>
+        <author>
+            <name>Bingxin Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancer phylogenetic inference using copy number alterations detected from DNA sequencing data]]></title>
+        <id>pubmed:39872371</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/39872371/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250205200627&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-01-28T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Cancer is an evolutionary process involving the accumulation of diverse somatic mutations and clonal evolution over time. Phylogenetic inference from samples obtained from an individual patient offers a powerful approach to unraveling the intricate evolutionary history of cancer and provides insights that can inform cancer treatment. Somatic copy number alterations (CNAs) are important in cancer evolution and are often used as markers, alone or with other somatic mutations, for phylogenetic...]]></summary>
@@ -504,6 +634,36 @@
         <summary type="html"><![CDATA[Cancer is an evolutionary process involving the accumulation of diverse somatic mutations and clonal evolution over time. Phylogenetic inference from samples obtained from an individual patient offers a powerful approach to unraveling the intricate evolutionary history of cancer and provides insights that can inform cancer treatment. Somatic copy number alterations (CNAs) are important in cancer evolution and are often used as markers, alone or with other somatic mutations, for phylogenetic...]]></summary>
         <author>
             <name>Bingxin Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Impact of Clonal Hematopoiesis on Heart Failure and Remodeling in Aortic Stenosis]]></title>
+        <id>pubmed:39867498</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39867498/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[No abstract]]></summary>
+        <author>
+            <name>Minkwan Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Correlates and Consequences of Clonal Hematopoiesis Expansion Rate: A 15-Year Longitudinal Study of 6,986 Women]]></title>
+        <id>pubmed:39867366</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39867366/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) is associated with increased mortality and malignancy risk, yet the determinants of clonal expansion remain poorly understood. We performed sequencing at >4,000x depth of coverage for CHIP mutations in 6,986 postmenopausal women from the Women's Health Initiative at two timepoints approximately 15 years apart. Among 3,685 mutations detected at baseline (VAF ≥ 0.5%), 50% progressed to CHIP (VAF ≥ 2%) at follow-up. We confirmed that clonal...]]></summary>
+        <author>
+            <name>Yash Pershad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis Associates with Prevalent and Incident Cardiometabolic Disease in High-Risk Individuals]]></title>
+        <id>pubmed:39867361</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39867361/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: In high-risk individuals referred for cardiac catheterization, large CHIP and non-DNTM3A CHIP were associated with obesity, prevalent HF, incident CV events. These findings strengthen the importance of CHIP as a biomarker for CV disease and highlight the contributing risk of large CHIP clones and non-DNMT3A CHIP variants.]]></summary>
+        <author>
+            <name>Jessica A Regan</name>
         </author>
     </entry>
     <entry>
@@ -774,6 +934,16 @@
         <summary type="html"><![CDATA[CONCLUSIONS: In high-risk individuals referred for cardiac catheterization, large CHIP and non- DNTM3A CHIP were associated with obesity, prevalent HF, incident CV events. These findings strengthen the importance of CHIP as a biomarker for CV disease and highlight the contributing risk of large CHIP clones and non- DNMT3A CHIP variants.]]></summary>
         <author>
             <name>Jessica A Regan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radiotherapeutics, clonal hematopoiesis, and risk of hematologic malignancies: The good, the bad, the ugly]]></title>
+        <id>pubmed:39864960</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39864960/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While radiotherapeutics have demonstrated significant clinical benefit across multiple cancer types including thyroid cancer, neuroendocrine tumors, and prostate cancer, hematological toxicities can be frequent and challenging. It remains unknown to what extent the hematologic toxicity is driven by clonal processes that preexist and are selected for by treatment induced selection pressures. In this review, we discuss the background leading to the adoption of radiotherapeutics in the treatment of...]]></summary>
+        <author>
+            <name>Catherine H Marshall</name>
         </author>
     </entry>
     <entry>
@@ -1259,6 +1429,16 @@
     <entry>
         <title type="html"><![CDATA[Somatic mutations and DNA methylation identify a subgroup of poor prognosis within lower-risk myelodysplastic syndromes]]></title>
         <id>pubmed:39850648</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39850648/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-24T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lower risk (LR) myelodysplastic syndromes (MDS) are heterogeneous hematopoietic stem and progenitor disorders caused by the accumulation of somatic mutations in various genes including epigenetic regulators that may produce convergent DNA methylation patterns driving specific gene expression profiles. The integration of genomic, epigenomic, and transcriptomic profiling has the potential to spotlight distinct LR-MDS categories on the basis of pathophysiological mechanisms. We performed a...]]></summary>
+        <author>
+            <name>David Rombaut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somatic mutations and DNA methylation identify a subgroup of poor prognosis within lower-risk myelodysplastic syndromes]]></title>
+        <id>pubmed:39850648</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/39850648/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250205200627&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-01-24T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lower risk (LR) myelodysplastic syndromes (MDS) are heterogeneous hematopoietic stem and progenitor disorders caused by the accumulation of somatic mutations in various genes including epigenetic regulators that may produce convergent DNA methylation patterns driving specific gene expression profiles. The integration of genomic, epigenomic, and transcriptomic profiling has the potential to spotlight distinct LR-MDS categories on the basis of pathophysiological mechanisms. We performed a...]]></summary>
@@ -1474,6 +1654,16 @@
         <summary type="html"><![CDATA[CONCLUSION: CHIP mutations, particularly TET2, are more prevalent in patients with T2DM compared to individuals without diabetes. The presence of these mutations is associated with adverse clinical outcomes, notably increased mortality rates. Moreover, bidirectional Mendelian randomization analyses provide supporting evidence for a potential causal relationship between TET2-related CHIP and the development of T2DM.]]></summary>
         <author>
             <name>Xiaoxiao Zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking cancer evolution: from genetic mutations to complex information systems in tumor reversion]]></title>
+        <id>pubmed:39845642</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39845642/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cancer research has historically focused on the somatic mutation theory, viewing cancer as a consequence of genetic mutations. However, this perspective has limitations in explaining phenomena like tumor reversion and cancer heterogeneity. This paper introduces an alternative approach: viewing cancer as a complex information-processing system shaped by its microenvironment. By integrating historical data on tumor reversion and insights into evolutionary dynamics, I propose a reframing of cancer...]]></summary>
+        <author>
+            <name>Mesut Tez</name>
         </author>
     </entry>
     <entry>
@@ -1909,6 +2099,16 @@
     <entry>
         <title type="html"><![CDATA[Deep Learning for Biomarker Discovery in Cancer Genomes]]></title>
         <id>pubmed:39829845</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39829845/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-20T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: We demonstrate that deep learning can identify patterns in unfiltered somatic mutations without the need for manual feature extraction. This approach enhances the detection of actionable targets and paves the way for developing NGS-based biomarkers using minimally processed data.]]></summary>
+        <author>
+            <name>Michaela Unger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Learning for Biomarker Discovery in Cancer Genomes]]></title>
+        <id>pubmed:39829845</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/39829845/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250205200627&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-01-20T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSION: We demonstrate that deep learning can identify patterns in unfiltered somatic mutations without the need for manual feature extraction. This approach enhances the detection of actionable targets and paves the way for developing NGS-based biomarkers using minimally processed data.]]></summary>
@@ -2264,6 +2464,16 @@
         <summary type="html"><![CDATA[DNA methylation, catalyzed by DNA methyltransferases (DNMT), plays pivotal role in regulating embryonic development, gene expression, adaption to environmental stress, and maintaining genome integrity. DNMT family consists of DNMT1, DNMT3A, DNMT3B, and the enzymatically inactive DNMT3L. DNMT3A and DNMT3B establish novel methylation patterns maintained by DNMT1 during replication. Genetic variants of DNMT3A and DNMT3B cause rare diseases such as Tatton-Brown-Rahman and ICF syndromes....]]></summary>
         <author>
             <name>Dániel Márton Tóth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rat Models of Breast Cancer]]></title>
+        <id>pubmed:39821024</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39821024/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As the first mammal to be domesticated for research purposes, rats served as the primary animal model for various branches of biomedical research, including breast cancer studies, up until the late 1990s and early 2000s. During this time, genetic engineering of mice, but not rats, became routine, and mice gradually supplanted rats as the preferred rodent model. But recent advances in creating genetically engineered rat models, especially with the assistance of CRISPR/Cas9 technology, have...]]></summary>
+        <author>
+            <name>Wen Bu</name>
         </author>
     </entry>
     <entry>
@@ -3399,6 +3609,16 @@
     <entry>
         <title type="html"><![CDATA[Implementing Mutational Epidemiology on a Global Scale: Lessons from Mutographs]]></title>
         <id>pubmed:39801236</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39801236/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Mutographs Cancer Grand Challenge team aimed to discover unknown causes of cancer through mutational epidemiology, an alliance of cancer epidemiology and somatic genomics. By generating whole-genome sequences from thousands of cancers and normal tissues from more than 30 countries on five continents, it discovered unsuspected mutagenic exposures affecting millions of people, raised the possibility that some carcinogens act by altering forces of selection in tissue microenvironments rather...]]></summary>
+        <author>
+            <name>Michael R Stratton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing Mutational Epidemiology on a Global Scale: Lessons from Mutographs]]></title>
+        <id>pubmed:39801236</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/39801236/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250205200627&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-01-13T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Mutographs Cancer Grand Challenge team aimed to discover unknown causes of cancer through mutational epidemiology, an alliance of cancer epidemiology and somatic genomics. By generating whole-genome sequences from thousands of cancers and normal tissues from more than 30 countries on five continents, it discovered unsuspected mutagenic exposures affecting millions of people, raised the possibility that some carcinogens act by altering forces of selection in tissue microenvironments rather...]]></summary>
@@ -3734,6 +3954,46 @@
         <summary type="html"><![CDATA[CONCLUSION: Taken together, these results provide stronger human genetic evidence that CHIP is associated with reduced AD risk and delayed age-at-onset, particularly in APOE-ε4 carriers. These findings corroborate the notion that rescuing microglial phagocytic capacity during aging may be a therapeutic avenue for AD, most notably in APOE-ε4 carriers.]]></summary>
         <author>
             <name>Yann Le Guen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investigating the origins of the mutational signatures in cancer]]></title>
+        <id>pubmed:39778866</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39778866/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most of the risk factors associated with chronic and complex diseases, such as cancer, stem from exogenous and endogenous exposures experienced throughout an individual's life, collectively known as the exposome. These exposures can modify DNA, which can subsequently lead to the somatic mutations found in all normal and tumor tissues. Understanding the precise origins of specific somatic mutations has been challenging due to multitude of DNA adducts (i.e. the DNA adductome) and their diverse...]]></summary>
+        <author>
+            <name>Gunnar Boysen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crosstalk between thyroid CSCs and immune cells: basic principles and clinical implications]]></title>
+        <id>pubmed:39776907</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39776907/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thyroid cancer has become the most common endocrine malignancy. Although the majority of differentiated thyroid cancers have a favorable prognosis, advanced thyroid cancers, iodine-refractory thyroid cancers, and highly malignant undifferentiated carcinomas still face a serious challenge of poor prognosis and even death. Cancer stem cells are recognized as one of the central drivers of tumor evolution, recurrence and treatment resistance. A fresh viewpoint on the oncological aspects of thyroid...]]></summary>
+        <author>
+            <name>Xiaoxiao Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orchard: Building large cancer phylogenies using stochastic combinatorial search]]></title>
+        <id>pubmed:39775053</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39775053/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Phylogenies depicting the evolutionary history of genetically heterogeneous subpopulations of cells from the same cancer, i.e., cancer phylogenies, offer valuable insights about cancer development and guide treatment strategies. Many methods exist that reconstruct cancer phylogenies using point mutations detected with bulk DNA sequencing. However, these methods become inaccurate when reconstructing phylogenies with more than 30 mutations, or, in some cases, fail to recover a phylogeny...]]></summary>
+        <author>
+            <name>Ethan Kulman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A germline FLT3 variant in aplastic anemia]]></title>
+        <id>pubmed:39773519</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39773519/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FMS-like tyrosine kinase 3 (FLT3) genetic variants are commonly seen in high-grade myeloid neoplasms and are typically gain-of-function mutations associated with a proliferative disease phenotype. Inactivating FLT3 variants have been less frequently described in non-malignant, autoimmune disorders and are uncommon in aplastic anemia (AA). Herein, we report the first to our knowledge, and unusual case of a germline, gain-of-function, FLT3 variant in a patient with severe AA treated successfully...]]></summary>
+        <author>
+            <name>Lemchukwu C Amaeshi</name>
         </author>
     </entry>
     <entry>
@@ -5149,6 +5409,16 @@
     <entry>
         <title type="html"><![CDATA[Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology]]></title>
         <id>pubmed:39761690</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...]]></summary>
+        <author>
+            <name>John F McDonald</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology]]></title>
+        <id>pubmed:39761690</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250205200627&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-01-06T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...]]></summary>
@@ -5884,6 +6154,16 @@
         <summary type="html"><![CDATA[INTRODUCTION: Recent work has revealed that clonal hematopoiesis (CH) is associated with a higher risk of numerous age-related diseases, including ischemic stroke, however little is known about whether it influences stroke outcome independent of its widespread effects on cardiovascular disease. Studies suggest that leukocytes carrying CH driver mutations have an enhanced inflammatory profile, which could conceivably exacerbate brain injury after a stroke.]]></summary>
         <author>
             <name>Megan A Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBP1 controls liver cancer evolution from senescent MASH hepatocytes]]></title>
+        <id>pubmed:39743585</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39743585/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-01-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hepatocellular carcinoma (HCC) originates from differentiated hepatocytes undergoing compensatory proliferation in livers damaged by viruses or metabolic-dysfunction-associated steatohepatitis (MASH)¹. While increasing HCC risk², MASH triggers p53-dependent hepatocyte senescence³, which we found to parallel hypernutrition-induced DNA breaks. How this tumour-suppressive response is bypassed to license oncogenic mutagenesis and enable HCC evolution was previously unclear. Here we identified the...]]></summary>
+        <author>
+            <name>Li Gu</name>
         </author>
     </entry>
     <entry>
@@ -6629,6 +6909,16 @@
     <entry>
         <title type="html"><![CDATA[Immune Stress-induced Tumor Mutation Burden and Neoantigen Expression in 4T1 Mammary Cancer Cells: A Potential Mechanism for Long-term Survival in Patients Treated With Immune Checkpoint Inhibitors]]></title>
         <id>pubmed:39730175</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39730175/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2024-12-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: Cancer cells, under immune stress, may acquire both immune escape capabilities and increased immunogenicity. This dual effect could lead to either resistance or response to ICIs, respectively.]]></summary>
+        <author>
+            <name>Tomoyuki Ishiguro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immune Stress-induced Tumor Mutation Burden and Neoantigen Expression in 4T1 Mammary Cancer Cells: A Potential Mechanism for Long-term Survival in Patients Treated With Immune Checkpoint Inhibitors]]></title>
+        <id>pubmed:39730175</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/39730175/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250205200627&amp;v=2.18.0.post9+e462414"/>
         <updated>2024-12-27T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSION: Cancer cells, under immune stress, may acquire both immune escape capabilities and increased immunogenicity. This dual effect could lead to either resistance or response to ICIs, respectively.]]></summary>
@@ -7324,6 +7614,16 @@
         <summary type="html"><![CDATA[We present a series of articles proving the existence of a previously unknown mechanism of interaction between hematopoietic stem cells and extracellular double-stranded DNA (and, in particular, double-stranded DNA of the peripheral bloodstream), which explains the possibility of emergence and fixation of genetic information contained in double-stranded DNA of extracellular origin in hematopoietic stem cells. The concept of the possibility of stochastic or targeted changes in the genome of...]]></summary>
         <author>
             <name>L A Yakubov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synchronous bilateral Wilms tumors are prone to develop independently and respond differently to preoperative chemotherapy]]></title>
+        <id>pubmed:39723643</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/39723643/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250206200638&amp;v=2.18.0.post9+e462414"/>
+        <updated>2024-12-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wilms tumor (WT) is the most common kidney cancer in infants and young children. The determination of the clonality of bilateral WTs is critical to the treatment, because lineage-independent and metastatic tumors may require different treatment strategies. Here we found synchronous bilateral WT (n = 24 tumors from 12 patients) responded differently to preoperative chemotherapy. Transcriptome, whole-exome and whole-genome analysis (n = 12 tumors from 6 patients) demonstrated that each side of...]]></summary>
+        <author>
+            <name>Ting Tao</name>
         </author>
     </entry>
     <entry>
@@ -11784,696 +12084,6 @@
         <summary type="html"><![CDATA[CONCLUSIONS: CH is prevalent among patients with GCA but does not differ significantly from controls or other autoimmune conditions. However, specific genetic profiles, particularly mutations in TET2 and JAK2, are associated with a higher risk cluster within the GCA cohort. This observation highlights the interest of detecting CH in patients with GCA in both routine practice and clinical trials for better risk stratification. Further prospective studies are needed to determine if management...]]></summary>
         <author>
             <name>Alexis F Guedon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241226200640&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241225200614&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241225200614&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241225200614&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241224200611&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241224200611&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241224200611&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241223200647&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241223200647&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241223200647&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241222200828&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241222200828&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241222200828&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241221201223&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241221201223&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241221201223&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241220200546&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241220200546&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241220200546&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241219200705&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241219200705&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241219200705&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thromboinflammation in ischemic cerebrovascular patients with the JAK2V617F mutation]]></title>
-        <id>pubmed:39652998</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39652998/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241219200705&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: In ischemic cerebrovascular patients, the JAK2V617F mutation is associated with elevated markers of endothelial dysfunction and chronic inflammation. This underscores the role of inflammation in thrombosis driven by the JAK2V617F mutation.]]></summary>
-        <author>
-            <name>Marie Hvelplund Kristiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241218201040&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241218201040&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241218201040&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thromboinflammation in ischemic cerebrovascular patients with the JAK2V617F mutation]]></title>
-        <id>pubmed:39652998</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39652998/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241218201040&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: In ischemic cerebrovascular patients, the JAK2V617F mutation is associated with elevated markers of endothelial dysfunction and chronic inflammation. This underscores the role of inflammation in thrombosis driven by the JAK2V617F mutation.]]></summary>
-        <author>
-            <name>Marie Hvelplund Kristiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflammatory Mesenchymal Stromal Cells and IFN-responsive T cells are key mediators of human bone marrow niche remodeling in CHIP and MDS]]></title>
-        <id>pubmed:39651275</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39651275/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241218201040&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations in hematopoietic stem/progenitor cells (HSPCs) can lead to clonal hematopoiesis of indeterminate potential (CHIP), potentially progressing to myelodysplastic syndromes (MDS). Here, we investigated how CHIP and MDS remodel the human bone marrow (BM) niche relative to healthy elderly donors, using single cell and anatomical analyses in a large BM cohort. We found distinct inflammatory remodeling of the BM in CHIP and MDS. Furthermore, the stromal compartment progressively lost...]]></summary>
-        <author>
-            <name>Karin D Prummel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241217200957&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241217200957&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241217200957&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thromboinflammation in ischemic cerebrovascular patients with the JAK2V617F mutation]]></title>
-        <id>pubmed:39652998</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39652998/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241217200957&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: In ischemic cerebrovascular patients, the JAK2V617F mutation is associated with elevated markers of endothelial dysfunction and chronic inflammation. This underscores the role of inflammation in thrombosis driven by the JAK2V617F mutation.]]></summary>
-        <author>
-            <name>Marie Hvelplund Kristiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflammatory Mesenchymal Stromal Cells and IFN-responsive T cells are key mediators of human bone marrow niche remodeling in CHIP and MDS]]></title>
-        <id>pubmed:39651275</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39651275/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241217200957&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations in hematopoietic stem/progenitor cells (HSPCs) can lead to clonal hematopoiesis of indeterminate potential (CHIP), potentially progressing to myelodysplastic syndromes (MDS). Here, we investigated how CHIP and MDS remodel the human bone marrow (BM) niche relative to healthy elderly donors, using single cell and anatomical analyses in a large BM cohort. We found distinct inflammatory remodeling of the BM in CHIP and MDS. Furthermore, the stromal compartment progressively lost...]]></summary>
-        <author>
-            <name>Karin D Prummel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241216201259&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241216201259&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241216201259&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thromboinflammation in ischemic cerebrovascular patients with the JAK2V617F mutation]]></title>
-        <id>pubmed:39652998</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39652998/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241216201259&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: In ischemic cerebrovascular patients, the JAK2V617F mutation is associated with elevated markers of endothelial dysfunction and chronic inflammation. This underscores the role of inflammation in thrombosis driven by the JAK2V617F mutation.]]></summary>
-        <author>
-            <name>Marie Hvelplund Kristiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflammatory Mesenchymal Stromal Cells and IFN-responsive T cells are key mediators of human bone marrow niche remodeling in CHIP and MDS]]></title>
-        <id>pubmed:39651275</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39651275/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241216201259&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations in hematopoietic stem/progenitor cells (HSPCs) can lead to clonal hematopoiesis of indeterminate potential (CHIP), potentially progressing to myelodysplastic syndromes (MDS). Here, we investigated how CHIP and MDS remodel the human bone marrow (BM) niche relative to healthy elderly donors, using single cell and anatomical analyses in a large BM cohort. We found distinct inflammatory remodeling of the BM in CHIP and MDS. Furthermore, the stromal compartment progressively lost...]]></summary>
-        <author>
-            <name>Karin D Prummel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241215201527&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241215201527&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241215201527&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thromboinflammation in ischemic cerebrovascular patients with the JAK2V617F mutation]]></title>
-        <id>pubmed:39652998</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39652998/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241215201527&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: In ischemic cerebrovascular patients, the JAK2V617F mutation is associated with elevated markers of endothelial dysfunction and chronic inflammation. This underscores the role of inflammation in thrombosis driven by the JAK2V617F mutation.]]></summary>
-        <author>
-            <name>Marie Hvelplund Kristiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflammatory Mesenchymal Stromal Cells and IFN-responsive T cells are key mediators of human bone marrow niche remodeling in CHIP and MDS]]></title>
-        <id>pubmed:39651275</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39651275/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241215201527&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations in hematopoietic stem/progenitor cells (HSPCs) can lead to clonal hematopoiesis of indeterminate potential (CHIP), potentially progressing to myelodysplastic syndromes (MDS). Here, we investigated how CHIP and MDS remodel the human bone marrow (BM) niche relative to healthy elderly donors, using single cell and anatomical analyses in a large BM cohort. We found distinct inflammatory remodeling of the BM in CHIP and MDS. Furthermore, the stromal compartment progressively lost...]]></summary>
-        <author>
-            <name>Karin D Prummel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241214201807&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241214201807&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241214201807&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thromboinflammation in ischemic cerebrovascular patients with the JAK2V617F mutation]]></title>
-        <id>pubmed:39652998</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39652998/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241214201807&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: In ischemic cerebrovascular patients, the JAK2V617F mutation is associated with elevated markers of endothelial dysfunction and chronic inflammation. This underscores the role of inflammation in thrombosis driven by the JAK2V617F mutation.]]></summary>
-        <author>
-            <name>Marie Hvelplund Kristiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflammatory Mesenchymal Stromal Cells and IFN-responsive T cells are key mediators of human bone marrow niche remodeling in CHIP and MDS]]></title>
-        <id>pubmed:39651275</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39651275/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241214201807&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations in hematopoietic stem/progenitor cells (HSPCs) can lead to clonal hematopoiesis of indeterminate potential (CHIP), potentially progressing to myelodysplastic syndromes (MDS). Here, we investigated how CHIP and MDS remodel the human bone marrow (BM) niche relative to healthy elderly donors, using single cell and anatomical analyses in a large BM cohort. We found distinct inflammatory remodeling of the BM in CHIP and MDS. Furthermore, the stromal compartment progressively lost...]]></summary>
-        <author>
-            <name>Karin D Prummel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241213201045&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241213201045&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241213201045&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thromboinflammation in ischemic cerebrovascular patients with the JAK2V617F mutation]]></title>
-        <id>pubmed:39652998</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39652998/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241213201045&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: In ischemic cerebrovascular patients, the JAK2V617F mutation is associated with elevated markers of endothelial dysfunction and chronic inflammation. This underscores the role of inflammation in thrombosis driven by the JAK2V617F mutation.]]></summary>
-        <author>
-            <name>Marie Hvelplund Kristiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflammatory Mesenchymal Stromal Cells and IFN-responsive T cells are key mediators of human bone marrow niche remodeling in CHIP and MDS]]></title>
-        <id>pubmed:39651275</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39651275/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241213201045&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations in hematopoietic stem/progenitor cells (HSPCs) can lead to clonal hematopoiesis of indeterminate potential (CHIP), potentially progressing to myelodysplastic syndromes (MDS). Here, we investigated how CHIP and MDS remodel the human bone marrow (BM) niche relative to healthy elderly donors, using single cell and anatomical analyses in a large BM cohort. We found distinct inflammatory remodeling of the BM in CHIP and MDS. Furthermore, the stromal compartment progressively lost...]]></summary>
-        <author>
-            <name>Karin D Prummel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241212201356&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241212201356&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241212201356&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thromboinflammation in ischemic cerebrovascular patients with the JAK2V617F mutation]]></title>
-        <id>pubmed:39652998</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39652998/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241212201356&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: In ischemic cerebrovascular patients, the JAK2V617F mutation is associated with elevated markers of endothelial dysfunction and chronic inflammation. This underscores the role of inflammation in thrombosis driven by the JAK2V617F mutation.]]></summary>
-        <author>
-            <name>Marie Hvelplund Kristiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflammatory Mesenchymal Stromal Cells and IFN-responsive T cells are key mediators of human bone marrow niche remodeling in CHIP and MDS]]></title>
-        <id>pubmed:39651275</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39651275/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241212201356&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations in hematopoietic stem/progenitor cells (HSPCs) can lead to clonal hematopoiesis of indeterminate potential (CHIP), potentially progressing to myelodysplastic syndromes (MDS). Here, we investigated how CHIP and MDS remodel the human bone marrow (BM) niche relative to healthy elderly donors, using single cell and anatomical analyses in a large BM cohort. We found distinct inflammatory remodeling of the BM in CHIP and MDS. Furthermore, the stromal compartment progressively lost...]]></summary>
-        <author>
-            <name>Karin D Prummel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241211201240&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241211201240&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241211201240&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thromboinflammation in ischemic cerebrovascular patients with the JAK2V617F mutation]]></title>
-        <id>pubmed:39652998</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39652998/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241211201240&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: In ischemic cerebrovascular patients, the JAK2V617F mutation is associated with elevated markers of endothelial dysfunction and chronic inflammation. This underscores the role of inflammation in thrombosis driven by the JAK2V617F mutation.]]></summary>
-        <author>
-            <name>Marie Hvelplund Kristiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflammatory Mesenchymal Stromal Cells and IFN-responsive T cells are key mediators of human bone marrow niche remodeling in CHIP and MDS]]></title>
-        <id>pubmed:39651275</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39651275/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241211201240&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations in hematopoietic stem/progenitor cells (HSPCs) can lead to clonal hematopoiesis of indeterminate potential (CHIP), potentially progressing to myelodysplastic syndromes (MDS). Here, we investigated how CHIP and MDS remodel the human bone marrow (BM) niche relative to healthy elderly donors, using single cell and anatomical analyses in a large BM cohort. We found distinct inflammatory remodeling of the BM in CHIP and MDS. Furthermore, the stromal compartment progressively lost...]]></summary>
-        <author>
-            <name>Karin D Prummel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drafting a blueprint for designing successful clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39654077</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39654077/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241210201309&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA['As our understanding of the biology of clonal hematopoiesis expands, a pressing need in the field becomes the design and implementation of clinical trials to help mitigate the risk for progression to overt myeloid neoplasm. Effective clinical trial design will be informed by use of personalized genetic risk to determine eligibility, strategic endpoint selection, and identification of suitable interventions with a goldilocks balance of toxicity and reduced risk of progression. We will only reach...]]></summary>
-        <author>
-            <name>Shyam A Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal hematopoiesis-related mutant ASXL1 promotes atherosclerosis in mice via dysregulated innate immunity]]></title>
-        <id>pubmed:39653824</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653824/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241210201309&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Certain somatic mutations provide a fitness advantage to hematopoietic stem cells and lead to clonal expansion of mutant blood cells, known as clonal hematopoiesis (CH). Among the most common CH mutations, ASXL1 mutations pose the highest risk for cardiovascular diseases (CVDs), yet the mechanisms by which they contribute to CVDs are unclear. Here we show that hematopoietic cells harboring C-terminally truncated ASXL1 mutant (ASXL1-MT) accelerate the development of atherosclerosis in Ldlr^(-/-)...]]></summary>
-        <author>
-            <name>Naru Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A blueprint for pursuing therapeutic interventions and early phase clinical trials in clonal haematopoiesis]]></title>
-        <id>pubmed:39653653</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39653653/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241210201309&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The age-associated mutational state of clonal haematopoiesis (CH) is linked to multiple adverse health outcomes. As higher risk CH can lead to progressive neoplastic or vascular disease, there is interest in developing clinical trials to mitigate risk associated with CH. Given the high prevalence of CH, data from clinical trials could have broad public health implications for screening and therapy. Thoughtful consideration is needed to design trials that are both clinically relevant and avoid...]]></summary>
-        <author>
-            <name>Tamanna Haque</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thromboinflammation in ischemic cerebrovascular patients with the JAK2V617F mutation]]></title>
-        <id>pubmed:39652998</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39652998/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241210201309&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSION: In ischemic cerebrovascular patients, the JAK2V617F mutation is associated with elevated markers of endothelial dysfunction and chronic inflammation. This underscores the role of inflammation in thrombosis driven by the JAK2V617F mutation.]]></summary>
-        <author>
-            <name>Marie Hvelplund Kristiansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflammatory Mesenchymal Stromal Cells and IFN-responsive T cells are key mediators of human bone marrow niche remodeling in CHIP and MDS]]></title>
-        <id>pubmed:39651275</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39651275/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241210201309&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations in hematopoietic stem/progenitor cells (HSPCs) can lead to clonal hematopoiesis of indeterminate potential (CHIP), potentially progressing to myelodysplastic syndromes (MDS). Here, we investigated how CHIP and MDS remodel the human bone marrow (BM) niche relative to healthy elderly donors, using single cell and anatomical analyses in a large BM cohort. We found distinct inflammatory remodeling of the BM in CHIP and MDS. Furthermore, the stromal compartment progressively lost...]]></summary>
-        <author>
-            <name>Karin D Prummel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflammatory Mesenchymal Stromal Cells and IFN-responsive T cells are key mediators of human bone marrow niche remodeling in CHIP and MDS]]></title>
-        <id>pubmed:39651275</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/39651275/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20241209201403&amp;v=2.18.0.post9+e462414"/>
-        <updated>2024-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Somatic mutations in hematopoietic stem/progenitor cells (HSPCs) can lead to clonal hematopoiesis of indeterminate potential (CHIP), potentially progressing to myelodysplastic syndromes (MDS). Here, we investigated how CHIP and MDS remodel the human bone marrow (BM) niche relative to healthy elderly donors, using single cell and anatomical analyses in a large BM cohort. We found distinct inflammatory remodeling of the BM in CHIP and MDS. Furthermore, the stromal compartment progressively lost...]]></summary>
-        <author>
-            <name>Karin D Prummel</name>
         </author>
     </entry>
     <entry>
