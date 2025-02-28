@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.18.0.post9+e462414&ff=20250226200842&utm_medium=rss&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_medium=rss&ff=20250227200914&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:40010350",
+          "author": "Indranil Singh",
+          "description": "Cancer cells display wide phenotypic variation even across patients with the same mutations. Differences in the cell of origin provide a potential explanation, but traditional assays lack the resolution to distinguish clonally heterogeneous subsets of stem and progenitor cells. To address this challenge, we developed simultaneous tracking of recombinase activation and clonal kinetics (STRACK), a method to trace clonal dynamics and gene expression before and after the acquisition of cancer...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40010350/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-26T11:00:00.000Z",
+          "wordCount": 1270,
+          "title": "Pre-existing stem cell heterogeneity dictates clonal responses to the acquisition of leukemic driver mutations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40009600",
+          "author": "Melinda L Tursky",
+          "description": "Clonal haematopoiesis of indeterminate potential (CHIP) is an aging-associated phenomenon that has recently been correlated with a broad spectrum of human diseases, including haematological malignancy, cytopenia, coronary heart disease, stroke, and overall mortality. CHIP is defined as a somatic variant in blood cells with an allele frequency (VAF) ≥ 0.02, however recent reports show smaller clones are associated with poorer clinical outcome. Error-corrected ultradeep next-generation sequencing...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40009600/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-26T11:00:00.000Z",
+          "wordCount": 2648,
+          "title": "Error-corrected ultradeep next-generation sequencing for detection of clonal haematopoiesis and haematological neoplasms - sensitivity, specificity and accuracy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:40009600",
           "author": "Melinda L Tursky",
@@ -220,6 +240,26 @@
           "publishedOn": "2025-02-26T11:00:00.000Z",
           "wordCount": 1508,
           "title": "Error-corrected ultradeep next-generation sequencing for detection of clonal haematopoiesis and haematological neoplasms - sensitivity, specificity and accuracy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40000845",
+          "author": "Nadia Gharaee",
+          "description": "Myelodysplastic neoplasms (MDS) are stem cell disorders characterized by ineffective hematopoiesis and risk of transformation to acute myeloid leukemia (AML). Chromosomal alterations are frequent in MDS, with interstitial deletion of chromosome 5q (del(5q)) being the most common. Lenalidomide is the current first-line treatment for del(5q) MDS and its efficacy relies on degradation of CK1α which is encoded by the CSNK1A1 gene located in the commonly deleted region (CDR) of chromosome 5q....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40000845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-25T11:00:00.000Z",
+          "wordCount": 1799,
+          "title": "Haploinsufficiency of miR-143 and miR-145 reveal targetable dependencies in resistant del(5q) myelodysplastic neoplasm",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39997650",
+          "author": "Aiman Kinzhebay",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is increasingly recognized as a significant contributor to ischemic stroke and other cardiovascular diseases due to its association with somatic mutations in hematopoietic cells. These mutations, notably in genes like DNMT3A, TET2, and JAK2, induce pro-inflammatory and pro-atherosclerotic processes, promoting vascular damage and stroke risk. With the prevalence of CHIP rising with age, its presence correlates with higher mortality and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39997650/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-25T11:00:00.000Z",
+          "wordCount": 1548,
+          "title": "The Role of Somatic Mutations in Ischemic Stroke: CHIP's Impact on Vascular Health",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -256,6 +296,16 @@
           "id": "pubmed:39993798",
           "author": "Yosuke Saito",
           "description": "CONCLUSION: The present results suggest that gTP53v carriers identified through CGP represent a broader clinical spectrum than classical LFS, while demonstrating potentially favorable treatment outcomes. These results challenge traditional paradigms and emphasize the need for individualized approaches to patient care, particularly in cases with atypical presentations requiring the careful interpretation of mosaicism, de novo mutations, and clonal hematopoiesis.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39993798/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-24T11:00:00.000Z",
+          "wordCount": 1724,
+          "title": "Clinical Characteristics and Chemosensitivity in Germline TP53 Pathogenic Variant Cases Identified by Cancer Genomic Testing",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39993798",
+          "author": "Yosuke Saito",
+          "description": "CONCLUSION: The present results suggest that gTP53v carriers identified through CGP represent a broader clinical spectrum than classical LFS, while demonstrating potentially favorable treatment outcomes. These results challenge traditional paradigms and emphasize the need for individualized approaches to patient care, particularly in cases with atypical presentations requiring the careful interpretation of mosaicism, de novo mutations, and clonal hematopoiesis.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39993798/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250226200842&v=2.18.0.post9+e462414",
           "publishedOn": "2025-02-24T11:00:00.000Z",
           "wordCount": 1724,
@@ -270,6 +320,16 @@
           "publishedOn": "2025-02-24T11:00:00.000Z",
           "wordCount": 1724,
           "title": "Clinical Characteristics and Chemosensitivity in Germline TP53 Pathogenic Variant Cases Identified by Cancer Genomic Testing",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39986280",
+          "author": "Tomohiro Yata",
+          "description": "Neuromyelitis optica spectrum disorder (NMOSD) is a rare autoimmune disease characterized by optic neuritis and transverse myelitis, with an unclear genetic background. A genome-wide meta-analysis of NMOSD in Japanese individuals (240 patients and 50,578 controls) identified significant associations with the major histocompatibility complex region and a common variant close to CCR6 (rs12193698; p = 1.8 × 10^(-8), odds ratio [OR] = 1.73). In single-cell RNA sequencing (scRNA-seq) analysis (25...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39986280/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-22T11:00:00.000Z",
+          "wordCount": 3585,
+          "title": "Contribution of germline and somatic mutations to risk of neuromyelitis optica spectrum disorder",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -310,6 +370,26 @@
           "publishedOn": "2025-02-22T11:00:00.000Z",
           "wordCount": 3532,
           "title": "Contribution of germline and somatic mutations to risk of neuromyelitis optica spectrum disorder",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39982240",
+          "author": "Anna Tsiakiri",
+          "description": "CONCLUSIONS: Cognitive impairments in MDS are multifactorial and significantly impact patients' quality of life. Current research highlights the need for routine cognitive assessments and targeted interventions. Future studies should focus on longitudinal designs to explore specific cognitive domains and develop therapeutic strategies to mitigate cognitive decline.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39982240/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-21T11:00:00.000Z",
+          "wordCount": 1969,
+          "title": "A Scoping Review on Cognition in Myelodysplastic Syndromes: Advances and Challenges",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39981058",
+          "author": "Giby V George",
+          "description": "The clinical manifestations and pathophysiology of clonal hematopoiesis (CH)-associated immunological dysfunction are poorly understood. We describe an elderly woman with CH who developed various systemic inflammatory or autoimmune diseases (SIADs), including cutaneous Langerhans cell histiocytosis (LCH) and temporal arteritis. Sequencing of the LCH revealed somatic oncogenic mutations in MAP2K1, IDH2, and SRSF2, with enrichment of the latter two in her peripheral blood at high allele...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39981058/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-21T11:00:00.000Z",
+          "wordCount": 1512,
+          "title": "Cutaneous Langerhans cell histiocytosis and other systemic inflammatory or autoimmune disease manifestations in the setting of clonal hematopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -436,6 +516,16 @@
           "id": "pubmed:39962137",
           "author": "Samuel C Zhang",
           "description": "CONCLUSIONS: We observe that early cardio-oncology consultation is feasible, leads to cardiovascular medication optimization in the majority (>60%) of participants, most commonly to initiate or intensify statin therapy. New clonal hematopoiesis variants are detectable early after radiotherapy and the impact on post-treatment cardiovascular risk is worthy of further study.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39962137/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-17T11:00:00.000Z",
+          "wordCount": 1871,
+          "title": "Early cardio-oncology intervention in thoracic radiotherapy: prospective single-arm pilot study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39962137",
+          "author": "Samuel C Zhang",
+          "description": "CONCLUSIONS: We observe that early cardio-oncology consultation is feasible, leads to cardiovascular medication optimization in the majority (>60%) of participants, most commonly to initiate or intensify statin therapy. New clonal hematopoiesis variants are detectable early after radiotherapy and the impact on post-treatment cardiovascular risk is worthy of further study.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39962137/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250226200842&v=2.18.0.post9+e462414",
           "publishedOn": "2025-02-17T11:00:00.000Z",
           "wordCount": 1871,
@@ -520,6 +610,16 @@
           "publishedOn": "2025-02-17T11:00:00.000Z",
           "wordCount": 1809,
           "title": "Early cardio-oncology intervention in thoracic radiotherapy: prospective single-arm pilot study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39954346",
+          "author": "Leo F Buckley",
+          "description": "CONCLUSIONS: Adding colchicine to standard cardiovascular management may prevent 226,000 MACE in the United States over a 3-year period.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39954346/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-15T11:00:00.000Z",
+          "wordCount": 1679,
+          "title": "Potential Impact of Colchicine on Atherosclerotic Cardiovascular Disease in the United States",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -630,6 +730,26 @@
           "publishedOn": "2025-02-15T11:00:00.000Z",
           "wordCount": 1658,
           "title": "Potential Impact of Colchicine on Atherosclerotic Cardiovascular Disease in the United States",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39948662",
+          "author": "Ying Sun",
+          "description": "CONCLUSIONS: CHIP is independently associated with an increased risk of CVD in patients with diabetes, regardless of health indicator levels. Diabetic patients with CHIP but ideal health indicators still exhibited higher CVD risk compared with diabetic patients without CHIP.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39948662/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-13T11:00:00.000Z",
+          "wordCount": 2779,
+          "title": "Clonal hematopoiesis of indeterminate potential, health indicators, and risk of cardiovascular diseases among patients with diabetes: a prospective cohort study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39948438",
+          "author": "Sean Wen",
+          "description": "The impact of genetic ancestry on the development of clonal hematopoiesis (CH) remains largely unexplored. Here, we compared CH in 136,401 participants from the Mexico City Prospective Study (MCPS) to 416,118 individuals from the UK Biobank (UKB) and observed CH to be significantly less common in MCPS compared to UKB (adjusted odds ratio = 0.59, 95% confidence interval (CI) = [0.57, 0.61], P = 7.31 × 10^(-185)). Among MCPS participants, CH frequency was positively correlated with the percentage...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39948438/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-13T11:00:00.000Z",
+          "wordCount": 1852,
+          "title": "Comparative analysis of the Mexico City Prospective Study and the UK Biobank identifies ancestry-specific effects on clonal hematopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -896,6 +1016,16 @@
           "id": "pubmed:39938015",
           "author": "Ryan D Chow",
           "description": "Mutations found in AML such as DNMT3A, TET2 and ASXL1 can be found in the peripheral blood of healthy adults - a phenomenon termed clonal hematopoiesis (CH). These mutations are thought to represent the earliest genetic events in the evolution of AML. Genomic studies on samples acquired at diagnosis, remission, and at relapse have demonstrated significant stability of CH mutations following induction chemotherapy. Meanwhile, later mutations in genes such as NPM1 and FLT3, have been shown to...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39938015/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-12T11:00:00.000Z",
+          "wordCount": 1312,
+          "title": "Persistent post-remission clonal hematopoiesis shapes the relapse trajectories of acute myeloid leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39938015",
+          "author": "Ryan D Chow",
+          "description": "Mutations found in AML such as DNMT3A, TET2 and ASXL1 can be found in the peripheral blood of healthy adults - a phenomenon termed clonal hematopoiesis (CH). These mutations are thought to represent the earliest genetic events in the evolution of AML. Genomic studies on samples acquired at diagnosis, remission, and at relapse have demonstrated significant stability of CH mutations following induction chemotherapy. Meanwhile, later mutations in genes such as NPM1 and FLT3, have been shown to...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39938015/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250226200842&v=2.18.0.post9+e462414",
           "publishedOn": "2025-02-12T11:00:00.000Z",
           "wordCount": 1312,
@@ -1040,6 +1170,16 @@
           "publishedOn": "2025-02-12T11:00:00.000Z",
           "wordCount": 1261,
           "title": "Persistent post-remission clonal hematopoiesis shapes the relapse trajectories of acute myeloid leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39932457",
+          "author": "Daniel Magee",
+          "description": "CONCLUSION: This large study highlights the need for thorough CH classification during liquid biopsy to appropriately recommend therapies, especially PARP inhibitors.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39932457/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-11T11:00:00.000Z",
+          "wordCount": 2080,
+          "title": "Characterization of plasma cell-free DNA variants as of tumor- or clonal hematopoiesis-origin in 16,812 advanced cancer patients",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1200,6 +1340,16 @@
           "publishedOn": "2025-02-11T11:00:00.000Z",
           "wordCount": 1726,
           "title": "Characterization of plasma cell-free DNA variants as of tumor- or clonal hematopoiesis-origin in 16,812 advanced cancer patients",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39921704",
+          "author": "Kazumasa Suzuki",
+          "description": "Ten-eleven translocation (TET) proteins are dioxygenases that sequentially oxidize the methyl group of 5-methylcytosine (5mC) to 5-hydroxymethylcytosine (5hmC), 5-formylcytosine (5fC) and 5-carboxylcytosine (5caC). All three epigenetic modifications are intermediates in DNA demethylation. In the \"passive\" (replication-dependent) DNA demethylation pathway, sequential oxidation reactions by TETs are essential and modified cytosines (C) are diluted at each cycle of DNA replication. In the \"active\"...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39921704/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-08T11:00:00.000Z",
+          "wordCount": 1666,
+          "title": "The TET-TDG axis in T cells and biological processes",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7467,8 +7617,18 @@
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_medium=rss&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_source=axios&ff=20250226200842&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.18.0.post9+e462414&utm_source=axios&ff=20250227200914&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_campaign=pubmed-2&utm_medium=rss",
       "articles": [
+        {
+          "id": "pubmed:39990278",
+          "author": "Ana-Maria Ciongariu",
+          "description": "INTRODUCTION: Liposarcomas are malignant soft tissue tumours with heterogeneous features and variable prognosis. Each entity comprised in this group displays distinct morphology and harbours specific genetic alterations, which correlate with clinical behaviour and therapy response. The aim of this study is to analyse the clinical and histopathological features that can influence the prognosis of liposarcoma. We also present a newly designed scoring system that could be useful for predicting the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39990278/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-24T11:00:00.000Z",
+          "wordCount": 2217,
+          "title": "\"Enhancing Liposarcoma Prognosis - A New Predictive Scoring System Integrating Histopathological Insights\"",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:39990278",
           "author": "Ana-Maria Ciongariu",
@@ -7503,6 +7663,16 @@
           "id": "pubmed:39988271",
           "author": "Jean Piero Margaria",
           "description": "As a consequence of continuous interaction with mutagens, the genome sequence accumulates changes, which are referred to as \"somatic mutations\". Somatic variants acquired by normal cells during a lifetime are difficult to detect with common sequencing methods. This review provides a basic description of currently available technologies for somatic mutation detection and summarizes the studies that have explored somatic mutation in the kidneys. Given the role of somatic mutations in the formation...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39988271/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-23T11:00:00.000Z",
+          "wordCount": 1209,
+          "title": "Somatic mutations acquired during life: state of the art and implications for the kidney",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39988271",
+          "author": "Jean Piero Margaria",
+          "description": "As a consequence of continuous interaction with mutagens, the genome sequence accumulates changes, which are referred to as \"somatic mutations\". Somatic variants acquired by normal cells during a lifetime are difficult to detect with common sequencing methods. This review provides a basic description of currently available technologies for somatic mutation detection and summarizes the studies that have explored somatic mutation in the kidneys. Given the role of somatic mutations in the formation...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39988271/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250226200842&v=2.18.0.post9+e462414",
           "publishedOn": "2025-02-23T11:00:00.000Z",
           "wordCount": 1209,
@@ -7527,6 +7697,26 @@
           "publishedOn": "2025-02-23T11:00:00.000Z",
           "wordCount": 1209,
           "title": "Somatic mutations acquired during life: state of the art and implications for the kidney",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39983368",
+          "author": "Michael L Friedlander",
+          "description": "Ovarian sex cord-stromal tumors are rare and include adult granulosa cell tumors, juvenile granulosa cell tumors, and Sertoli-Leydig cell tumors. Adult granulosa cell tumors the most prevalent malignant ovarian sex cord stromal tumors are the focus of the review which synthesizes published data to highlight the diagnostic challenges and the controversies surrounding the management of adult granulosa cell tumors, juvenile granulosa cell tumors, and Sertoli-Leydig cell tumors. Adult granulosa cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39983368/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-21T11:00:00.000Z",
+          "wordCount": 1561,
+          "title": "Controversies in the management of ovarian granulosa cell and Sertoli-Leydig cell tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39981299",
+          "author": "Stacie Z Berg",
+          "description": "It is widely accepted that cancer mostly arises from random spontaneous mutations triggered by environmental factors. Our theory challenges the idea of the random somatic mutation theory (SMT). The SMT does not fit well with Charles Darwin's theory of evolution in that the same relatively few mutations would occur so frequently and that these mutations would lead to death rather than survival of the fittest. However, it would fit well under the theory of evolution, if we were to look at it from...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39981299/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-21T11:00:00.000Z",
+          "wordCount": 4379,
+          "title": "Microbes, macrophages, and melanin: a unifying theory of disease as exemplified by cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7643,6 +7833,16 @@
           "id": "pubmed:39975392",
           "author": "Joshua M Park",
           "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-20T11:00:00.000Z",
+          "wordCount": 2337,
+          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39975392",
+          "author": "Joshua M Park",
+          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250226200842&v=2.18.0.post9+e462414",
           "publishedOn": "2025-02-20T11:00:00.000Z",
           "wordCount": 2303,
@@ -7713,6 +7913,16 @@
           "id": "pubmed:39972134",
           "author": "Maise Al Bakir",
           "description": "Neoantigen vaccines are under investigation for various cancers, including epidermal growth factor receptor (EGFR)-driven lung cancers^(1,2). We tracked the phylogenetic history of an EGFR mutant lung cancer treated with erlotinib, osimertinib, radiotherapy and a personalized neopeptide vaccine (NPV) targeting ten somatic mutations, including EGFR exon 19 deletion (ex19del). The ex19del mutation was clonal, but is likely to have appeared after a whole-genome doubling (WGD) event. Following...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39972134/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-19T11:00:00.000Z",
+          "wordCount": 3151,
+          "title": "Clonal driver neoantigen loss under EGFR TKI and immune selection pressures",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39972134",
+          "author": "Maise Al Bakir",
+          "description": "Neoantigen vaccines are under investigation for various cancers, including epidermal growth factor receptor (EGFR)-driven lung cancers^(1,2). We tracked the phylogenetic history of an EGFR mutant lung cancer treated with erlotinib, osimertinib, radiotherapy and a personalized neopeptide vaccine (NPV) targeting ten somatic mutations, including EGFR exon 19 deletion (ex19del). The ex19del mutation was clonal, but is likely to have appeared after a whole-genome doubling (WGD) event. Following...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39972134/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250226200842&v=2.18.0.post9+e462414",
           "publishedOn": "2025-02-19T11:00:00.000Z",
           "wordCount": 3151,
@@ -7777,6 +7987,16 @@
           "publishedOn": "2025-02-19T11:00:00.000Z",
           "wordCount": 3144,
           "title": "Clonal driver neoantigen loss under EGFR TKI and immune selection pressures",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39966644",
+          "author": "Robert Bentham",
+          "description": "Recognition and elimination of pathogens and cancer cells depend on the adaptive immune system. Thus, accurate quantification of immune subsets is vital for precision medicine. We present immune lymphocyte estimation from nucleotide sequencing (ImmuneLENS), which estimates T cell and B cell fractions, class switching and clonotype diversity from whole-genome sequencing data at depths as low as 5× coverage. By applying ImmuneLENS to the 100,000 Genomes Project, we identify genes enriched with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39966644/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-18T11:00:00.000Z",
+          "wordCount": 1625,
+          "title": "ImmuneLENS characterizes systemic immune dysregulation in aging and cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7857,6 +8077,16 @@
           "publishedOn": "2025-02-18T11:00:00.000Z",
           "wordCount": 1618,
           "title": "ImmuneLENS characterizes systemic immune dysregulation in aging and cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39945744",
+          "author": "Takafumi N Yamaguchi",
+          "description": "Newly diagnosed prostate cancers differ dramatically in mutational composition and lethality. The most accurate clinical predictor of lethality is tumor tissue architecture, quantified as tumor grade. To interrogate the evolutionary origins of prostate cancer heterogeneity, we analyzed 666 prostate tumor whole genomes. We identified a compendium of 223 recurrently mutated driver regions, most influencing downstream mutational processes and gene expression. We identified and validated individual...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39945744/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-13T11:00:00.000Z",
+          "wordCount": 2818,
+          "title": "The Germline and Somatic Origins of Prostate Cancer Heterogeneity",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7997,6 +8227,26 @@
           "publishedOn": "2025-02-13T11:00:00.000Z",
           "wordCount": 2755,
           "title": "The Germline and Somatic Origins of Prostate Cancer Heterogeneity",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39926383",
+          "author": "Michael R King",
+          "description": "CONCLUSIONS: This simple modeling approach can be easily modified to add complexity and more realistic biological details, and may yield new understanding of cancer and somatic evolution.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39926383/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-10T11:00:00.000Z",
+          "wordCount": 2289,
+          "title": "Simulation of Somatic Evolution Through the Introduction of Random Mutation to the Rules of Conway's Game of Life",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39924702",
+          "author": "Can Liu",
+          "description": "Tumor itself is a complex microecosystem, with complex spatio-temporal dynamics and multi-dimensional interactions. Its unimaginable heterogeneity and evolvability have exceeded the cognition of traditional oncology medicine. How to systematically characterize the whole tumor cell ecosystem from the dynamics and interaction of material, energy and signal levels, in order to explore new cognition, new rules and new therapies for the occurrence and development of tumors, is a new proposition and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39924702/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-10T11:00:00.000Z",
+          "wordCount": 1615,
+          "title": "Evolutionary ecology in tumor evolution: concept, application and innovation",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8337,6 +8587,26 @@
           "publishedOn": "2025-02-10T11:00:00.000Z",
           "wordCount": 1273,
           "title": "Evolutionary ecology in tumor evolution: concept, application and innovation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39919692",
+          "author": "Jiali Xu",
+          "description": "Cell plasticity emerges as a novel cancer hallmark and is pivotal in driving tumor heterogeneity and adaptive resistance to different therapies. Cancer stem-like cells (CSCs) are considered the root of cancer. While first defined as tumor-initiating cells with the potential to develop a heterogeneous tumor, CSCs further demonstrate their roles in cancer metastasis and adaptive therapeutic resistance. Generally, CSCs come from the malignant transformation of somatic stem cells or the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39919692/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-07T11:00:00.000Z",
+          "wordCount": 2045,
+          "title": "Cancer stem-like cells stay in a plastic state ready for tumor evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39917830",
+          "author": "Wei Ye",
+          "description": "Anaplastic lymphoma kinase (ALK) fusion tyrosine kinases (TKs) are commonly found in various cancers and are considered as promising targets for therapy due to their intricate biological processes. However, the reasons for the higher frequency of ALKs fusion compared to other TKs are not well elucidated. Physicochemical properties, secondary and tertiary structures, and phylogenetic trees, along with protein sequence alignments of receptor tyrosine kinases (RTKs) and ALK fused partner genes,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39917830/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-07T11:00:00.000Z",
+          "wordCount": 1971,
+          "title": "Genomic landscaping of receptor tyrosine kinase ALK with highly frequent rearrangements in cancers",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8733,6 +9003,16 @@
           "id": "pubmed:39905260",
           "author": "Martin Blohmer",
           "description": "Cell division drives somatic evolution but is challenging to quantify. We developed a framework to count cell divisions with DNA replication-related mutations in polyguanine homopolymers. Analyzing 505 samples from 37 patients, we studied the milestones of colorectal cancer evolution. Primary tumors diversify at ~250 divisions from the founder cell, while distant metastasis divergence occurs significantly later, at ~500 divisions. Notably, distant but not lymph node metastases originate from...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39905260/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-05T11:00:00.000Z",
+          "wordCount": 2318,
+          "title": "Quantifying cell divisions along evolutionary lineages in cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39905260",
+          "author": "Martin Blohmer",
+          "description": "Cell division drives somatic evolution but is challenging to quantify. We developed a framework to count cell divisions with DNA replication-related mutations in polyguanine homopolymers. Analyzing 505 samples from 37 patients, we studied the milestones of colorectal cancer evolution. Primary tumors diversify at ~250 divisions from the founder cell, while distant metastasis divergence occurs significantly later, at ~500 divisions. Notably, distant but not lymph node metastases originate from...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39905260/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250226200842&v=2.18.0.post9+e462414",
           "publishedOn": "2025-02-05T11:00:00.000Z",
           "wordCount": 2318,
@@ -8947,6 +9227,16 @@
           "publishedOn": "2025-02-05T11:00:00.000Z",
           "wordCount": 1962,
           "title": "Quantifying cell divisions along evolutionary lineages in cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39872371",
+          "author": "Bingxin Lu",
+          "description": "Cancer is an evolutionary process involving the accumulation of diverse somatic mutations and clonal evolution over time. Phylogenetic inference from samples obtained from an individual patient offers a powerful approach to unraveling the intricate evolutionary history of cancer and provides insights that can inform cancer treatment. Somatic copy number alterations (CNAs) are important in cancer evolution and are often used as markers, alone or with other somatic mutations, for phylogenetic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39872371/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-01-28T11:00:00.000Z",
+          "wordCount": 1837,
+          "title": "Cancer phylogenetic inference using copy number alterations detected from DNA sequencing data",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9237,6 +9527,16 @@
           "publishedOn": "2025-01-28T11:00:00.000Z",
           "wordCount": 1220,
           "title": "Cancer phylogenetic inference using copy number alterations detected from DNA sequencing data",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39850648",
+          "author": "David Rombaut",
+          "description": "Lower risk (LR) myelodysplastic syndromes (MDS) are heterogeneous hematopoietic stem and progenitor disorders caused by the accumulation of somatic mutations in various genes including epigenetic regulators that may produce convergent DNA methylation patterns driving specific gene expression profiles. The integration of genomic, epigenomic, and transcriptomic profiling has the potential to spotlight distinct LR-MDS categories on the basis of pathophysiological mechanisms. We performed a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39850648/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-01-24T11:00:00.000Z",
+          "wordCount": 3874,
+          "title": "Somatic mutations and DNA methylation identify a subgroup of poor prognosis within lower-risk myelodysplastic syndromes",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
