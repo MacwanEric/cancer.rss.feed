@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20250305200945&utm_source=axios&v=2.18.0.post9+e462414&fc=20220608003622&utm_campaign=pubmed-2&utm_medium=rss",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20250306201028&utm_campaign=pubmed-2&utm_source=axios&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&v=2.18.0.post9+e462414&fc=20220608003622",
       "articles": [
+        {
+          "id": "pubmed:40043710",
+          "author": "Kyuto Sonehara",
+          "description": "Vaccine immunogenicity is influenced by the vaccinee's genetic background. Here, we perform a genome-wide association study of vaccine-induced SARS-CoV-2-specific immunoglobulin G (IgG) antibody titers and T cell immune responses in 1,559 mRNA-1273 and 537 BNT162b2 vaccinees of Japanese ancestry. SARS-CoV-2-specific antibody titers are associated with the immunoglobulin heavy chain (IGH) and major histocompatibility complex (MHC) locus, and T cell responses are associated with MHC. The lead...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40043710/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-05T11:00:00.000Z",
+          "wordCount": 3455,
+          "title": "Germline variants and mosaic chromosomal alterations affect COVID-19 vaccine immunogenicity",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40037357",
+          "author": "Marco M Buttigieg",
+          "description": "Clonal hematopoiesis (CH)-the expansion of somatically mutated hematopoietic cells-is common in solid cancers. CH is associated with systemic inflammation, but its impact on tumor biology is underexplored. Here, we report the effects of CH on the tumor microenvironment (TME) using 1,550 treatment-naive patient samples from the Clinical Proteomics Tumor Analysis Consortium (CPTAC) cohort. CH is present in 18.3% of patients, with one-third of CH mutations also detectable in tumor-derived DNA from...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40037357/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-04T11:00:00.000Z",
+          "wordCount": 1370,
+          "title": "Inflammatory reprogramming of the solid tumor microenvironment by infiltrating clonal hematopoiesis is associated with adverse outcomes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:40037357",
           "author": "Marco M Buttigieg",
@@ -220,6 +240,16 @@
           "publishedOn": "2025-03-04T11:00:00.000Z",
           "wordCount": 1370,
           "title": "Inflammatory reprogramming of the solid tumor microenvironment by infiltrating clonal hematopoiesis is associated with adverse outcomes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40023267",
+          "author": "Nan Zhang",
+          "description": "Clonal hematopoiesis (CH) arises when a substantial proportion of mature blood cells is derived from a single hematopoietic stem cell lineage. It is considered to be a premalignant state that predisposes individuals to an increased risk of cancers. Recently, emerging evidence has demonstrated a strong association between CH and both the incidence and mortality of cardiovascular diseases (CVD), with the relative risks being comparable to those attributed to traditional cardiovascular risk...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40023267/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-01T11:00:00.000Z",
+          "wordCount": 1432,
+          "title": "Clonal hematopoiesis, cardiovascular disease and cancer treatment-induced cardiotoxicity",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -250,6 +280,46 @@
           "publishedOn": "2025-03-01T11:00:00.000Z",
           "wordCount": 1390,
           "title": "Clonal hematopoiesis, cardiovascular disease and cancer treatment-induced cardiotoxicity",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40021682",
+          "author": "Junyoung Park",
+          "description": "Human lifespan is shaped by genetic and environmental factors. To enable precision health, understanding how genetic variants influence mortality is essential. We conducted a survival analysis in European ancestry participants of the UK Biobank, using age-at-death (N=35,551) and last-known-age (N=358,282). The associations identified were predominantly driven by cancer. We found lifespan-associated loci (APOE, ZSCAN23) for common variants and six genes where burden of loss-of-function variants...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40021682/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-28T11:00:00.000Z",
+          "wordCount": 1962,
+          "title": "Rare genetic associations with human lifespan in UK Biobank are enriched for oncogenic genes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40020684",
+          "author": "Kengo Yoshida",
+          "description": "Radiation induces clonal hematopoiesis (CH) involving high-frequency somatic mutations in hematopoietic cells. However, the effects of radiation on clonal expansion of hematopoietic progenitor cells and lymphocytes remain elusive. Here, we investigate CH mutations and T cell receptor (TCR) and B cell receptor (BCR) sequences within the bone marrow cells of mice 18 months after irradiation (3 Gy) and age-matched controls. Two to six CH mutations were identified in the irradiated mice (N = 5),...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40020684/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-28T11:00:00.000Z",
+          "wordCount": 1284,
+          "title": "High-dose radiation preferentially induces the clonal expansion of hematopoietic progenitor cells over mature T and B cells in mouse bone marrow",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40019828",
+          "author": "Yi-Hsuan Chiang",
+          "description": "Aging is a multifaceted process associated with a functional decline in cellular function over time, affecting all lifeforms. During the aging process, metabolism, a fundamental hallmark of life (1), is profoundly altered. In the context of hematopoiesis, the proper function of hematopoietic stem cells - at the apex of the blood system - is tightly linked to their energy metabolism, which in turn shapes hematopoietic output. Here, we review the latest developments in our understanding of the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40019828/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-28T11:00:00.000Z",
+          "wordCount": 1083,
+          "title": "Metabolic alterations in HSCs during aging and leukemogenesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40019413",
+          "author": "Rocco Vergallo",
+          "description": "The concept of high-risk plaque emerged from pathologic and epidemiologic studies 3 decades ago that demonstrated plaque rupture with thrombosis as the predominant mechanism of acute coronary syndrome and sudden cardiac death. Thin-cap fibroatheroma, a plaque with a large lipidic core covered by a thin fibrous cap, is the prototype of the rupture-prone plaque and has been traditionally defined as \"vulnerable plaque.\" Although knowledge on the pathophysiology of plaque instability continues to...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40019413/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-28T11:00:00.000Z",
+          "wordCount": 2305,
+          "title": "Vulnerable or High-Risk Plaque: A JACC: Cardiovascular Imaging Position Statement",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -436,6 +506,16 @@
           "id": "pubmed:40015506",
           "author": "Samantha M Holmes",
           "description": "The precancerous expansion of hematopoietic cells, termed clonal hematopoiesis (CH), has been correlated to disease development and all-cause mortality. Despite multiple observations that hematopoietic stem cell and progenitors (HSPCs) are significantly affected by both sex and age, there remain few studies quantifying male and female HSPC populations in wild-type and transgenic Tet2 models over time. Here we determine that male mice (with a hematopoietic deficiency of Tet2 and control) have...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40015506/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-27T11:00:00.000Z",
+          "wordCount": 1256,
+          "title": "Sex differences alter primitive progenitors in the C57BL/6 Tet2 knockout mouse model",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40015506",
+          "author": "Samantha M Holmes",
+          "description": "The precancerous expansion of hematopoietic cells, termed clonal hematopoiesis (CH), has been correlated to disease development and all-cause mortality. Despite multiple observations that hematopoietic stem cell and progenitors (HSPCs) are significantly affected by both sex and age, there remain few studies quantifying male and female HSPC populations in wild-type and transgenic Tet2 models over time. Here we determine that male mice (with a hematopoietic deficiency of Tet2 and control) have...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40015506/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250305200945&v=2.18.0.post9+e462414",
           "publishedOn": "2025-02-27T11:00:00.000Z",
           "wordCount": 1256,
@@ -480,6 +560,26 @@
           "publishedOn": "2025-02-27T11:00:00.000Z",
           "wordCount": 1252,
           "title": "Sex differences alter primitive progenitors in the C57BL/6 Tet2 knockout mouse model",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40010350",
+          "author": "Indranil Singh",
+          "description": "Cancer cells display wide phenotypic variation even across patients with the same mutations. Differences in the cell of origin provide a potential explanation, but traditional assays lack the resolution to distinguish clonally heterogeneous subsets of stem and progenitor cells. To address this challenge, we developed simultaneous tracking of recombinase activation and clonal kinetics (STRACK), a method to trace clonal dynamics and gene expression before and after the acquisition of cancer...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40010350/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-26T11:00:00.000Z",
+          "wordCount": 1308,
+          "title": "Pre-existing stem cell heterogeneity dictates clonal responses to the acquisition of leukemic driver mutations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40009600",
+          "author": "Melinda L Tursky",
+          "description": "Clonal haematopoiesis of indeterminate potential (CHIP) is an aging-associated phenomenon that has recently been correlated with a broad spectrum of human diseases, including haematological malignancy, cytopenia, coronary heart disease, stroke, and overall mortality. CHIP is defined as a somatic variant in blood cells with an allele frequency (VAF) ≥ 0.02, however recent reports show smaller clones are associated with poorer clinical outcome. Error-corrected ultradeep next-generation sequencing...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40009600/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-26T11:00:00.000Z",
+          "wordCount": 2665,
+          "title": "Error-corrected ultradeep next-generation sequencing for detection of clonal haematopoiesis and haematological neoplasms - sensitivity, specificity and accuracy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -610,6 +710,26 @@
           "publishedOn": "2025-02-26T11:00:00.000Z",
           "wordCount": 1508,
           "title": "Error-corrected ultradeep next-generation sequencing for detection of clonal haematopoiesis and haematological neoplasms - sensitivity, specificity and accuracy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40000845",
+          "author": "Nadia Gharaee",
+          "description": "Myelodysplastic neoplasms (MDS) are stem cell disorders characterized by ineffective hematopoiesis and risk of transformation to acute myeloid leukemia (AML). Chromosomal alterations are frequent in MDS, with interstitial deletion of chromosome 5q (del(5q)) being the most common. Lenalidomide is the current first-line treatment for del(5q) MDS and its efficacy relies on degradation of CK1α which is encoded by the CSNK1A1 gene located in the commonly deleted region (CDR) of chromosome 5q....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40000845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-25T11:00:00.000Z",
+          "wordCount": 1806,
+          "title": "Haploinsufficiency of miR-143 and miR-145 reveal targetable dependencies in resistant del(5q) myelodysplastic neoplasm",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39997650",
+          "author": "Aiman Kinzhebay",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is increasingly recognized as a significant contributor to ischemic stroke and other cardiovascular diseases due to its association with somatic mutations in hematopoietic cells. These mutations, notably in genes like DNMT3A, TET2, and JAK2, induce pro-inflammatory and pro-atherosclerotic processes, promoting vascular damage and stroke risk. With the prevalence of CHIP rising with age, its presence correlates with higher mortality and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39997650/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-25T11:00:00.000Z",
+          "wordCount": 1555,
+          "title": "The Role of Somatic Mutations in Ischemic Stroke: CHIP's Impact on Vascular Health",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -766,6 +886,16 @@
           "id": "pubmed:39993798",
           "author": "Yosuke Saito",
           "description": "CONCLUSION: The present results suggest that gTP53v carriers identified through CGP represent a broader clinical spectrum than classical LFS, while demonstrating potentially favorable treatment outcomes. These results challenge traditional paradigms and emphasize the need for individualized approaches to patient care, particularly in cases with atypical presentations requiring the careful interpretation of mosaicism, de novo mutations, and clonal hematopoiesis.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39993798/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-24T11:00:00.000Z",
+          "wordCount": 2036,
+          "title": "Clinical Characteristics and Chemosensitivity in Germline TP53 Pathogenic Variant Cases Identified by Cancer Genomic Testing",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39993798",
+          "author": "Yosuke Saito",
+          "description": "CONCLUSION: The present results suggest that gTP53v carriers identified through CGP represent a broader clinical spectrum than classical LFS, while demonstrating potentially favorable treatment outcomes. These results challenge traditional paradigms and emphasize the need for individualized approaches to patient care, particularly in cases with atypical presentations requiring the careful interpretation of mosaicism, de novo mutations, and clonal hematopoiesis.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39993798/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250305200945&v=2.18.0.post9+e462414",
           "publishedOn": "2025-02-24T11:00:00.000Z",
           "wordCount": 1731,
@@ -840,6 +970,16 @@
           "publishedOn": "2025-02-24T11:00:00.000Z",
           "wordCount": 1724,
           "title": "Clinical Characteristics and Chemosensitivity in Germline TP53 Pathogenic Variant Cases Identified by Cancer Genomic Testing",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39986280",
+          "author": "Tomohiro Yata",
+          "description": "Neuromyelitis optica spectrum disorder (NMOSD) is a rare autoimmune disease characterized by optic neuritis and transverse myelitis, with an unclear genetic background. A genome-wide meta-analysis of NMOSD in Japanese individuals (240 patients and 50,578 controls) identified significant associations with the major histocompatibility complex region and a common variant close to CCR6 (rs12193698; p = 1.8 × 10^(-8), odds ratio [OR] = 1.73). In single-cell RNA sequencing (scRNA-seq) analysis (25...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39986280/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-22T11:00:00.000Z",
+          "wordCount": 3585,
+          "title": "Contribution of germline and somatic mutations to risk of neuromyelitis optica spectrum disorder",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -940,6 +1080,16 @@
           "publishedOn": "2025-02-22T11:00:00.000Z",
           "wordCount": 3532,
           "title": "Contribution of germline and somatic mutations to risk of neuromyelitis optica spectrum disorder",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39982240",
+          "author": "Anna Tsiakiri",
+          "description": "CONCLUSIONS: Cognitive impairments in MDS are multifactorial and significantly impact patients' quality of life. Current research highlights the need for routine cognitive assessments and targeted interventions. Future studies should focus on longitudinal designs to explore specific cognitive domains and develop therapeutic strategies to mitigate cognitive decline.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39982240/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-21T11:00:00.000Z",
+          "wordCount": 1969,
+          "title": "A Scoping Review on Cognition in Myelodysplastic Syndromes: Advances and Challenges",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7271,274 +7421,44 @@
           "wordCount": 1757,
           "title": "Clonal hematopoiesis of indeterminate potential and the risk of pulmonary embolism: an observational study",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761417",
-          "author": "Myvizhi Esai Selvan",
-          "description": "CONCLUSIONS: Our findings underscore a connection between IBD and CHIP pathophysiology. Patients with IBD and CHIP had unique risk profiles, especially among older UC patients and younger CD patients. These findings suggest distinct evolutionary pathways for CHIP in IBD and necessitate awareness among IBD providers and hematologists to identify patients potentially at risk for CHIP-related complications including malignancy, cardiovascular disease, and acceleration of their inflammatory disease.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250118201005&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2150,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39758028",
-          "author": "Sara Petronilho",
-          "description": "Lymphomas of T-follicular helper origin (T-follicular helper-cell lymphoma [TFHL]) are often accompanied by an expansion of B-immunoblasts, occasionally with Hodgkin/Reed-Sternberg-like (HRS-like) cells, making the differential diagnosis with classic Hodgkin lymphoma (CHL) difficult. We compared the morphologic, immunophenotypic, and molecular features of 15 TFHL and 12 CHL samples and discussed 4 challenging cases of uncertain diagnosis. Compared with CHL, TFHL disclosed more frequent sparing...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39758028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250118201005&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2209,
-          "title": "Follicular Helper T-cell Lymphoma With Hodgkin/Reed-Sternberg-Like Cells Versus Classic Hodgkin Lymphoma: A Comparative Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761417",
-          "author": "Myvizhi Esai Selvan",
-          "description": "CONCLUSIONS: Our findings underscore a connection between IBD and CHIP pathophysiology. Patients with IBD and CHIP had unique risk profiles, especially among older UC patients and younger CD patients. These findings suggest distinct evolutionary pathways for CHIP in IBD and necessitate awareness among IBD providers and hematologists to identify patients potentially at risk for CHIP-related complications including malignancy, cardiovascular disease, and acceleration of their inflammatory disease.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250117200306&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2150,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39758028",
-          "author": "Sara Petronilho",
-          "description": "Lymphomas of T-follicular helper origin (T-follicular helper-cell lymphoma [TFHL]) are often accompanied by an expansion of B-immunoblasts, occasionally with Hodgkin/Reed-Sternberg-like (HRS-like) cells, making the differential diagnosis with classic Hodgkin lymphoma (CHL) difficult. We compared the morphologic, immunophenotypic, and molecular features of 15 TFHL and 12 CHL samples and discussed 4 challenging cases of uncertain diagnosis. Compared with CHL, TFHL disclosed more frequent sparing...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39758028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250117200306&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2209,
-          "title": "Follicular Helper T-cell Lymphoma With Hodgkin/Reed-Sternberg-Like Cells Versus Classic Hodgkin Lymphoma: A Comparative Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761417",
-          "author": "Myvizhi Esai Selvan",
-          "description": "CONCLUSIONS: Our findings underscore a connection between IBD and CHIP pathophysiology. Patients with IBD and CHIP had unique risk profiles, especially among older UC patients and younger CD patients. These findings suggest distinct evolutionary pathways for CHIP in IBD and necessitate awareness among IBD providers and hematologists to identify patients potentially at risk for CHIP-related complications including malignancy, cardiovascular disease, and acceleration of their inflammatory disease.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250116200449&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2150,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39758028",
-          "author": "Sara Petronilho",
-          "description": "Lymphomas of T-follicular helper origin (T-follicular helper-cell lymphoma [TFHL]) are often accompanied by an expansion of B-immunoblasts, occasionally with Hodgkin/Reed-Sternberg-like (HRS-like) cells, making the differential diagnosis with classic Hodgkin lymphoma (CHL) difficult. We compared the morphologic, immunophenotypic, and molecular features of 15 TFHL and 12 CHL samples and discussed 4 challenging cases of uncertain diagnosis. Compared with CHL, TFHL disclosed more frequent sparing...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39758028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250116200449&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2209,
-          "title": "Follicular Helper T-cell Lymphoma With Hodgkin/Reed-Sternberg-Like Cells Versus Classic Hodgkin Lymphoma: A Comparative Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761417",
-          "author": "Myvizhi Esai Selvan",
-          "description": "CONCLUSIONS: Our findings underscore a connection between IBD and CHIP pathophysiology. Patients with IBD and CHIP had unique risk profiles, especially among older UC patients and younger CD patients. These findings suggest distinct evolutionary pathways for CHIP in IBD and necessitate awareness among IBD providers and hematologists to identify patients potentially at risk for CHIP-related complications including malignancy, cardiovascular disease, and acceleration of their inflammatory disease.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250115200453&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2150,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39758028",
-          "author": "Sara Petronilho",
-          "description": "Lymphomas of T-follicular helper origin (T-follicular helper-cell lymphoma [TFHL]) are often accompanied by an expansion of B-immunoblasts, occasionally with Hodgkin/Reed-Sternberg-like (HRS-like) cells, making the differential diagnosis with classic Hodgkin lymphoma (CHL) difficult. We compared the morphologic, immunophenotypic, and molecular features of 15 TFHL and 12 CHL samples and discussed 4 challenging cases of uncertain diagnosis. Compared with CHL, TFHL disclosed more frequent sparing...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39758028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250115200453&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2209,
-          "title": "Follicular Helper T-cell Lymphoma With Hodgkin/Reed-Sternberg-Like Cells Versus Classic Hodgkin Lymphoma: A Comparative Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761417",
-          "author": "Myvizhi Esai Selvan",
-          "description": "CONCLUSIONS: Our findings underscore a connection between IBD and CHIP pathophysiology. Patients with IBD and CHIP had unique risk profiles, especially among older UC patients and younger CD patients. These findings suggest distinct evolutionary pathways for CHIP in IBD and necessitate awareness among IBD providers and hematologists to identify patients potentially at risk for CHIP-related complications including malignancy, cardiovascular disease, and acceleration of their inflammatory disease.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250114200534&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1856,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39758028",
-          "author": "Sara Petronilho",
-          "description": "Lymphomas of T-follicular helper origin (T-follicular helper-cell lymphoma [TFHL]) are often accompanied by an expansion of B-immunoblasts, occasionally with Hodgkin/Reed-Sternberg-like (HRS-like) cells, making the differential diagnosis with classic Hodgkin lymphoma (CHL) difficult. We compared the morphologic, immunophenotypic, and molecular features of 15 TFHL and 12 CHL samples and discussed 4 challenging cases of uncertain diagnosis. Compared with CHL, TFHL disclosed more frequent sparing...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39758028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250114200534&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1859,
-          "title": "Follicular Helper T-cell Lymphoma With Hodgkin/Reed-Sternberg-Like Cells Versus Classic Hodgkin Lymphoma: A Comparative Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761417",
-          "author": "Myvizhi Esai Selvan",
-          "description": "CONCLUSIONS: Our findings underscore a connection between IBD and CHIP pathophysiology. Patients with IBD and CHIP had unique risk profiles, especially among older UC patients and younger CD patients. These findings suggest distinct evolutionary pathways for CHIP in IBD and necessitate awareness among IBD providers and hematologists to identify patients potentially at risk for CHIP-related complications including malignancy, cardiovascular disease, and acceleration of their inflammatory disease.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250113200356&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1785,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39758028",
-          "author": "Sara Petronilho",
-          "description": "Lymphomas of T-follicular helper origin (T-follicular helper-cell lymphoma [TFHL]) are often accompanied by an expansion of B-immunoblasts, occasionally with Hodgkin/Reed-Sternberg-like (HRS-like) cells, making the differential diagnosis with classic Hodgkin lymphoma (CHL) difficult. We compared the morphologic, immunophenotypic, and molecular features of 15 TFHL and 12 CHL samples and discussed 4 challenging cases of uncertain diagnosis. Compared with CHL, TFHL disclosed more frequent sparing...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39758028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250113200356&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1856,
-          "title": "Follicular Helper T-cell Lymphoma With Hodgkin/Reed-Sternberg-Like Cells Versus Classic Hodgkin Lymphoma: A Comparative Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761417",
-          "author": "Myvizhi Esai Selvan",
-          "description": "CONCLUSIONS: Our findings underscore a connection between IBD and CHIP pathophysiology. Patients with IBD and CHIP had unique risk profiles, especially among older UC patients and younger CD patients. These findings suggest distinct evolutionary pathways for CHIP in IBD and necessitate awareness among IBD providers and hematologists to identify patients potentially at risk for CHIP-related complications including malignancy, cardiovascular disease, and acceleration of their inflammatory disease.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250112201058&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1785,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39758028",
-          "author": "Sara Petronilho",
-          "description": "Lymphomas of T-follicular helper origin (T-follicular helper-cell lymphoma [TFHL]) are often accompanied by an expansion of B-immunoblasts, occasionally with Hodgkin/Reed-Sternberg-like (HRS-like) cells, making the differential diagnosis with classic Hodgkin lymphoma (CHL) difficult. We compared the morphologic, immunophenotypic, and molecular features of 15 TFHL and 12 CHL samples and discussed 4 challenging cases of uncertain diagnosis. Compared with CHL, TFHL disclosed more frequent sparing...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39758028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250112201058&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1856,
-          "title": "Follicular Helper T-cell Lymphoma With Hodgkin/Reed-Sternberg-Like Cells Versus Classic Hodgkin Lymphoma: A Comparative Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761417",
-          "author": "Myvizhi Esai Selvan",
-          "description": "CONCLUSIONS: Our findings underscore a connection between IBD and CHIP pathophysiology. Patients with IBD and CHIP had unique risk profiles, especially among older UC patients and younger CD patients. These findings suggest distinct evolutionary pathways for CHIP in IBD and necessitate awareness among IBD providers and hematologists to identify patients potentially at risk for CHIP-related complications including malignancy, cardiovascular disease, and acceleration of their inflammatory disease.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250111201332&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1785,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39758028",
-          "author": "Sara Petronilho",
-          "description": "Lymphomas of T-follicular helper origin (T-follicular helper-cell lymphoma [TFHL]) are often accompanied by an expansion of B-immunoblasts, occasionally with Hodgkin/Reed-Sternberg-like (HRS-like) cells, making the differential diagnosis with classic Hodgkin lymphoma (CHL) difficult. We compared the morphologic, immunophenotypic, and molecular features of 15 TFHL and 12 CHL samples and discussed 4 challenging cases of uncertain diagnosis. Compared with CHL, TFHL disclosed more frequent sparing...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39758028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250111201332&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1856,
-          "title": "Follicular Helper T-cell Lymphoma With Hodgkin/Reed-Sternberg-Like Cells Versus Classic Hodgkin Lymphoma: A Comparative Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761417",
-          "author": "Myvizhi Esai Selvan",
-          "description": "CONCLUSIONS: Our findings underscore a connection between IBD and CHIP pathophysiology. Patients with IBD and CHIP had unique risk profiles, especially among older UC patients and younger CD patients. These findings suggest distinct evolutionary pathways for CHIP in IBD and necessitate awareness among IBD providers and hematologists to identify patients potentially at risk for CHIP-related complications including malignancy, cardiovascular disease, and acceleration of their inflammatory disease.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250110200739&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1785,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39758028",
-          "author": "Sara Petronilho",
-          "description": "Lymphomas of T-follicular helper origin (T-follicular helper-cell lymphoma [TFHL]) are often accompanied by an expansion of B-immunoblasts, occasionally with Hodgkin/Reed-Sternberg-like (HRS-like) cells, making the differential diagnosis with classic Hodgkin lymphoma (CHL) difficult. We compared the morphologic, immunophenotypic, and molecular features of 15 TFHL and 12 CHL samples and discussed 4 challenging cases of uncertain diagnosis. Compared with CHL, TFHL disclosed more frequent sparing...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39758028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250110200739&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1856,
-          "title": "Follicular Helper T-cell Lymphoma With Hodgkin/Reed-Sternberg-Like Cells Versus Classic Hodgkin Lymphoma: A Comparative Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761417",
-          "author": "Myvizhi Esai Selvan",
-          "description": "CONCLUSIONS: Our findings underscore a connection between IBD and CHIP pathophysiology. Patients with IBD and CHIP had unique risk profiles, especially among older UC patients and younger CD patients. These findings suggest distinct evolutionary pathways for CHIP in IBD and necessitate awareness among IBD providers and hematologists to identify patients potentially at risk for CHIP-related complications including malignancy, cardiovascular disease, and acceleration of their inflammatory disease.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250109200909&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1778,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39758028",
-          "author": "Sara Petronilho",
-          "description": "Lymphomas of T-follicular helper origin (T-follicular helper-cell lymphoma [TFHL]) are often accompanied by an expansion of B-immunoblasts, occasionally with Hodgkin/Reed-Sternberg-like (HRS-like) cells, making the differential diagnosis with classic Hodgkin lymphoma (CHL) difficult. We compared the morphologic, immunophenotypic, and molecular features of 15 TFHL and 12 CHL samples and discussed 4 challenging cases of uncertain diagnosis. Compared with CHL, TFHL disclosed more frequent sparing...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39758028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250109200909&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1849,
-          "title": "Follicular Helper T-cell Lymphoma With Hodgkin/Reed-Sternberg-Like Cells Versus Classic Hodgkin Lymphoma: A Comparative Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761417",
-          "author": "Myvizhi Esai Selvan",
-          "description": "CONCLUSIONS: Our findings underscore a connection between IBD and CHIP pathophysiology. Patients with IBD and CHIP had unique risk profiles, especially among older UC patients and younger CD patients. These findings suggest distinct evolutionary pathways for CHIP in IBD and necessitate awareness among IBD providers and hematologists to identify patients potentially at risk for CHIP-related complications including malignancy, cardiovascular disease, and acceleration of their inflammatory disease.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250108200652&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1778,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39758028",
-          "author": "Sara Petronilho",
-          "description": "Lymphomas of T-follicular helper origin (T-follicular helper-cell lymphoma [TFHL]) are often accompanied by an expansion of B-immunoblasts, occasionally with Hodgkin/Reed-Sternberg-like (HRS-like) cells, making the differential diagnosis with classic Hodgkin lymphoma (CHL) difficult. We compared the morphologic, immunophenotypic, and molecular features of 15 TFHL and 12 CHL samples and discussed 4 challenging cases of uncertain diagnosis. Compared with CHL, TFHL disclosed more frequent sparing...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39758028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250108200652&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1849,
-          "title": "Follicular Helper T-cell Lymphoma With Hodgkin/Reed-Sternberg-Like Cells Versus Classic Hodgkin Lymphoma: A Comparative Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761417",
-          "author": "Myvizhi Esai Selvan",
-          "description": "CONCLUSIONS: Our findings underscore a connection between IBD and CHIP pathophysiology. Patients with IBD and CHIP had unique risk profiles, especially among older UC patients and younger CD patients. These findings suggest distinct evolutionary pathways for CHIP in IBD and necessitate awareness among IBD providers and hematologists to identify patients potentially at risk for CHIP-related complications including malignancy, cardiovascular disease, and acceleration of their inflammatory disease.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250107200717&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1778,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39758028",
-          "author": "Sara Petronilho",
-          "description": "Lymphomas of T-follicular helper origin (T-follicular helper-cell lymphoma [TFHL]) are often accompanied by an expansion of B-immunoblasts, occasionally with Hodgkin/Reed-Sternberg-like (HRS-like) cells, making the differential diagnosis with classic Hodgkin lymphoma (CHL) difficult. We compared the morphologic, immunophenotypic, and molecular features of 15 TFHL and 12 CHL samples and discussed 4 challenging cases of uncertain diagnosis. Compared with CHL, TFHL disclosed more frequent sparing...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39758028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250107200717&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1849,
-          "title": "Follicular Helper T-cell Lymphoma With Hodgkin/Reed-Sternberg-Like Cells Versus Classic Hodgkin Lymphoma: A Comparative Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761417",
-          "author": "Myvizhi Esai Selvan",
-          "description": "CONCLUSIONS: Our findings underscore a connection between IBD and CHIP pathophysiology. Patients with IBD and CHIP had unique risk profiles, especially among older UC patients and younger CD patients. These findings suggest distinct evolutionary pathways for CHIP in IBD and necessitate awareness among IBD providers and hematologists to identify patients potentially at risk for CHIP-related complications including malignancy, cardiovascular disease, and acceleration of their inflammatory disease.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250106200735&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1741,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Crohn's Disease and Ulcerative Colitis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39758028",
-          "author": "Sara Petronilho",
-          "description": "Lymphomas of T-follicular helper origin (T-follicular helper-cell lymphoma [TFHL]) are often accompanied by an expansion of B-immunoblasts, occasionally with Hodgkin/Reed-Sternberg-like (HRS-like) cells, making the differential diagnosis with classic Hodgkin lymphoma (CHL) difficult. We compared the morphologic, immunophenotypic, and molecular features of 15 TFHL and 12 CHL samples and discussed 4 challenging cases of uncertain diagnosis. Compared with CHL, TFHL disclosed more frequent sparing...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39758028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250106200735&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Follicular Helper T-cell Lymphoma With Hodgkin/Reed-Sternberg-Like Cells Versus Classic Hodgkin Lymphoma: A Comparative Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.18.0.post9+e462414&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&utm_campaign=pubmed-2&utm_medium=rss&ff=20250305200945&fc=20220608010801",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_medium=rss&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20250306201028",
       "articles": [
+        {
+          "id": "pubmed:40044861",
+          "author": "Luigi Perelli",
+          "description": "Mesenchymal plasticity has been extensively described in advanced epithelial cancers; however, its functional role in malignant progression is controversial^(1-5). The function of epithelial-to-mesenchymal transition (EMT) and cell plasticity in tumour heterogeneity and clonal evolution is poorly understood. Here we clarify the contribution of EMT to malignant progression in pancreatic cancer. We used somatic mosaic genome engineering technologies to trace and ablate malignant mesenchymal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40044861/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-05T11:00:00.000Z",
+          "wordCount": 2305,
+          "title": "Evolutionary fingerprints of epithelial-to-mesenchymal transition",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40044654",
+          "author": "Adith S Arun",
+          "description": "Reliable estimates for the number of cancer patients with a specific mutation can help quantify the size of the population that could potentially benefit from a targeted therapy. We adapt our previously developed approach for estimating gene-level mutation abundances to estimate mutation-specific (e.g., KRAS G12C) abundances by combining United States cancer epidemiology and genomic data. We demonstrate the approach by obtaining population-level estimates for all acquired somatic missense...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40044654/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-05T11:00:00.000Z",
+          "wordCount": 1806,
+          "title": "Integrating epidemiology and genomics data to estimate the prevalence of acquired cysteine drug targets in the U.S. cancer patient population",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40027942",
+          "author": "Mauro Buono",
+          "description": "This work provides a comprehensive overview of the current landscape of lung cancer, emphasizing the global significance of the disease and the challenges associated with its diagnosis and treatment. The authors highlight the prevalence of lung cancer, with non-small cell lung cancer (NSCLC) and small cell lung cancer (SCC) being the predominant histological subtypes. Advanced-stage diagnosis is common due to the asymptomatic nature of the disease, leading to a systemic treatment approach...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40027942/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-03T11:00:00.000Z",
+          "wordCount": 1915,
+          "title": "New perspectives on inoperable early-stage lung cancer management: Clinicians, physicists, and biologists unveil strategies and insights",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:40027942",
           "author": "Mauro Buono",
@@ -7567,6 +7487,26 @@
           "publishedOn": "2025-03-03T11:00:00.000Z",
           "wordCount": 1649,
           "title": "New perspectives on inoperable early-stage lung cancer management: Clinicians, physicists, and biologists unveil strategies and insights",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40023663",
+          "author": "Joanna Pozniak",
+          "description": "Cancer evolution is driven by molecular events within cancer cells and their complex interactions with surrounding cells. Intra-tumor heterogeneity - driven by somatic genetic mutations, epigenetic dysregulation, immune cell infiltration, and microenvironmental factors - complicates the identification of reliable biomarkers and therapeutic targets. Single-cell sequencing and spatial multiomics technologies are revolutionizing our comprehension of how each component of the cellular machinery and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40023663/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-01T11:00:00.000Z",
+          "wordCount": 1178,
+          "title": "Decoding melanoma's cellular mosaic to unlock immunotherapy potential",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40022576",
+          "author": "Guangzhong Guo",
+          "description": "CONCLUSIONS: In glioma patients undergoing primary surgery, dynamic monitoring of ctDNA and genotyping can be used for early risk stratification, efficacy monitoring, and early recurrence detection, and provide a basis for clinical research to evaluate early therapeutic intervention.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40022576/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-01T11:00:00.000Z",
+          "wordCount": 2581,
+          "title": "Dynamic Monitoring of Circulating Tumor DNA to Predict the Risk of Non In Situ Recurrence of Postoperative Glioma: A Prospective Cohort Study",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7637,6 +7577,16 @@
           "publishedOn": "2025-03-01T11:00:00.000Z",
           "wordCount": 2086,
           "title": "Dynamic Monitoring of Circulating Tumor DNA to Predict the Risk of Non In Situ Recurrence of Postoperative Glioma: A Prospective Cohort Study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39990278",
+          "author": "Ana-Maria Ciongariu",
+          "description": "INTRODUCTION: Liposarcomas are malignant soft tissue tumours with heterogeneous features and variable prognosis. Each entity comprised in this group displays distinct morphology and harbours specific genetic alterations, which correlate with clinical behaviour and therapy response. The aim of this study is to analyse the clinical and histopathological features that can influence the prognosis of liposarcoma. We also present a newly designed scoring system that could be useful for predicting the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39990278/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-24T11:00:00.000Z",
+          "wordCount": 2224,
+          "title": "\"Enhancing Liposarcoma Prognosis - A New Predictive Scoring System Integrating Histopathological Insights\"",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7733,6 +7683,16 @@
           "id": "pubmed:39988271",
           "author": "Jean Piero Margaria",
           "description": "As a consequence of continuous interaction with mutagens, the genome sequence accumulates changes, which are referred to as \"somatic mutations\". Somatic variants acquired by normal cells during a lifetime are difficult to detect with common sequencing methods. This review provides a basic description of currently available technologies for somatic mutation detection and summarizes the studies that have explored somatic mutation in the kidneys. Given the role of somatic mutations in the formation...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39988271/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-23T11:00:00.000Z",
+          "wordCount": 1216,
+          "title": "Somatic mutations acquired during life: state of the art and implications for the kidney",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39988271",
+          "author": "Jean Piero Margaria",
+          "description": "As a consequence of continuous interaction with mutagens, the genome sequence accumulates changes, which are referred to as \"somatic mutations\". Somatic variants acquired by normal cells during a lifetime are difficult to detect with common sequencing methods. This review provides a basic description of currently available technologies for somatic mutation detection and summarizes the studies that have explored somatic mutation in the kidneys. Given the role of somatic mutations in the formation...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39988271/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250305200945&v=2.18.0.post9+e462414",
           "publishedOn": "2025-02-23T11:00:00.000Z",
           "wordCount": 1216,
@@ -7817,6 +7777,26 @@
           "publishedOn": "2025-02-23T11:00:00.000Z",
           "wordCount": 1209,
           "title": "Somatic mutations acquired during life: state of the art and implications for the kidney",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39983368",
+          "author": "Michael L Friedlander",
+          "description": "Ovarian sex cord-stromal tumors are rare and include adult granulosa cell tumors, juvenile granulosa cell tumors, and Sertoli-Leydig cell tumors. Adult granulosa cell tumors the most prevalent malignant ovarian sex cord stromal tumors are the focus of the review which synthesizes published data to highlight the diagnostic challenges and the controversies surrounding the management of adult granulosa cell tumors, juvenile granulosa cell tumors, and Sertoli-Leydig cell tumors. Adult granulosa cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39983368/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-21T11:00:00.000Z",
+          "wordCount": 1568,
+          "title": "Controversies in the management of ovarian granulosa cell and Sertoli-Leydig cell tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39981299",
+          "author": "Stacie Z Berg",
+          "description": "It is widely accepted that cancer mostly arises from random spontaneous mutations triggered by environmental factors. Our theory challenges the idea of the random somatic mutation theory (SMT). The SMT does not fit well with Charles Darwin's theory of evolution in that the same relatively few mutations would occur so frequently and that these mutations would lead to death rather than survival of the fittest. However, it would fit well under the theory of evolution, if we were to look at it from...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39981299/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-21T11:00:00.000Z",
+          "wordCount": 4379,
+          "title": "Microbes, macrophages, and melanin: a unifying theory of disease as exemplified by cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8053,6 +8033,16 @@
           "id": "pubmed:39975392",
           "author": "Joshua M Park",
           "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-20T11:00:00.000Z",
+          "wordCount": 2344,
+          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39975392",
+          "author": "Joshua M Park",
+          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250305200945&v=2.18.0.post9+e462414",
           "publishedOn": "2025-02-20T11:00:00.000Z",
           "wordCount": 2344,
@@ -8183,6 +8173,16 @@
           "id": "pubmed:39972134",
           "author": "Maise Al Bakir",
           "description": "Neoantigen vaccines are under investigation for various cancers, including epidermal growth factor receptor (EGFR)-driven lung cancers^(1,2). We tracked the phylogenetic history of an EGFR mutant lung cancer treated with erlotinib, osimertinib, radiotherapy and a personalized neopeptide vaccine (NPV) targeting ten somatic mutations, including EGFR exon 19 deletion (ex19del). The ex19del mutation was clonal, but is likely to have appeared after a whole-genome doubling (WGD) event. Following...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39972134/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-19T11:00:00.000Z",
+          "wordCount": 3151,
+          "title": "Clonal driver neoantigen loss under EGFR TKI and immune selection pressures",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39972134",
+          "author": "Maise Al Bakir",
+          "description": "Neoantigen vaccines are under investigation for various cancers, including epidermal growth factor receptor (EGFR)-driven lung cancers^(1,2). We tracked the phylogenetic history of an EGFR mutant lung cancer treated with erlotinib, osimertinib, radiotherapy and a personalized neopeptide vaccine (NPV) targeting ten somatic mutations, including EGFR exon 19 deletion (ex19del). The ex19del mutation was clonal, but is likely to have appeared after a whole-genome doubling (WGD) event. Following...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/39972134/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250305200945&v=2.18.0.post9+e462414",
           "publishedOn": "2025-02-19T11:00:00.000Z",
           "wordCount": 3151,
@@ -8307,6 +8307,16 @@
           "publishedOn": "2025-02-19T11:00:00.000Z",
           "wordCount": 3144,
           "title": "Clonal driver neoantigen loss under EGFR TKI and immune selection pressures",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39966644",
+          "author": "Robert Bentham",
+          "description": "Recognition and elimination of pathogens and cancer cells depend on the adaptive immune system. Thus, accurate quantification of immune subsets is vital for precision medicine. We present immune lymphocyte estimation from nucleotide sequencing (ImmuneLENS), which estimates T cell and B cell fractions, class switching and clonotype diversity from whole-genome sequencing data at depths as low as 5× coverage. By applying ImmuneLENS to the 100,000 Genomes Project, we identify genes enriched with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39966644/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-18T11:00:00.000Z",
+          "wordCount": 1625,
+          "title": "ImmuneLENS characterizes systemic immune dysregulation in aging and cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8447,6 +8457,16 @@
           "publishedOn": "2025-02-18T11:00:00.000Z",
           "wordCount": 1618,
           "title": "ImmuneLENS characterizes systemic immune dysregulation in aging and cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39945744",
+          "author": "Takafumi N Yamaguchi",
+          "description": "Newly diagnosed prostate cancers differ dramatically in mutational composition and lethality. The most accurate clinical predictor of lethality is tumor tissue architecture, quantified as tumor grade. To interrogate the evolutionary origins of prostate cancer heterogeneity, we analyzed 666 prostate tumor whole genomes. We identified a compendium of 223 recurrently mutated driver regions, most influencing downstream mutational processes and gene expression. We identified and validated individual...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39945744/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-13T11:00:00.000Z",
+          "wordCount": 2818,
+          "title": "The Germline and Somatic Origins of Prostate Cancer Heterogeneity",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8647,6 +8667,26 @@
           "publishedOn": "2025-02-13T11:00:00.000Z",
           "wordCount": 2755,
           "title": "The Germline and Somatic Origins of Prostate Cancer Heterogeneity",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39926383",
+          "author": "Michael R King",
+          "description": "CONCLUSIONS: This simple modeling approach can be easily modified to add complexity and more realistic biological details, and may yield new understanding of cancer and somatic evolution.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39926383/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-10T11:00:00.000Z",
+          "wordCount": 2289,
+          "title": "Simulation of Somatic Evolution Through the Introduction of Random Mutation to the Rules of Conway's Game of Life",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:39924702",
+          "author": "Can Liu",
+          "description": "Tumor itself is a complex microecosystem, with complex spatio-temporal dynamics and multi-dimensional interactions. Its unimaginable heterogeneity and evolvability have exceeded the cognition of traditional oncology medicine. How to systematically characterize the whole tumor cell ecosystem from the dynamics and interaction of material, energy and signal levels, in order to explore new cognition, new rules and new therapies for the occurrence and development of tumors, is a new proposition and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/39924702/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-02-10T11:00:00.000Z",
+          "wordCount": 1615,
+          "title": "Evolutionary ecology in tumor evolution: concept, application and innovation",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -13347,216 +13387,6 @@
           "publishedOn": "2025-01-08T11:00:00.000Z",
           "wordCount": 1429,
           "title": "A germline FLT3 variant in aplastic anemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250209200740&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2044,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250208201007&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2044,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250207200432&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2026,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250206200638&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2026,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250205200627&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250204200615&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250202200631&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250201200850&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250131200918&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250130200523&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250129200412&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250128200509&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250127200511&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250126200628&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250125200733&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250124200159&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250123200521&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250122200516&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250121200641&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2058,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250118201005&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2070,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39761690",
-          "author": "John F McDonald",
-          "description": "The molecular basis of adaptive evolution and cancer progression are both complex processes that share many striking similarities. The potential adaptive significance of environmentally-induced epigenetic changes is currently an area of great interest in both evolutionary and cancer biology. In the field of cancer biology intense effort has been focused on the contribution of stress-induced non-coding RNAs (ncRNAs) in the activation of epigenetic changes associated with elevated mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39761690/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250117200306&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-01-06T11:00:00.000Z",
-          "wordCount": 2070,
-          "title": "Adaptive Significance of Non-coding RNAs: Insights from Cancer Biology",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
