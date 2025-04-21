@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20250419211848&v=2.18.0.post9+e462414&utm_source=axios&utm_campaign=pubmed-2&fc=20220608003622",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&v=2.18.0.post9+e462414&utm_source=axios&ff=20250420211724",
       "articles": [
+        {
+          "id": "pubmed:40252845",
+          "author": "Seyedmohammad Saadatagah",
+          "description": "CONCLUSIONS: In this cohort study in older adults, we identified modestly increased risk of VTE in individuals with CHIP, mainly driven by TET2 mutation. Future research should explore the mechanisms driving these associations and assess potential therapeutic and preventive strategies.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40252845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-19T10:00:00.000Z",
+          "wordCount": 1584,
+          "title": "Clonal Hematopoiesis of Indeterminate Potential (CHIP) and Incidence of Venous Thromboembolism in Older Adults",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40249883",
+          "author": "Jacqueline J Tao",
+          "description": "CONCLUSION: We found no difference in irradiated tumor progression between patients with and without CH. Further studies are warranted to examine the potential clinical implications of CH on treatment responsiveness of solid tumors.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40249883/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-18T10:00:00.000Z",
+          "wordCount": 2040,
+          "title": "Impact of Clonal Hematopoiesis on Solid Tumor Progression Following Radiation Therapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:40249883",
           "author": "Jacqueline J Tao",
@@ -230,6 +250,16 @@
           "publishedOn": "2025-04-18T10:00:00.000Z",
           "wordCount": 1591,
           "title": "Impact of Clonal Hematopoiesis on Solid Tumor Progression Following Radiation Therapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40244103",
+          "author": "Shuanhu Li",
+          "description": "Atherosclerosis, a chronic inflammatory disease characterized by lipid accumulation and immune cell infiltration, is linked to plaque formation and cardiovascular events. While traditionally associated with lipid metabolism and endothelial dysfunction, recent research highlights the roles of autophagy and clonal hematopoiesis (CH) in its pathogenesis. Autophagy, a cellular process crucial for degrading damaged components, regulates macrophage homeostasis and inflammation, both of which are...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40244103/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-17T10:00:00.000Z",
+          "wordCount": 2543,
+          "title": "Autophagy and Its Association with Macrophages in Clonal Hematopoiesis Leading to Atherosclerosis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -260,6 +290,26 @@
           "publishedOn": "2025-04-17T10:00:00.000Z",
           "wordCount": 1720,
           "title": "Autophagy and Its Association with Macrophages in Clonal Hematopoiesis Leading to Atherosclerosis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40240771",
+          "author": "Kira A Young",
+          "description": "The competitive advantage of mutant hematopoietic stem and progenitor cells (HSPCs) underlies clonal hematopoiesis (CH). Drivers of CH include aging and inflammation; however, how CH-mutant cells gain a selective advantage in these contexts is an unresolved question. Using a murine model of CH (Dnmt3a^(R878H/+)), we discover that mutant HSPCs sustain elevated mitochondrial respiration which is associated with their resistance to aging-related changes in the bone marrow microenvironment. Mutant...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40240771/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-16T10:00:00.000Z",
+          "wordCount": 4799,
+          "title": "Elevated mitochondrial membrane potential is a therapeutic vulnerability in Dnmt3a-mutant clonal hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40238187",
+          "author": "Xiaowei Liu",
+          "description": "INTRODUCTION: Somatic mutations in the JAK2, CALR, and MPL genes are traditionally tested using a cascading reflex algorithm in BCR::ABL1-negative myeloproliferative neoplasms (MPNs). However, next-generation sequencing (NGS) has revealed that these variants may coexist, exposing limitations in current testing practices.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40238187/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-16T10:00:00.000Z",
+          "wordCount": 1674,
+          "title": "A comparison of sequential polymerase chain reaction-based cascade testing vs next-generation sequencing in molecular profiling of myeloproliferative neoplasms: improving testing strategies in light of evolving molecular landscapes",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -330,6 +380,26 @@
           "publishedOn": "2025-04-16T10:00:00.000Z",
           "wordCount": 1274,
           "title": "A comparison of sequential polymerase chain reaction-based cascade testing vs next-generation sequencing in molecular profiling of myeloproliferative neoplasms: improving testing strategies in light of evolving molecular landscapes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40232845",
+          "author": "Zhi Yu",
+          "description": "Chronic kidney disease (CKD) afflicts over 10% of US adults, with its prevalence increasing sharply with age. Clonal hematopoiesis of indeterminate potential (CHIP) is a common, genetically heterogeneous blood cell disorder characterized by the age-related clonal expansion of hematopoietic cells driven by leukemogenic somatic mutations yet without hematologic malignancy or dysplasia. While CHIP is a strong risk factor for future hematologic malignancy (estimated at ∼0.5% per year, compared to...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40232845/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-15T10:00:00.000Z",
+          "wordCount": 1670,
+          "title": "Deciphering Clonal Hematopoiesis of Indeterminate Potential: Methods, Mechanisms, and Implications for Kidney Diseases",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40232347",
+          "author": "Silvia Vicenzi",
+          "description": "Organismal aging has been associated with diverse metabolic and functional changes across tissues. Within the immune system, key features of physiological hematopoietic cell aging include increased fat deposition in the bone marrow, impaired hematopoietic stem and progenitor cell (HSPC) function, and a propensity towards myeloid differentiation. This shift in lineage bias can lead to pre-malignant bone marrow conditions such as clonal hematopoiesis of indeterminate potential (CHIP) or clonal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40232347/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-15T10:00:00.000Z",
+          "wordCount": 2457,
+          "title": "Systemic deficits in lipid homeostasis promote aging-associated impairments in B cell progenitor development",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -430,6 +500,26 @@
           "publishedOn": "2025-04-15T10:00:00.000Z",
           "wordCount": 2057,
           "title": "Systemic deficits in lipid homeostasis promote aging-associated impairments in B cell progenitor development",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40229848",
+          "author": "Maibritt Nørgaard",
+          "description": "CONCLUSIONS: Our study identifies known and novel prognostic and predictive biomarker candidates in patients with mCRPC undergoing first-line treatment with enzalutamide or abiraterone acetate. It further provides real-world evidence of the significant potential of genomic profiling of ctDNA to inform treatment in this setting. Clinical trials are warranted to advance the implementation of ctDNA-based biomarkers into clinical practice.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40229848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-14T10:00:00.000Z",
+          "wordCount": 3496,
+          "title": "Deep targeted sequencing of circulating tumor DNA to inform treatment in patients with metastatic castration-resistant prostate cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40227798",
+          "author": "Michela Rondoni",
+          "description": "Background: Wilms' tumor gene 1 (WT1) is a critical player in acute myeloid leukemia (AML), often serving as a biomarker for measurable residual disease (MRD). The WT1 gene is overexpressed in the majority of AML cases at diagnosis, with apparently no correlation with prognosis, and in the meantime, its role in patients with low-level expression is still undefined. This study investigates the mutational landscape and clinical outcomes of AML patients with low WT1 expression at diagnosis....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40227798/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-14T10:00:00.000Z",
+          "wordCount": 2299,
+          "title": "Low WT1 Expression Identifies a Subset of Acute Myeloid Leukemia with a Distinct Genotype",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -546,6 +636,16 @@
           "id": "pubmed:40222687",
           "author": "Alexander J Silver",
           "description": "CRISPR-Cas9 is a useful tool for inserting precise genetic alterations through homology-directed repair (HDR), although current methods largely rely on provision of an exogenous repair template. Here, we tested the possibility of interchanging heterozygous single nucleotide variants (SNVs) using mutation-specific guide RNA, and the cell's own wild-type allele rather than an exogenous template. Using high-fidelity Cas9 to perform allele-specific CRISPR across multiple human leukemia cell lines as...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40222687/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-13T10:00:00.000Z",
+          "wordCount": 1723,
+          "title": "Interallelic gene conversion of leukemia-associated single nucleotide variants",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40222687",
+          "author": "Alexander J Silver",
+          "description": "CRISPR-Cas9 is a useful tool for inserting precise genetic alterations through homology-directed repair (HDR), although current methods largely rely on provision of an exogenous repair template. Here, we tested the possibility of interchanging heterozygous single nucleotide variants (SNVs) using mutation-specific guide RNA, and the cell's own wild-type allele rather than an exogenous template. Using high-fidelity Cas9 to perform allele-specific CRISPR across multiple human leukemia cell lines as...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40222687/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250419211848&v=2.18.0.post9+e462414",
           "publishedOn": "2025-04-13T10:00:00.000Z",
           "wordCount": 1723,
@@ -600,6 +700,36 @@
           "publishedOn": "2025-04-13T10:00:00.000Z",
           "wordCount": 1483,
           "title": "Interallelic gene conversion of leukemia-associated single nucleotide variants",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40217071",
+          "author": "Rio Takahashi",
+          "description": "Acquired aplastic anemia (AA) is an immune-mediated bone marrow failure caused by autoreactive cytotoxic T lymphocytes targeting hematopoietic stem progenitor cells (HSPCs). Approximately 30% of AA patients exhibit leukocytes lacking HLA class I alleles (HLA[-]). In addition to this direct immune assault, the pathogenesis of AA is thought to involve indirect suppression mediated by the proinflammatory cytokine interferon-gamma (IFN-γ). Using HSPCs derived from induced pluripotent stem cells...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40217071/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-11T10:00:00.000Z",
+          "wordCount": 1997,
+          "title": "Interferon-gamma-mediated selective inhibition of hematopoiesis and the clonal advantage of HLA-lacking hematopoietic stem progenitor cells in aplastic anemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40216768",
+          "author": "Juan Jose Rodriguez-Sevilla",
+          "description": "Dissecting the preneoplastic disease states' biological mechanisms that precede tumorigenesis can lead to interventions that can slow down disease progression and/or mitigate disease-related comorbidities. Myelodysplastic syndromes (MDS) cannot be cured by currently available pharmacological therapies, which fail to eradicate aberrant hematopoietic stem cells (HSCs), most of which are mutated by the time of diagnosis. Here, we sought to elucidate how MDS HSCs evade immune surveillance and expand...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40216768/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-11T10:00:00.000Z",
+          "wordCount": 4446,
+          "title": "Natural killer cells' functional impairment drives the immune escape of pre-malignant clones in early-stage myelodysplastic syndromes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40214958",
+          "author": "Attila Kallai",
+          "description": "Vascular contributions to cognitive impairment and dementia (VCID) represent a major public health challenge in the aging population, with age-related cerebromicrovascular dysfunction playing a critical role in its development. Understanding the mechanisms underlying cerebromicrovascular aging is crucial for devising strategies to mitigate this burden. Among the key hallmarks of aging, genomic instability and genetic heterogeneity have emerged as significant drivers of age-related diseases....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40214958/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-11T10:00:00.000Z",
+          "wordCount": 2550,
+          "title": "Clonal hematopoiesis of indeterminate potential (CHIP) in cerebromicrovascular aging: implications for vascular contributions to cognitive impairment and dementia (VCID)",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -856,6 +986,16 @@
           "id": "pubmed:40210741",
           "author": "Falko Fend",
           "description": "Reactive and clonal proliferations of histiocytes (macrophages/dendritic cells) represent a broad spectrum of disorders, which can affect virtually any organ of the body. The clinical spectrum ranges from benign, localized and self-limiting manifestations to severe multi-system disease. Hemophagocytic lymphohistiocytosis (HLH) is a frequently life-threatening, systemic hyperinflammatory process triggered by massive cytokine release by activated, reactive macrophages. Familial and secondary forms...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40210741/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-10T10:00:00.000Z",
+          "wordCount": 2185,
+          "title": "Histiocytoses and reactive proliferations of histiocytes: current state of the art and evolving concepts-a report from the joint CSHP-EA4HP-SH workshop 2024, Hefei, China",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40210741",
+          "author": "Falko Fend",
+          "description": "Reactive and clonal proliferations of histiocytes (macrophages/dendritic cells) represent a broad spectrum of disorders, which can affect virtually any organ of the body. The clinical spectrum ranges from benign, localized and self-limiting manifestations to severe multi-system disease. Hemophagocytic lymphohistiocytosis (HLH) is a frequently life-threatening, systemic hyperinflammatory process triggered by massive cytokine release by activated, reactive macrophages. Familial and secondary forms...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40210741/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250419211848&v=2.18.0.post9+e462414",
           "publishedOn": "2025-04-10T10:00:00.000Z",
           "wordCount": 2178,
@@ -940,6 +1080,16 @@
           "publishedOn": "2025-04-10T10:00:00.000Z",
           "wordCount": 1849,
           "title": "Histiocytoses and reactive proliferations of histiocytes: current state of the art and evolving concepts-a report from the joint CSHP-EA4HP-SH workshop 2024, Hefei, China",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40204772",
+          "author": "Feng Qiu",
+          "description": "Clonal hematopoiesis (CH) is an age-associated phenomenon characterized by the proliferation of blood cells carrying somatic mutations. Recent studies suggest a potential link between CH and periodontitis, but the causal relationship remains unclear. A two-sample Mendelian randomization (MR) analysis was implemented, examining whether CH phenotypes are causally associated with periodontitis. CH phenotypes included overall clonal hematopoiesis (CH-overall), CH with a DNMT3A mutation (CH-DNMT3A),...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40204772/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-09T10:00:00.000Z",
+          "wordCount": 2060,
+          "title": "Association between clonal hematopoiesis and periodontitis: a two-sample mendelian randomization study",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7937,8 +8087,28 @@
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_medium=rss&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20250419211848&v=2.18.0.post9+e462414&utm_source=axios&utm_campaign=pubmed-2",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_medium=rss&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20250420211724&v=2.18.0.post9+e462414&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:40250950",
+          "author": "Eszter Németh",
+          "description": "Somatic mutations drive cancer initiation and tumor evolution. Therefore, the etiology of mutagenesis in cancer is important to preventative and treatment strategies. Somatic mutagenesis in cancer is a multifactorial process and includes both endogenous and exogenous sources of mutations. One recently recognized source of mutagenesis in cancer is the innate immune APOBEC3 family of enzymes, which catalyze cytosine deamination to restrict viral infection but can aberrantly act on the cellular...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40250950/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-18T10:00:00.000Z",
+          "wordCount": 1690,
+          "title": "Defining the genome-wide mutagenic impact of APOBEC3 enzymes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40250028",
+          "author": "Eric Rios-Doria",
+          "description": "CONCLUSIONS: Our study revealed prevalent TP53 somatic evolution in benign endometrium across human lifespan and no racial differences in this cohort of predominantly younger individuals. Future studies should consider the analysis of larger cohorts with older individuals to detect potential effects of racial disparities on TP53 somatic evolution later in life.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40250028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-18T10:00:00.000Z",
+          "wordCount": 1810,
+          "title": "TP53 somatic evolution in the normal endometrium of Black and White individuals",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:40250950",
           "author": "Eszter Németh",
@@ -7957,6 +8127,16 @@
           "publishedOn": "2025-04-18T10:00:00.000Z",
           "wordCount": 1405,
           "title": "TP53 somatic evolution in the normal endometrium of Black and White individuals",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40239140",
+          "author": "Rafael Grochot",
+          "description": "CONCLUSION: FGFRi are effective treatment strategies for patients with advanced solid tumors harboring FGFR alterations, with manageable toxicities in most patients.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40239140/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-16T10:00:00.000Z",
+          "wordCount": 1964,
+          "title": "Safety and Activity of Fibroblast Growth Factor Receptor Inhibitors in Advanced Malignancies: A Pooled Analysis of Early-Phase Clinical Trials",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8003,6 +8183,16 @@
           "id": "pubmed:40233712",
           "author": "Hyun Jung Kim",
           "description": "Neural stem cells (NSCs) in the subventricular zone (SVZ) are identified as cells-of-origin harboring driver mutations in glioblastoma (GBM), which is the most devastating brain tumor with highly heterogeneous nature. However, the sequential transformation of a limited number of mutation-harboring NSCs into a distant tumor with high intratumoral heterogeneity remains poorly understood. In this study, we have identified transcriptionally distinct types of mutation-harboring precancerous cells in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40233712/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-15T10:00:00.000Z",
+          "wordCount": 1662,
+          "title": "Precancerous Cells Initiate Glioblastoma Evolution and Contribute to Intratumoral Heterogeneity",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40233712",
+          "author": "Hyun Jung Kim",
+          "description": "Neural stem cells (NSCs) in the subventricular zone (SVZ) are identified as cells-of-origin harboring driver mutations in glioblastoma (GBM), which is the most devastating brain tumor with highly heterogeneous nature. However, the sequential transformation of a limited number of mutation-harboring NSCs into a distant tumor with high intratumoral heterogeneity remains poorly understood. In this study, we have identified transcriptionally distinct types of mutation-harboring precancerous cells in...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40233712/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250419211848&v=2.18.0.post9+e462414",
           "publishedOn": "2025-04-15T10:00:00.000Z",
           "wordCount": 1662,
@@ -8037,6 +8227,26 @@
           "publishedOn": "2025-04-15T10:00:00.000Z",
           "wordCount": 1302,
           "title": "Precancerous Cells Initiate Glioblastoma Evolution and Contribute to Intratumoral Heterogeneity",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40164736",
+          "author": "Laura Torrens",
+          "description": "Tobacco smoke, alone or combined with alcohol, is the predominant cause of head and neck cancer (HNC). We explore how tobacco exposure contributes to cancer development by mutational signature analysis of 265 whole-genome sequenced HNC samples from eight countries. Six tobacco-associated mutational signatures were detected, including some not previously reported. Differences in HNC incidence between countries corresponded with differences in mutation burdens of tobacco-associated signatures,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40164736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-31T10:00:00.000Z",
+          "wordCount": 5930,
+          "title": "The complexity of tobacco smoke-induced mutagenesis in head and neck cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40163695",
+          "author": "Xuecong Fu",
+          "description": "MOTIVATION: Blood-based profiling of tumor DNA (\"liquid biopsy\") offers great prospects for non-invasive early cancer diagnosis and clinical guidance, but requires further computational advances to become a robust quantitative assay of tumor clonal evolution. We propose new methods to better characterize tumor clonal dynamics from circulating tumor DNA (ctDNA), through application to two specific tasks: (i) applying longitudinal ctDNA data to refine phylogeny models of clonal evolution, and (ii)...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40163695/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-31T10:00:00.000Z",
+          "wordCount": 2403,
+          "title": "Marker selection strategies for circulating tumor DNA guided by phylogenetic inference",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8333,6 +8543,16 @@
           "id": "pubmed:40155604",
           "author": "Bingxin Lu",
           "description": "Chromosomal instability (CIN) is pervasive in human tumours and often leads to structural or numerical chromosomal aberrations. Somatic structural variants (SVs) are intimately related to copy number alterations but the two types of variant are often studied independently. Additionally, despite numerous studies on detecting various SV patterns, there are still no general quantitative models of SV generation. To address this issue, we develop a computational cell-cycle model for the generation of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40155604/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-29T10:00:00.000Z",
+          "wordCount": 4200,
+          "title": "Cell-cycle dependent DNA repair and replication unifies patterns of chromosome instability",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40155604",
+          "author": "Bingxin Lu",
+          "description": "Chromosomal instability (CIN) is pervasive in human tumours and often leads to structural or numerical chromosomal aberrations. Somatic structural variants (SVs) are intimately related to copy number alterations but the two types of variant are often studied independently. Additionally, despite numerous studies on detecting various SV patterns, there are still no general quantitative models of SV generation. To address this issue, we develop a computational cell-cycle model for the generation of...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40155604/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250419211848&v=2.18.0.post9+e462414",
           "publishedOn": "2025-03-29T10:00:00.000Z",
           "wordCount": 4200,
@@ -8547,6 +8767,16 @@
           "publishedOn": "2025-03-29T10:00:00.000Z",
           "wordCount": 1623,
           "title": "Cell-cycle dependent DNA repair and replication unifies patterns of chromosome instability",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40133166",
+          "author": "Gaël Vermeersch",
+          "description": "BCR::ABL1 negative myeloproliferative neoplasms (MPNs) are a heterogenous group of disorders characterized by clonal proliferation of hematopoietic stem and progenitor cells (HSPCs) within the bone marrow. Although the identification of somatic key driver mutations significantly increased both understanding and diagnostic accuracy of MPNs, many questions about the exact pathophysiology remain unanswered. Increased neutrophil count at diagnosis is a well-recognized predictor of worse disease...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40133166/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-25T10:00:00.000Z",
+          "wordCount": 1634,
+          "title": "Neutrophils in BCR::ABL1 negative MPN: Contributors or bystanders of fibrosis?",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8797,6 +9027,16 @@
           "publishedOn": "2025-03-25T10:00:00.000Z",
           "wordCount": 1244,
           "title": "Neutrophils in BCR::ABL1 negative MPN: Contributors or bystanders of fibrosis?",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40127145",
+          "author": "Hongyuan Xu",
+          "description": "CONCLUSIONS: Map3k3^(I441M) heterozygous is sufficient to induce lesions in juvenile mice, while the additional activation of PI3K signaling is required for the effective formation of CCMs at the adult stage. The Map3k3^(I441M) murine model provides a preclinical model for further mechanistic and therapeutic studies of CCMs.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40127145/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-24T10:00:00.000Z",
+          "wordCount": 2257,
+          "title": "<em>Map3k3 </em> <sup>I441M</sup> Knock-In Mouse Model of Cerebral Cavernous Malformations",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9067,6 +9307,16 @@
           "publishedOn": "2025-03-24T10:00:00.000Z",
           "wordCount": 1777,
           "title": "<em>Map3k3 </em> <sup>I441M</sup> Knock-In Mouse Model of Cerebral Cavernous Malformations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40119428",
+          "author": "Angelo Fortunato",
+          "description": "CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-22T10:00:00.000Z",
+          "wordCount": 3382,
+          "title": "Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9357,6 +9607,16 @@
           "publishedOn": "2025-03-22T10:00:00.000Z",
           "wordCount": 2079,
           "title": "Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40117022",
+          "author": "Micheline Kirsch-Volders",
+          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-21T10:00:00.000Z",
+          "wordCount": 2147,
+          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9663,6 +9923,16 @@
           "id": "pubmed:40108450",
           "author": "Tim H H Coorens",
           "description": "The landscapes of somatic mutation in normal cells inform us about the processes of mutation and selection operative throughout life, providing insight into normal ageing and the earliest stages of cancer development¹. Here, by whole-genome sequencing of 238 microdissections² from 30 individuals, including 18 with gastric cancer, we elucidate the developmental trajectories of normal and malignant gastric epithelium. We find that gastric glands are units of monoclonal cell populations that accrue...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40108450/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-20T10:00:00.000Z",
+          "wordCount": 4865,
+          "title": "The somatic mutation landscape of normal gastric epithelium",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40108450",
+          "author": "Tim H H Coorens",
+          "description": "The landscapes of somatic mutation in normal cells inform us about the processes of mutation and selection operative throughout life, providing insight into normal ageing and the earliest stages of cancer development¹. Here, by whole-genome sequencing of 238 microdissections² from 30 individuals, including 18 with gastric cancer, we elucidate the developmental trajectories of normal and malignant gastric epithelium. We find that gastric glands are units of monoclonal cell populations that accrue...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40108450/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250419211848&v=2.18.0.post9+e462414",
           "publishedOn": "2025-03-20T10:00:00.000Z",
           "wordCount": 4865,
@@ -9757,6 +10027,16 @@
           "publishedOn": "2025-03-20T10:00:00.000Z",
           "wordCount": 2538,
           "title": "The somatic mutation landscape of normal gastric epithelium",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40107722",
+          "author": "Arthur Dondi",
+          "description": "In cancer, genetic and transcriptomic variations generate clonal heterogeneity, leading to treatment resistance. Long-read single-cell RNA sequencing (LR scRNA-seq) has the potential to detect genetic and transcriptomic variations simultaneously. Here, we present LongSom, a computational workflow leveraging high-quality LR scRNA-seq data to call de novo somatic single-nucleotide variants (SNVs), including in mitochondria (mtSNVs), copy number alterations (CNAs), and gene fusions, to reconstruct...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40107722/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-19T10:00:00.000Z",
+          "wordCount": 1857,
+          "title": "De novo detection of somatic variants in high-quality long-read single-cell RNA sequencing data",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -10067,6 +10347,16 @@
           "publishedOn": "2025-03-19T10:00:00.000Z",
           "wordCount": 1267,
           "title": "De novo detection of somatic variants in high-quality long-read single-cell RNA sequencing data",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40074906",
+          "author": "Elena Fiorini",
+          "description": "Intratumour heterogeneity and phenotypic plasticity drive tumour progression and therapy resistance^(1,2). Oncogene dosage variation contributes to cell-state transitions and phenotypic heterogeneity³, thereby providing a substrate for somatic evolution. Nonetheless, the genetic mechanisms underlying phenotypic heterogeneity are still poorly understood. Here we show that extrachromosomal DNA (ecDNA) is a major source of high-level focal amplification in key oncogenes and a major contributor of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40074906/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-13T10:00:00.000Z",
+          "wordCount": 7402,
+          "title": "MYC ecDNA promotes intratumour heterogeneity and plasticity in PDAC",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -10447,6 +10737,16 @@
           "publishedOn": "2025-03-13T10:00:00.000Z",
           "wordCount": 1922,
           "title": "MYC ecDNA promotes intratumour heterogeneity and plasticity in PDAC",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40055751",
+          "author": "Zhi-Hao Yu",
+          "description": "Cancer-associated fibroblasts (CAFs) are highly heterogeneous cells and important components of the breast tumor microenvironment (TME). However, their role and clinical value in ER-positive breast cancer have not been fully clarified. Our study aims to comprehensively characterize the heterogeneity, potential biological functions, and molecular mechanisms of CAFs in ER-positive breast cancer within the tumor microenvironment using multi-omics data, to provide new strategies for the diagnosis...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40055751/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-07T11:00:00.000Z",
+          "wordCount": 3303,
+          "title": "Integrating spatial and single-cell transcriptomes reveals the role of COL1A2(+) MMP1(+/-) cancer-associated fibroblasts in ER-positive breast cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -14637,386 +14937,6 @@
           "publishedOn": "2025-02-21T11:00:00.000Z",
           "wordCount": 4311,
           "title": "Microbes, macrophages, and melanin: a unifying theory of disease as exemplified by cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250321211000&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1118,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250320211142&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1118,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975330",
-          "author": "Nishat Anjum Bristy",
-          "description": "MOTIVATION: Reconstructing clonal lineage trees (\"tumor phylogenetics\") has become a core tool of cancer genomics. Earlier approaches based on bulk DNA sequencing (DNA-seq) have largely given way to single-cell DNA-seq (scDNA-seq), which offers far greater resolution for clonal substructure. Available data has lagged behind computational theory, though. While single-cell RNA-seq (scRNA-seq) has become widely available, scDNA-seq is still sufficiently costly and technically challenging to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975330/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250320211142&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1799,
-          "title": "Deconvolution and Phylogeny Inference of Diverse Variant Types Integrating Bulk DNA-seq with Single-cell RNA-seq",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250319211013&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1118,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975330",
-          "author": "Nishat Anjum Bristy",
-          "description": "MOTIVATION: Reconstructing clonal lineage trees (\"tumor phylogenetics\") has become a core tool of cancer genomics. Earlier approaches based on bulk DNA sequencing (DNA-seq) have largely given way to single-cell DNA-seq (scDNA-seq), which offers far greater resolution for clonal substructure. Available data has lagged behind computational theory, though. While single-cell RNA-seq (scRNA-seq) has become widely available, scDNA-seq is still sufficiently costly and technically challenging to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975330/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250319211013&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1799,
-          "title": "Deconvolution and Phylogeny Inference of Diverse Variant Types Integrating Bulk DNA-seq with Single-cell RNA-seq",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250318211125&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1132,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975330",
-          "author": "Nishat Anjum Bristy",
-          "description": "MOTIVATION: Reconstructing clonal lineage trees (\"tumor phylogenetics\") has become a core tool of cancer genomics. Earlier approaches based on bulk DNA sequencing (DNA-seq) have largely given way to single-cell DNA-seq (scDNA-seq), which offers far greater resolution for clonal substructure. Available data has lagged behind computational theory, though. While single-cell RNA-seq (scRNA-seq) has become widely available, scDNA-seq is still sufficiently costly and technically challenging to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975330/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250318211125&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1799,
-          "title": "Deconvolution and Phylogeny Inference of Diverse Variant Types Integrating Bulk DNA-seq with Single-cell RNA-seq",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250317211048&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975330",
-          "author": "Nishat Anjum Bristy",
-          "description": "MOTIVATION: Reconstructing clonal lineage trees (\"tumor phylogenetics\") has become a core tool of cancer genomics. Earlier approaches based on bulk DNA sequencing (DNA-seq) have largely given way to single-cell DNA-seq (scDNA-seq), which offers far greater resolution for clonal substructure. Available data has lagged behind computational theory, though. While single-cell RNA-seq (scRNA-seq) has become widely available, scDNA-seq is still sufficiently costly and technically challenging to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975330/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250317211048&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1799,
-          "title": "Deconvolution and Phylogeny Inference of Diverse Variant Types Integrating Bulk DNA-seq with Single-cell RNA-seq",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250316211256&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975330",
-          "author": "Nishat Anjum Bristy",
-          "description": "MOTIVATION: Reconstructing clonal lineage trees (\"tumor phylogenetics\") has become a core tool of cancer genomics. Earlier approaches based on bulk DNA sequencing (DNA-seq) have largely given way to single-cell DNA-seq (scDNA-seq), which offers far greater resolution for clonal substructure. Available data has lagged behind computational theory, though. While single-cell RNA-seq (scRNA-seq) has become widely available, scDNA-seq is still sufficiently costly and technically challenging to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975330/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250316211256&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1799,
-          "title": "Deconvolution and Phylogeny Inference of Diverse Variant Types Integrating Bulk DNA-seq with Single-cell RNA-seq",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250315211525&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975330",
-          "author": "Nishat Anjum Bristy",
-          "description": "MOTIVATION: Reconstructing clonal lineage trees (\"tumor phylogenetics\") has become a core tool of cancer genomics. Earlier approaches based on bulk DNA sequencing (DNA-seq) have largely given way to single-cell DNA-seq (scDNA-seq), which offers far greater resolution for clonal substructure. Available data has lagged behind computational theory, though. While single-cell RNA-seq (scRNA-seq) has become widely available, scDNA-seq is still sufficiently costly and technically challenging to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975330/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250315211525&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1799,
-          "title": "Deconvolution and Phylogeny Inference of Diverse Variant Types Integrating Bulk DNA-seq with Single-cell RNA-seq",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250314210858&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975330",
-          "author": "Nishat Anjum Bristy",
-          "description": "MOTIVATION: Reconstructing clonal lineage trees (\"tumor phylogenetics\") has become a core tool of cancer genomics. Earlier approaches based on bulk DNA sequencing (DNA-seq) have largely given way to single-cell DNA-seq (scDNA-seq), which offers far greater resolution for clonal substructure. Available data has lagged behind computational theory, though. While single-cell RNA-seq (scRNA-seq) has become widely available, scDNA-seq is still sufficiently costly and technically challenging to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975330/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250314210858&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1799,
-          "title": "Deconvolution and Phylogeny Inference of Diverse Variant Types Integrating Bulk DNA-seq with Single-cell RNA-seq",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250313210943&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975330",
-          "author": "Nishat Anjum Bristy",
-          "description": "MOTIVATION: Reconstructing clonal lineage trees (\"tumor phylogenetics\") has become a core tool of cancer genomics. Earlier approaches based on bulk DNA sequencing (DNA-seq) have largely given way to single-cell DNA-seq (scDNA-seq), which offers far greater resolution for clonal substructure. Available data has lagged behind computational theory, though. While single-cell RNA-seq (scRNA-seq) has become widely available, scDNA-seq is still sufficiently costly and technically challenging to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975330/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250313210943&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1356,
-          "title": "Deconvolution and Phylogeny Inference of Diverse Variant Types Integrating Bulk DNA-seq with Single-cell RNA-seq",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250312211104&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975330",
-          "author": "Nishat Anjum Bristy",
-          "description": "MOTIVATION: Reconstructing clonal lineage trees (\"tumor phylogenetics\") has become a core tool of cancer genomics. Earlier approaches based on bulk DNA sequencing (DNA-seq) have largely given way to single-cell DNA-seq (scDNA-seq), which offers far greater resolution for clonal substructure. Available data has lagged behind computational theory, though. While single-cell RNA-seq (scRNA-seq) has become widely available, scDNA-seq is still sufficiently costly and technically challenging to...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975330/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250312211104&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1356,
-          "title": "Deconvolution and Phylogeny Inference of Diverse Variant Types Integrating Bulk DNA-seq with Single-cell RNA-seq",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250311210939&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250310211033&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250309205917&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250308200055&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250307195552&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250306201028&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250305200945&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250304200955&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250303200952&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2344,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250302201113&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2337,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250228201331&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2337,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250227200914&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2337,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250226200842&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 2303,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250225200835&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1111,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250224200845&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1111,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250223200933&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1063,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250222201202&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1063,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250221200521&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1063,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:39975392",
-          "author": "Joshua M Park",
-          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/39975392/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250220200738&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-02-20T11:00:00.000Z",
-          "wordCount": 1063,
-          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
