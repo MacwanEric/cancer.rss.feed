@@ -210,8 +210,38 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.18.0.post9+e462414&utm_medium=rss&fc=20220608003622&utm_campaign=pubmed-2&ff=20250518212033",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.18.0.post9+e462414&utm_medium=rss&fc=20220608003622&ff=20250519211817&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:40384356",
+          "author": "Yen T M Nguyen",
+          "description": "Clonal hematopoiesis refers to the expansion of hematopoietic stem cells harboring somatic mutations, a phenomenon increasingly recognized in aging populations. This review highlights the emerging relationship between clonal hematopoiesis and solid cancers, focusing on the prevalence and impact of clonal hematopoiesis-associated mutations such as DNMT3A, TET2, ASXL1, and TP53 in tumorigenesis. Key risk factors for the co-occurrence of clonal hematopoiesis and solid cancers, including germline...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40384356/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-19T10:00:00.000Z",
+          "wordCount": 1455,
+          "title": "Clonal Hematopoiesis and Solid Cancers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40379905",
+          "author": "Elizabeth F Krakow",
+          "description": "Clinical next generation sequencing (NGS) typically relies on limited gene panels run on bulk marrow or blood. Current computational tools for inferring clonal relationships is generally limited by the use of a small panel of pathogenic mutations to define clones. We developed an online software (CloneTracker) that uses 'incidentally-sequenced' single nucleotide polymorphisms (SNPs) in the regions of recurrent somatic mutations in addition to conventional mutation data from bulk NGS gene panels...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40379905/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-16T10:00:00.000Z",
+          "wordCount": 1769,
+          "title": "A clinical solution for tracking clonal evolution of acute myeloid leukemia after allogeneic transplantation using bulk next generation sequencing",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40376148",
+          "author": "Xiangyu Fei",
+          "description": "Cardiovascular diseases (CVDs) have become the leading cause of death globally, surpassing infectious diseases and other chronic illnesses. The incidence and mortality rates of CVDs are rising worldwide, posing a key challenge in public health. The ubiquitination system is a vast and complex. It is an important post-translational modification that plays a crucial role in various cellular processes. Deubiquitination is catalyzed by deubiquitinases (DUBs), which remove ubiquitin (Ub) from...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40376148/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-16T10:00:00.000Z",
+          "wordCount": 1820,
+          "title": "The role of deubiquitinases in cardiovascular diseases: mechanisms and therapeutic implications",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:40379905",
           "author": "Elizabeth F Krakow",
@@ -266,6 +296,16 @@
           "id": "pubmed:40370916",
           "author": "Alessandro Hammond",
           "description": "Lineage tracing is an essential tool for understanding cellular development and tissue dynamics. This review examines retrospective lineage tracing as an optimal approach for studying cellular development and contrasts retrospective with prospective lineage tracing methods. Retrospective lineage tracing approaches leverage naturally occurring genetic barcodes, such as single nucleotide polymorphisms (SNPs), copy number variants (CNVs), and mitochondrial DNA mutations, which enables the detailed...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40370916/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-15T10:00:00.000Z",
+          "wordCount": 1394,
+          "title": "Retrospective Lineage Tracing: An Optimal Approach for the Study of Intrinsic Cellular Development",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40370916",
+          "author": "Alessandro Hammond",
+          "description": "Lineage tracing is an essential tool for understanding cellular development and tissue dynamics. This review examines retrospective lineage tracing as an optimal approach for studying cellular development and contrasts retrospective with prospective lineage tracing methods. Retrospective lineage tracing approaches leverage naturally occurring genetic barcodes, such as single nucleotide polymorphisms (SNPs), copy number variants (CNVs), and mitochondrial DNA mutations, which enables the detailed...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40370916/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250518212033&v=2.18.0.post9+e462414",
           "publishedOn": "2025-05-15T10:00:00.000Z",
           "wordCount": 1394,
@@ -300,6 +340,36 @@
           "publishedOn": "2025-05-15T10:00:00.000Z",
           "wordCount": 1354,
           "title": "Retrospective Lineage Tracing: An Optimal Approach for the Study of Intrinsic Cellular Development",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40368291",
+          "author": "Jie Liu",
+          "description": "Atrial fibrillation (AF) is the most common sustained arrhythmia. Clonal hematopoiesis of indeterminate potential (CHIP), characterized by the clonal expansion of hematopoietic stem cells due to acquired mutations without hematologic malignancies, has emerged as a potential risk factor for AF. This narrative review summarizes the shared risk factors between CHIP and AF, including age, lifestyle behaviors and cardiometabolic conditions. It then explores the underlying mechanisms including...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40368291/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-14T10:00:00.000Z",
+          "wordCount": 1447,
+          "title": "Clonal hematopoiesis of indeterminate potential and atrial fibrillation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40365343",
+          "author": "Sara Corvigno",
+          "description": "INTRODUCTION: Clonal hematopoiesis (CH) is characterized by the presence of hematopoietic stem cells (HSCs) with the potential of clonally expanding and giving rise to hematological malignancies. Clonal hematopoiesis of indeterminate potential (CHIP) is the outgrowth of a single HSC clone with an acquired somatic mutation in the absence of hematological abnormalities. CHIP variants occur with a variant allele frequency (VAF) of at least 2% in peripheral blood. This definition does not account...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40365343/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-14T10:00:00.000Z",
+          "wordCount": 2254,
+          "title": "Longitudinal genomic profiling of chemotherapy-related CHIP variants in patients with ovarian cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40361359",
+          "author": "Catherine H Marshall",
+          "description": "CONCLUSIONS: When accounting for age at time of testing, pathogenic germline alterations in DNA repair genes were associated with an increased risk of CH only among patients with breast cancer, but not in those with ovarian, pancreatic, or prostate cancers.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40361359/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-14T10:00:00.000Z",
+          "wordCount": 2320,
+          "title": "Germline DNA Repair Gene Mutations and Clonal Hematopoiesis (CH) in 24,849 Patients with BRCA-Associated Cancers",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -446,6 +516,16 @@
           "id": "pubmed:40355940",
           "author": "Wen-Lang Fan",
           "description": "CONCLUSION: CHIP is prevalent in the STEMI patient cohort and is significantly correlated with adverse clinical outcomes. Incorporating CHIP status could enhance the risk stratification process, thus informing more tailored clinical management strategies for STEMI patients.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40355940/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-12T10:00:00.000Z",
+          "wordCount": 2319,
+          "title": "Prognostic significance of clonal hematopoiesis in STEMI: a 10-year follow-up reveals high-risk gene mutations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40355940",
+          "author": "Wen-Lang Fan",
+          "description": "CONCLUSION: CHIP is prevalent in the STEMI patient cohort and is significantly correlated with adverse clinical outcomes. Incorporating CHIP status could enhance the risk stratification process, thus informing more tailored clinical management strategies for STEMI patients.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40355940/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250518212033&v=2.18.0.post9+e462414",
           "publishedOn": "2025-05-12T10:00:00.000Z",
           "wordCount": 2319,
@@ -500,6 +580,26 @@
           "publishedOn": "2025-05-12T10:00:00.000Z",
           "wordCount": 1882,
           "title": "Prognostic significance of clonal hematopoiesis in STEMI: a 10-year follow-up reveals high-risk gene mutations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40336477",
+          "author": "Yu Tan",
+          "description": "CONCLUSIONS: CHIP is associated with an increased risk of AAA. Genetic IL-6 signaling deficiency attenuates the risk of AAA in large CHIP carriers. CHIP may serve as an attractive target for the prevention and treatment of AAA.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40336477/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-08T10:00:00.000Z",
+          "wordCount": 2028,
+          "title": "Clonal Hematopoiesis of Indeterminate Potential Is Associated With Incident Abdominal Aortic Aneurysm",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40336178",
+          "author": "Emelie C Rotbain",
+          "description": "BACKGROUND AND PURPOSE: The treatment options for myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML) have increased recently. However, drug resistance persists and patients who are ineligible for curative treatments still have a very poor prognosis. Previous studies support a general anti-neoplastic effect of metformin, and a recent preclinical investigation has shown that metformin may control the expansion of Dnmt3a clonal hematopoiesis, which is known to precede MDS and AML.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40336178/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-08T10:00:00.000Z",
+          "wordCount": 2308,
+          "title": "The risk of myelodysplastic syndrome and acute myeloid leukemia by metformin use and type 2 diabetes status - a Danish nation-wide cohort study",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -726,6 +826,16 @@
           "id": "pubmed:40329490",
           "author": "Lorand Gabriel Parajdi",
           "description": "This study presents a mathematical model describing cloned hematopoiesis in chronic myeloid leukemia (CML) through a nonlinear system of differential equations. The primary objective is to understand the progression from healthy hematopoiesis to the chronic and accelerated-acute phases in myeloid leukemia. The model incorporates intrinsic cellular division events in hematopoiesis and delineates the evolution of chronic myeloid leukemia into five compartments: cycling stem cells, quiescent stem...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40329490/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-07T10:00:00.000Z",
+          "wordCount": 1483,
+          "title": "A Mathematical Model of Clonal Hematopoiesis Explaining Phase Transitions in Chronic Myeloid Leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40329490",
+          "author": "Lorand Gabriel Parajdi",
+          "description": "This study presents a mathematical model describing cloned hematopoiesis in chronic myeloid leukemia (CML) through a nonlinear system of differential equations. The primary objective is to understand the progression from healthy hematopoiesis to the chronic and accelerated-acute phases in myeloid leukemia. The model incorporates intrinsic cellular division events in hematopoiesis and delineates the evolution of chronic myeloid leukemia into five compartments: cycling stem cells, quiescent stem...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40329490/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250518212033&v=2.18.0.post9+e462414",
           "publishedOn": "2025-05-07T10:00:00.000Z",
           "wordCount": 1483,
@@ -840,6 +950,16 @@
           "publishedOn": "2025-05-07T10:00:00.000Z",
           "wordCount": 1206,
           "title": "A Mathematical Model of Clonal Hematopoiesis Explaining Phase Transitions in Chronic Myeloid Leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40327229",
+          "author": "QingQing Luo",
+          "description": "CONCLUSION: This study is the first to systematically analyze research related to CH using bibliometric methods. Our analysis reveals the overall landscape of CH research and identifies the most influential contributors in the field, including countries, institutions, authors, and journals. Moreover, we identify emerging research hotspots and key areas, highlighting potential avenues for exploration and innovation within the field of CH.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40327229/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-06T10:00:00.000Z",
+          "wordCount": 2108,
+          "title": "Global trends and research status in clonal hematopoiesis: a bibliometric analysis of the last 10 years",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -970,6 +1090,16 @@
           "publishedOn": "2025-05-06T10:00:00.000Z",
           "wordCount": 1470,
           "title": "Global trends and research status in clonal hematopoiesis: a bibliometric analysis of the last 10 years",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40323430",
+          "author": "Raúl Nicolas Jamin",
+          "description": "CONCLUSIONS: As the first study to evaluate a broad spectrum of CH driver mutations at all variant allele frequencies in the context of aortic valve stenosis, we found CHIP to be a frequent phenomenon and CH-driver mutations to be highly prevalent in patients with severe AVS. CHIP, other than DNMT3A-CHIP, was associated with increased mortality even after successful TAVR. The presence of CH driver mutations at low allele frequencies was not associated with mortality.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40323430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-05T10:00:00.000Z",
+          "wordCount": 1983,
+          "title": "Mutational landscape and impact of clonal hematopoiesis of indeterminate potential in severe aortic valve stenosis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1110,6 +1240,26 @@
           "publishedOn": "2025-05-05T10:00:00.000Z",
           "wordCount": 1651,
           "title": "Mutational landscape and impact of clonal hematopoiesis of indeterminate potential in severe aortic valve stenosis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40315816",
+          "author": "Isak W Tengesdal",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) promotes adverse outcomes in age-related diseases. However, the impact of CHIP on solid tumors has yet to be elucidated in large-scale cancer-focused cohorts. In a recently published article in the New England Journal of Medicine, Pich et al. provide evidence for a tumor-promoting role of CHIP in solid malignancies.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40315816/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-02T10:00:00.000Z",
+          "wordCount": 1423,
+          "title": "Mutant macrophages CHIP in to help solid tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40315644",
+          "author": "Raul D Santos",
+          "description": "CONCLUSIONS: HTG and residual combined dyslipidemia are common, although with wide variability between countries. A healthier lifestyle, weight reduction, greater use of combination therapy, and evidence-based TG-lowering treatments are necessary to reduce the risks of HTG and combined dyslipidemia.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40315644/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-02T10:00:00.000Z",
+          "wordCount": 3421,
+          "title": "Frequency of residual combined dyslipidemia and hypertriglyceridemia in patients with coronary heart disease in 13 countries across 6 WHO Regions: Results from INTERASPIRE",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7751,154 +7901,34 @@
           "wordCount": 1035,
           "title": "Correction to: Association Between Clonal Hematopoiesis of Indeterminate Potential and Cardiovascular Outcomes in Patients With Acute Coronary Syndrome Who Have Quit Smoking: Study Design of a Prospective Cohort Study",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250403211215&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 3082,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250402211208&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 3082,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250401211303&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 3082,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250331212028&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 3079,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250330211539&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2753,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250329211716&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2753,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250328211057&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2753,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250327211132&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2753,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250326211124&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2753,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250325211156&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2753,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250324211223&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2753,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250323211333&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2745,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250322211601&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 1492,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40116537",
-          "author": "Zoë L Hawking",
-          "description": "BACKGROUND: The ten-eleven translocation (TET) enzyme family is a key regulator of DNA methylation, responsible for the conversion of 5-methylcytosine to 5-hydroxymethylcytosine to promote locus-specific demethylation. Thus, it is not surprising that loss or attenuation of TET enzymes is implicated in genomic hypermethylation and transcriptional reprogramming that drives cancer development. Somatic mutations in TET2 are observed in the bone marrow of 5%-10% of healthy adults over 65 years of...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40116537/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250321211000&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 1485,
-          "title": "Landscape of TET2 Mutations: From Hematological Malignancies to Solid Tumors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&fc=20220608010801&v=2.18.0.post9+e462414&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20250518212033&utm_source=axios&utm_campaign=pubmed-2",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&utm_medium=rss&fc=20220608010801&v=2.18.0.post9+e462414&ff=20250519211817&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:40383409",
+          "author": "Dandan Hu",
+          "description": "To better understand the impact of microbial interactions on the clonal evolution of colorectal cancer (CRC), we conducted high-resolution profiling of the gut microbiome of 101 treatment-naïve primary CRC patients using nanopore sequencing. We performed an integrated analysis of microbiome and tumor exome data to identify symbiotic microbes that interactively influence the mutational processes and the subsequent clonality of CRC. Our results suggested that Dialister pneumosintes and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40383409/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-18T10:00:00.000Z",
+          "wordCount": 1834,
+          "title": "Microbial Interactions Induce the Mutational Signature of Mismatch Repair Deficiency in Colorectal Cancer and Associated with EPPK1 Mutations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40366636",
+          "author": "Ziheng Huang",
+          "description": "Segmental duplications (SDs) are blocks of genomic DNA with high sequence homology that are hotspots for chromosomal rearrangements, coinciding with copy-number and single-nucleotide variations in the population. SDs could represent unstable genomic regions that are susceptible to somatic alterations in human cancers. Here, we aimed to elucidate the genomic locations of SDs in relation to cancer-related genes and their propensity for somatic alterations in cancer. The analysis showed that tumor...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40366636/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-14T10:00:00.000Z",
+          "wordCount": 1382,
+          "title": "Tumor Suppressor Genes with Segmental Duplications are Prone to Somatic Deletions and Structural Variations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:40366636",
           "author": "Ziheng Huang",
@@ -7953,6 +7983,16 @@
           "id": "pubmed:40360478",
           "author": "Ahmed Khalil",
           "description": "Somatic cells can transform into tumors due to mutations, and the tumors further evolve towards increased aggressiveness and therapy resistance. We develop DiffInvex, a framework for identifying changes in selection acting on individual genes in somatic genomes, drawing on an empirical mutation rate baseline derived from non-coding DNA that accounts for shifts in neutral mutagenesis during cancer evolution. We apply DiffInvex to >11,000 somatic whole-genome sequences from ~30 cancer types or...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40360478/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-13T10:00:00.000Z",
+          "wordCount": 3110,
+          "title": "DiffInvex identifies evolutionary shifts in driver gene repertoires during tumorigenesis and chemotherapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40360478",
+          "author": "Ahmed Khalil",
+          "description": "Somatic cells can transform into tumors due to mutations, and the tumors further evolve towards increased aggressiveness and therapy resistance. We develop DiffInvex, a framework for identifying changes in selection acting on individual genes in somatic genomes, drawing on an empirical mutation rate baseline derived from non-coding DNA that accounts for shifts in neutral mutagenesis during cancer evolution. We apply DiffInvex to >11,000 somatic whole-genome sequences from ~30 cancer types or...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40360478/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250518212033&v=2.18.0.post9+e462414",
           "publishedOn": "2025-05-13T10:00:00.000Z",
           "wordCount": 3110,
@@ -7997,6 +8037,16 @@
           "publishedOn": "2025-05-13T10:00:00.000Z",
           "wordCount": 1569,
           "title": "DiffInvex identifies evolutionary shifts in driver gene repertoires during tumorigenesis and chemotherapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40320038",
+          "author": "Jelena Milosevic",
+          "description": "Segmental gain of chromosome 17q is the most common genetic aberration in high-risk neuroblastoma, but its role in disease progression is poorly understood. This study aims to address the contribution of 17q gain to neuroblastoma malignancy. We analyzed the genetic and transcriptional landscape of 417 neuroblastoma patients across various risk groups and clinical stages using multi-omic approaches. Single-cell RNA/DNA sequencing and SNP arrays were combined to characterize genomic aberrations,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40320038/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-04T10:00:00.000Z",
+          "wordCount": 2130,
+          "title": "Gain of chromosome 17 is an early genetic abnormality in neuroblastoma with PPM1D emerging as a strong candidate oncogene driving tumor progression",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8137,6 +8187,16 @@
           "publishedOn": "2025-05-04T10:00:00.000Z",
           "wordCount": 1887,
           "title": "Gain of chromosome 17 is an early genetic abnormality in neuroblastoma with PPM1D emerging as a strong candidate oncogene driving tumor progression",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40317199",
+          "author": "Joshua M Park",
+          "description": "Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40317199/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-03T10:00:00.000Z",
+          "wordCount": 1358,
+          "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8287,6 +8347,16 @@
           "publishedOn": "2025-05-03T10:00:00.000Z",
           "wordCount": 1107,
           "title": "Diploidy confers genomic instability in Schizosaccharomyces pombe",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40311467",
+          "author": "Kalpana Sriramadasu",
+          "description": "Cancer development is driven by genetic alterations, particularly cancer driver mutations (CDMs), which are associated with aggressive phenotypes and shorter survival. In contrast, higher mutation loads caused by microsatellite instability (MSI) or mismatch repair deficiency (MMRd) can induce anti-cancer immunity, leading to tumor shrinkage and improved responses to immune checkpoint inhibitor (ICI) therapies. However, understanding how CDMs and MSI/MMRd influence cancer evolution remains...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40311467/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-05-01T10:00:00.000Z",
+          "wordCount": 2091,
+          "title": "Molecular evolution of driver mutations in cancer with microsatellite instability and their impact on tumor progression: Implications for precision medicine in patients with UCEC",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8457,6 +8527,16 @@
           "publishedOn": "2025-05-01T10:00:00.000Z",
           "wordCount": 1820,
           "title": "Molecular evolution of driver mutations in cancer with microsatellite instability and their impact on tumor progression: Implications for precision medicine in patients with UCEC",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40277780",
+          "author": "Faisal A Hassan",
+          "description": "Thyroid carcinomas are driven by diverse molecular alterations, but the tumor suppressor gene folliculin (FLCN), best known for its role in Birt-Hogg-Dubé (BHD) syndrome, has received limited attention in thyroid tumors. Here, we describe two thyroid tumors with pathogenic FLCN alterations-one germline and one somatic-and analyze the broader prevalence and significance of FLCN in thyroid carcinomas using multiple large sequencing datasets, including ORIEN-AVATAR. Patient 1, with a germline FLCN...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40277780/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-25T10:00:00.000Z",
+          "wordCount": 2421,
+          "title": "Folliculin (FLCN) in Thyroid Tumors: Incidence, Significance, and Role as a Driver Gene and Secondary Alteration",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8697,6 +8777,16 @@
           "publishedOn": "2025-04-25T10:00:00.000Z",
           "wordCount": 1566,
           "title": "Folliculin (FLCN) in Thyroid Tumors: Incidence, Significance, and Role as a Driver Gene and Secondary Alteration",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40261943",
+          "author": "Kevin Gori",
+          "description": "Horizontal transfer of nuclear DNA between cells of host and cancer is a potential source of adaptive variation in cancer cells. An understanding of the frequency and significance of this process in naturally occurring tumors is, however, lacking. We screened for this phenomenon in the transmissible cancers of dogs and Tasmanian devils and found an instance in the canine transmissible venereal tumor (CTVT). This involved introduction of a 15-megabase dicentric genetic element, composed of 11...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40261943/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-22T10:00:00.000Z",
+          "wordCount": 4487,
+          "title": "Horizontal transfer of nuclear DNA in transmissible cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8967,6 +9057,26 @@
           "publishedOn": "2025-04-22T10:00:00.000Z",
           "wordCount": 2171,
           "title": "Horizontal transfer of nuclear DNA in transmissible cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40250950",
+          "author": "Eszter Németh",
+          "description": "Somatic mutations drive cancer initiation and tumor evolution. Therefore, the etiology of mutagenesis in cancer is important to preventative and treatment strategies. Somatic mutagenesis in cancer is a multifactorial process and includes both endogenous and exogenous sources of mutations. One recently recognized source of mutagenesis in cancer is the innate immune APOBEC3 family of enzymes, which catalyze cytosine deamination to restrict viral infection but can aberrantly act on the cellular...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40250950/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-18T10:00:00.000Z",
+          "wordCount": 1693,
+          "title": "Defining the genome-wide mutagenic impact of APOBEC3 enzymes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40250028",
+          "author": "Eric Rios-Doria",
+          "description": "CONCLUSIONS: Our study revealed prevalent TP53 somatic evolution in benign endometrium across human lifespan and no racial differences in this cohort of predominantly younger individuals. Future studies should consider the analysis of larger cohorts with older individuals to detect potential effects of racial disparities on TP53 somatic evolution later in life.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40250028/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-18T10:00:00.000Z",
+          "wordCount": 1717,
+          "title": "TP53 somatic evolution in the normal endometrium of Black and White individuals",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9573,6 +9683,16 @@
           "id": "pubmed:40239140",
           "author": "Rafael Grochot",
           "description": "CONCLUSION: FGFRi are effective treatment strategies for patients with advanced solid tumors harboring FGFR alterations, with manageable toxicities in most patients.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40239140/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-16T10:00:00.000Z",
+          "wordCount": 1939,
+          "title": "Safety and Activity of Fibroblast Growth Factor Receptor Inhibitors in Advanced Malignancies: A Pooled Analysis of Early-Phase Clinical Trials",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40239140",
+          "author": "Rafael Grochot",
+          "description": "CONCLUSION: FGFRi are effective treatment strategies for patients with advanced solid tumors harboring FGFR alterations, with manageable toxicities in most patients.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40239140/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250518212033&v=2.18.0.post9+e462414",
           "publishedOn": "2025-04-16T10:00:00.000Z",
           "wordCount": 1939,
@@ -9897,6 +10017,16 @@
           "publishedOn": "2025-04-16T10:00:00.000Z",
           "wordCount": 1615,
           "title": "Safety and Activity of Fibroblast Growth Factor Receptor Inhibitors in Advanced Malignancies: A Pooled Analysis of Early-Phase Clinical Trials",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40233712",
+          "author": "Hyun Jung Kim",
+          "description": "Neural stem cells (NSCs) in the subventricular zone (SVZ) are identified as cells-of-origin harboring driver mutations in glioblastoma (GBM), which is the most devastating brain tumor with highly heterogeneous nature. However, the sequential transformation of a limited number of mutation-harboring NSCs into a distant tumor with high intratumoral heterogeneity remains poorly understood. In this study, we have identified transcriptionally distinct types of mutation-harboring precancerous cells in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40233712/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-15T10:00:00.000Z",
+          "wordCount": 1667,
+          "title": "Precancerous Cells Initiate Glioblastoma Evolution and Contribute to Intratumoral Heterogeneity",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -10233,6 +10363,16 @@
           "id": "pubmed:40173042",
           "author": "Cory A Perugino",
           "description": "Memory lymphocytes are durable cells that persist in the absence of antigen, but few human B cell subsets have been characterized in terms of durability. The relative durability of eight non-overlapping human B cell sub-populations covering 100% of all human class-switched B cells was interrogated. Only two long-lived B cell populations persisted in the relative absence of antigen. In addition to canonical germinal center-derived switched-memory B cells with an IgD^(-)CD27^(+)CXCR5^(+)...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40173042/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-04-02T10:00:00.000Z",
+          "wordCount": 2562,
+          "title": "Two distinct durable human class-switched memory B cell populations are induced by vaccination and infection",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40173042",
+          "author": "Cory A Perugino",
+          "description": "Memory lymphocytes are durable cells that persist in the absence of antigen, but few human B cell subsets have been characterized in terms of durability. The relative durability of eight non-overlapping human B cell sub-populations covering 100% of all human class-switched B cells was interrogated. Only two long-lived B cell populations persisted in the relative absence of antigen. In addition to canonical germinal center-derived switched-memory B cells with an IgD^(-)CD27^(+)CXCR5^(+)...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40173042/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250518212033&v=2.18.0.post9+e462414",
           "publishedOn": "2025-04-02T10:00:00.000Z",
           "wordCount": 2562,
@@ -10467,6 +10607,26 @@
           "publishedOn": "2025-04-02T10:00:00.000Z",
           "wordCount": 2573,
           "title": "Two distinct durable human class-switched memory B cell populations are induced by vaccination and infection",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40164736",
+          "author": "Laura Torrens",
+          "description": "Tobacco smoke, alone or combined with alcohol, is the predominant cause of head and neck cancer (HNC). We explore how tobacco exposure contributes to cancer development by mutational signature analysis of 265 whole-genome sequenced HNC samples from eight countries. Six tobacco-associated mutational signatures were detected, including some not previously reported. Differences in HNC incidence between countries corresponded with differences in mutation burdens of tobacco-associated signatures,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40164736/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-31T10:00:00.000Z",
+          "wordCount": 6312,
+          "title": "The complexity of tobacco smoke-induced mutagenesis in head and neck cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40163695",
+          "author": "Xuecong Fu",
+          "description": "MOTIVATION: Blood-based profiling of tumor DNA (\"liquid biopsy\") offers great prospects for non-invasive early cancer diagnosis and clinical guidance, but requires further computational advances to become a robust quantitative assay of tumor clonal evolution. We propose new methods to better characterize tumor clonal dynamics from circulating tumor DNA (ctDNA), through application to two specific tasks: (i) applying longitudinal ctDNA data to refine phylogeny models of clonal evolution, and (ii)...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40163695/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250519211817&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-03-31T10:00:00.000Z",
+          "wordCount": 2469,
+          "title": "Marker selection strategies for circulating tumor DNA guided by phylogenetic inference",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -13287,446 +13447,6 @@
           "publishedOn": "2025-03-22T10:00:00.000Z",
           "wordCount": 2079,
           "title": "Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250503212225&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2149,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250502211348&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2149,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250501211525&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2149,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250430212140&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2149,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250429211511&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2147,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250428211452&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2146,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250427211648&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2147,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250426211855&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2147,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250425211214&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2147,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250424211452&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2147,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250423211425&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2147,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250422211416&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2147,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250421211407&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2147,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250420211724&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2147,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250419211848&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2147,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250418211053&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2153,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250417211300&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2153,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250416211340&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2153,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250415211437&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2153,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250414211503&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2153,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250413211557&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2153,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250412224033&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2153,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250411211143&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2153,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250410211311&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2153,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250409211240&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2142,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250408211241&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2142,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250407211240&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2142,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250406211437&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2142,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250405211633&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2142,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250404211101&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2142,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250403211214&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2142,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250402211208&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2142,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250401211304&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2142,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250331212028&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 2142,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250330211538&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 1810,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250329211715&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 1810,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250328211057&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 1810,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250327211133&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 1810,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250326211124&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 1810,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250325211156&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 1810,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250324211226&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 1810,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250323211334&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 1802,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250322211601&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 1475,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40117022",
-          "author": "Micheline Kirsch-Volders",
-          "description": "Tetraploidisation plays a crucial role in evolution, development, stress adaptation, and disease, but its beneficial or pathological effects in different tissues remain unclear. This study aims to compare physiological and unphysiological tetraploidy in eight steps: 1) mechanisms of diploidy-to-tetraploidy transition, 2) induction and elimination of unphysiological tetraploidy, 3) tetraploid cell characteristics, 4) stress-induced unphysiological tetraploidy, 5) comparison of physiological vs....",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40117022/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250321211000&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-03-21T10:00:00.000Z",
-          "wordCount": 1468,
-          "title": "Tetraploidy in normal tissues and diseases: mechanisms and consequences",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
