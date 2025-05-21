@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2025-05-20T01:18:19.189Z</updated>
+    <updated>2025-05-21T01:17:49.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis and Solid Cancers]]></title>
+        <id>pubmed:40384356</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40384356/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis refers to the expansion of hematopoietic stem cells harboring somatic mutations, a phenomenon increasingly recognized in aging populations. This review highlights the emerging relationship between clonal hematopoiesis and solid cancers, focusing on the prevalence and impact of clonal hematopoiesis-associated mutations such as DNMT3A, TET2, ASXL1, and TP53 in tumorigenesis. Key risk factors for the co-occurrence of clonal hematopoiesis and solid cancers, including germline...]]></summary>
+        <author>
+            <name>Yen T M Nguyen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clonal Hematopoiesis and Solid Cancers]]></title>
         <id>pubmed:40384356</id>
@@ -19,11 +29,41 @@
     <entry>
         <title type="html"><![CDATA[Microbial Interactions Induce the Mutational Signature of Mismatch Repair Deficiency in Colorectal Cancer and Associated with EPPK1 Mutations]]></title>
         <id>pubmed:40383409</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40383409/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To better understand the impact of microbial interactions on the clonal evolution of colorectal cancer (CRC), we conducted high-resolution profiling of the gut microbiome of 101 treatment-naïve primary CRC patients using nanopore sequencing. We performed an integrated analysis of microbiome and tumor exome data to identify symbiotic microbes that interactively influence the mutational processes and the subsequent clonality of CRC. Our results suggested that Dialister pneumosintes and...]]></summary>
+        <author>
+            <name>Dandan Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microbial Interactions Induce the Mutational Signature of Mismatch Repair Deficiency in Colorectal Cancer and Associated with EPPK1 Mutations]]></title>
+        <id>pubmed:40383409</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40383409/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250519211817&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-05-18T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[To better understand the impact of microbial interactions on the clonal evolution of colorectal cancer (CRC), we conducted high-resolution profiling of the gut microbiome of 101 treatment-naïve primary CRC patients using nanopore sequencing. We performed an integrated analysis of microbiome and tumor exome data to identify symbiotic microbes that interactively influence the mutational processes and the subsequent clonality of CRC. Our results suggested that Dialister pneumosintes and...]]></summary>
         <author>
             <name>Dandan Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A clinical solution for tracking clonal evolution of acute myeloid leukemia after allogeneic transplantation using bulk next generation sequencing]]></title>
+        <id>pubmed:40379905</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40379905/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clinical next generation sequencing (NGS) typically relies on limited gene panels run on bulk marrow or blood. Current computational tools for inferring clonal relationships is generally limited by the use of a small panel of pathogenic mutations to define clones. We developed an online software (CloneTracker) that uses 'incidentally-sequenced' single nucleotide polymorphisms (SNPs) in the regions of recurrent somatic mutations in addition to conventional mutation data from bulk NGS gene panels...]]></summary>
+        <author>
+            <name>Elizabeth F Krakow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The role of deubiquitinases in cardiovascular diseases: mechanisms and therapeutic implications]]></title>
+        <id>pubmed:40376148</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40376148/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cardiovascular diseases (CVDs) have become the leading cause of death globally, surpassing infectious diseases and other chronic illnesses. The incidence and mortality rates of CVDs are rising worldwide, posing a key challenge in public health. The ubiquitination system is a vast and complex. It is an important post-translational modification that plays a crucial role in various cellular processes. Deubiquitination is catalyzed by deubiquitinases (DUBs), which remove ubiquitin (Ub) from...]]></summary>
+        <author>
+            <name>Xiangyu Fei</name>
         </author>
     </entry>
     <entry>
@@ -99,6 +139,16 @@
     <entry>
         <title type="html"><![CDATA[Retrospective Lineage Tracing: An Optimal Approach for the Study of Intrinsic Cellular Development]]></title>
         <id>pubmed:40370916</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40370916/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lineage tracing is an essential tool for understanding cellular development and tissue dynamics. This review examines retrospective lineage tracing as an optimal approach for studying cellular development and contrasts retrospective with prospective lineage tracing methods. Retrospective lineage tracing approaches leverage naturally occurring genetic barcodes, such as single nucleotide polymorphisms (SNPs), copy number variants (CNVs), and mitochondrial DNA mutations, which enables the detailed...]]></summary>
+        <author>
+            <name>Alessandro Hammond</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retrospective Lineage Tracing: An Optimal Approach for the Study of Intrinsic Cellular Development]]></title>
+        <id>pubmed:40370916</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40370916/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250519211817&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-05-15T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lineage tracing is an essential tool for understanding cellular development and tissue dynamics. This review examines retrospective lineage tracing as an optimal approach for studying cellular development and contrasts retrospective with prospective lineage tracing methods. Retrospective lineage tracing approaches leverage naturally occurring genetic barcodes, such as single nucleotide polymorphisms (SNPs), copy number variants (CNVs), and mitochondrial DNA mutations, which enables the detailed...]]></summary>
@@ -144,6 +194,36 @@
         <summary type="html"><![CDATA[Lineage tracing is an essential tool for understanding cellular development and tissue dynamics. This review examines retrospective lineage tracing as an optimal approach for studying cellular development and contrasts retrospective with prospective lineage tracing methods. Retrospective lineage tracing approaches leverage naturally occurring genetic barcodes, such as single nucleotide polymorphisms (SNPs), copy number variants (CNVs), and mitochondrial DNA mutations, which enables the detailed...]]></summary>
         <author>
             <name>Alessandro Hammond</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential and atrial fibrillation]]></title>
+        <id>pubmed:40368291</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40368291/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Atrial fibrillation (AF) is the most common sustained arrhythmia. Clonal hematopoiesis of indeterminate potential (CHIP), characterized by the clonal expansion of hematopoietic stem cells due to acquired mutations without hematologic malignancies, has emerged as a potential risk factor for AF. This narrative review summarizes the shared risk factors between CHIP and AF, including age, lifestyle behaviors and cardiometabolic conditions. It then explores the underlying mechanisms including...]]></summary>
+        <author>
+            <name>Jie Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Longitudinal genomic profiling of chemotherapy-related CHIP variants in patients with ovarian cancer]]></title>
+        <id>pubmed:40365343</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40365343/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[INTRODUCTION: Clonal hematopoiesis (CH) is characterized by the presence of hematopoietic stem cells (HSCs) with the potential of clonally expanding and giving rise to hematological malignancies. Clonal hematopoiesis of indeterminate potential (CHIP) is the outgrowth of a single HSC clone with an acquired somatic mutation in the absence of hematological abnormalities. CHIP variants occur with a variant allele frequency (VAF) of at least 2% in peripheral blood. This definition does not account...]]></summary>
+        <author>
+            <name>Sara Corvigno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germline DNA Repair Gene Mutations and Clonal Hematopoiesis (CH) in 24,849 Patients with BRCA-Associated Cancers]]></title>
+        <id>pubmed:40361359</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40361359/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: When accounting for age at time of testing, pathogenic germline alterations in DNA repair genes were associated with an increased risk of CH only among patients with breast cancer, but not in those with ovarian, pancreatic, or prostate cancers.]]></summary>
+        <author>
+            <name>Catherine H Marshall</name>
         </author>
     </entry>
     <entry>
@@ -319,6 +399,16 @@
     <entry>
         <title type="html"><![CDATA[Tumor Suppressor Genes with Segmental Duplications are Prone to Somatic Deletions and Structural Variations]]></title>
         <id>pubmed:40366636</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40366636/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Segmental duplications (SDs) are blocks of genomic DNA with high sequence homology that are hotspots for chromosomal rearrangements, coinciding with copy-number and single-nucleotide variations in the population. SDs could represent unstable genomic regions that are susceptible to somatic alterations in human cancers. Here, we aimed to elucidate the genomic locations of SDs in relation to cancer-related genes and their propensity for somatic alterations in cancer. The analysis showed that tumor...]]></summary>
+        <author>
+            <name>Ziheng Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tumor Suppressor Genes with Segmental Duplications are Prone to Somatic Deletions and Structural Variations]]></title>
+        <id>pubmed:40366636</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40366636/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250519211817&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-05-14T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Segmental duplications (SDs) are blocks of genomic DNA with high sequence homology that are hotspots for chromosomal rearrangements, coinciding with copy-number and single-nucleotide variations in the population. SDs could represent unstable genomic regions that are susceptible to somatic alterations in human cancers. Here, we aimed to elucidate the genomic locations of SDs in relation to cancer-related genes and their propensity for somatic alterations in cancer. The analysis showed that tumor...]]></summary>
@@ -379,6 +469,16 @@
     <entry>
         <title type="html"><![CDATA[DiffInvex identifies evolutionary shifts in driver gene repertoires during tumorigenesis and chemotherapy]]></title>
         <id>pubmed:40360478</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40360478/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Somatic cells can transform into tumors due to mutations, and the tumors further evolve towards increased aggressiveness and therapy resistance. We develop DiffInvex, a framework for identifying changes in selection acting on individual genes in somatic genomes, drawing on an empirical mutation rate baseline derived from non-coding DNA that accounts for shifts in neutral mutagenesis during cancer evolution. We apply DiffInvex to >11,000 somatic whole-genome sequences from ~30 cancer types or...]]></summary>
+        <author>
+            <name>Ahmed Khalil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiffInvex identifies evolutionary shifts in driver gene repertoires during tumorigenesis and chemotherapy]]></title>
+        <id>pubmed:40360478</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40360478/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250519211817&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-05-13T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Somatic cells can transform into tumors due to mutations, and the tumors further evolve towards increased aggressiveness and therapy resistance. We develop DiffInvex, a framework for identifying changes in selection acting on individual genes in somatic genomes, drawing on an empirical mutation rate baseline derived from non-coding DNA that accounts for shifts in neutral mutagenesis during cancer evolution. We apply DiffInvex to >11,000 somatic whole-genome sequences from ~30 cancer types or...]]></summary>
@@ -434,6 +534,16 @@
         <summary type="html"><![CDATA[Somatic cells can transform into tumors due to mutations, and the tumors further evolve towards increased aggressiveness and therapy resistance. We develop DiffInvex, a framework for identifying changes in selection acting on individual genes in somatic genomes, drawing on an empirical mutation rate baseline derived from non-coding DNA that accounts for shifts in neutral mutagenesis during cancer evolution. We apply DiffInvex to >11,000 somatic whole-genome sequences from ~30 cancer types or...]]></summary>
         <author>
             <name>Ahmed Khalil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prognostic significance of clonal hematopoiesis in STEMI: a 10-year follow-up reveals high-risk gene mutations]]></title>
+        <id>pubmed:40355940</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40355940/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: CHIP is prevalent in the STEMI patient cohort and is significantly correlated with adverse clinical outcomes. Incorporating CHIP status could enhance the risk stratification process, thus informing more tailored clinical management strategies for STEMI patients.]]></summary>
+        <author>
+            <name>Wen-Lang Fan</name>
         </author>
     </entry>
     <entry>
@@ -504,6 +614,26 @@
         <summary type="html"><![CDATA[CONCLUSION: CHIP is prevalent in the STEMI patient cohort and is significantly correlated with adverse clinical outcomes. Incorporating CHIP status could enhance the risk stratification process, thus informing more tailored clinical management strategies for STEMI patients.]]></summary>
         <author>
             <name>Wen-Lang Fan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis of Indeterminate Potential Is Associated With Incident Abdominal Aortic Aneurysm]]></title>
+        <id>pubmed:40336477</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40336477/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CHIP is associated with an increased risk of AAA. Genetic IL-6 signaling deficiency attenuates the risk of AAA in large CHIP carriers. CHIP may serve as an attractive target for the prevention and treatment of AAA.]]></summary>
+        <author>
+            <name>Yu Tan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The risk of myelodysplastic syndrome and acute myeloid leukemia by metformin use and type 2 diabetes status - a Danish nation-wide cohort study]]></title>
+        <id>pubmed:40336178</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40336178/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BACKGROUND AND PURPOSE: The treatment options for myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML) have increased recently. However, drug resistance persists and patients who are ineligible for curative treatments still have a very poor prognosis. Previous studies support a general anti-neoplastic effect of metformin, and a recent preclinical investigation has shown that metformin may control the expansion of Dnmt3a clonal hematopoiesis, which is known to precede MDS and AML.]]></summary>
+        <author>
+            <name>Emelie C Rotbain</name>
         </author>
     </entry>
     <entry>
@@ -749,6 +879,16 @@
     <entry>
         <title type="html"><![CDATA[A Mathematical Model of Clonal Hematopoiesis Explaining Phase Transitions in Chronic Myeloid Leukemia]]></title>
         <id>pubmed:40329490</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40329490/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This study presents a mathematical model describing cloned hematopoiesis in chronic myeloid leukemia (CML) through a nonlinear system of differential equations. The primary objective is to understand the progression from healthy hematopoiesis to the chronic and accelerated-acute phases in myeloid leukemia. The model incorporates intrinsic cellular division events in hematopoiesis and delineates the evolution of chronic myeloid leukemia into five compartments: cycling stem cells, quiescent stem...]]></summary>
+        <author>
+            <name>Lorand Gabriel Parajdi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Mathematical Model of Clonal Hematopoiesis Explaining Phase Transitions in Chronic Myeloid Leukemia]]></title>
+        <id>pubmed:40329490</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40329490/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250519211817&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-05-07T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[This study presents a mathematical model describing cloned hematopoiesis in chronic myeloid leukemia (CML) through a nonlinear system of differential equations. The primary objective is to understand the progression from healthy hematopoiesis to the chronic and accelerated-acute phases in myeloid leukemia. The model incorporates intrinsic cellular division events in hematopoiesis and delineates the evolution of chronic myeloid leukemia into five compartments: cycling stem cells, quiescent stem...]]></summary>
@@ -874,6 +1014,16 @@
         <summary type="html"><![CDATA[This study presents a mathematical model describing cloned hematopoiesis in chronic myeloid leukemia (CML) through a nonlinear system of differential equations. The primary objective is to understand the progression from healthy hematopoiesis to the chronic and accelerated-acute phases in myeloid leukemia. The model incorporates intrinsic cellular division events in hematopoiesis and delineates the evolution of chronic myeloid leukemia into five compartments: cycling stem cells, quiescent stem...]]></summary>
         <author>
             <name>Lorand Gabriel Parajdi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global trends and research status in clonal hematopoiesis: a bibliometric analysis of the last 10 years]]></title>
+        <id>pubmed:40327229</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40327229/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: This study is the first to systematically analyze research related to CH using bibliometric methods. Our analysis reveals the overall landscape of CH research and identifies the most influential contributors in the field, including countries, institutions, authors, and journals. Moreover, we identify emerging research hotspots and key areas, highlighting potential avenues for exploration and innovation within the field of CH.]]></summary>
+        <author>
+            <name>QingQing Luo</name>
         </author>
     </entry>
     <entry>
@@ -1014,6 +1164,16 @@
         <summary type="html"><![CDATA[CONCLUSION: This study is the first to systematically analyze research related to CH using bibliometric methods. Our analysis reveals the overall landscape of CH research and identifies the most influential contributors in the field, including countries, institutions, authors, and journals. Moreover, we identify emerging research hotspots and key areas, highlighting potential avenues for exploration and innovation within the field of CH.]]></summary>
         <author>
             <name>QingQing Luo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mutational landscape and impact of clonal hematopoiesis of indeterminate potential in severe aortic valve stenosis]]></title>
+        <id>pubmed:40323430</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40323430/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: As the first study to evaluate a broad spectrum of CH driver mutations at all variant allele frequencies in the context of aortic valve stenosis, we found CHIP to be a frequent phenomenon and CH-driver mutations to be highly prevalent in patients with severe AVS. CHIP, other than DNMT3A-CHIP, was associated with increased mortality even after successful TAVR. The presence of CH driver mutations at low allele frequencies was not associated with mortality.]]></summary>
+        <author>
+            <name>Raúl Nicolas Jamin</name>
         </author>
     </entry>
     <entry>
@@ -1169,6 +1329,16 @@
     <entry>
         <title type="html"><![CDATA[Gain of chromosome 17 is an early genetic abnormality in neuroblastoma with PPM1D emerging as a strong candidate oncogene driving tumor progression]]></title>
         <id>pubmed:40320038</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40320038/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Segmental gain of chromosome 17q is the most common genetic aberration in high-risk neuroblastoma, but its role in disease progression is poorly understood. This study aims to address the contribution of 17q gain to neuroblastoma malignancy. We analyzed the genetic and transcriptional landscape of 417 neuroblastoma patients across various risk groups and clinical stages using multi-omic approaches. Single-cell RNA/DNA sequencing and SNP arrays were combined to characterize genomic aberrations,...]]></summary>
+        <author>
+            <name>Jelena Milosevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gain of chromosome 17 is an early genetic abnormality in neuroblastoma with PPM1D emerging as a strong candidate oncogene driving tumor progression]]></title>
+        <id>pubmed:40320038</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40320038/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250519211817&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-05-04T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Segmental gain of chromosome 17q is the most common genetic aberration in high-risk neuroblastoma, but its role in disease progression is poorly understood. This study aims to address the contribution of 17q gain to neuroblastoma malignancy. We analyzed the genetic and transcriptional landscape of 417 neuroblastoma patients across various risk groups and clinical stages using multi-omic approaches. Single-cell RNA/DNA sequencing and SNP arrays were combined to characterize genomic aberrations,...]]></summary>
@@ -1314,6 +1484,16 @@
         <summary type="html"><![CDATA[Segmental gain of chromosome 17q is the most common genetic aberration in high-risk neuroblastoma, but its role in disease progression is poorly understood. This study aims to address the contribution of 17q gain to neuroblastoma malignancy. We analyzed the genetic and transcriptional landscape of 417 neuroblastoma patients across various risk groups and clinical stages using multi-omic approaches. Single-cell RNA/DNA sequencing and SNP arrays were combined to characterize genomic aberrations,...]]></summary>
         <author>
             <name>Jelena Milosevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diploidy confers genomic instability in Schizosaccharomyces pombe]]></title>
+        <id>pubmed:40317199</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40317199/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...]]></summary>
+        <author>
+            <name>Joshua M Park</name>
         </author>
     </entry>
     <entry>
@@ -1474,6 +1654,26 @@
         <summary type="html"><![CDATA[Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...]]></summary>
         <author>
             <name>Joshua M Park</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mutant macrophages CHIP in to help solid tumors]]></title>
+        <id>pubmed:40315816</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40315816/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) promotes adverse outcomes in age-related diseases. However, the impact of CHIP on solid tumors has yet to be elucidated in large-scale cancer-focused cohorts. In a recently published article in the New England Journal of Medicine, Pich et al. provide evidence for a tumor-promoting role of CHIP in solid malignancies.]]></summary>
+        <author>
+            <name>Isak W Tengesdal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frequency of residual combined dyslipidemia and hypertriglyceridemia in patients with coronary heart disease in 13 countries across 6 WHO Regions: Results from INTERASPIRE]]></title>
+        <id>pubmed:40315644</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40315644/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: HTG and residual combined dyslipidemia are common, although with wide variability between countries. A healthier lifestyle, weight reduction, greater use of combination therapy, and evidence-based TG-lowering treatments are necessary to reduce the risks of HTG and combined dyslipidemia.]]></summary>
+        <author>
+            <name>Raul D Santos</name>
         </author>
     </entry>
     <entry>
@@ -2144,6 +2344,16 @@
         <summary type="html"><![CDATA[BACKGROUNDT cell large granular lymphocyte leukemia (T-LGLL) is a lymphoproliferative disorder of cytotoxic T lymphocytes (CTLs), often with gain-of-function STAT3 mutations. T-LGLL represents a unique model for the study of persistent CTL expansions. Albeit autoimmunity is implied, various paradoxical observations led us to investigate whether immunodeficiency traits underpin T-LGLL.METHODSThis is a comprehensive immunogenomic study of 92 consecutive patients from a large T-LGLL cohort with...]]></summary>
         <author>
             <name>Carlos Bravo-Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular evolution of driver mutations in cancer with microsatellite instability and their impact on tumor progression: Implications for precision medicine in patients with UCEC]]></title>
+        <id>pubmed:40311467</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40311467/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cancer development is driven by genetic alterations, particularly cancer driver mutations (CDMs), which are associated with aggressive phenotypes and shorter survival. In contrast, higher mutation loads caused by microsatellite instability (MSI) or mismatch repair deficiency (MMRd) can induce anti-cancer immunity, leading to tumor shrinkage and improved responses to immune checkpoint inhibitor (ICI) therapies. However, understanding how CDMs and MSI/MMRd influence cancer evolution remains...]]></summary>
+        <author>
+            <name>Kalpana Sriramadasu</name>
         </author>
     </entry>
     <entry>
@@ -3529,6 +3739,16 @@
     <entry>
         <title type="html"><![CDATA[Folliculin (FLCN) in Thyroid Tumors: Incidence, Significance, and Role as a Driver Gene and Secondary Alteration]]></title>
         <id>pubmed:40277780</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40277780/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-04-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thyroid carcinomas are driven by diverse molecular alterations, but the tumor suppressor gene folliculin (FLCN), best known for its role in Birt-Hogg-Dubé (BHD) syndrome, has received limited attention in thyroid tumors. Here, we describe two thyroid tumors with pathogenic FLCN alterations-one germline and one somatic-and analyze the broader prevalence and significance of FLCN in thyroid carcinomas using multiple large sequencing datasets, including ORIEN-AVATAR. Patient 1, with a germline FLCN...]]></summary>
+        <author>
+            <name>Faisal A Hassan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Folliculin (FLCN) in Thyroid Tumors: Incidence, Significance, and Role as a Driver Gene and Secondary Alteration]]></title>
+        <id>pubmed:40277780</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40277780/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250519211817&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-04-25T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Thyroid carcinomas are driven by diverse molecular alterations, but the tumor suppressor gene folliculin (FLCN), best known for its role in Birt-Hogg-Dubé (BHD) syndrome, has received limited attention in thyroid tumors. Here, we describe two thyroid tumors with pathogenic FLCN alterations-one germline and one somatic-and analyze the broader prevalence and significance of FLCN in thyroid carcinomas using multiple large sequencing datasets, including ORIEN-AVATAR. Patient 1, with a germline FLCN...]]></summary>
@@ -4439,6 +4659,16 @@
     <entry>
         <title type="html"><![CDATA[Horizontal transfer of nuclear DNA in transmissible cancer]]></title>
         <id>pubmed:40261943</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40261943/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-04-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Horizontal transfer of nuclear DNA between cells of host and cancer is a potential source of adaptive variation in cancer cells. An understanding of the frequency and significance of this process in naturally occurring tumors is, however, lacking. We screened for this phenomenon in the transmissible cancers of dogs and Tasmanian devils and found an instance in the canine transmissible venereal tumor (CTVT). This involved introduction of a 15-megabase dicentric genetic element, composed of 11...]]></summary>
+        <author>
+            <name>Kevin Gori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horizontal transfer of nuclear DNA in transmissible cancer]]></title>
+        <id>pubmed:40261943</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40261943/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250519211817&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-04-22T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Horizontal transfer of nuclear DNA between cells of host and cancer is a potential source of adaptive variation in cancer cells. An understanding of the frequency and significance of this process in naturally occurring tumors is, however, lacking. We screened for this phenomenon in the transmissible cancers of dogs and Tasmanian devils and found an instance in the canine transmissible venereal tumor (CTVT). This involved introduction of a 15-megabase dicentric genetic element, composed of 11...]]></summary>
@@ -5034,6 +5264,26 @@
         <summary type="html"><![CDATA[CONCLUSION: We found no difference in irradiated tumor progression between patients with and without CH. Further studies are warranted to examine the potential clinical implications of CH on treatment responsiveness of solid tumors.]]></summary>
         <author>
             <name>Jacqueline J Tao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defining the genome-wide mutagenic impact of APOBEC3 enzymes]]></title>
+        <id>pubmed:40250950</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40250950/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-04-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Somatic mutations drive cancer initiation and tumor evolution. Therefore, the etiology of mutagenesis in cancer is important to preventative and treatment strategies. Somatic mutagenesis in cancer is a multifactorial process and includes both endogenous and exogenous sources of mutations. One recently recognized source of mutagenesis in cancer is the innate immune APOBEC3 family of enzymes, which catalyze cytosine deamination to restrict viral infection but can aberrantly act on the cellular...]]></summary>
+        <author>
+            <name>Eszter Németh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TP53 somatic evolution in the normal endometrium of Black and White individuals]]></title>
+        <id>pubmed:40250028</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40250028/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-04-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Our study revealed prevalent TP53 somatic evolution in benign endometrium across human lifespan and no racial differences in this cohort of predominantly younger individuals. Future studies should consider the analysis of larger cohorts with older individuals to detect potential effects of racial disparities on TP53 somatic evolution later in life.]]></summary>
+        <author>
+            <name>Eric Rios-Doria</name>
         </author>
     </entry>
     <entry>
@@ -6039,6 +6289,16 @@
     <entry>
         <title type="html"><![CDATA[Safety and Activity of Fibroblast Growth Factor Receptor Inhibitors in Advanced Malignancies: A Pooled Analysis of Early-Phase Clinical Trials]]></title>
         <id>pubmed:40239140</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40239140/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-04-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: FGFRi are effective treatment strategies for patients with advanced solid tumors harboring FGFR alterations, with manageable toxicities in most patients.]]></summary>
+        <author>
+            <name>Rafael Grochot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safety and Activity of Fibroblast Growth Factor Receptor Inhibitors in Advanced Malignancies: A Pooled Analysis of Early-Phase Clinical Trials]]></title>
+        <id>pubmed:40239140</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40239140/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250519211817&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-04-16T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSION: FGFRi are effective treatment strategies for patients with advanced solid tumors harboring FGFR alterations, with manageable toxicities in most patients.]]></summary>
@@ -6574,6 +6834,16 @@
         <summary type="html"><![CDATA[Organismal aging has been associated with diverse metabolic and functional changes across tissues. Within the immune system, key features of physiological hematopoietic cell aging include increased fat deposition in the bone marrow, impaired hematopoietic stem and progenitor cell (HSPC) function, and a propensity towards myeloid differentiation. This shift in lineage bias can lead to pre-malignant bone marrow conditions such as clonal hematopoiesis of indeterminate potential (CHIP) or clonal...]]></summary>
         <author>
             <name>Silvia Vicenzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precancerous Cells Initiate Glioblastoma Evolution and Contribute to Intratumoral Heterogeneity]]></title>
+        <id>pubmed:40233712</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40233712/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-04-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Neural stem cells (NSCs) in the subventricular zone (SVZ) are identified as cells-of-origin harboring driver mutations in glioblastoma (GBM), which is the most devastating brain tumor with highly heterogeneous nature. However, the sequential transformation of a limited number of mutation-harboring NSCs into a distant tumor with high intratumoral heterogeneity remains poorly understood. In this study, we have identified transcriptionally distinct types of mutation-harboring precancerous cells in...]]></summary>
+        <author>
+            <name>Hyun Jung Kim</name>
         </author>
     </entry>
     <entry>
@@ -8889,6 +9159,16 @@
     <entry>
         <title type="html"><![CDATA[Two distinct durable human class-switched memory B cell populations are induced by vaccination and infection]]></title>
         <id>pubmed:40173042</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40173042/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-04-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Memory lymphocytes are durable cells that persist in the absence of antigen, but few human B cell subsets have been characterized in terms of durability. The relative durability of eight non-overlapping human B cell sub-populations covering 100% of all human class-switched B cells was interrogated. Only two long-lived B cell populations persisted in the relative absence of antigen. In addition to canonical germinal center-derived switched-memory B cells with an IgD^(-)CD27^(+)CXCR5^(+)...]]></summary>
+        <author>
+            <name>Cory A Perugino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two distinct durable human class-switched memory B cell populations are induced by vaccination and infection]]></title>
+        <id>pubmed:40173042</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40173042/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250519211817&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-04-02T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Memory lymphocytes are durable cells that persist in the absence of antigen, but few human B cell subsets have been characterized in terms of durability. The relative durability of eight non-overlapping human B cell sub-populations covering 100% of all human class-switched B cells was interrogated. Only two long-lived B cell populations persisted in the relative absence of antigen. In addition to canonical germinal center-derived switched-memory B cells with an IgD^(-)CD27^(+)CXCR5^(+)...]]></summary>
@@ -9474,6 +9754,26 @@
         <summary type="html"><![CDATA[CONCLUSIONS: PPM1D mutated CH clones can spontaneously regress after treatment discontinuation, however they can also be found in the dominant clone in AML/MDS.]]></summary>
         <author>
             <name>David Fandrei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The complexity of tobacco smoke-induced mutagenesis in head and neck cancer]]></title>
+        <id>pubmed:40164736</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40164736/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-03-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tobacco smoke, alone or combined with alcohol, is the predominant cause of head and neck cancer (HNC). We explore how tobacco exposure contributes to cancer development by mutational signature analysis of 265 whole-genome sequenced HNC samples from eight countries. Six tobacco-associated mutational signatures were detected, including some not previously reported. Differences in HNC incidence between countries corresponded with differences in mutation burdens of tobacco-associated signatures,...]]></summary>
+        <author>
+            <name>Laura Torrens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marker selection strategies for circulating tumor DNA guided by phylogenetic inference]]></title>
+        <id>pubmed:40163695</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40163695/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250520211747&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-03-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MOTIVATION: Blood-based profiling of tumor DNA ("liquid biopsy") offers great prospects for non-invasive early cancer diagnosis and clinical guidance, but requires further computational advances to become a robust quantitative assay of tumor clonal evolution. We propose new methods to better characterize tumor clonal dynamics from circulating tumor DNA (ctDNA), through application to two specific tasks: (i) applying longitudinal ctDNA data to refine phylogeny models of clonal evolution, and (ii)...]]></summary>
+        <author>
+            <name>Xuecong Fu</name>
         </author>
     </entry>
     <entry>
@@ -12794,446 +13094,6 @@
         <summary type="html"><![CDATA[CONCLUSIONS: Map3k3^(I441M) heterozygous is sufficient to induce lesions in juvenile mice, while the additional activation of PI3K signaling is required for the effective formation of CCMs at the adult stage. The Map3k3^(I441M) murine model provides a preclinical model for further mechanistic and therapeutic studies of CCMs.]]></summary>
         <author>
             <name>Hongyuan Xu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250504211834&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250503212225&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250502211348&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250501211525&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250430212140&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250429211511&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250428211452&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250427211648&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250426211855&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250425211214&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250424211452&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250423211425&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250422211416&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250421211407&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250420211724&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250419211848&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250418211053&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250417211300&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250416211340&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250415211437&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250414211503&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250413211557&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250412224033&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250411211143&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250410211311&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250409211240&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250408211241&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250407211240&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250406211437&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250405211633&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250404211101&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250403211214&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250402211208&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250401211304&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250331212028&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250330211538&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250329211715&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250328211057&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250327211133&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250326211124&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250325211156&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250324211226&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250323211334&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer]]></title>
-        <id>pubmed:40119428</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40119428/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250322211601&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: These results imply that recurrence with DCIS is a clinical and biological process different from invasive progression.]]></summary>
-        <author>
-            <name>Angelo Fortunato</name>
         </author>
     </entry>
     <entry>
