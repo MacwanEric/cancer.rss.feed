@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2025-06-07T01:17:25.363Z</updated>
+    <updated>2025-06-08T01:25:31.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Designing and modeling nanomedicines towards image-guided drug delivery in hematological malignancies]]></title>
+        <id>pubmed:40480519</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40480519/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nanomedicines are traditionally composed via top-down approaches, which result in the production of one nanoformulation at a time. Conversely, bottom-up strategies rely on the development of nanoparticle (NP) libraries, resulting in the production of high numbers of nanoformulations with a broad range of compositions and characteristics. In this endeavor, Design of Experiment (DoE) aids in further optimizing the NP library manufacturing process. Using a custom-made 3D-printed microfluidic chip...]]></summary>
+        <author>
+            <name>Shiva Khorshid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis Mutations Increase Risk of Alzheimer's Disease with APOE epsilon3/epsilon3 Genotype]]></title>
+        <id>pubmed:40475475</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40475475/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) represents clonal expansion of blood cells, and increases the risk of hematological malignancies and cardiovascular disorders. Recent studies have studied CHIP mutations in individuals with Alzheimer's disease (AD), but it is unclear whether their role in AD pathogenesis is protective, detrimental, or neutral. In this study, we used molecular-barcoded deep gene panel sequencing (∼400X) to examine CHIP mutations in 298 blood samples from AD...]]></summary>
+        <author>
+            <name>Jaejoon Choi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clonal Hematopoiesis Mutations Increase Risk of Alzheimer's Disease with APOE epsilon3/epsilon3 Genotype]]></title>
         <id>pubmed:40475475</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) represents clonal expansion of blood cells, and increases the risk of hematological malignancies and cardiovascular disorders. Recent studies have studied CHIP mutations in individuals with Alzheimer's disease (AD), but it is unclear whether their role in AD pathogenesis is protective, detrimental, or neutral. In this study, we used molecular-barcoded deep gene panel sequencing (∼400X) to examine CHIP mutations in 298 blood samples from AD...]]></summary>
         <author>
             <name>Jaejoon Choi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comprehensive Characterization of Somatic Mutation Timing Reveals the Evolutionary Trajectory of Lung Adenocarcinoma in Chinese Patients]]></title>
+        <id>pubmed:40479597</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40479597/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lung adenocarcinoma (LUAD) is a heterogeneous disease with substantial genomic differences between individuals of Chinese and European ancestry. Deciphering the timing of driver mutations may lead to insights into tumor evolution that can inform diagnostic and therapeutic approaches for LUAD. Here, we conducted whole-genome sequencing on LUAD samples from 251 patients with Chinese ancestry to reconstruct the evolutionary trajectories of somatic alterations, especially those across the non-coding...]]></summary>
+        <author>
+            <name>Na Qin</name>
         </author>
     </entry>
     <entry>
@@ -29,11 +59,41 @@
     <entry>
         <title type="html"><![CDATA[Comprehensive tumor-agnostic evaluation of genomic and epigenomic-based approaches for the identification of circulating tumor DNA in early-stage breast cancer]]></title>
         <id>pubmed:40472659</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40472659/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: These results support further development of tumor-agnostic mMRD assays for the detection of ctDNA and assessment of these assays to develop clinical utility in this setting.]]></summary>
+        <author>
+            <name>M J Elliott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comprehensive tumor-agnostic evaluation of genomic and epigenomic-based approaches for the identification of circulating tumor DNA in early-stage breast cancer]]></title>
+        <id>pubmed:40472659</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40472659/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250606211723&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-06-05T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSION: These results support further development of tumor-agnostic mMRD assays for the detection of ctDNA and assessment of these assays to develop clinical utility in this setting.]]></summary>
         <author>
             <name>M J Elliott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metabolomic Profiling of Leukemic Hematopoiesis: Effects of BNT162b2 mRNA COVID-19 Vaccine Administration]]></title>
+        <id>pubmed:40464175</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40464175/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: This preliminary study identified altered metabolic pathways in leukemia bone marrow and suggests metabolomic differences associated with BNT162b2 vaccination. While the findings do not support a causal link between mRNA vaccination and leukemia development, they highlight the need for further studies to understand vaccine-induced metabolic modulation in hematological contexts.]]></summary>
+        <author>
+            <name>Batuhan Erdoğdu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aortic Aneurysm Risk and Somatic <em>JAK2</em><sup><em>V617F</em></sup>Variation: Insights From a Multicenter, Population-Based Cardiovascular Screening Study]]></title>
+        <id>pubmed:40464064</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40464064/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: In a study population of primarily men 60 to 74 years of age, the somatic JAK2^(V617F) sequence variation was strongly and independently associated with ascending aortic aneurysms, presenting a positive correlation between aneurysm size and JAK2^(V617F) VAF. No convincing associations were observed for descending or abdominal aneurysms. Screening patients with larger ascending aortic aneurysms for the JAK2^(V617F) sequence variation, and vice versa, screening JAK2^(V617F)-positve...]]></summary>
+        <author>
+            <name>Lasse M Obel</name>
         </author>
     </entry>
     <entry>
@@ -99,6 +159,16 @@
     <entry>
         <title type="html"><![CDATA[Genetic Profiling Reveals the Distinctions Among MTX-Associated DLBCL, EBV-Positive Mucocutaneous Ulcer, and EBV + DLBCL]]></title>
         <id>pubmed:40458922</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40458922/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The WHO recently changed the outline of immunodeficiency/dysregulation (IDD)-associated lymphoproliferative disorders (LPDs)/lymphomas from underlying IDD settings to an overarching framework and accommodates commonalities in histology, the involvement of various oncogenic viruses, and specific clinical/therapeutic consequences. A mutational analysis has been performed on post-transplantation and HIV-positive lymphomas, but not on other iatrogenic immunodeficiency (OII)-associated LPDs mainly...]]></summary>
+        <author>
+            <name>Takumi Takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genetic Profiling Reveals the Distinctions Among MTX-Associated DLBCL, EBV-Positive Mucocutaneous Ulcer, and EBV + DLBCL]]></title>
+        <id>pubmed:40458922</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40458922/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250606211723&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-06-03T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[The WHO recently changed the outline of immunodeficiency/dysregulation (IDD)-associated lymphoproliferative disorders (LPDs)/lymphomas from underlying IDD settings to an overarching framework and accommodates commonalities in histology, the involvement of various oncogenic viruses, and specific clinical/therapeutic consequences. A mutational analysis has been performed on post-transplantation and HIV-positive lymphomas, but not on other iatrogenic immunodeficiency (OII)-associated LPDs mainly...]]></summary>
@@ -134,6 +204,26 @@
         <summary type="html"><![CDATA[The WHO recently changed the outline of immunodeficiency/dysregulation (IDD)-associated lymphoproliferative disorders (LPDs)/lymphomas from underlying IDD settings to an overarching framework and accommodates commonalities in histology, the involvement of various oncogenic viruses, and specific clinical/therapeutic consequences. A mutational analysis has been performed on post-transplantation and HIV-positive lymphomas, but not on other iatrogenic immunodeficiency (OII)-associated LPDs mainly...]]></summary>
         <author>
             <name>Takumi Takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiplex gene editing models of del(7q) reveal combined CUX1 and EZH2 loss drives clonal expansion and drug resistance]]></title>
+        <id>pubmed:40453147</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40453147/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Loss of all or part of chromosome 7 [-7/del(7q)] is recurrent in myeloid neoplasms and associated with a poor response to chemotherapy. Chromosome 7-encoded genes driving drug resistance and the consequences of combinatorial 7q tumor suppressor gene loss have remained unclear, the latter question largely because of the challenges of modeling aneuploidy. Here, we use in silico data mining to uncover 7q genes involved in chemotherapy resistance. We establish murine models of del(7q) clonal...]]></summary>
+        <author>
+            <name>Matthew R M Jotte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resulting Sequelae of an Immunosuppressive State in a Pediatric Patient Status Post Bone Marrow Transplant for the Curative Management of Myelodysplastic Syndrome]]></title>
+        <id>pubmed:40452675</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40452675/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndrome is a clonal disorder of hematopoietic stem cells leading to dysplasia and ineffective hematopoiesis. The typical presentation is asymptomatic with incidental lab findings consistent with varying degrees of pancytopenia. This syndrome is commonly diagnosed in older individuals and tends to result from chemical and/or radiation exposures; however, this patient presents as a unique manifestation of myelodysplastic syndrome in a six-month-old male. For curative management,...]]></summary>
+        <author>
+            <name>Emily D'Arpa</name>
         </author>
     </entry>
     <entry>
@@ -239,6 +329,16 @@
     <entry>
         <title type="html"><![CDATA[Navigating the dynamic landscape of lower-risk MDS: Advances and emerging insights]]></title>
         <id>pubmed:40450506</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40450506/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndromes/neoplasms (MDS) are a group of clonal myeloid malignancies characterized by ineffective hematopoiesis, cytopenias, and an increased risk of transformation to acute myeloid leukemia (AML). In lower-risk (LR) MDS, as defined by the revised and molecular international prognostic scoring systems (IPSS-R and IPSS-M), anemia is often the predominant clinical manifestation. Treatment strategies have traditionally focused on supportive care, including transfusion support and...]]></summary>
+        <author>
+            <name>Alain Mina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating the dynamic landscape of lower-risk MDS: Advances and emerging insights]]></title>
+        <id>pubmed:40450506</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40450506/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250606211723&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-06-01T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Myelodysplastic syndromes/neoplasms (MDS) are a group of clonal myeloid malignancies characterized by ineffective hematopoiesis, cytopenias, and an increased risk of transformation to acute myeloid leukemia (AML). In lower-risk (LR) MDS, as defined by the revised and molecular international prognostic scoring systems (IPSS-R and IPSS-M), anemia is often the predominant clinical manifestation. Treatment strategies have traditionally focused on supportive care, including transfusion support and...]]></summary>
@@ -264,6 +364,16 @@
         <summary type="html"><![CDATA[Myelodysplastic syndromes/neoplasms (MDS) are a group of clonal myeloid malignancies characterized by ineffective hematopoiesis, cytopenias, and an increased risk of transformation to acute myeloid leukemia (AML). In lower-risk (LR) MDS, as defined by the revised and molecular international prognostic scoring systems (IPSS-R and IPSS-M), anemia is often the predominant clinical manifestation. Treatment strategies have traditionally focused on supportive care, including transfusion support and...]]></summary>
         <author>
             <name>Alain Mina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Therapy-related myeloid neoplasms in 177Lu-DOTATATE treated neuroendocrine tumor patients: how great is the risk?]]></title>
+        <id>pubmed:40446156</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40446156/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Peptide receptor radionuclide therapy (PRRT) with lutetium-177-Dotatate (177Lu-DOTATATE) has transformed neuroendocrine tumor (NET) treatment, improving progression-free survival, symptom control, and quality of life. However, long-term hematologic toxicities, including therapy-related myeloid neoplasms (tMN), are increasingly recognized. These rare but severe complications, such as myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML), appear multifactorial, influenced by prior...]]></summary>
+        <author>
+            <name>Yael Kusne</name>
         </author>
     </entry>
     <entry>
@@ -349,6 +459,16 @@
     <entry>
         <title type="html"><![CDATA[Rethinking cancer]]></title>
         <id>pubmed:40443342</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40443342/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past half-century of the global effort against cancer, the vast majority of investigations in both tumor basic research and clinical practice have centered on the "somatic mutation" theory, such as in molecular classification, individualized precision medicine strategies, gene therapy approaches, the development of neoantigen-based tumor vaccines, and advancements in sequencing technologies. Even in the extensively studied tumor microenvironment (including tumor immunity), which has...]]></summary>
+        <author>
+            <name>W R Luo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking cancer]]></title>
+        <id>pubmed:40443342</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40443342/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250606211723&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-05-30T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Over the past half-century of the global effort against cancer, the vast majority of investigations in both tumor basic research and clinical practice have centered on the "somatic mutation" theory, such as in molecular classification, individualized precision medicine strategies, gene therapy approaches, the development of neoantigen-based tumor vaccines, and advancements in sequencing technologies. Even in the extensively studied tumor microenvironment (including tumor immunity), which has...]]></summary>
@@ -424,6 +544,26 @@
         <summary type="html"><![CDATA[Over the past half-century of the global effort against cancer, the vast majority of investigations in both tumor basic research and clinical practice have centered on the "somatic mutation" theory, such as in molecular classification, individualized precision medicine strategies, gene therapy approaches, the development of neoantigen-based tumor vaccines, and advancements in sequencing technologies. Even in the extensively studied tumor microenvironment (including tumor immunity), which has...]]></summary>
         <author>
             <name>W R Luo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The effect of clonal hematopoiesis on long-term outcomes in patients undergoing coronary artery bypass grafting]]></title>
+        <id>pubmed:40442635</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40442635/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CHIP mutations are common in CABG patients and are associated with a higher risk of mortality, highlighting their potential role in long-term risk assessment and management.]]></summary>
+        <author>
+            <name>Zhiwei Zeng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bone Marrow Vacuolization at the Crossroads of Specialties: Molecular Insights and Diagnostic Challenges]]></title>
+        <id>pubmed:40438982</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40438982/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bone marrow (BM) vacuolization is a key morphological feature observed in VEXAS (Vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome. However, vacuolization alone is not specific to VEXAS, as it can also be seen in conditions such as myelodysplastic syndromes (MDS), acute myeloid leukemia (AML), metabolic disorders, and toxic exposures. VEXAS syndrome, a postzygotic mutation-driven autoinflammatory disease caused by somatic mutations in the UBA1 gene, leads to chronic immune...]]></summary>
+        <author>
+            <name>Mahmoud I Elbadry</name>
         </author>
     </entry>
     <entry>
@@ -599,6 +739,16 @@
     <entry>
         <title type="html"><![CDATA[On the patterns of genetic intra-tumour heterogeneity before and after treatment]]></title>
         <id>pubmed:40439127</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40439127/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Genetic intra-tumour heterogeneity (gITH) is a universal property of all cancers. It emerges from the interplay of cell division, mutation accumulation and selection with important implications for the evolution of treatment resistance. Theoretical and data-driven approaches extensively studied gITH in ageing somatic tissues or cancers at detection. Yet, the expected patterns of gITH during and after treatment are less well understood. Here, we use stochastic birth-death processes to investigate...]]></summary>
+        <author>
+            <name>Alexander Stein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the patterns of genetic intra-tumour heterogeneity before and after treatment]]></title>
+        <id>pubmed:40439127</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40439127/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250606211723&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-05-29T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Genetic intra-tumour heterogeneity (gITH) is a universal property of all cancers. It emerges from the interplay of cell division, mutation accumulation and selection with important implications for the evolution of treatment resistance. Theoretical and data-driven approaches extensively studied gITH in ageing somatic tissues or cancers at detection. Yet, the expected patterns of gITH during and after treatment are less well understood. Here, we use stochastic birth-death processes to investigate...]]></summary>
@@ -684,6 +834,26 @@
         <summary type="html"><![CDATA[Genetic intra-tumour heterogeneity (gITH) is a universal property of all cancers. It emerges from the interplay of cell division, mutation accumulation and selection with important implications for the evolution of treatment resistance. Theoretical and data-driven approaches extensively studied gITH in ageing somatic tissues or cancers at detection. Yet, the expected patterns of gITH during and after treatment are less well understood. Here, we use stochastic birth-death processes to investigate...]]></summary>
         <author>
             <name>Alexander Stein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Variation in Lipoprotein(a) Levels Among Patients With Coronary Heart Disease: Insights From the INTERASPIRE Study and Implications for Emerging Lp(a)-Lowering Therapies]]></title>
+        <id>pubmed:40436467</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40436467/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: The vast majority of patients with CHD have Lp(a) levels far below what is considered a typical risk-enhancing threshold, suggesting that the attributable risk from Lp(a) is more complex than previously perceived. Furthermore, wide geographical variations in Lp(a) levels above entry criteria for ongoing trials could impact equitable access to therapies, if these trials are positive.]]></summary>
+        <author>
+            <name>Fotios Barkas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circulating tumor DNA monitoring and blood tumor mutational burden in patients with metastatic solid tumors treated with atezolizumab]]></title>
+        <id>pubmed:40434907</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40434907/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Immune checkpoint inhibitors are important for treatment across tumor types but are not universally effective in controlling disease. Early understanding of tumor response, or lack thereof, can inform treatment decisions. This study evaluates changes in circulating tumor DNA (ctDNA) and blood tumor mutational burden (bTMB) for associations with response to programmed cell death 1 ligand 1 (PD-L1) blockade. We sequenced cell-free DNA collected at the start of therapy, on treatment, and at the end...]]></summary>
+        <author>
+            <name>Charles Swanton</name>
         </author>
     </entry>
     <entry>
@@ -879,6 +1049,16 @@
     <entry>
         <title type="html"><![CDATA[SAVANA: reliable analysis of somatic structural variants and copy number aberrations using long-read sequencing]]></title>
         <id>pubmed:40437218</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40437218/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accurate detection of somatic structural variants (SVs) and somatic copy number aberrations (SCNAs) is critical to study the mutational processes underpinning cancer evolution. Here we describe SAVANA, an algorithm designed to detect somatic SVs and SCNAs at single-haplotype resolution and estimate tumor purity and ploidy using long-read sequencing data with or without a germline control sample. We also establish best practices for benchmarking SV detection algorithms across the entire genome in...]]></summary>
+        <author>
+            <name>Hillary Elrick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAVANA: reliable analysis of somatic structural variants and copy number aberrations using long-read sequencing]]></title>
+        <id>pubmed:40437218</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40437218/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250606211723&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-05-28T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Accurate detection of somatic structural variants (SVs) and somatic copy number aberrations (SCNAs) is critical to study the mutational processes underpinning cancer evolution. Here we describe SAVANA, an algorithm designed to detect somatic SVs and SCNAs at single-haplotype resolution and estimate tumor purity and ploidy using long-read sequencing data with or without a germline control sample. We also establish best practices for benchmarking SV detection algorithms across the entire genome in...]]></summary>
@@ -964,6 +1144,26 @@
         <summary type="html"><![CDATA[Accurate detection of somatic structural variants (SVs) and somatic copy number aberrations (SCNAs) is critical to study the mutational processes underpinning cancer evolution. Here we describe SAVANA, an algorithm designed to detect somatic SVs and SCNAs at single-haplotype resolution and estimate tumor purity and ploidy using long-read sequencing data with or without a germline control sample. We also establish best practices for benchmarking SV detection algorithms across the entire genome in...]]></summary>
         <author>
             <name>Hillary Elrick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WW domain-containing ubiquitin E3 ligase 1 regulates immune infiltration in tumor microenvironment of ovarian cancer]]></title>
+        <id>pubmed:40415439</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40415439/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: WWP1 may serve as a prognostic biomarker and a potential target for immune regulation in the TME of ovarian cancer.]]></summary>
+        <author>
+            <name>Xiaojuan Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonhypermutator Cancers Access Driver Mutations Through Reversals in Germline Mutational Bias]]></title>
+        <id>pubmed:40415200</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40415200/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cancer is an evolutionary disease driven by mutations in asexually reproducing somatic cells. In asexual microbes, bias reversals in the mutation spectrum can speed adaptation by increasing access to previously undersampled beneficial mutations. By analyzing tumors from 20 tissues, along with normal tissue and the germline, we demonstrate this effect in cancer. Nonhypermutated tumors reverse the germline mutation bias and have consistent spectra across tissues. These spectra changes carry the...]]></summary>
+        <author>
+            <name>Marwa Z Tuffaha</name>
         </author>
     </entry>
     <entry>
@@ -1204,6 +1404,16 @@
         <summary type="html"><![CDATA[Cancer is an evolutionary disease driven by mutations in asexually reproducing somatic cells. In asexual microbes, bias reversals in the mutation spectrum can speed adaptation by increasing access to previously undersampled beneficial mutations. By analyzing tumors from 20 tissues, along with normal tissue and the germline, we demonstrate this effect in cancer. Nonhypermutated tumors reverse the germline mutation bias and have consistent spectra across tissues. These spectra changes carry the...]]></summary>
         <author>
             <name>Marwa Z Tuffaha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myeloproliferative neoplasms: A model of the journey from clonal hematopoiesis to cardiovascular disease and cancer]]></title>
+        <id>pubmed:40413094</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40413094/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the last decade, the coming of next-generation sequencing and its application to large human populations is breaking the barrier between inflammation and cancer. Indeed, acquired mutations in key genes that regulate hematopoiesis and thus confer a selective advantage in the proliferation of hematopoietic progenitors have established the concept of clonal hematopoiesis of indeterminate potential or CHIP. A growing body of clinical and experimental evidence is highlighting the link between CHIP...]]></summary>
+        <author>
+            <name>Santiago Redondo</name>
         </author>
     </entry>
     <entry>
@@ -2039,6 +2249,16 @@
     <entry>
         <title type="html"><![CDATA[Unusual relapse dynamics in EGFR-mutated lung adenocarcinoma uncovered by genomic profiling: Insights from a case report]]></title>
         <id>pubmed:40403413</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40403413/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Synchronous or metachronous multiple NSCLCs challenge clinical practice, particularly in distinguishing multiple separate primary lung cancers (SPLC) from intrapulmonary metastasis (IPM) for accurate staging and management. Here, we present a unique case of three resected lung adenocarcinomas (LUAD) from a single patient collected at different time points, all harboring the same EGFR p.L858R somatic driver mutation but exhibiting distinct clonal trajectories. Whole exome sequencing (WES)...]]></summary>
+        <author>
+            <name>Luca Roma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unusual relapse dynamics in EGFR-mutated lung adenocarcinoma uncovered by genomic profiling: Insights from a case report]]></title>
+        <id>pubmed:40403413</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40403413/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250606211723&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-05-22T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Synchronous or metachronous multiple NSCLCs challenge clinical practice, particularly in distinguishing multiple separate primary lung cancers (SPLC) from intrapulmonary metastasis (IPM) for accurate staging and management. Here, we present a unique case of three resected lung adenocarcinomas (LUAD) from a single patient collected at different time points, all harboring the same EGFR p.L858R somatic driver mutation but exhibiting distinct clonal trajectories. Whole exome sequencing (WES)...]]></summary>
@@ -2779,6 +2999,16 @@
     <entry>
         <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
         <id>pubmed:40394004</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
+        <author>
+            <name>Tongwu Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
+        <id>pubmed:40394004</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250606211723&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-05-20T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
@@ -3054,6 +3284,16 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis refers to the expansion of hematopoietic stem cells harboring somatic mutations, a phenomenon increasingly recognized in aging populations. This review highlights the emerging relationship between clonal hematopoiesis and solid cancers, focusing on the prevalence and impact of clonal hematopoiesis-associated mutations such as DNMT3A, TET2, ASXL1, and TP53 in tumorigenesis. Key risk factors for the co-occurrence of clonal hematopoiesis and solid cancers, including germline...]]></summary>
         <author>
             <name>Yen T M Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microbial interactions induce the mutational signature of mismatch repair deficiency in colorectal cancer and associated with EPPK1 mutations]]></title>
+        <id>pubmed:40383409</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40383409/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To better understand the impact of microbial interactions on the clonal evolution of colorectal cancer (CRC), we conducted high-resolution profiling of the gut microbiome of 101 treatment-naïve primary CRC patients using nanopore sequencing. We performed an integrated analysis of microbiome and tumor exome data to identify symbiotic microbes that interactively influence the mutational processes and the subsequent clonality of CRC. Our results suggested that Dialister pneumosintes and...]]></summary>
+        <author>
+            <name>Dandan Hu</name>
         </author>
     </entry>
     <entry>
@@ -3909,6 +4149,16 @@
     <entry>
         <title type="html"><![CDATA[Tumor Suppressor Genes with Segmental Duplications are Prone to Somatic Deletions and Structural Variations]]></title>
         <id>pubmed:40366636</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40366636/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Segmental duplications (SDs) are blocks of genomic DNA with high sequence homology that are hotspots for chromosomal rearrangements, coinciding with copy-number and single-nucleotide variations in the population. SDs could represent unstable genomic regions that are susceptible to somatic alterations in human cancers. Here, we aimed to elucidate the genomic locations of SDs in relation to cancer-related genes and their propensity for somatic alterations in cancer. The analysis showed that tumor...]]></summary>
+        <author>
+            <name>Ziheng Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tumor Suppressor Genes with Segmental Duplications are Prone to Somatic Deletions and Structural Variations]]></title>
+        <id>pubmed:40366636</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40366636/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250606211723&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-05-14T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Segmental duplications (SDs) are blocks of genomic DNA with high sequence homology that are hotspots for chromosomal rearrangements, coinciding with copy-number and single-nucleotide variations in the population. SDs could represent unstable genomic regions that are susceptible to somatic alterations in human cancers. Here, we aimed to elucidate the genomic locations of SDs in relation to cancer-related genes and their propensity for somatic alterations in cancer. The analysis showed that tumor...]]></summary>
@@ -4144,6 +4394,16 @@
         <summary type="html"><![CDATA[Segmental duplications (SDs) are blocks of genomic DNA with high sequence homology that are hotspots for chromosomal rearrangements, coinciding with copy-number and single-nucleotide variations in the population. SDs could represent unstable genomic regions that are susceptible to somatic alterations in human cancers. Here, we aimed to elucidate the genomic locations of SDs in relation to cancer-related genes and their propensity for somatic alterations in cancer. The analysis showed that tumor...]]></summary>
         <author>
             <name>Ziheng Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiffInvex identifies evolutionary shifts in driver gene repertoires during tumorigenesis and chemotherapy]]></title>
+        <id>pubmed:40360478</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40360478/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Somatic cells can transform into tumors due to mutations, and the tumors further evolve towards increased aggressiveness and therapy resistance. We develop DiffInvex, a framework for identifying changes in selection acting on individual genes in somatic genomes, drawing on an empirical mutation rate baseline derived from non-coding DNA that accounts for shifts in neutral mutagenesis during cancer evolution. We apply DiffInvex to >11,000 somatic whole-genome sequences from ~30 cancer types or...]]></summary>
+        <author>
+            <name>Ahmed Khalil</name>
         </author>
     </entry>
     <entry>
@@ -5219,6 +5479,16 @@
     <entry>
         <title type="html"><![CDATA[Gain of chromosome 17 is an early genetic abnormality in neuroblastoma with PPM1D emerging as a strong candidate oncogene driving tumor progression]]></title>
         <id>pubmed:40320038</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40320038/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Segmental gain of chromosome 17q is the most common genetic aberration in high-risk neuroblastoma, but its role in disease progression is poorly understood. This study aims to address the contribution of 17q gain to neuroblastoma malignancy. We analyzed the genetic and transcriptional landscape of 417 neuroblastoma patients across various risk groups and clinical stages using multi-omic approaches. Single-cell RNA/DNA sequencing and SNP arrays were combined to characterize genomic aberrations,...]]></summary>
+        <author>
+            <name>Jelena Milosevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gain of chromosome 17 is an early genetic abnormality in neuroblastoma with PPM1D emerging as a strong candidate oncogene driving tumor progression]]></title>
+        <id>pubmed:40320038</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40320038/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250606211723&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-05-04T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Segmental gain of chromosome 17q is the most common genetic aberration in high-risk neuroblastoma, but its role in disease progression is poorly understood. This study aims to address the contribution of 17q gain to neuroblastoma malignancy. We analyzed the genetic and transcriptional landscape of 417 neuroblastoma patients across various risk groups and clinical stages using multi-omic approaches. Single-cell RNA/DNA sequencing and SNP arrays were combined to characterize genomic aberrations,...]]></summary>
@@ -5544,6 +5814,16 @@
         <summary type="html"><![CDATA[Segmental gain of chromosome 17q is the most common genetic aberration in high-risk neuroblastoma, but its role in disease progression is poorly understood. This study aims to address the contribution of 17q gain to neuroblastoma malignancy. We analyzed the genetic and transcriptional landscape of 417 neuroblastoma patients across various risk groups and clinical stages using multi-omic approaches. Single-cell RNA/DNA sequencing and SNP arrays were combined to characterize genomic aberrations,...]]></summary>
         <author>
             <name>Jelena Milosevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diploidy confers genomic instability in Schizosaccharomyces pombe]]></title>
+        <id>pubmed:40317199</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40317199/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whole genome duplication, or polyploidy, has been implicated in driving genome instability and tumorigenesis. Recent studies suggest that polyploidy in tumors promotes cancer genome evolution, progression, and chemoresistance resulting in worse prognosis of survival. The mechanisms by which whole genome duplications confer genome instability are not yet fully understood. In this study, we use Schizosaccharomyces pombe (fission yeast) diploids to investigate how whole genome duplication affects...]]></summary>
+        <author>
+            <name>Joshua M Park</name>
         </author>
     </entry>
     <entry>
@@ -6574,6 +6854,16 @@
         <summary type="html"><![CDATA[BACKGROUNDT cell large granular lymphocyte leukemia (T-LGLL) is a lymphoproliferative disorder of cytotoxic T lymphocytes (CTLs), often with gain-of-function STAT3 mutations. T-LGLL represents a unique model for the study of persistent CTL expansions. Albeit autoimmunity is implied, various paradoxical observations led us to investigate whether immunodeficiency traits underpin T-LGLL.METHODSThis is a comprehensive immunogenomic study of 92 consecutive patients from a large T-LGLL cohort with...]]></summary>
         <author>
             <name>Carlos Bravo-Perez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular evolution of driver mutations in cancer with microsatellite instability and their impact on tumor progression: Implications for precision medicine in patients with UCEC]]></title>
+        <id>pubmed:40311467</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40311467/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cancer development is driven by genetic alterations, particularly cancer driver mutations (CDMs), which are associated with aggressive phenotypes and shorter survival. In contrast, higher mutation loads caused by microsatellite instability (MSI) or mismatch repair deficiency (MMRd) can induce anti-cancer immunity, leading to tumor shrinkage and improved responses to immune checkpoint inhibitor (ICI) therapies. However, understanding how CDMs and MSI/MMRd influence cancer evolution remains...]]></summary>
+        <author>
+            <name>Kalpana Sriramadasu</name>
         </author>
     </entry>
     <entry>
@@ -8134,6 +8424,16 @@
         <summary type="html"><![CDATA[Recent studies suggest that nucleophosmin 1 (NPM1)-mutated acute myeloid leukemia (NPM1-AML) often arises from clonal hematopoiesis (CH) involving mutations in DTA genes (DNMT3A, TET2, ASXL1), which can persist during remission. This research evaluates the clinical implications of molecular profiling of CH-related DTA genes in NPM1-AML by comparing clinical features, treatment outcomes, and methylation patterns with those of NPM1-AML lacking DTA mutations. Findings show NPM1-AML with DTA...]]></summary>
         <author>
             <name>Mostafa Elhodaky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Folliculin (FLCN) in Thyroid Tumors: Incidence, Significance, and Role as a Driver Gene and Secondary Alteration]]></title>
+        <id>pubmed:40277780</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40277780/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-04-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thyroid carcinomas are driven by diverse molecular alterations, but the tumor suppressor gene folliculin (FLCN), best known for its role in Birt-Hogg-Dubé (BHD) syndrome, has received limited attention in thyroid tumors. Here, we describe two thyroid tumors with pathogenic FLCN alterations-one germline and one somatic-and analyze the broader prevalence and significance of FLCN in thyroid carcinomas using multiple large sequencing datasets, including ORIEN-AVATAR. Patient 1, with a germline FLCN...]]></summary>
+        <author>
+            <name>Faisal A Hassan</name>
         </author>
     </entry>
     <entry>
@@ -12974,466 +13274,6 @@
         <summary type="html"><![CDATA[Reactive and clonal proliferations of histiocytes (macrophages/dendritic cells) represent a broad spectrum of disorders, which can affect virtually any organ of the body. The clinical spectrum ranges from benign, localized and self-limiting manifestations to severe multi-system disease. Hemophagocytic lymphohistiocytosis (HLH) is a frequently life-threatening, systemic hyperinflammatory process triggered by massive cytokine release by activated, reactive macrophages. Familial and secondary forms...]]></summary>
         <author>
             <name>Falko Fend</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis and periodontitis: a two-sample mendelian randomization study]]></title>
-        <id>pubmed:40204772</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204772/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250420211724&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is an age-associated phenomenon characterized by the proliferation of blood cells carrying somatic mutations. Recent studies suggest a potential link between CH and periodontitis, but the causal relationship remains unclear. A two-sample Mendelian randomization (MR) analysis was implemented, examining whether CH phenotypes are causally associated with periodontitis. CH phenotypes included overall clonal hematopoiesis (CH-overall), CH with a DNMT3A mutation (CH-DNMT3A),...]]></summary>
-        <author>
-            <name>Feng Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis and periodontitis: a two-sample mendelian randomization study]]></title>
-        <id>pubmed:40204772</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204772/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250419211848&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is an age-associated phenomenon characterized by the proliferation of blood cells carrying somatic mutations. Recent studies suggest a potential link between CH and periodontitis, but the causal relationship remains unclear. A two-sample Mendelian randomization (MR) analysis was implemented, examining whether CH phenotypes are causally associated with periodontitis. CH phenotypes included overall clonal hematopoiesis (CH-overall), CH with a DNMT3A mutation (CH-DNMT3A),...]]></summary>
-        <author>
-            <name>Feng Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hematopoietic mosaic loss of Y chromosome: from population cohorts to pathogenic mechanisms]]></title>
-        <id>pubmed:40204516</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204516/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250419211848&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mosaic loss of Y Chromosome (mLOY) refers to genetic mosaicism in males where some somatic cells have lost the Y chromosome (ChrY) while other cells remain their ChrY. mLOY is primarily found in the blood, not only because blood cells are easily accessible, but also because hematopoietic stem cells with LOY mutation gain competitive advantages, therefore producing a large number of LOY-positive blood cells via clonal hematopoiesis. Due to the specific structures, human ChrY is prone to be...]]></summary>
-        <author>
-            <name>Li-Na Zhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis and periodontitis: a two-sample mendelian randomization study]]></title>
-        <id>pubmed:40204772</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204772/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250418211053&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is an age-associated phenomenon characterized by the proliferation of blood cells carrying somatic mutations. Recent studies suggest a potential link between CH and periodontitis, but the causal relationship remains unclear. A two-sample Mendelian randomization (MR) analysis was implemented, examining whether CH phenotypes are causally associated with periodontitis. CH phenotypes included overall clonal hematopoiesis (CH-overall), CH with a DNMT3A mutation (CH-DNMT3A),...]]></summary>
-        <author>
-            <name>Feng Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hematopoietic mosaic loss of Y chromosome: from population cohorts to pathogenic mechanisms]]></title>
-        <id>pubmed:40204516</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204516/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250418211053&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mosaic loss of Y Chromosome (mLOY) refers to genetic mosaicism in males where some somatic cells have lost the Y chromosome (ChrY) while other cells remain their ChrY. mLOY is primarily found in the blood, not only because blood cells are easily accessible, but also because hematopoietic stem cells with LOY mutation gain competitive advantages, therefore producing a large number of LOY-positive blood cells via clonal hematopoiesis. Due to the specific structures, human ChrY is prone to be...]]></summary>
-        <author>
-            <name>Li-Na Zhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis and periodontitis: a two-sample mendelian randomization study]]></title>
-        <id>pubmed:40204772</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204772/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250417211300&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is an age-associated phenomenon characterized by the proliferation of blood cells carrying somatic mutations. Recent studies suggest a potential link between CH and periodontitis, but the causal relationship remains unclear. A two-sample Mendelian randomization (MR) analysis was implemented, examining whether CH phenotypes are causally associated with periodontitis. CH phenotypes included overall clonal hematopoiesis (CH-overall), CH with a DNMT3A mutation (CH-DNMT3A),...]]></summary>
-        <author>
-            <name>Feng Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hematopoietic mosaic loss of Y chromosome: from population cohorts to pathogenic mechanisms]]></title>
-        <id>pubmed:40204516</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204516/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250417211300&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mosaic loss of Y Chromosome (mLOY) refers to genetic mosaicism in males where some somatic cells have lost the Y chromosome (ChrY) while other cells remain their ChrY. mLOY is primarily found in the blood, not only because blood cells are easily accessible, but also because hematopoietic stem cells with LOY mutation gain competitive advantages, therefore producing a large number of LOY-positive blood cells via clonal hematopoiesis. Due to the specific structures, human ChrY is prone to be...]]></summary>
-        <author>
-            <name>Li-Na Zhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association of Clonal Hematopoiesis of Indeterminate Potential with Cardiovascular Events in Patients with CKD]]></title>
-        <id>pubmed:40202812</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202812/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250417211300&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In patients with CKD, non-DNMT3A CHIP was associated with cardiovascular disease with an effect size similar to that reported in the general population.]]></summary>
-        <author>
-            <name>Yang Pan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis and periodontitis: a two-sample mendelian randomization study]]></title>
-        <id>pubmed:40204772</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204772/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250416211339&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is an age-associated phenomenon characterized by the proliferation of blood cells carrying somatic mutations. Recent studies suggest a potential link between CH and periodontitis, but the causal relationship remains unclear. A two-sample Mendelian randomization (MR) analysis was implemented, examining whether CH phenotypes are causally associated with periodontitis. CH phenotypes included overall clonal hematopoiesis (CH-overall), CH with a DNMT3A mutation (CH-DNMT3A),...]]></summary>
-        <author>
-            <name>Feng Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hematopoietic mosaic loss of Y chromosome: from population cohorts to pathogenic mechanisms]]></title>
-        <id>pubmed:40204516</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204516/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250416211339&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mosaic loss of Y Chromosome (mLOY) refers to genetic mosaicism in males where some somatic cells have lost the Y chromosome (ChrY) while other cells remain their ChrY. mLOY is primarily found in the blood, not only because blood cells are easily accessible, but also because hematopoietic stem cells with LOY mutation gain competitive advantages, therefore producing a large number of LOY-positive blood cells via clonal hematopoiesis. Due to the specific structures, human ChrY is prone to be...]]></summary>
-        <author>
-            <name>Li-Na Zhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association of Clonal Hematopoiesis of Indeterminate Potential with Cardiovascular Events in Patients with CKD]]></title>
-        <id>pubmed:40202812</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202812/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250416211339&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In patients with CKD, non-DNMT3A CHIP was associated with cardiovascular disease with an effect size similar to that reported in the general population.]]></summary>
-        <author>
-            <name>Yang Pan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis of Indeterminate Potential and Progression of CKD]]></title>
-        <id>pubmed:40202794</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202794/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250416211339&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Non-DNMT3A CHIP was associated with CKD progression among individuals with CKD. Further, Tet2-CHIP mouse models support a causal role in kidney injury.]]></summary>
-        <author>
-            <name>Caitlyn Vlasschaert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mutational heterogeneities in STAT3 and clonal hematopoiesis-related genes in acquired pure red cell aplasia]]></title>
-        <id>pubmed:40202536</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202536/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250416211339&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dysregulation of T cell-mediated immunity is considered a major pathophysiological mechanism in acquired pure red cell aplasia (PRCA), including idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA, and thymoma-associated PRCA. Although STAT3 mutations are frequently detected in PRCA patients, the roles of other mutational profiles and their impact on clinical characteristics remain unclear. In this study, whole-exome sequencing and targeted sequencing using a custom-designed...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis and periodontitis: a two-sample mendelian randomization study]]></title>
-        <id>pubmed:40204772</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204772/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250415211437&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is an age-associated phenomenon characterized by the proliferation of blood cells carrying somatic mutations. Recent studies suggest a potential link between CH and periodontitis, but the causal relationship remains unclear. A two-sample Mendelian randomization (MR) analysis was implemented, examining whether CH phenotypes are causally associated with periodontitis. CH phenotypes included overall clonal hematopoiesis (CH-overall), CH with a DNMT3A mutation (CH-DNMT3A),...]]></summary>
-        <author>
-            <name>Feng Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hematopoietic mosaic loss of Y chromosome: from population cohorts to pathogenic mechanisms]]></title>
-        <id>pubmed:40204516</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204516/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250415211437&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mosaic loss of Y Chromosome (mLOY) refers to genetic mosaicism in males where some somatic cells have lost the Y chromosome (ChrY) while other cells remain their ChrY. mLOY is primarily found in the blood, not only because blood cells are easily accessible, but also because hematopoietic stem cells with LOY mutation gain competitive advantages, therefore producing a large number of LOY-positive blood cells via clonal hematopoiesis. Due to the specific structures, human ChrY is prone to be...]]></summary>
-        <author>
-            <name>Li-Na Zhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association of Clonal Hematopoiesis of Indeterminate Potential with Cardiovascular Events in Patients with CKD]]></title>
-        <id>pubmed:40202812</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202812/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250415211437&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In patients with CKD, non-DNMT3A CHIP was associated with cardiovascular disease with an effect size similar to that reported in the general population.]]></summary>
-        <author>
-            <name>Yang Pan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis of Indeterminate Potential and Progression of CKD]]></title>
-        <id>pubmed:40202794</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202794/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250415211437&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Non-DNMT3A CHIP was associated with CKD progression among individuals with CKD. Further, Tet2-CHIP mouse models support a causal role in kidney injury.]]></summary>
-        <author>
-            <name>Caitlyn Vlasschaert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mutational heterogeneities in STAT3 and clonal hematopoiesis-related genes in acquired pure red cell aplasia]]></title>
-        <id>pubmed:40202536</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202536/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250415211437&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dysregulation of T cell-mediated immunity is considered a major pathophysiological mechanism in acquired pure red cell aplasia (PRCA), including idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA, and thymoma-associated PRCA. Although STAT3 mutations are frequently detected in PRCA patients, the roles of other mutational profiles and their impact on clinical characteristics remain unclear. In this study, whole-exome sequencing and targeted sequencing using a custom-designed...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis and periodontitis: a two-sample mendelian randomization study]]></title>
-        <id>pubmed:40204772</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204772/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250414211503&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is an age-associated phenomenon characterized by the proliferation of blood cells carrying somatic mutations. Recent studies suggest a potential link between CH and periodontitis, but the causal relationship remains unclear. A two-sample Mendelian randomization (MR) analysis was implemented, examining whether CH phenotypes are causally associated with periodontitis. CH phenotypes included overall clonal hematopoiesis (CH-overall), CH with a DNMT3A mutation (CH-DNMT3A),...]]></summary>
-        <author>
-            <name>Feng Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hematopoietic mosaic loss of Y chromosome: from population cohorts to pathogenic mechanisms]]></title>
-        <id>pubmed:40204516</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204516/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250414211503&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mosaic loss of Y Chromosome (mLOY) refers to genetic mosaicism in males where some somatic cells have lost the Y chromosome (ChrY) while other cells remain their ChrY. mLOY is primarily found in the blood, not only because blood cells are easily accessible, but also because hematopoietic stem cells with LOY mutation gain competitive advantages, therefore producing a large number of LOY-positive blood cells via clonal hematopoiesis. Due to the specific structures, human ChrY is prone to be...]]></summary>
-        <author>
-            <name>Li-Na Zhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association of Clonal Hematopoiesis of Indeterminate Potential with Cardiovascular Events in Patients with CKD]]></title>
-        <id>pubmed:40202812</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202812/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250414211503&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In patients with CKD, non-DNMT3A CHIP was associated with cardiovascular disease with an effect size similar to that reported in the general population.]]></summary>
-        <author>
-            <name>Yang Pan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis of Indeterminate Potential and Progression of CKD]]></title>
-        <id>pubmed:40202794</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202794/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250414211503&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Non-DNMT3A CHIP was associated with CKD progression among individuals with CKD. Further, Tet2-CHIP mouse models support a causal role in kidney injury.]]></summary>
-        <author>
-            <name>Caitlyn Vlasschaert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mutational heterogeneities in STAT3 and clonal hematopoiesis-related genes in acquired pure red cell aplasia]]></title>
-        <id>pubmed:40202536</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202536/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250414211503&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dysregulation of T cell-mediated immunity is considered a major pathophysiological mechanism in acquired pure red cell aplasia (PRCA), including idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA, and thymoma-associated PRCA. Although STAT3 mutations are frequently detected in PRCA patients, the roles of other mutational profiles and their impact on clinical characteristics remain unclear. In this study, whole-exome sequencing and targeted sequencing using a custom-designed...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis and periodontitis: a two-sample mendelian randomization study]]></title>
-        <id>pubmed:40204772</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204772/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250413211557&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is an age-associated phenomenon characterized by the proliferation of blood cells carrying somatic mutations. Recent studies suggest a potential link between CH and periodontitis, but the causal relationship remains unclear. A two-sample Mendelian randomization (MR) analysis was implemented, examining whether CH phenotypes are causally associated with periodontitis. CH phenotypes included overall clonal hematopoiesis (CH-overall), CH with a DNMT3A mutation (CH-DNMT3A),...]]></summary>
-        <author>
-            <name>Feng Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hematopoietic mosaic loss of Y chromosome: from population cohorts to pathogenic mechanisms]]></title>
-        <id>pubmed:40204516</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204516/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250413211557&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mosaic loss of Y Chromosome (mLOY) refers to genetic mosaicism in males where some somatic cells have lost the Y chromosome (ChrY) while other cells remain their ChrY. mLOY is primarily found in the blood, not only because blood cells are easily accessible, but also because hematopoietic stem cells with LOY mutation gain competitive advantages, therefore producing a large number of LOY-positive blood cells via clonal hematopoiesis. Due to the specific structures, human ChrY is prone to be...]]></summary>
-        <author>
-            <name>Li-Na Zhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association of Clonal Hematopoiesis of Indeterminate Potential with Cardiovascular Events in Patients with CKD]]></title>
-        <id>pubmed:40202812</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202812/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250413211557&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In patients with CKD, non-DNMT3A CHIP was associated with cardiovascular disease with an effect size similar to that reported in the general population.]]></summary>
-        <author>
-            <name>Yang Pan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis of Indeterminate Potential and Progression of CKD]]></title>
-        <id>pubmed:40202794</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202794/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250413211557&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Non-DNMT3A CHIP was associated with CKD progression among individuals with CKD. Further, Tet2-CHIP mouse models support a causal role in kidney injury.]]></summary>
-        <author>
-            <name>Caitlyn Vlasschaert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mutational heterogeneities in STAT3 and clonal hematopoiesis-related genes in acquired pure red cell aplasia]]></title>
-        <id>pubmed:40202536</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202536/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250413211557&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dysregulation of T cell-mediated immunity is considered a major pathophysiological mechanism in acquired pure red cell aplasia (PRCA), including idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA, and thymoma-associated PRCA. Although STAT3 mutations are frequently detected in PRCA patients, the roles of other mutational profiles and their impact on clinical characteristics remain unclear. In this study, whole-exome sequencing and targeted sequencing using a custom-designed...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis and periodontitis: a two-sample mendelian randomization study]]></title>
-        <id>pubmed:40204772</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204772/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250412224034&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is an age-associated phenomenon characterized by the proliferation of blood cells carrying somatic mutations. Recent studies suggest a potential link between CH and periodontitis, but the causal relationship remains unclear. A two-sample Mendelian randomization (MR) analysis was implemented, examining whether CH phenotypes are causally associated with periodontitis. CH phenotypes included overall clonal hematopoiesis (CH-overall), CH with a DNMT3A mutation (CH-DNMT3A),...]]></summary>
-        <author>
-            <name>Feng Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hematopoietic mosaic loss of Y chromosome: from population cohorts to pathogenic mechanisms]]></title>
-        <id>pubmed:40204516</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204516/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250412224034&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mosaic loss of Y Chromosome (mLOY) refers to genetic mosaicism in males where some somatic cells have lost the Y chromosome (ChrY) while other cells remain their ChrY. mLOY is primarily found in the blood, not only because blood cells are easily accessible, but also because hematopoietic stem cells with LOY mutation gain competitive advantages, therefore producing a large number of LOY-positive blood cells via clonal hematopoiesis. Due to the specific structures, human ChrY is prone to be...]]></summary>
-        <author>
-            <name>Li-Na Zhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association of Clonal Hematopoiesis of Indeterminate Potential with Cardiovascular Events in Patients with CKD]]></title>
-        <id>pubmed:40202812</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202812/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250412224034&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In patients with CKD, non-DNMT3A CHIP was associated with cardiovascular disease with an effect size similar to that reported in the general population.]]></summary>
-        <author>
-            <name>Yang Pan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis of Indeterminate Potential and Progression of CKD]]></title>
-        <id>pubmed:40202794</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202794/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250412224034&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Non-DNMT3A CHIP was associated with CKD progression among individuals with CKD. Further, Tet2-CHIP mouse models support a causal role in kidney injury.]]></summary>
-        <author>
-            <name>Caitlyn Vlasschaert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mutational heterogeneities in STAT3 and clonal hematopoiesis-related genes in acquired pure red cell aplasia]]></title>
-        <id>pubmed:40202536</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202536/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250412224034&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dysregulation of T cell-mediated immunity is considered a major pathophysiological mechanism in acquired pure red cell aplasia (PRCA), including idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA, and thymoma-associated PRCA. Although STAT3 mutations are frequently detected in PRCA patients, the roles of other mutational profiles and their impact on clinical characteristics remain unclear. In this study, whole-exome sequencing and targeted sequencing using a custom-designed...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis and periodontitis: a two-sample mendelian randomization study]]></title>
-        <id>pubmed:40204772</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204772/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250411211143&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is an age-associated phenomenon characterized by the proliferation of blood cells carrying somatic mutations. Recent studies suggest a potential link between CH and periodontitis, but the causal relationship remains unclear. A two-sample Mendelian randomization (MR) analysis was implemented, examining whether CH phenotypes are causally associated with periodontitis. CH phenotypes included overall clonal hematopoiesis (CH-overall), CH with a DNMT3A mutation (CH-DNMT3A),...]]></summary>
-        <author>
-            <name>Feng Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hematopoietic mosaic loss of Y chromosome: from population cohorts to pathogenic mechanisms]]></title>
-        <id>pubmed:40204516</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204516/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250411211143&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mosaic loss of Y Chromosome (mLOY) refers to genetic mosaicism in males where some somatic cells have lost the Y chromosome (ChrY) while other cells remain their ChrY. mLOY is primarily found in the blood, not only because blood cells are easily accessible, but also because hematopoietic stem cells with LOY mutation gain competitive advantages, therefore producing a large number of LOY-positive blood cells via clonal hematopoiesis. Due to the specific structures, human ChrY is prone to be...]]></summary>
-        <author>
-            <name>Li-Na Zhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association of Clonal Hematopoiesis of Indeterminate Potential with Cardiovascular Events in Patients with CKD]]></title>
-        <id>pubmed:40202812</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202812/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250411211143&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In patients with CKD, non-DNMT3A CHIP was associated with cardiovascular disease with an effect size similar to that reported in the general population.]]></summary>
-        <author>
-            <name>Yang Pan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis of Indeterminate Potential and Progression of CKD]]></title>
-        <id>pubmed:40202794</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202794/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250411211143&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Non-DNMT3A CHIP was associated with CKD progression among individuals with CKD. Further, Tet2-CHIP mouse models support a causal role in kidney injury.]]></summary>
-        <author>
-            <name>Caitlyn Vlasschaert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mutational heterogeneities in STAT3 and clonal hematopoiesis-related genes in acquired pure red cell aplasia]]></title>
-        <id>pubmed:40202536</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202536/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250411211143&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dysregulation of T cell-mediated immunity is considered a major pathophysiological mechanism in acquired pure red cell aplasia (PRCA), including idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA, and thymoma-associated PRCA. Although STAT3 mutations are frequently detected in PRCA patients, the roles of other mutational profiles and their impact on clinical characteristics remain unclear. In this study, whole-exome sequencing and targeted sequencing using a custom-designed...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association between clonal hematopoiesis and periodontitis: a two-sample mendelian randomization study]]></title>
-        <id>pubmed:40204772</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204772/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250410211311&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is an age-associated phenomenon characterized by the proliferation of blood cells carrying somatic mutations. Recent studies suggest a potential link between CH and periodontitis, but the causal relationship remains unclear. A two-sample Mendelian randomization (MR) analysis was implemented, examining whether CH phenotypes are causally associated with periodontitis. CH phenotypes included overall clonal hematopoiesis (CH-overall), CH with a DNMT3A mutation (CH-DNMT3A),...]]></summary>
-        <author>
-            <name>Feng Qiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hematopoietic mosaic loss of Y chromosome: from population cohorts to pathogenic mechanisms]]></title>
-        <id>pubmed:40204516</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40204516/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250410211311&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mosaic loss of Y Chromosome (mLOY) refers to genetic mosaicism in males where some somatic cells have lost the Y chromosome (ChrY) while other cells remain their ChrY. mLOY is primarily found in the blood, not only because blood cells are easily accessible, but also because hematopoietic stem cells with LOY mutation gain competitive advantages, therefore producing a large number of LOY-positive blood cells via clonal hematopoiesis. Due to the specific structures, human ChrY is prone to be...]]></summary>
-        <author>
-            <name>Li-Na Zhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association of Clonal Hematopoiesis of Indeterminate Potential with Cardiovascular Events in Patients with CKD]]></title>
-        <id>pubmed:40202812</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202812/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250410211311&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In patients with CKD, non-DNMT3A CHIP was associated with cardiovascular disease with an effect size similar to that reported in the general population.]]></summary>
-        <author>
-            <name>Yang Pan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis of Indeterminate Potential and Progression of CKD]]></title>
-        <id>pubmed:40202794</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202794/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250410211311&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Non-DNMT3A CHIP was associated with CKD progression among individuals with CKD. Further, Tet2-CHIP mouse models support a causal role in kidney injury.]]></summary>
-        <author>
-            <name>Caitlyn Vlasschaert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mutational heterogeneities in STAT3 and clonal hematopoiesis-related genes in acquired pure red cell aplasia]]></title>
-        <id>pubmed:40202536</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202536/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250410211311&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dysregulation of T cell-mediated immunity is considered a major pathophysiological mechanism in acquired pure red cell aplasia (PRCA), including idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA, and thymoma-associated PRCA. Although STAT3 mutations are frequently detected in PRCA patients, the roles of other mutational profiles and their impact on clinical characteristics remain unclear. In this study, whole-exome sequencing and targeted sequencing using a custom-designed...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Association of Clonal Hematopoiesis of Indeterminate Potential with Cardiovascular Events in Patients with CKD]]></title>
-        <id>pubmed:40202812</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202812/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250409211241&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In patients with CKD, non-DNMT3A CHIP was associated with cardiovascular disease with an effect size similar to that reported in the general population.]]></summary>
-        <author>
-            <name>Yang Pan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis of Indeterminate Potential and Progression of CKD]]></title>
-        <id>pubmed:40202794</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202794/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250409211241&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Non-DNMT3A CHIP was associated with CKD progression among individuals with CKD. Further, Tet2-CHIP mouse models support a causal role in kidney injury.]]></summary>
-        <author>
-            <name>Caitlyn Vlasschaert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mutational heterogeneities in STAT3 and clonal hematopoiesis-related genes in acquired pure red cell aplasia]]></title>
-        <id>pubmed:40202536</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40202536/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250409211241&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dysregulation of T cell-mediated immunity is considered a major pathophysiological mechanism in acquired pure red cell aplasia (PRCA), including idiopathic PRCA, large granular lymphocytic leukemia-associated PRCA, and thymoma-associated PRCA. Although STAT3 mutations are frequently detected in PRCA patients, the roles of other mutational profiles and their impact on clinical characteristics remain unclear. In this study, whole-exome sequencing and targeted sequencing using a custom-designed...]]></summary>
-        <author>
-            <name>Toru Kawakami</name>
         </author>
     </entry>
     <entry>
