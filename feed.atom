@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2025-07-18T01:23:47.261Z</updated>
+    <updated>2025-07-19T01:21:25.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Title: clonal hematopoiesis of indeterminate potential and the risk of breast cancer a UK Biobank cohort study]]></title>
+        <id>pubmed:40679991</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40679991/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CHIP is associated with an increased risk of breast cancer, particularly influenced by the ATM and DNMT3A genes.]]></summary>
+        <author>
+            <name>Jiayi Lai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humanized mouse models in MDS]]></title>
+        <id>pubmed:40675972</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40675972/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndromes (MDS) are heterogeneous hematopoietic stem cell disorders defined by ineffective hematopoiesis, multilineage dysplasia, and risk of progression to acute myeloid leukemia. Improvements have been made to identify recurrent genetic mutations and their functional roles, but translating this into preclinical models is still difficult. Traditional murine systems lack the human-specific cytokine support and microenvironmental support that is necessary to reproduce MDS...]]></summary>
+        <author>
+            <name>Raluca Munteanu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GenoPath: a pipeline to infer tumor clone composition, mutational history, and metastatic cell migration events from tumor DNA sequencing data]]></title>
+        <id>pubmed:40672519</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40672519/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DNA sequencing technologies are widely used to study tumor evolution within a cancer patient. However, analyses require various computational methods, including those to infer clone sequences (genotypes of cancer cell populations), clone frequencies within each tumor sample, clone phylogeny, mutational tree, dynamics of mutational signatures, and metastatic cell migration events. Therefore, we developed GenoPath, a streamlined pipeline of existing tools to perform tumor evolution analysis. We...]]></summary>
+        <author>
+            <name>Ryan M Tobin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GenoPath: a pipeline to infer tumor clone composition, mutational history, and metastatic cell migration events from tumor DNA sequencing data]]></title>
         <id>pubmed:40672519</id>
@@ -14,6 +44,46 @@
         <summary type="html"><![CDATA[DNA sequencing technologies are widely used to study tumor evolution within a cancer patient. However, analyses require various computational methods, including those to infer clone sequences (genotypes of cancer cell populations), clone frequencies within each tumor sample, clone phylogeny, mutational tree, dynamics of mutational signatures, and metastatic cell migration events. Therefore, we developed GenoPath, a streamlined pipeline of existing tools to perform tumor evolution analysis. We...]]></summary>
         <author>
             <name>Ryan M Tobin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact of clonal hematopoiesis of indeterminate potential on arterial atherothrombosis and venous thromboembolism: Protocol for a systematic review and meta-analysis]]></title>
+        <id>pubmed:40668802</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40668802/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BACKGROUND: Clonal hematopoiesis of indeterminate potential (CHIP) is a novel risk factor for thromboembolic events. While CHIP is linked to an increased risk of incident atherothrombosis (ATE), the link between these two conditions varies across studies. Furthermore, the association between CHIP and incident venous thromboembolism (VTE) has not yet been well characterized. Among patients with established ATE and VTE, it is still unclear how CHIP carriership influences their health outcomes. We...]]></summary>
+        <author>
+            <name>Angela Todorovski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multitargeted Reduction of Inflammation and Atherosclerosis in <em>Tet2</em> -deficient CHIP via XPO1 Inhibition and Atf3 restoration]]></title>
+        <id>pubmed:40667061</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40667061/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TET2 is the second most frequently mutated gene in clonal hematopoiesis of indeterminate potential (CHIP), driving hematopoietic stem cell clonal expansion and increasing the risk of myeloid malignancies. Affected individuals often develop atherosclerotic cardiovascular disease, exacerbated by hyperinflammatory TET2 -mutant macrophages. Here, we show that the XPO1 nuclear export inhibitor eltanexor significantly reduces atherosclerotic plaque formation in a mouse model of Tet2 -mutant CHIP. In...]]></summary>
+        <author>
+            <name>Nicole Prutsch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MYD88 mutations in clonal hematopoiesis promote inflammation and hematopoietic stem cell expansion]]></title>
+        <id>pubmed:40667002</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40667002/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) is characterized by expansion of mutant hematopoietic stem and progenitor cells (HSPCs) and an increased risk of chronic diseases and cancers. While mutations in DNMT3A , TET2 , and ASXL1 are common in CHIP, the contribution of less frequent gene mutations is not well understood. Here, we report MYD88 mutations, including lymphoma-associated and novel variants in blood cells of the general population and newly diagnosed solid cancer...]]></summary>
+        <author>
+            <name>Jennifer Yeung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eltrombopag for Bone Marrow Failure in Fanconi Anemia: Results From the Phase II Clinical Trial FANCREV]]></title>
+        <id>pubmed:40665878</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40665878/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Eltrombopag stimulates hematopoiesis in aplastic anemia, and preclinical studies suggest it promotes DNA repair in Fanconi Anemia (FA) hematopoietic stem cells. We conducted a clinical trial to explore its safety and efficacy in bone marrow failure due to FA. Eltrombopag was administered to 8 pediatric patients with one or more significant cytopenias. After 6 months, those who achieved at least a partial response in peripheral blood continued treatment for 6 additional months. Median age was 7...]]></summary>
+        <author>
+            <name>June Iriondo</name>
         </author>
     </entry>
     <entry>
@@ -99,6 +169,26 @@
     <entry>
         <title type="html"><![CDATA[Ongoing genome doubling shapes evolvability and immunity in ovarian cancer]]></title>
         <id>pubmed:40670783</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40670783/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whole-genome doubling (WGD) is a common feature of human cancers and is linked to tumour progression, drug resistance, and metastasis^(1-6). Here we examine the impact of WGD on somatic evolution and immune evasion at single-cell resolution in patient tumours. Using single-cell whole-genome sequencing, we analysed 70 high-grade serous ovarian cancer samples from 41 patients (30,260 tumour genomes) and observed near-ubiquitous evidence that WGD is an ongoing mutational process. WGD was associated...]]></summary>
+        <author>
+            <name>Andrew McPherson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early NOTCH1 mutation is positively selected but epistatically suppresses evolution of later esophageal squamous-cell carcinoma drivers]]></title>
+        <id>pubmed:40667321</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40667321/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Our findings demonstrate that early positively selected mutations in NOTCH1 and other genes can shape evolutionary trajectories in ways that ultimately constrain malignant progression. Quantification of step-specific selection and identification of antagonistic epistatic interactions with key tumor suppressors reveals that somatic evolution is often context-dependent-what promotes clonal expansion in normal tissue may later impede growth or survival in tumors. These insights...]]></summary>
+        <author>
+            <name>Kira A Glasmacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ongoing genome doubling shapes evolvability and immunity in ovarian cancer]]></title>
+        <id>pubmed:40670783</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40670783/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250717212345&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-07-16T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Whole-genome doubling (WGD) is a common feature of human cancers and is linked to tumour progression, drug resistance, and metastasis^(1-6). Here we examine the impact of WGD on somatic evolution and immune evasion at single-cell resolution in patient tumours. Using single-cell whole-genome sequencing, we analysed 70 high-grade serous ovarian cancer samples from 41 patients (30,260 tumour genomes) and observed near-ubiquitous evidence that WGD is an ongoing mutational process. WGD was associated...]]></summary>
@@ -124,6 +214,26 @@
         <summary type="html"><![CDATA[CONCLUSIONS: Our findings demonstrate that early positively selected mutations in NOTCH1 and other genes can shape evolutionary trajectories in ways that ultimately constrain malignant progression. Quantification of step-specific selection and identification of antagonistic epistatic interactions with key tumor suppressors reveals that somatic evolution is often context-dependent-what promotes clonal expansion in normal tissue may later impede growth or survival in tumors. These insights...]]></summary>
         <author>
             <name>Kira A Glasmacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germline genetic variation impacts clonal hematopoiesis landscape and progression to malignancy]]></title>
+        <id>pubmed:40664769</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40664769/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With age, clonal expansions occur pervasively across normal tissues yet only in rare instances lead to cancer, despite being driven by well-established cancer drivers. Characterization of the factors that influence clonal progression is needed to inform interventional approaches. Germline genetic variation influences cancer risk and shapes tumor mutational profile, but its influence on the mutational landscape of normal tissues is not well known. Here we studied the impact of germline genetic...]]></summary>
+        <author>
+            <name>Jie Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Age-dependent phenotypic and molecular evolution of pediatric MDS arising from GATA2 deficiency]]></title>
+        <id>pubmed:40664679</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40664679/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GATA2 deficiency is an autosomal dominant transcriptopathy disorder with high risk for myelodysplastic syndrome (MDS). To elucidate genotype-phenotype associations and identify new genetic risk factors for MDS, we analyzed 218 individuals with germline heterozygous GATA2 variants. We observed striking age-dependent incidence patterns in GATA2-related MDS (GATA2-MDS), with MDS being absent in infants, rare before age 6 years, and steeply increasing in older children. Among 108 distinct GATA2...]]></summary>
+        <author>
+            <name>Lili Kotmayer</name>
         </author>
     </entry>
     <entry>
@@ -169,6 +279,16 @@
     <entry>
         <title type="html"><![CDATA[Germline genetic variation impacts clonal hematopoiesis landscape and progression to malignancy]]></title>
         <id>pubmed:40664769</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40664769/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With age, clonal expansions occur pervasively across normal tissues yet only in rare instances lead to cancer, despite being driven by well-established cancer drivers. Characterization of the factors that influence clonal progression is needed to inform interventional approaches. Germline genetic variation influences cancer risk and shapes tumor mutational profile, but its influence on the mutational landscape of normal tissues is not well known. Here we studied the impact of germline genetic...]]></summary>
+        <author>
+            <name>Jie Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germline genetic variation impacts clonal hematopoiesis landscape and progression to malignancy]]></title>
+        <id>pubmed:40664769</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40664769/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250717212345&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-07-15T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[With age, clonal expansions occur pervasively across normal tissues yet only in rare instances lead to cancer, despite being driven by well-established cancer drivers. Characterization of the factors that influence clonal progression is needed to inform interventional approaches. Germline genetic variation influences cancer risk and shapes tumor mutational profile, but its influence on the mutational landscape of normal tissues is not well known. Here we studied the impact of germline genetic...]]></summary>
@@ -184,6 +304,26 @@
         <summary type="html"><![CDATA[With age, clonal expansions occur pervasively across normal tissues yet only in rare instances lead to cancer, despite being driven by well-established cancer drivers. Characterization of the factors that influence clonal progression is needed to inform interventional approaches. Germline genetic variation influences cancer risk and shapes tumor mutational profile, but its influence on the mutational landscape of normal tissues is not well known. Here we studied the impact of germline genetic...]]></summary>
         <author>
             <name>Jie Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iron Overload, Clonal Hematopoiesis, and Cancer Risk in Aging and Transfusion-Dependent Populations: A Literature Review]]></title>
+        <id>pubmed:40656262</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40656262/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aging also contributes to cancer risk factor potentiation by disturbed iron metabolism and genomic instability, both of which contribute to enhanced risk of cancer, particularly in transfusion-dependent groups such as patients with β-thalassemia or myelodysplastic syndromes. Systemic iron overload results from chronic transfusions and progressively disturbed iron homeostasis and clonal hematopoiesis of indeterminate potential (CHIP) that contribute to oncogenic burden. All these create a...]]></summary>
+        <author>
+            <name>Quang D La</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis driven by Dnmt3a mutations promotes metabolic disease development]]></title>
+        <id>pubmed:40654809</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40654809/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is associated with an increased risk of non-hematologic chronic diseases including metabolic disorders, yet the causality remains poorly defined. DNMT3A is the most frequently altered gene in CH, commonly through monoallelic loss-of-function (LOF) and Arg882His (RH) hotspot mutations. Here we demonstrate in a mouse model that CH driven by Dnmt3a RH and especially LOF promotes obesity, diabetes, and chronic liver disease, further exacerbated by high-fat diet (HFD).]]></summary>
+        <author>
+            <name>Bowen Yan</name>
         </author>
     </entry>
     <entry>
@@ -264,6 +404,36 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is associated with an increased risk of non-hematologic chronic diseases including metabolic disorders, yet the causality remains poorly defined. DNMT3A is the most frequently altered gene in CH, commonly through monoallelic loss-of-function (LOF) and Arg882His (RH) hotspot mutations. Here we demonstrate in a mouse model that CH driven by Dnmt3a RH and especially LOF promotes obesity, diabetes, and chronic liver disease, further exacerbated by high-fat diet (HFD).]]></summary>
         <author>
             <name>Bowen Yan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combined effects of clonal hematopoiesis of intermediate potential and P2Y(12) inhibitors on outcomes of patients with ST-segment elevation myocardial infarction: A prospective study]]></title>
+        <id>pubmed:40651588</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40651588/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of intermediate potential (CHIP) is a prominent risk factor for atherosclerosis, but effective medications for CHIP-associated risk are still lacking. This study aimed to assess prognostic impacts of P2Y(12) inhibitors in the context of CHIP with a prospective cohort of 1332 patients of ST-segment elevation myocardial infarction (STEMI). Using targeted deep sequencing, CHIP was defined by any CHIP-gene mutations with variant allele frequency (VAF) > 2%. Patients were...]]></summary>
+        <author>
+            <name>Runzhen Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential and risk of incident Crohn's disease-a prospective cohort study]]></title>
+        <id>pubmed:40651007</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40651007/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CHIP was associated with a markedly increased risk of subsequent CD. The association was particularly stronger in JAK2-mutant CHIP, ASXL1-mutant CHIP, and DNMT3A-mutant CHIP. The findings of this study may offer potential insights for future investigations into the mechanistic underpinnings of CD.]]></summary>
+        <author>
+            <name>Yuqing Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oxidative Stress and Mitochondrial Dysfunction in Myelodysplastic Syndrome: Roles in Development, Diagnosis, Prognosis, and Treatment]]></title>
+        <id>pubmed:40650192</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40650192/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic syndromes are a group of clonal hematopoietic stem cell disorders characterized by ineffective hematopoiesis, peripheral cytopenia, and dysplasia in one or more myeloid lineages, with a variable risk of progression to acute myeloid leukemia. In addition to well-characterized genetic and epigenetic abnormalities, oxidative stress has emerged as a critical contributor to the pathophysiology of myelodysplastic syndrome. Reactive oxygen species and reactive nitrogen species can...]]></summary>
+        <author>
+            <name>Federico Pierro</name>
         </author>
     </entry>
     <entry>
@@ -419,6 +589,16 @@
     <entry>
         <title type="html"><![CDATA[Blood biomarkers are altered in elderly hematological patients exhibiting a mosaic loss of the Y chromosome in bone marrow cells]]></title>
         <id>pubmed:40646469</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40646469/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: LOY exhibits disease-specific associations with immune-metabolic dysregulation, particularly in AML/MDS and CLL/lymphoma. Its varying burden and biomarker profiles suggest potential utility in risk stratification, warranting further prospective validation.]]></summary>
+        <author>
+            <name>Lin Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blood biomarkers are altered in elderly hematological patients exhibiting a mosaic loss of the Y chromosome in bone marrow cells]]></title>
+        <id>pubmed:40646469</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40646469/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250717212345&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-07-11T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSION: LOY exhibits disease-specific associations with immune-metabolic dysregulation, particularly in AML/MDS and CLL/lymphoma. Its varying burden and biomarker profiles suggest potential utility in risk stratification, warranting further prospective validation.]]></summary>
@@ -474,6 +654,16 @@
         <summary type="html"><![CDATA[CONCLUSION: LOY exhibits disease-specific associations with immune-metabolic dysregulation, particularly in AML/MDS and CLL/lymphoma. Its varying burden and biomarker profiles suggest potential utility in risk stratification, warranting further prospective validation.]]></summary>
         <author>
             <name>Lin Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis and risk of non-myeloid subsequent malignant neoplasms after autologous hematopoietic cell transplantation]]></title>
+        <id>pubmed:40637687</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40637687/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CH was significantly associated with risk of non-myeloid SMNs after HCT, and the magnitude of association increased by VAF. CH may serve as a biomarker for identifying HCT survivors at higher risk for developing non-myeloid SMNs.]]></summary>
+        <author>
+            <name>June-Wha Rhee</name>
         </author>
     </entry>
     <entry>
@@ -824,6 +1014,26 @@
         <summary type="html"><![CDATA[Identifying the presence of tumors at a very early stage or deciphering the process underlying their development can enable the interception of pro-malignant mechanisms underpinning cancer emergence, facilitating more effective prevention. Advances in molecular profiling allow the detection of genetic, epigenetic, immune, and microenvironmental alterations associated with cancer risk. Liquid biopsy permits non-invasive analysis of circulating tumor cells, nucleic acids, immune cells,...]]></summary>
         <author>
             <name>Adriana Albini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prognostic significance of early on-treatment evolution of circulating tumor DNA in advanced ER+/HER2- breast cancer]]></title>
+        <id>pubmed:40623476</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40623476/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Early on-treatment evolution of ctDNA is prognostic for both PFS and OS in advanced ER+/HER2- breast cancer. A ctDNA-based risk model improves upon traditional RECIST and clinical parameters, advocating for ctDNA as a prognostic biomarker in clinical practice.]]></summary>
+        <author>
+            <name>A Mamann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single-cell mutational burden distributions in birth-death processes]]></title>
+        <id>pubmed:40623094</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40623094/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-07-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Genetic mutations are footprints of cancer evolution and reveal critical dynamic parameters of tumour growth, which otherwise are hard to measure in vivo. The mutation accumulation in tumour cell populations has been described by various statistics, such as site frequency spectra (SFS), single-cell division distributions (DD) and mutational burden distributions (MBD). While DD and SFS have been intensively studied in phylogenetics especially after the development of whole genome sequencing...]]></summary>
+        <author>
+            <name>Christo Morison</name>
         </author>
     </entry>
     <entry>
@@ -2709,6 +2919,16 @@
     <entry>
         <title type="html"><![CDATA[Theoretical Study of Retinoblastoma in the Hereditary and Non-hereditary Processes Including the Cancer Growth]]></title>
         <id>pubmed:40569505</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40569505/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The two-hit model proposed by Knudson for retinoblastoma has been widely recognized as a standard model for cancer incidence. It successfully predicted the existence of the tumor suppressor gene known as "Rb1" by effectively demonstrating the overall patterns observed in clinical data covering both bilateral and unilateral retinoblastoma cases. However, it is important to note that the model's prediction currently deviates significantly from clinical data, both qualitatively and quantitatively....]]></summary>
+        <author>
+            <name>Hiroshi Toki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theoretical Study of Retinoblastoma in the Hereditary and Non-hereditary Processes Including the Cancer Growth]]></title>
+        <id>pubmed:40569505</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40569505/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250717212345&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-06-26T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[The two-hit model proposed by Knudson for retinoblastoma has been widely recognized as a standard model for cancer incidence. It successfully predicted the existence of the tumor suppressor gene known as "Rb1" by effectively demonstrating the overall patterns observed in clinical data covering both bilateral and unilateral retinoblastoma cases. However, it is important to note that the model's prediction currently deviates significantly from clinical data, both qualitatively and quantitatively....]]></summary>
@@ -4429,6 +4649,16 @@
     <entry>
         <title type="html"><![CDATA[Methylation aberrations and genomic instability synergistically drive the evolution of intrahepatic cholangiocarcinoma]]></title>
         <id>pubmed:40527503</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40527503/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: These findings highlight the potential of DNA methylation as a biomarker for metastasis diagnosis and the interplay between local genomic instability and aberrant methylation, emphasizing their synergistic roles in driving the evolutionary trajectory of ICC.]]></summary>
+        <author>
+            <name>Guanghao Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Methylation aberrations and genomic instability synergistically drive the evolution of intrahepatic cholangiocarcinoma]]></title>
+        <id>pubmed:40527503</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40527503/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250717212345&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-06-17T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: These findings highlight the potential of DNA methylation as a biomarker for metastasis diagnosis and the interplay between local genomic instability and aberrant methylation, emphasizing their synergistic roles in driving the evolutionary trajectory of ICC.]]></summary>
@@ -4704,6 +4934,16 @@
         <summary type="html"><![CDATA[CONCLUSIONS.—: Our study provides data-driven technical insights for laboratories considering MFC AML MRD implementation and offers strong evidence supporting the utility of MRD assessment by MFC in patients with AML undergoing various stages of treatment and surveillance.]]></summary>
         <author>
             <name>Sa A Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research progress of colorectal cancer in genomic and transcriptomic at multi-level]]></title>
+        <id>pubmed:40520235</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40520235/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Colorectal cancer is a common malignant tumor in the gastrointestinal tract, and the mechanisms of its occurrence, development, and metastasis have always been the focus of the medical community's attention. The study of CRC genetic mechanisms began with the identification of oncogenes or tumor suppressor genes and their key pathways. With further research, researchers gradually realized that single genes or pathways alone could not explain the occurrence, development, and metastasis of CRC. The...]]></summary>
+        <author>
+            <name>Qinglian Wen</name>
         </author>
     </entry>
     <entry>
@@ -5819,6 +6059,26 @@
     <entry>
         <title type="html"><![CDATA[Competing Subclones and Fitness Diversity Shape Tumor Evolution Across Cancer Types]]></title>
         <id>pubmed:40502073</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40502073/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intratumor heterogeneity arises from ongoing somatic evolution complicating cancer diagnosis, prognosis, and treatment. Here we present TEATIME (estimating evolutionary events through single-timepoint sequencing), a novel computational framework that models tumors as mixtures of two competing cell populations: an ancestral clone with baseline fitness and a derived subclone with elevated fitness. Using cross-sectional bulk sequencing data, TEATIME estimates mutation rates, timing of subclone...]]></summary>
+        <author>
+            <name>Hai Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Damage and Misrepair Signatures: Compact Representations of Pan-cancer Mutational Processes]]></title>
+        <id>pubmed:40501882</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40501882/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mutational signatures of single-base substitutions (SBSs) characterize somatic mutation processes which contribute to cancer development and progression. However, current mutational signatures do not distinguish the two independent steps that generate SBSs: the initial DNA damage followed by erroneous repair. To address this modelling gap we developed DAMUTA, a hierarchical Bayesian probabilistic model that infers separate signatures for each process, and captures their sample-specific...]]></summary>
+        <author>
+            <name>Caitlin F Harrigan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Competing Subclones and Fitness Diversity Shape Tumor Evolution Across Cancer Types]]></title>
+        <id>pubmed:40502073</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40502073/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250717212345&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-06-12T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Intratumor heterogeneity arises from ongoing somatic evolution complicating cancer diagnosis, prognosis, and treatment. Here we present TEATIME (estimating evolutionary events through single-timepoint sequencing), a novel computational framework that models tumors as mixtures of two competing cell populations: an ancestral clone with baseline fitness and a derived subclone with elevated fitness. Using cross-sectional bulk sequencing data, TEATIME estimates mutation rates, timing of subclone...]]></summary>
@@ -6839,6 +7099,16 @@
     <entry>
         <title type="html"><![CDATA[Genomic profile helps to predict the clonal evolution and outcome of BCR-ABL-negative myeloproliferative neoplasms]]></title>
         <id>pubmed:40494174</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40494174/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Classical BCR-ABL-negative myeloproliferative neoplasms (MPNs) are a clonal expansion of myeloid precursors caused by somatic stem cells. Although driver mutations were observed in most MPN patients, the potential clonal disorder remains unclear. We analyzed a total of 1004 newly diagnosed MPN patients and next-generation sequencing was performed on the genomic DNA. Primary myelofibrosis (PMF) patients carried the highest LDH level, splenomegaly, and the lowest hemoglobin content....]]></summary>
+        <author>
+            <name>Xiaodong Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomic profile helps to predict the clonal evolution and outcome of BCR-ABL-negative myeloproliferative neoplasms]]></title>
+        <id>pubmed:40494174</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40494174/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250717212345&amp;v=2.18.0.post9+e462414"/>
         <updated>2025-06-10T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Classical BCR-ABL-negative myeloproliferative neoplasms (MPNs) are a clonal expansion of myeloid precursors caused by somatic stem cells. Although driver mutations were observed in most MPN patients, the potential clonal disorder remains unclear. We analyzed a total of 1004 newly diagnosed MPN patients and next-generation sequencing was performed on the genomic DNA. Primary myelofibrosis (PMF) patients carried the highest LDH level, splenomegaly, and the lowest hemoglobin content....]]></summary>
@@ -7204,6 +7474,16 @@
         <summary type="html"><![CDATA[Classical BCR-ABL-negative myeloproliferative neoplasms (MPNs) are a clonal expansion of myeloid precursors caused by somatic stem cells. Although driver mutations were observed in most MPN patients, the potential clonal disorder remains unclear. We analyzed a total of 1004 newly diagnosed MPN patients and next-generation sequencing was performed on the genomic DNA. Primary myelofibrosis (PMF) patients carried the highest LDH level, splenomegaly, and the lowest hemoglobin content....]]></summary>
         <author>
             <name>Xiaodong Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transdifferentiation of Multiple Myeloma into Histiocytic Sarcoma: Case Report of a Highly Unusual Phenomenon]]></title>
+        <id>pubmed:40484006</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40484006/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: This case highlights lineage plasticity of MM to undergo HS transdifferentiation, potentially mediated through a mutated common GCB precursor antecedent to the plasma cell stage, and the subsequent development of HS and MM through acquisition of additional genetic events. Recognition of this exceptional phenomenon and understanding its underlying mechanism have implications for diagnosis, classification, and personalized treatment.]]></summary>
+        <author>
+            <name>Neha Seth</name>
         </author>
     </entry>
     <entry>
@@ -7804,6 +8084,16 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) represents clonal expansion of blood cells, and increases the risk of hematological malignancies and cardiovascular disorders. Recent studies have studied CHIP mutations in individuals with Alzheimer's disease (AD), but it is unclear whether their role in AD pathogenesis is protective, detrimental, or neutral. In this study, we used molecular-barcoded deep gene panel sequencing (∼400X) to examine CHIP mutations in 298 blood samples from AD...]]></summary>
         <author>
             <name>Jaejoon Choi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comprehensive Characterization of Somatic Mutation Timing Reveals the Evolutionary Trajectory of Lung Adenocarcinoma in Chinese Patients]]></title>
+        <id>pubmed:40479597</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40479597/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-06-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lung adenocarcinoma (LUAD) is a heterogeneous disease with substantial genomic differences between individuals of Chinese and European ancestry. Deciphering the timing of driver mutations may lead to insights into tumor evolution that can inform diagnostic and therapeutic approaches for LUAD. Here, we conducted whole-genome sequencing on LUAD samples from 251 patients with Chinese ancestry to reconstruct the evolutionary trajectories of somatic alterations, especially those across the non-coding...]]></summary>
+        <author>
+            <name>Na Qin</name>
         </author>
     </entry>
     <entry>
@@ -9034,6 +9324,16 @@
         <summary type="html"><![CDATA[Peptide receptor radionuclide therapy (PRRT) with lutetium-177-Dotatate (177Lu-DOTATATE) has transformed neuroendocrine tumor (NET) treatment, improving progression-free survival, symptom control, and quality of life. However, long-term hematologic toxicities, including therapy-related myeloid neoplasms (tMN), are increasingly recognized. These rare but severe complications, such as myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML), appear multifactorial, influenced by prior...]]></summary>
         <author>
             <name>Yael Kusne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking cancer]]></title>
+        <id>pubmed:40443342</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40443342/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250718212122&amp;v=2.18.0.post9+e462414"/>
+        <updated>2025-05-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past half-century of the global effort against cancer, the vast majority of investigations in both tumor basic research and clinical practice have centered on the "somatic mutation" theory, such as in molecular classification, individualized precision medicine strategies, gene therapy approaches, the development of neoantigen-based tumor vaccines, and advancements in sequencing technologies. Even in the extensively studied tumor microenvironment (including tumor immunity), which has...]]></summary>
+        <author>
+            <name>W R Luo</name>
         </author>
     </entry>
     <entry>
@@ -13884,566 +14184,6 @@
         <summary type="html"><![CDATA[INTRODUCTION: VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome is an acquired autoinflammatory disorder caused by somatic mutations in the UBA1 gene. Predominantly affecting males over 50, the disease presents with systemic inflammation, hematologic abnormalities, and features of clonal hematopoiesis, with nearly half of patients developing myelodysplastic syndromes (MDS). The interaction between inflammation and clonal expansion defines disease progression, emphasizing...]]></summary>
         <author>
             <name>Martina Fiumara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An artificial intelligence-based model for prediction of clonal hematopoiesis variants in cell-free DNA samples]]></title>
-        <id>pubmed:40394286</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394286/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250529211557&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Circulating tumor DNA is a critical biomarker in cancer diagnostics, but its accurate interpretation requires careful consideration of clonal hematopoiesis (CH), which can contribute to variants in cell-free DNA and potentially obscure true tumor-derived signals. Accurate detection of somatic variants of CH origin in plasma samples remains challenging in the absence of matched white blood cells sequencing. Here we present an open-source machine learning framework (MetaCH) which classifies...]]></summary>
-        <author>
-            <name>Gustavo Arango-Argoty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An artificial intelligence-based model for prediction of clonal hematopoiesis variants in cell-free DNA samples]]></title>
-        <id>pubmed:40394286</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394286/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250528211748&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Circulating tumor DNA is a critical biomarker in cancer diagnostics, but its accurate interpretation requires careful consideration of clonal hematopoiesis (CH), which can contribute to variants in cell-free DNA and potentially obscure true tumor-derived signals. Accurate detection of somatic variants of CH origin in plasma samples remains challenging in the absence of matched white blood cells sequencing. Here we present an open-source machine learning framework (MetaCH) which classifies...]]></summary>
-        <author>
-            <name>Gustavo Arango-Argoty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An artificial intelligence-based model for prediction of clonal hematopoiesis variants in cell-free DNA samples]]></title>
-        <id>pubmed:40394286</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394286/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250527211807&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Circulating tumor DNA is a critical biomarker in cancer diagnostics, but its accurate interpretation requires careful consideration of clonal hematopoiesis (CH), which can contribute to variants in cell-free DNA and potentially obscure true tumor-derived signals. Accurate detection of somatic variants of CH origin in plasma samples remains challenging in the absence of matched white blood cells sequencing. Here we present an open-source machine learning framework (MetaCH) which classifies...]]></summary>
-        <author>
-            <name>Gustavo Arango-Argoty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An artificial intelligence-based model for prediction of clonal hematopoiesis variants in cell-free DNA samples]]></title>
-        <id>pubmed:40394286</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394286/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250526211628&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Circulating tumor DNA is a critical biomarker in cancer diagnostics, but its accurate interpretation requires careful consideration of clonal hematopoiesis (CH), which can contribute to variants in cell-free DNA and potentially obscure true tumor-derived signals. Accurate detection of somatic variants of CH origin in plasma samples remains challenging in the absence of matched white blood cells sequencing. Here we present an open-source machine learning framework (MetaCH) which classifies...]]></summary>
-        <author>
-            <name>Gustavo Arango-Argoty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An artificial intelligence-based model for prediction of clonal hematopoiesis variants in cell-free DNA samples]]></title>
-        <id>pubmed:40394286</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394286/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250525211916&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Circulating tumor DNA is a critical biomarker in cancer diagnostics, but its accurate interpretation requires careful consideration of clonal hematopoiesis (CH), which can contribute to variants in cell-free DNA and potentially obscure true tumor-derived signals. Accurate detection of somatic variants of CH origin in plasma samples remains challenging in the absence of matched white blood cells sequencing. Here we present an open-source machine learning framework (MetaCH) which classifies...]]></summary>
-        <author>
-            <name>Gustavo Arango-Argoty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An artificial intelligence-based model for prediction of clonal hematopoiesis variants in cell-free DNA samples]]></title>
-        <id>pubmed:40394286</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394286/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250524212357&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Circulating tumor DNA is a critical biomarker in cancer diagnostics, but its accurate interpretation requires careful consideration of clonal hematopoiesis (CH), which can contribute to variants in cell-free DNA and potentially obscure true tumor-derived signals. Accurate detection of somatic variants of CH origin in plasma samples remains challenging in the absence of matched white blood cells sequencing. Here we present an open-source machine learning framework (MetaCH) which classifies...]]></summary>
-        <author>
-            <name>Gustavo Arango-Argoty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An artificial intelligence-based model for prediction of clonal hematopoiesis variants in cell-free DNA samples]]></title>
-        <id>pubmed:40394286</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394286/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250523211421&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Circulating tumor DNA is a critical biomarker in cancer diagnostics, but its accurate interpretation requires careful consideration of clonal hematopoiesis (CH), which can contribute to variants in cell-free DNA and potentially obscure true tumor-derived signals. Accurate detection of somatic variants of CH origin in plasma samples remains challenging in the absence of matched white blood cells sequencing. Here we present an open-source machine learning framework (MetaCH) which classifies...]]></summary>
-        <author>
-            <name>Gustavo Arango-Argoty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An artificial intelligence-based model for prediction of clonal hematopoiesis variants in cell-free DNA samples]]></title>
-        <id>pubmed:40394286</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394286/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250522211700&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Circulating tumor DNA is a critical biomarker in cancer diagnostics, but its accurate interpretation requires careful consideration of clonal hematopoiesis (CH), which can contribute to variants in cell-free DNA and potentially obscure true tumor-derived signals. Accurate detection of somatic variants of CH origin in plasma samples remains challenging in the absence of matched white blood cells sequencing. Here we present an open-source machine learning framework (MetaCH) which classifies...]]></summary>
-        <author>
-            <name>Gustavo Arango-Argoty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An artificial intelligence-based model for prediction of clonal hematopoiesis variants in cell-free DNA samples]]></title>
-        <id>pubmed:40394286</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394286/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250521211708&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Circulating tumor DNA is a critical biomarker in cancer diagnostics, but its accurate interpretation requires careful consideration of clonal hematopoiesis (CH), which can contribute to variants in cell-free DNA and potentially obscure true tumor-derived signals. Accurate detection of somatic variants of CH origin in plasma samples remains challenging in the absence of matched white blood cells sequencing. Here we present an open-source machine learning framework (MetaCH) which classifies...]]></summary>
-        <author>
-            <name>Gustavo Arango-Argoty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trajectories from single-cells to PAX5-driven leukemia reveal PAX5-MYC interplay in vivo]]></title>
-        <id>pubmed:40394211</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394211/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250706212426&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PAX5 acts as a master regulator of B-cell proliferation and differentiation. Its germline and somatic deregulation have both been implicated in the development of B-cell precursor acute lymphoblastic leukemia (BCP-ALL). However, the process how reduced PAX5 transcriptional activity mediates progression to BCP-ALL, is still poorly understood. Here, we characterized the longitudinal effects of PAX5 reduction on healthy, pre-leukemic and BCP-ALL cells at the single-cell level. Cell-surface marker...]]></summary>
-        <author>
-            <name>Franziska Auer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trajectories from single-cells to PAX5-driven leukemia reveal PAX5-MYC interplay in vivo]]></title>
-        <id>pubmed:40394211</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394211/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250705212656&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PAX5 acts as a master regulator of B-cell proliferation and differentiation. Its germline and somatic deregulation have both been implicated in the development of B-cell precursor acute lymphoblastic leukemia (BCP-ALL). However, the process how reduced PAX5 transcriptional activity mediates progression to BCP-ALL, is still poorly understood. Here, we characterized the longitudinal effects of PAX5 reduction on healthy, pre-leukemic and BCP-ALL cells at the single-cell level. Cell-surface marker...]]></summary>
-        <author>
-            <name>Franziska Auer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trajectories from single-cells to PAX5-driven leukemia reveal PAX5-MYC interplay in vivo]]></title>
-        <id>pubmed:40394211</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394211/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250704211702&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PAX5 acts as a master regulator of B-cell proliferation and differentiation. Its germline and somatic deregulation have both been implicated in the development of B-cell precursor acute lymphoblastic leukemia (BCP-ALL). However, the process how reduced PAX5 transcriptional activity mediates progression to BCP-ALL, is still poorly understood. Here, we characterized the longitudinal effects of PAX5 reduction on healthy, pre-leukemic and BCP-ALL cells at the single-cell level. Cell-surface marker...]]></summary>
-        <author>
-            <name>Franziska Auer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trajectories from single-cells to PAX5-driven leukemia reveal PAX5-MYC interplay in vivo]]></title>
-        <id>pubmed:40394211</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394211/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250703211941&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PAX5 acts as a master regulator of B-cell proliferation and differentiation. Its germline and somatic deregulation have both been implicated in the development of B-cell precursor acute lymphoblastic leukemia (BCP-ALL). However, the process how reduced PAX5 transcriptional activity mediates progression to BCP-ALL, is still poorly understood. Here, we characterized the longitudinal effects of PAX5 reduction on healthy, pre-leukemic and BCP-ALL cells at the single-cell level. Cell-surface marker...]]></summary>
-        <author>
-            <name>Franziska Auer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trajectories from single-cells to PAX5-driven leukemia reveal PAX5-MYC interplay in vivo]]></title>
-        <id>pubmed:40394211</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394211/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250702212004&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PAX5 acts as a master regulator of B-cell proliferation and differentiation. Its germline and somatic deregulation have both been implicated in the development of B-cell precursor acute lymphoblastic leukemia (BCP-ALL). However, the process how reduced PAX5 transcriptional activity mediates progression to BCP-ALL, is still poorly understood. Here, we characterized the longitudinal effects of PAX5 reduction on healthy, pre-leukemic and BCP-ALL cells at the single-cell level. Cell-surface marker...]]></summary>
-        <author>
-            <name>Franziska Auer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trajectories from single-cells to PAX5-driven leukemia reveal PAX5-MYC interplay in vivo]]></title>
-        <id>pubmed:40394211</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394211/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250701212000&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PAX5 acts as a master regulator of B-cell proliferation and differentiation. Its germline and somatic deregulation have both been implicated in the development of B-cell precursor acute lymphoblastic leukemia (BCP-ALL). However, the process how reduced PAX5 transcriptional activity mediates progression to BCP-ALL, is still poorly understood. Here, we characterized the longitudinal effects of PAX5 reduction on healthy, pre-leukemic and BCP-ALL cells at the single-cell level. Cell-surface marker...]]></summary>
-        <author>
-            <name>Franziska Auer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250630212817&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250629212423&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250628212806&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250627211730&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250626212017&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250625211921&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250624212023&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250623211959&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250622212401&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250621212625&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250620211755&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250619211851&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250618211934&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250617211849&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250616211947&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250615212140&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250614212709&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250613211629&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250612211942&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250611211827&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250610211947&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250609211946&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250608212229&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250607212528&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250606211723&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250605211757&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250604211805&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250603211858&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250602211905&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250601212103&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250531214000&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250530211559&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250529211557&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250528211748&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250527211807&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250526211628&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250525211916&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250524212357&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250523211421&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250522211700&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APOBEC affects tumor evolution and age at onset of lung cancer in smokers]]></title>
-        <id>pubmed:40394004</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40394004/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20250521211708&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-05-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most solid tumors harbor somatic mutations attributed to off-target activities of APOBEC3A (A3A) and/or APOBEC3B (A3B). However, how APOBEC3A/B enzymes affect tumor evolution in the presence of exogenous mutagenic processes is largely unknown. Here, multi-omics profiling of 309 lung cancers from smokers identifies two subtypes defined by low (LAS) and high (HAS) APOBEC mutagenesis. LAS are enriched for A3B-like mutagenesis and KRAS mutations; HAS for A3A-like mutagenesis and TP53 mutations....]]></summary>
-        <author>
-            <name>Tongwu Zhang</name>
         </author>
     </entry>
     <entry>
