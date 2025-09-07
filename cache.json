@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&utm_source=axios&v=2.18.0.post9+e462414&fc=20220608003622&ff=20250905210946&utm_campaign=pubmed-2",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&utm_campaign=pubmed-2&utm_source=axios&utm_medium=rss&ff=20250906211639&v=2.18.0.post9+e462414&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
       "articles": [
+        {
+          "id": "pubmed:40912236",
+          "author": "Jessica Pham",
+          "description": "Human hematopoietic stem and progenitor cell (HSPC) fitness declines following exposure to stressors that reduce survival, dormancy, telomere maintenance, and self-renewal, thereby accelerating aging. While previous National Aeronautics and Space Administration (NASA) research revealed immune dysfunction in low-earth orbit (LEO), the impact of spaceflight on human HSPC aging had not been studied. To study HSPC aging, our NASA-supported Integrated Space Stem Cell Orbital Research (ISSCOR) team...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40912236/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-05T10:00:00.000Z",
+          "wordCount": 1912,
+          "title": "Nanobioreactor detection of space-associated hematopoietic stem and progenitor cell aging",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40909656",
+          "author": "P D Lyon",
+          "description": "Recent studies have linked elevated vitamin B12 serum levels with the presence of clonal hematopoiesis (CH) and an increased risk of developing myeloid malignancy. High B12 supplementation increases serum levels, alters gut microbial composition, and reduces the production of short-chain fatty acids (SCFAs), which help maintain gut barrier function and mucosal integrity. TET2 mutation is a frequent driver of CH that progresses in a positive feedback loop in response to microbial signals...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40909656/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-05T10:00:00.000Z",
+          "wordCount": 1502,
+          "title": "B12 promotes gut dysbiosis and an inflammatory microenvironment that potentiates Tet2 -deficient hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:40909656",
           "author": "P D Lyon",
@@ -220,6 +240,46 @@
           "publishedOn": "2025-09-05T10:00:00.000Z",
           "wordCount": 1180,
           "title": "B12 promotes gut dysbiosis and an inflammatory microenvironment that potentiates Tet2 -deficient hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40906433",
+          "author": "Dominik Nann",
+          "description": "Myeloid sarcoma (MS) is a mass-forming extramedullary manifestation of myeloid blasts, either in relation to an underlying acute myeloid leukemia (AML), another myeloid neoplasm (MN) or as a de novo occurrence. Data on the genetic profile of MS are sparse. In this study, 41 MS of 34 patients, including 7 de novo cases and 24 patients with antecedent or synchronous MN, were analyzed with targeted next-generation sequencing (NGS), RNA-based fusion detection, and gene expression profiling (GEP). In...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40906433/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-04T10:00:00.000Z",
+          "wordCount": 2891,
+          "title": "Myeloid sarcoma shows a high frequency of mutations activating the MAPK/ERK pathway and association with clonal hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40905664",
+          "author": "Lars Thielecke",
+          "description": "The sustained production of blood and immune cells is driven by a pool of hematopoietic stem cells (HSCs) and their offspring. Due to the intrinsic heterogeneity of HSCs, the composition of emergent clones changes over time, leading to a reduced clonality in aging mice and humans. Theoretical analyses suggest that clonal conversion rates and clonal complexity depend not only on HSC heterogeneity, but also on additional stress conditions. These insights are particularly relevant in the context of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40905664/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-04T10:00:00.000Z",
+          "wordCount": 1675,
+          "title": "The impact of donor and recipient age on post-transplantation clonality in murine haematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40905095",
+          "author": "José C Martínez",
+          "description": "Clonal hematopoiesis (CH) is a frequently observed phenomenon in aging individuals without apparent illness and exhibits an increased prevalence in cancer patients. Mechanistic studies indicate that mutant immune cells alter the tumor microenvironment, leading to increased inflammation, blood vessel formation, and immune cell exhaustion. Paradoxically, these changes also preserve stem-like T-cell pools that can be utilized by immunotherapy. CH may be incidentally detected in patients whose solid...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40905095/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-04T10:00:00.000Z",
+          "wordCount": 1546,
+          "title": "What's hidden in plain sight? Impact of clonal hematopoiesis on the risk and progression of non-hematologic cancers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40905074",
+          "author": "Casey K Wong",
+          "description": "Clonal hematopoiesis (CH) involves the expansion of hematopoietic stem cells with ageacquired mutations linked to myeloid malignancy. Advances in next-generation and single-cell sequencing, along with computational modeling, have expanded our ability to detect both common and rare CH drivers, including single-nucleotide variants and mosaic chromosomal alterations, with increasing sensitivity. While sequencing methods differ in accuracy, cost, and ability to detect low-frequency variants, they...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40905074/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-04T10:00:00.000Z",
+          "wordCount": 1579,
+          "title": "CHIP ahoy: charting a decade of discovery in clonal hematopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -306,6 +366,26 @@
           "id": "pubmed:40892620",
           "author": "Niekbachsh Mohammadnia",
           "description": "CONCLUSIONS: In this exploratory analysis, treatment with low-dose colchicine was associated with attenuated clonal expansion in TET2 CH. These findings suggest the potential for colchicine to curb the proliferative advantage of key CH driver mutations and mitigate their associated risk of cardiovascular disease. Further validation in prospective studies is warranted.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40892620/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-02T10:00:00.000Z",
+          "wordCount": 2232,
+          "title": "Colchicine and Longitudinal Dynamics of Clonal Hematopoiesis: An Exploratory Substudy of the LoDoCo2 Trial",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40892483",
+          "author": "Cornelia Englisch",
+          "description": "CONCLUSIONS: Seven percent of ESKD patients on HD presented with CH. There was no association between CH and stroke, myocardial infarction, or VTE. CH was associated with vascular access thrombosis.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40892483/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-02T10:00:00.000Z",
+          "wordCount": 1687,
+          "title": "Clonal Hematopoiesis and Cardiovascular Events in Patients with End-Stage Kidney Disease on Hemodialysis: Results from the VIVALDI Study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40892620",
+          "author": "Niekbachsh Mohammadnia",
+          "description": "CONCLUSIONS: In this exploratory analysis, treatment with low-dose colchicine was associated with attenuated clonal expansion in TET2 CH. These findings suggest the potential for colchicine to curb the proliferative advantage of key CH driver mutations and mitigate their associated risk of cardiovascular disease. Further validation in prospective studies is warranted.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40892620/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250905210946&v=2.18.0.post9+e462414",
           "publishedOn": "2025-09-02T10:00:00.000Z",
           "wordCount": 2225,
@@ -386,6 +466,16 @@
           "id": "pubmed:40886947",
           "author": "Junichi Sugita",
           "description": "The cardiopulmonary system is not only a pump-respirator network but also a sophisticated sensor-effector circuit. Recent findings have highlighted how mechanical and inflammatory stress in the heart and lungs is transmitted via afferent nerves-including vagal, glossopharyngeal, and spinal fibers-to the brainstem and higher autonomic centers. These afferent signals trigger adaptive or maladaptive efferent responses via the sympathetic nervous system, which in turn modulate immune cell dynamics...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40886947/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-31T10:00:00.000Z",
+          "wordCount": 1656,
+          "title": "Cardiopulmonary neuro-immune reflex: From afferent stress signaling to peripheral myeloid memory",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40886947",
+          "author": "Junichi Sugita",
+          "description": "The cardiopulmonary system is not only a pump-respirator network but also a sophisticated sensor-effector circuit. Recent findings have highlighted how mechanical and inflammatory stress in the heart and lungs is transmitted via afferent nerves-including vagal, glossopharyngeal, and spinal fibers-to the brainstem and higher autonomic centers. These afferent signals trigger adaptive or maladaptive efferent responses via the sympathetic nervous system, which in turn modulate immune cell dynamics...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40886947/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250905210946&v=2.18.0.post9+e462414",
           "publishedOn": "2025-08-31T10:00:00.000Z",
           "wordCount": 1656,
@@ -430,6 +520,16 @@
           "publishedOn": "2025-08-31T10:00:00.000Z",
           "wordCount": 1408,
           "title": "Cardiopulmonary neuro-immune reflex: From afferent stress signaling to peripheral myeloid memory",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40884495",
+          "author": "Art Schuermans",
+          "description": "CONCLUSIONS AND RELEVANCE: In this study, CHIP was a strong risk factor for myocarditis and pericarditis among middle-aged adults. Targeting CHIP and its downstream pathways may represent a strategy for preventing or treating pericarditis and myocarditis.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40884495/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-30T10:00:00.000Z",
+          "wordCount": 2729,
+          "title": "Clonal Hematopoiesis and Risk of New-Onset Myocarditis and Pericarditis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -580,6 +680,46 @@
           "publishedOn": "2025-08-29T10:00:00.000Z",
           "wordCount": 1551,
           "title": "Id1 promotes clonal hematopoiesis in mice with Tet2 loss of function",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40869976",
+          "author": "Sanghyeon Yu",
+          "description": "Background/Objectives: Myelodysplastic syndrome (MDS) is a heterogeneous clonal hematopoietic disorder characterized by ineffective hematopoiesis and leukemic transformation risk. Current therapies show limited efficacy, with ~50% of patients failing hypomethylating agents. This review aims to synthesize recent discoveries through an integrated network model and examine translation into precision therapeutic approaches. Methods: We reviewed breakthrough discoveries from the past three years,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40869976/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-28T10:00:00.000Z",
+          "wordCount": 2334,
+          "title": "A Genetically-Informed Network Model of Myelodysplastic Syndrome: From Splicing Aberrations to Therapeutic Vulnerabilities",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40869584",
+          "author": "Mihai-Emilian Lapadat",
+          "description": "Background: Myelodysplastic syndromes are clonal hematopoietic disorders characterized by ineffective hematopoiesis and risk of progression to acute myeloid leukemia. Accurate prognostic stratification is essential to guide treatment, with several scoring systems in clinical use: IPSS, IPSS-R, and WPSS. Objective: We aimed to evaluate the prognostic accuracy of IPSS, IPSS-R, and WPSS in a real-world Romanian MDS cohort by comparing risk classifications with observed overall survival and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40869584/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-28T10:00:00.000Z",
+          "wordCount": 2182,
+          "title": "Comparative Analysis of IPSS, IPSS-R, and WPSS for Predicting Survival and Leukemic Transformation in Myelodysplastic Neoplasms: A Real-World Single-Center Experience",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40869343",
+          "author": "Corinne Natalie Schmid",
+          "description": "Autologous stem cell transplantation (ASCT) after high-dose chemo-therapy (HDCT) is an option of consolidation therapy in patients with AML, lymphoma, or myeloma. Clonal hematopoiesis (CH) is a premalignant state, associated with an increased risk of hematological cancer. The incidence of CH in patients with AML, myeloma, and lymphoma and its effect on the outcome after HDCT/ASCT remain poorly studied. Here we screened 142 patients treated with HDCT/ASCT between 2002 and 2021 at Bern University...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40869343/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-28T10:00:00.000Z",
+          "wordCount": 2311,
+          "title": "Clonal Hematopoiesis and Outcomes After High-Dose Chemotherapy and Autologous Stem Cell Transplantation in Patients with AML, Myeloma, and Lymphoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40869252",
+          "author": "Salvatore Corrao",
+          "description": "VEXAS syndrome (Vacuoles, E1-enzyme, X-linked, Autoinflammation, and Somatic) is a recently identified late-onset autoinflammatory disorder characterized by a unique interplay between hematological and inflammatory manifestations. It results from somatic mutations in the UBA1 gene, located on the short arm of the X chromosome. Initially, females were considered mere carriers, with the syndrome primarily affecting males over 50. However, recent evidence indicates that heterozygous females can...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40869252/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-28T10:00:00.000Z",
+          "wordCount": 2360,
+          "title": "VEXAS Syndrome: Genetics, Gender Differences, Clinical Insights, Diagnostic Pitfalls, and Emerging Therapies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -1160,6 +1300,16 @@
           "publishedOn": "2025-08-27T10:00:00.000Z",
           "wordCount": 2102,
           "title": "Clonal Hematopoiesis and Cardiovascular Outcomes in Older Women",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40858808",
+          "author": "Shyam A Patel",
+          "description": "The year 2026 marks the semi-centennial of the first iteration of the classification schema for myeloid neoplasms, namely the 1976 French-American-British (FAB) classification created by John M. Bennett and colleagues. The FAB classification of acute leukemia formed the biological framework of our current understanding of myeloid neoplasia. Reflecting from this historical lens, we have seen remarkable advances in diagnostics, prognostication, and therapeutics over the decades. Concerted efforts...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40858808/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-26T10:00:00.000Z",
+          "wordCount": 1868,
+          "title": "The evolving nosology of myeloid neoplasms: the semi-centennial of the 1976 French-American-British classification",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8051,194 +8201,24 @@
           "wordCount": 1453,
           "title": "Clonal hematopoiesis and risk of non-myeloid subsequent malignant neoplasms after autologous hematopoietic cell transplantation",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630213",
-          "author": "Yifan Wang",
-          "description": "The insulin-like growth factor (IGF) signaling system comprises functionally specific ligands (IGF-I and IGF-II), receptor (IR), and binding proteins (IGFBP). IGFs are activated by binding to their receptor, IGF-IR, which is a tyrosine kinase receptor. This activation initiates signaling cascades such as PI3K/Akt and MAPK/ErK pathways, which are essential for cell proliferation, differentiation, and survival. Growing evidence links the IGF system to various hematological disorders, yet...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630213/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250717212345&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 2019,
-          "title": "Advances in the role of the IGF signaling system in myelodysplastic syndromes and acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630204",
-          "author": "Jadwiga Filipek-Gorzała",
-          "description": "[This corrects the article DOI: 10.3389/fonc.2024.1308709.].",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630204/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250717212345&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 1446,
-          "title": "Correction: The dark side of stemness - the role of hematopoietic stem cells in development of blood malignancies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630213",
-          "author": "Yifan Wang",
-          "description": "The insulin-like growth factor (IGF) signaling system comprises functionally specific ligands (IGF-I and IGF-II), receptor (IR), and binding proteins (IGFBP). IGFs are activated by binding to their receptor, IGF-IR, which is a tyrosine kinase receptor. This activation initiates signaling cascades such as PI3K/Akt and MAPK/ErK pathways, which are essential for cell proliferation, differentiation, and survival. Growing evidence links the IGF system to various hematological disorders, yet...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630213/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250716212427&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 2019,
-          "title": "Advances in the role of the IGF signaling system in myelodysplastic syndromes and acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630204",
-          "author": "Jadwiga Filipek-Gorzała",
-          "description": "[This corrects the article DOI: 10.3389/fonc.2024.1308709.].",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630204/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250716212427&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 1446,
-          "title": "Correction: The dark side of stemness - the role of hematopoietic stem cells in development of blood malignancies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630213",
-          "author": "Yifan Wang",
-          "description": "The insulin-like growth factor (IGF) signaling system comprises functionally specific ligands (IGF-I and IGF-II), receptor (IR), and binding proteins (IGFBP). IGFs are activated by binding to their receptor, IGF-IR, which is a tyrosine kinase receptor. This activation initiates signaling cascades such as PI3K/Akt and MAPK/ErK pathways, which are essential for cell proliferation, differentiation, and survival. Growing evidence links the IGF system to various hematological disorders, yet...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630213/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250715212329&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 2019,
-          "title": "Advances in the role of the IGF signaling system in myelodysplastic syndromes and acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630204",
-          "author": "Jadwiga Filipek-Gorzała",
-          "description": "[This corrects the article DOI: 10.3389/fonc.2024.1308709.].",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630204/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250715212329&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 1446,
-          "title": "Correction: The dark side of stemness - the role of hematopoietic stem cells in development of blood malignancies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630213",
-          "author": "Yifan Wang",
-          "description": "The insulin-like growth factor (IGF) signaling system comprises functionally specific ligands (IGF-I and IGF-II), receptor (IR), and binding proteins (IGFBP). IGFs are activated by binding to their receptor, IGF-IR, which is a tyrosine kinase receptor. This activation initiates signaling cascades such as PI3K/Akt and MAPK/ErK pathways, which are essential for cell proliferation, differentiation, and survival. Growing evidence links the IGF system to various hematological disorders, yet...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630213/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250714212616&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 2019,
-          "title": "Advances in the role of the IGF signaling system in myelodysplastic syndromes and acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630204",
-          "author": "Jadwiga Filipek-Gorzała",
-          "description": "[This corrects the article DOI: 10.3389/fonc.2024.1308709.].",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630204/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250714212616&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 1446,
-          "title": "Correction: The dark side of stemness - the role of hematopoietic stem cells in development of blood malignancies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630213",
-          "author": "Yifan Wang",
-          "description": "The insulin-like growth factor (IGF) signaling system comprises functionally specific ligands (IGF-I and IGF-II), receptor (IR), and binding proteins (IGFBP). IGFs are activated by binding to their receptor, IGF-IR, which is a tyrosine kinase receptor. This activation initiates signaling cascades such as PI3K/Akt and MAPK/ErK pathways, which are essential for cell proliferation, differentiation, and survival. Growing evidence links the IGF system to various hematological disorders, yet...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630213/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250713212551&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 2019,
-          "title": "Advances in the role of the IGF signaling system in myelodysplastic syndromes and acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630204",
-          "author": "Jadwiga Filipek-Gorzała",
-          "description": "[This corrects the article DOI: 10.3389/fonc.2024.1308709.].",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630204/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250713212551&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 1446,
-          "title": "Correction: The dark side of stemness - the role of hematopoietic stem cells in development of blood malignancies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630213",
-          "author": "Yifan Wang",
-          "description": "The insulin-like growth factor (IGF) signaling system comprises functionally specific ligands (IGF-I and IGF-II), receptor (IR), and binding proteins (IGFBP). IGFs are activated by binding to their receptor, IGF-IR, which is a tyrosine kinase receptor. This activation initiates signaling cascades such as PI3K/Akt and MAPK/ErK pathways, which are essential for cell proliferation, differentiation, and survival. Growing evidence links the IGF system to various hematological disorders, yet...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630213/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250712213833&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 2019,
-          "title": "Advances in the role of the IGF signaling system in myelodysplastic syndromes and acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630204",
-          "author": "Jadwiga Filipek-Gorzała",
-          "description": "[This corrects the article DOI: 10.3389/fonc.2024.1308709.].",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630204/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250712213833&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 1439,
-          "title": "Correction: The dark side of stemness - the role of hematopoietic stem cells in development of blood malignancies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630213",
-          "author": "Yifan Wang",
-          "description": "The insulin-like growth factor (IGF) signaling system comprises functionally specific ligands (IGF-I and IGF-II), receptor (IR), and binding proteins (IGFBP). IGFs are activated by binding to their receptor, IGF-IR, which is a tyrosine kinase receptor. This activation initiates signaling cascades such as PI3K/Akt and MAPK/ErK pathways, which are essential for cell proliferation, differentiation, and survival. Growing evidence links the IGF system to various hematological disorders, yet...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630213/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250711212344&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 2012,
-          "title": "Advances in the role of the IGF signaling system in myelodysplastic syndromes and acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630204",
-          "author": "Jadwiga Filipek-Gorzała",
-          "description": "[This corrects the article DOI: 10.3389/fonc.2024.1308709.].",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630204/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250711212344&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 1454,
-          "title": "Correction: The dark side of stemness - the role of hematopoietic stem cells in development of blood malignancies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630213",
-          "author": "Yifan Wang",
-          "description": "The insulin-like growth factor (IGF) signaling system comprises functionally specific ligands (IGF-I and IGF-II), receptor (IR), and binding proteins (IGFBP). IGFs are activated by binding to their receptor, IGF-IR, which is a tyrosine kinase receptor. This activation initiates signaling cascades such as PI3K/Akt and MAPK/ErK pathways, which are essential for cell proliferation, differentiation, and survival. Growing evidence links the IGF system to various hematological disorders, yet...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630213/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250710212232&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 2012,
-          "title": "Advances in the role of the IGF signaling system in myelodysplastic syndromes and acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630204",
-          "author": "Jadwiga Filipek-Gorzała",
-          "description": "[This corrects the article DOI: 10.3389/fonc.2024.1308709.].",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630204/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250710212232&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 1454,
-          "title": "Correction: The dark side of stemness - the role of hematopoietic stem cells in development of blood malignancies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630213",
-          "author": "Yifan Wang",
-          "description": "The insulin-like growth factor (IGF) signaling system comprises functionally specific ligands (IGF-I and IGF-II), receptor (IR), and binding proteins (IGFBP). IGFs are activated by binding to their receptor, IGF-IR, which is a tyrosine kinase receptor. This activation initiates signaling cascades such as PI3K/Akt and MAPK/ErK pathways, which are essential for cell proliferation, differentiation, and survival. Growing evidence links the IGF system to various hematological disorders, yet...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630213/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250709212121&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 1717,
-          "title": "Advances in the role of the IGF signaling system in myelodysplastic syndromes and acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40630204",
-          "author": "Jadwiga Filipek-Gorzała",
-          "description": "[This corrects the article DOI: 10.3389/fonc.2024.1308709.].",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40630204/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250709212121&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-09T10:00:00.000Z",
-          "wordCount": 1128,
-          "title": "Correction: The dark side of stemness - the role of hematopoietic stem cells in development of blood malignancies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20250905210946&utm_medium=rss&utm_source=axios&utm_campaign=pubmed-2&fc=20220608010801&v=2.18.0.post9+e462414&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.18.0.post9+e462414&fc=20220608010801&ff=20250906211639&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:40900635",
+          "author": "Masroor Bayati",
+          "description": "Oncogenesis, tumor progression and therapy response are shaped by somatic alterations in the cancer genome and features of the tumor immune microenvironment (TME). How interactions between these two systems influence tumor evolution and clinical outcomes remains incompletely understood. To address this challenge, we developed the multi-omics analysis framework PACIFIC that systematically integrates genetic cancer drivers and infiltration profiles of immune cells to find pairwise combinations of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40900635/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-03T10:00:00.000Z",
+          "wordCount": 1623,
+          "title": "Cancer genomic alterations and microenvironmental features encode synergistic interactions with disease outcomes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:40900635",
           "author": "Masroor Bayati",
@@ -8273,6 +8253,16 @@
           "id": "pubmed:40898324",
           "author": "Shengbo Sun",
           "description": "Cancer immunotherapy has revolutionized oncology by leveraging the immune system to combat tumors. Among various biomarkers, neoantigens and tumor mutational burden (TMB) have emerged as critical factors in tailoring personalized treatments. Neoantigens are tumor-specific peptides displayed on cancer cell surfaces, derived from somatic mutations. Recognized as \"non-self\" by the immune system, they trigger T-cell responses and enable therapies like personalized vaccines and adoptive T-cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40898324/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-02T10:00:00.000Z",
+          "wordCount": 2920,
+          "title": "The role of neoantigens and tumor mutational burden in cancer immunotherapy: advances, mechanisms, and perspectives",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40898324",
+          "author": "Shengbo Sun",
+          "description": "Cancer immunotherapy has revolutionized oncology by leveraging the immune system to combat tumors. Among various biomarkers, neoantigens and tumor mutational burden (TMB) have emerged as critical factors in tailoring personalized treatments. Neoantigens are tumor-specific peptides displayed on cancer cell surfaces, derived from somatic mutations. Recognized as \"non-self\" by the immune system, they trigger T-cell responses and enable therapies like personalized vaccines and adoptive T-cell...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40898324/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250905210946&v=2.18.0.post9+e462414",
           "publishedOn": "2025-09-02T10:00:00.000Z",
           "wordCount": 2913,
@@ -8297,6 +8287,16 @@
           "publishedOn": "2025-09-02T10:00:00.000Z",
           "wordCount": 1992,
           "title": "The role of neoantigens and tumor mutational burden in cancer immunotherapy: advances, mechanisms, and perspectives",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40873563",
+          "author": "Xiaoshi Ma",
+          "description": "CONCLUSION: Our study provides the first molecular roadmap of prostatic PGCA to date, establishing a novel five-gene prognostic signature and revealing fundamental insights into its pathogenesis through divergent evolution from conventional adenocarcinoma. These insights offer new opportunities for precise diagnosis, prognostic stratification, and targeted therapeutic strategies for this lethal prostate cancer variant.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40873563/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-28T10:00:00.000Z",
+          "wordCount": 3007,
+          "title": "Clonal divergence and genomic meltdown in prostatic pleomorphic giant cell adenocarcinoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8387,6 +8387,16 @@
           "publishedOn": "2025-08-28T10:00:00.000Z",
           "wordCount": 2670,
           "title": "Clonal divergence and genomic meltdown in prostatic pleomorphic giant cell adenocarcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40847288",
+          "author": "Wen Chen",
+          "description": "CONCLUSIONS: Our study introduced a novel MPT sequencing approach for CSCC, providing insights into tumor heterogeneity and clonal evolution. We identified novel mutations and their potential associations with patient survival and tumor characteristics. Overall, our study layed the groundwork for personalized treatment strategies and provides a reference for future applications of the MPT panel in CSCC patients.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40847288/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-23T10:00:00.000Z",
+          "wordCount": 3185,
+          "title": "Analysis of genomic heterogeneity and the mutational landscape in cutaneous squamous cell carcinoma through multi-patient-targeted single-cell DNA sequencing",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8527,6 +8537,26 @@
           "publishedOn": "2025-08-23T10:00:00.000Z",
           "wordCount": 2138,
           "title": "Analysis of genomic heterogeneity and the mutational landscape in cutaneous squamous cell carcinoma through multi-patient-targeted single-cell DNA sequencing",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40833784",
+          "author": "Arnaud Da Cruz Paula",
+          "description": "CONCLUSIONS: Our exploratory, hypothesis-generating analysis suggest that PI3K pathway alterations evolve distinctly in MMRd/POLE compared to NSMP EECs, which may have therapeutic consequences. Further studies on the signaling output and PI3K pathway inhibitor response in EECs with subclonal PI3K pathway alterations are warranted.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40833784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-20T10:00:00.000Z",
+          "wordCount": 1827,
+          "title": "Evolution and co-occurrence of PI3K pathway gene mutations in endometrial carcinoma molecular subtypes at the single-cell level",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40832239",
+          "author": "Yang Su",
+          "description": "MutationAssessor (MA) helps researchers evaluate the likely functional impact of somatic and germline mutations in cancer. It provides an evolution-based functional impact score (FIS) to classify mutations based on their likely effect on protein function. FIS scores are based on analysis of patterns of conservation in protein families (conserved residues) and subfamilies (specificity residues). In this new version (r4) we have (1) refined the combinatorial entropy analysis of conservation...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40832239/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-20T10:00:00.000Z",
+          "wordCount": 2609,
+          "title": "MutationAssessor in cBioPortal",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8873,6 +8903,16 @@
           "id": "pubmed:40813987",
           "author": "Junseong Park",
           "description": "CONCLUSION: Together, GSOs constitute a tractable and translationally relevant model that faithfully reflects the cellular complexity, genetic landscape, and tumor-specific heterogeneity. This model addresses a critical gap in GS biology and supports its integration into precision oncology.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40813987/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-15T10:00:00.000Z",
+          "wordCount": 3224,
+          "title": "Tumor microenvironment-preserving gliosarcoma organoids as an in vitro preclinical platform: a comparative analysis with glioblastoma models",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40813987",
+          "author": "Junseong Park",
+          "description": "CONCLUSION: Together, GSOs constitute a tractable and translationally relevant model that faithfully reflects the cellular complexity, genetic landscape, and tumor-specific heterogeneity. This model addresses a critical gap in GS biology and supports its integration into precision oncology.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40813987/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250905210946&v=2.18.0.post9+e462414",
           "publishedOn": "2025-08-15T10:00:00.000Z",
           "wordCount": 3224,
@@ -9093,6 +9133,16 @@
           "id": "pubmed:40813609",
           "author": "Christina R Ross",
           "description": "Metastasis remains a major cause of cancer mortality. This study, expanding upon previous findings in the MMTV-PyMT model, investigated four independent mouse models, representing luminal (MMTV-PyMT, MMTV-Myc), HER2-amplified (MMTV-Her2), and triple-negative (C3(1)TAg) breast cancer subtypes. Consistent with previous results, limited evidence for metastasis-associated somatic point mutations was found for all models. We also found that oncogenic drivers significantly influenced the number and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40813609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-14T10:00:00.000Z",
+          "wordCount": 3333,
+          "title": "Genetic background and oncogenic driver determines the genomic evolution and transcriptomics of mammary tumor metastasis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40813609",
+          "author": "Christina R Ross",
+          "description": "Metastasis remains a major cause of cancer mortality. This study, expanding upon previous findings in the MMTV-PyMT model, investigated four independent mouse models, representing luminal (MMTV-PyMT, MMTV-Myc), HER2-amplified (MMTV-Her2), and triple-negative (C3(1)TAg) breast cancer subtypes. Consistent with previous results, limited evidence for metastasis-associated somatic point mutations was found for all models. We also found that oncogenic drivers significantly influenced the number and...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40813609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250905210946&v=2.18.0.post9+e462414",
           "publishedOn": "2025-08-14T10:00:00.000Z",
           "wordCount": 3333,
@@ -9307,6 +9357,16 @@
           "publishedOn": "2025-08-14T10:00:00.000Z",
           "wordCount": 1458,
           "title": "Genetic background and oncogenic driver determines the genomic evolution and transcriptomics of mammary tumor metastasis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40804524",
+          "author": "Piotr Pawlik",
+          "description": "Both single nucleotide variants (SNVs) and somatic copy number alterations (SCNAs) accumulate in cancer cells during tumour development, fuelling clonal evolution. However, accurate estimation of clone-specific copy numbers from bulk DNA-sequencing data is challenging. Here we present allele-specific phylogenetic analysis of copy number alterations (ALPACA), a method to infer SNV and SCNA coevolution by leveraging phylogenetic trees reconstructed from multi-sample bulk tumour sequencing data...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40804524/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-13T10:00:00.000Z",
+          "wordCount": 2537,
+          "title": "Clone copy number diversity is linked to survival in lung cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9537,6 +9597,16 @@
           "publishedOn": "2025-08-13T10:00:00.000Z",
           "wordCount": 2185,
           "title": "Clone copy number diversity is linked to survival in lung cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40789644",
+          "author": "Joe Nassour",
+          "description": "Somatic mutations arise in normal tissues and precursor lesions, often targeting cancer-driver genes involved in cell cycle regulation. Most checkpoint-mutant clones, however, remain dormant throughout an individual's lifetime and seldom progress to malignancy, implying the presence of protective mechanisms that limit their expansion and malignant transformation. One such safeguard is telomere crisis-a potent tumor-suppressive barrier that eliminates cells lacking functional checkpoints and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40789644/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-11T10:00:00.000Z",
+          "wordCount": 3031,
+          "title": "Telomere Crisis Shapes Cancer Evolution",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9787,6 +9857,26 @@
           "publishedOn": "2025-08-11T10:00:00.000Z",
           "wordCount": 1112,
           "title": "Telomere Crisis Shapes Cancer Evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40779108",
+          "author": "Hongyu Shi",
+          "description": "Somatic copy number changes modify gene expression and drive cancer development and progression. Single-cell techniques now allow for the profiling of both gene expression and copy number, opening the possibility of linking expression changes with copy number changes at a single-cell level. However, joint measurement of both expression and copy number from the same cell is not commonplace, and thus joint analysis of expression and copy number requires computational integration of the two...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40779108/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-08T10:00:00.000Z",
+          "wordCount": 1757,
+          "title": "Inferring Phenotypes of Copy Number Clones in Cancer Populations Using TreeAlign",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40777438",
+          "author": "Krishna Dasari",
+          "description": "CONCLUSIONS: This disambiguation of the mutagenic and selective effects of tobacco smoke reveals how environmental insult can reshape the evolutionary trajectories of LUAD and enables quantitative prediction of treatment vulnerabilities based on smoking status and tumor somatic genotype.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40777438/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-08T10:00:00.000Z",
+          "wordCount": 2960,
+          "title": "Tobacco smoke alters the trajectory of lung adenocarcinoma evolution via effects on somatic selection and epistasis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -10373,6 +10463,16 @@
           "id": "pubmed:40770356",
           "author": "Maria Teresa De Angelis",
           "description": "CONCLUSIONS: Collectively, our findings provide robust molecular evidence that CC and RC follow divergent oncogenic pathways, emphasizing the need for site-specific biomarker development and therapeutic targeting in colorectal cancer.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40770356/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-07T10:00:00.000Z",
+          "wordCount": 3815,
+          "title": "Distinctive chromosomal, mutational and transcriptional profiling in colon versus rectal cancers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40770356",
+          "author": "Maria Teresa De Angelis",
+          "description": "CONCLUSIONS: Collectively, our findings provide robust molecular evidence that CC and RC follow divergent oncogenic pathways, emphasizing the need for site-specific biomarker development and therapeutic targeting in colorectal cancer.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40770356/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250905210946&v=2.18.0.post9+e462414",
           "publishedOn": "2025-08-07T10:00:00.000Z",
           "wordCount": 3815,
@@ -10667,6 +10767,16 @@
           "publishedOn": "2025-08-07T10:00:00.000Z",
           "wordCount": 2006,
           "title": "Distinctive chromosomal, mutational and transcriptional profiling in colon versus rectal cancers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40736904",
+          "author": "Luca Ermini",
+          "description": "Cancer genomics, driven by advancements in sequencing technologies, is rapidly transforming our understanding of tumor biology. The advent of high-throughput short-read sequencing technologies has enabled a paradigm shift in cancer genomics, providing unprecedented resolution of mutations that drive tumorigenesis. Initially, short-read sequencing dominated the field, revealing the repertoire of mutational signatures and the complexities of tumor heterogeneity. However, the inherent limitations...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40736904/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-07-30T10:00:00.000Z",
+          "wordCount": 1631,
+          "title": "The Cancer Genome in the Long Reads Era",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -11047,6 +11157,16 @@
           "publishedOn": "2025-07-30T10:00:00.000Z",
           "wordCount": 1365,
           "title": "The Cancer Genome in the Long Reads Era",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40721531",
+          "author": "Ryuya Edahiro",
+          "description": "Current molecular quantitative trait locus catalogs are mostly at bulk resolution and centered on Europeans. Here, we constructed an immune cell atlas with single-cell transcriptomics of >1.5 million peripheral blood mononuclear cells, host genetics, plasma proteomics and gut metagenomics from 235 Japanese persons, including patients with coronavirus disease 2019 (COVID-19) and healthy individuals. We mapped germline genetic effects on gene expression within immune cell types and across cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40721531/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250906211639&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-07-28T10:00:00.000Z",
+          "wordCount": 5775,
+          "title": "Deciphering state-dependent immune features from multi-layer omics data at single-cell resolution",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
