@@ -210,8 +210,58 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20250918211222&fc=20220608003622&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.18.0.post9+e462414&utm_medium=rss&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&fc=20220608003622&ff=20250919210851&utm_medium=rss&v=2.18.0.post9+e462414&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:40971523",
+          "author": "Quentin Neven",
+          "description": "Juvenile myelomonocytic leukemia (JMML) is a rare, aggressive pediatric myeloproliferative neoplasm for which hematopoietic stem cell transplantation (HSCT) is currently the only established curative therapy. However, a watch-and-wait (W&W) approach has shown promise for long-term survival in selected cases. In this real-world study, we analyzed outcomes of JMML patients initially managed with a W&W strategy within a nationwide cohort of 161 genetically characterized cases. W&W was chosen for 35...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40971523/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 1645,
+          "title": "The watch-and-wait approach for patients with juvenile myelomonocytic leukemia: results of the French cohort",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40970771",
+          "author": "Sarah C Reed",
+          "description": "CONCLUSIONS: Our findings demonstrate a genotype-specific impact of CHIP on breast cancer across human and mouse data. Further, the chimeric mouse models we generated offer a clinically relevant tool to study solid tumors in a CHIP background. This work underscores the need for further functional studies and personalized risk assessment to clearly define the impact of various CHIP genotypes on breast cancer.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40970771/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 1399,
+          "title": "Clonal hematopoiesis of indeterminate potential influences breast cancer outcomes in a genotype-specific manner",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40970503",
+          "author": "Cooper Quartermaine",
+          "description": "CONCLUSIONS: Collectively, these data suggest among patients treated with alloHSCT, the presence of CH appears to portend increased AF risk, though validation in larger prospective studies is needed.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40970503/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 1648,
+          "title": "Presence of Clonal Hematopoiesis and Cardiac Events After Allogeneic Stem Cell Transplantation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40962140",
+          "author": "Mithra Lakshmi Narasimhan",
+          "description": "CONCLUSION: This radiation-free RIC regimen demonstrated excellent DFS with minimal GVHD in all patients, including those from alternative donor sources. Late complications were primarily endocrine in origin. The trials were registered at www.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40962140/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-17T10:00:00.000Z",
+          "wordCount": 1391,
+          "title": "Excellent Outcomes in Feasibility Study of Radiation-free Conditioning and Transplant in Pediatric Severe Aplastic Anemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40961562",
+          "author": "Sebastian Wagner",
+          "description": "Clonal dynamics within hematopoietic stem cells (HSCs) provide critical insights into both hematopoietic regeneration and the development of hematological diseases. Advances in sequencing technologies and temporal clonal analysis have revealed that mutations driving clonal dominance often emerge early in life and gradually expand over decades. This slow progression, often coupled with sub-percentage clonal abundances, presents significant challenges in detecting and monitoring clones that may...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40961562/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-17T10:00:00.000Z",
+          "wordCount": 1439,
+          "title": "Subtle changes in clonal dynamics: Challenges in quantifying the slow expansion of small hematopoietic stem cell clones",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:40962140",
           "author": "Mithra Lakshmi Narasimhan",
@@ -230,6 +280,16 @@
           "publishedOn": "2025-09-17T10:00:00.000Z",
           "wordCount": 1439,
           "title": "Subtle changes in clonal dynamics: Challenges in quantifying the slow expansion of small hematopoietic stem cell clones",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40956966",
+          "author": "Tianliang Liu",
+          "description": "Circulating cell-free DNA (cfDNA) comprises DNA fragments released into bodily fluids via apoptosis, necrosis, or phagocytosis. cfDNA encapsulates both fragmentomics (structural) and non-fragmentomics (sequence/epigenetic) information from source cells, thereby representing a promising biomarker. While non-fragmentomics analyses have enabled diverse diagnostic applications, they often falter in diseases with subtle or widespread genomic changes due to low cfDNA abundance and clonal hematopoiesis...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40956966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-16T10:00:00.000Z",
+          "wordCount": 1112,
+          "title": "Circulating Cell-free DNA Fragmentomics Detection and Beyond",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -260,6 +320,26 @@
           "publishedOn": "2025-09-16T10:00:00.000Z",
           "wordCount": 1112,
           "title": "Circulating Cell-free DNA Fragmentomics Detection and Beyond",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40950461",
+          "author": "Alyssa C Parker",
+          "description": "CONCLUSIONS: CHIP mutations alter interactions between monocytes and endothelial cells. Therapeutics targeting CXCR2 and ICAM1 may restore normal interactions between monocytes and endothelial cells among patients with TET2 CHIP.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40950461/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-15T10:00:00.000Z",
+          "wordCount": 1307,
+          "title": "Monocyte-endothelial interactions as a targetable node in clonal hematopoiesis-mediated cardiovascular disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40950448",
+          "author": "Mona Arabzadeh",
+          "description": "Clonal hematopoiesis (CH) is the age-related expansion of mutated hematopoietic stem cells without other hematologic abnormalities. In patients with solid tumors, CH is associated with higher mortality and may evolve to therapy-related myeloid neoplasms; however, the mechanisms by which cancer treatments promote CH dynamics remain largely unknown. Here, we analyzed 392 serial samples from a prospective cohort of breast cancer patients and showed that cytotoxic treatments (chemotherapy ±...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40950448/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-15T10:00:00.000Z",
+          "wordCount": 2591,
+          "title": "Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -340,6 +420,36 @@
           "publishedOn": "2025-09-15T10:00:00.000Z",
           "wordCount": 2086,
           "title": "Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40945967",
+          "author": "Valentin Lacombe",
+          "description": "The VEXAS syndrome, whose phenotype has been extensively described in recent years, is now beginning to unveil the secrets of its pathophysiology. For those who tend to keep a respectful distance from basic science papers, Immuno'logical offers a guided dive into two recent fascinating publications, that challenge several long-held assumptions: no, VEXAS is not merely a myeloid disorder; no, UBA1-wild-type cells are not blameless in systemic inflammation; and no, UBA1-mutated progenitors do not...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40945967/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-13T10:00:00.000Z",
+          "wordCount": 1181,
+          "title": "Immuno'logical (The scientific updates you wouldn't dare to read anywhere else): The hidden face of VEXAS syndrome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40944637",
+          "author": "Alessandra Venanzi",
+          "description": "Independent Origin of Hairy Cell Leukemia (HCL) From Co-Occurring Clonal Hematopoiesis.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40944637/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-13T10:00:00.000Z",
+          "wordCount": 1132,
+          "title": "Independent Origin of Hairy Cell Leukemia (HCL) From Co-Occurring Clonal Hematopoiesis (CH)",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40944087",
+          "author": "Samuel B Todor",
+          "description": "Philadelphia-negative myeloproliferative neoplasms (Ph-MPNs) are clonal hematologic malignancies characterized not only by driver mutations such as JAK2V617F, CALR, and MPL but also by a profoundly dysregulated immune microenvironment. Chronic inflammation and immune remodeling sustain malignant hematopoiesis and contribute to disease progression from essential thrombocythemia (ET) and polycythemia vera (PV) to overt myelofibrosis (MF). Pro-inflammatory cytokines and chemokines-including IL-2,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40944087/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-13T10:00:00.000Z",
+          "wordCount": 1746,
+          "title": "Cytokine Landscapes, Immune Dysregulation, and Treatment Perspectives in Philadelphia-Negative Myeloproliferative Neoplasms: A Narrative Review",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -516,6 +626,16 @@
           "id": "pubmed:40929507",
           "author": "Youngil Koh",
           "description": "Clonal hematopoiesis, originally identified as a precursor to hematologic malignancies, has emerged as a significant factor in various nonmalignant diseases. Recent research highlights how somatic mutations in hematopoietic stem cells lead to the expansion of circulating mutated immune cells that exert profound effects on organ function and disease progression. These mutated clones display altered inflammatory profiles and tissue-specific functional consequences, contributing to various diseases...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40929507/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-10T10:00:00.000Z",
+          "wordCount": 1243,
+          "title": "Clonal Hematopoiesis in Nonmalignant Disease: Functional Consequences of Mutated Immune Cells by Clonal Hematopoiesis in the Diseased Tissue",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40929507",
+          "author": "Youngil Koh",
+          "description": "Clonal hematopoiesis, originally identified as a precursor to hematologic malignancies, has emerged as a significant factor in various nonmalignant diseases. Recent research highlights how somatic mutations in hematopoietic stem cells lead to the expansion of circulating mutated immune cells that exert profound effects on organ function and disease progression. These mutated clones display altered inflammatory profiles and tissue-specific functional consequences, contributing to various diseases...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40929507/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250918211222&v=2.18.0.post9+e462414",
           "publishedOn": "2025-09-10T10:00:00.000Z",
           "wordCount": 1243,
@@ -600,6 +720,16 @@
           "publishedOn": "2025-09-10T10:00:00.000Z",
           "wordCount": 1195,
           "title": "Clonal Hematopoiesis in Nonmalignant Disease: Functional Consequences of Mutated Immune Cells by Clonal Hematopoiesis in the Diseased Tissue",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40921358",
+          "author": "Bo Zheng",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) bridges hematopoietic clonality and solid tumorigenesis, unveiling a systemic dimension of somatic mutagenesis in cancer biology. Generally, population studies demonstrate CHIP carriers face elevated risks of cancer and poorer survival outcomes. This review consolidates current knowledge on the role of CHIP as potential biomarkers in the prediction/early detection/prognosis evaluation of various non-hematological cancers. We provide an...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40921358/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-08T10:00:00.000Z",
+          "wordCount": 1284,
+          "title": "The role of clonal hematopoiesis of indeterminate potential in non-hematological malignancies of various origins",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -700,6 +830,16 @@
           "publishedOn": "2025-09-08T10:00:00.000Z",
           "wordCount": 1282,
           "title": "The role of clonal hematopoiesis of indeterminate potential in non-hematological malignancies of various origins",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40915174",
+          "author": "Shu Yazaki",
+          "description": "Liquid biopsies, particularly those involving circulating tumor DNA (ctDNA) from patient blood, have emerged as crucial and minimally invasive adjuncts to standard tissue-based testing. ctDNA testing enables the identification of actionable mutations for targeted therapy and can be routinely used when tissue samples are unavailable for genotyping. Compared to tissue-based testing, ctDNA testing has the advantages of capturing spatial or temporal genomic heterogeneity and facilitating repeated...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40915174/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-07T10:00:00.000Z",
+          "wordCount": 1549,
+          "title": "Clinical applications of cell-free DNA-based liquid biopsy analysis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -810,6 +950,16 @@
           "publishedOn": "2025-09-07T10:00:00.000Z",
           "wordCount": 1547,
           "title": "Clinical applications of cell-free DNA-based liquid biopsy analysis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40912236",
+          "author": "Jessica Pham",
+          "description": "Human hematopoietic stem and progenitor cell (HSPC) fitness declines following exposure to stressors that reduce survival, dormancy, telomere maintenance, and self-renewal, thereby accelerating aging. While previous National Aeronautics and Space Administration (NASA) research revealed immune dysfunction in low-earth orbit (LEO), the impact of spaceflight on human HSPC aging had not been studied. To study HSPC aging, our NASA-supported Integrated Space Stem Cell Orbital Research (ISSCOR) team...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40912236/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-05T10:00:00.000Z",
+          "wordCount": 1963,
+          "title": "Nanobioreactor detection of space-associated hematopoietic stem and progenitor cell aging",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7921,144 +8071,34 @@
           "wordCount": 1642,
           "title": "Genetic Associations of Clonal Hematopoiesis With Cardioembolic Stroke: Insights From Genome-Wide Mendelian Randomization, Bulk RNA, Single-Cell RNA Sequencing",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40693403",
-          "author": "Kentaro Kato",
-          "description": "CONCLUSION: In early-onset cases, the VAFs were comparable across various tissues and did not increase over time. Mutations in late-onset cases were enriched in myeloid cells, and VAFs were increased, suggesting a link to CH.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40693403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250804212807&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": 2803,
-          "title": "Longitudinal Analysis of Somatic Mosaicism and Clonal Hematopoiesis in Cryopyrin-Associated Periodic Syndrome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40693403",
-          "author": "Kentaro Kato",
-          "description": "CONCLUSION: In early-onset cases, the VAFs were comparable across various tissues and did not increase over time. Mutations in late-onset cases were enriched in myeloid cells, and VAFs were increased, suggesting a link to CH.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40693403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250803214206&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": 2803,
-          "title": "Longitudinal Analysis of Somatic Mosaicism and Clonal Hematopoiesis in Cryopyrin-Associated Periodic Syndrome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40693403",
-          "author": "Kentaro Kato",
-          "description": "CONCLUSION: In early-onset cases, the VAFs were comparable across various tissues and did not increase over time. Mutations in late-onset cases were enriched in myeloid cells, and VAFs were increased, suggesting a link to CH.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40693403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250802214221&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": 2803,
-          "title": "Longitudinal Analysis of Somatic Mosaicism and Clonal Hematopoiesis in Cryopyrin-Associated Periodic Syndrome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40693403",
-          "author": "Kentaro Kato",
-          "description": "CONCLUSION: In early-onset cases, the VAFs were comparable across various tissues and did not increase over time. Mutations in late-onset cases were enriched in myeloid cells, and VAFs were increased, suggesting a link to CH.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40693403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250801212214&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": 2803,
-          "title": "Longitudinal Analysis of Somatic Mosaicism and Clonal Hematopoiesis in Cryopyrin-Associated Periodic Syndrome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40693403",
-          "author": "Kentaro Kato",
-          "description": "CONCLUSION: In early-onset cases, the VAFs were comparable across various tissues and did not increase over time. Mutations in late-onset cases were enriched in myeloid cells, and VAFs were increased, suggesting a link to CH.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40693403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250731214430&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": 2803,
-          "title": "Longitudinal Analysis of Somatic Mosaicism and Clonal Hematopoiesis in Cryopyrin-Associated Periodic Syndrome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40693403",
-          "author": "Kentaro Kato",
-          "description": "CONCLUSION: In early-onset cases, the VAFs were comparable across various tissues and did not increase over time. Mutations in late-onset cases were enriched in myeloid cells, and VAFs were increased, suggesting a link to CH.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40693403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250730212540&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": 2803,
-          "title": "Longitudinal Analysis of Somatic Mosaicism and Clonal Hematopoiesis in Cryopyrin-Associated Periodic Syndrome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40693403",
-          "author": "Kentaro Kato",
-          "description": "CONCLUSION: In early-onset cases, the VAFs were comparable across various tissues and did not increase over time. Mutations in late-onset cases were enriched in myeloid cells, and VAFs were increased, suggesting a link to CH.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40693403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250729212609&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": 2803,
-          "title": "Longitudinal Analysis of Somatic Mosaicism and Clonal Hematopoiesis in Cryopyrin-Associated Periodic Syndrome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40693403",
-          "author": "Kentaro Kato",
-          "description": "CONCLUSION: In early-onset cases, the VAFs were comparable across various tissues and did not increase over time. Mutations in late-onset cases were enriched in myeloid cells, and VAFs were increased, suggesting a link to CH.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40693403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250728214428&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": 2803,
-          "title": "Longitudinal Analysis of Somatic Mosaicism and Clonal Hematopoiesis in Cryopyrin-Associated Periodic Syndrome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40693403",
-          "author": "Kentaro Kato",
-          "description": "CONCLUSION: In early-onset cases, the VAFs were comparable across various tissues and did not increase over time. Mutations in late-onset cases were enriched in myeloid cells, and VAFs were increased, suggesting a link to CH.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40693403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250727213920&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": 2796,
-          "title": "Longitudinal Analysis of Somatic Mosaicism and Clonal Hematopoiesis in Cryopyrin-Associated Periodic Syndrome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40693403",
-          "author": "Kentaro Kato",
-          "description": "CONCLUSION: In early-onset cases, the VAFs were comparable across various tissues and did not increase over time. Mutations in late-onset cases were enriched in myeloid cells, and VAFs were increased, suggesting a link to CH.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40693403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250725212223&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": 2789,
-          "title": "Longitudinal Analysis of Somatic Mosaicism and Clonal Hematopoiesis in Cryopyrin-Associated Periodic Syndrome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40693403",
-          "author": "Kentaro Kato",
-          "description": "CONCLUSION: In early-onset cases, the VAFs were comparable across various tissues and did not increase over time. Mutations in late-onset cases were enriched in myeloid cells, and VAFs were increased, suggesting a link to CH.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40693403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250724212415&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": 2789,
-          "title": "Longitudinal Analysis of Somatic Mosaicism and Clonal Hematopoiesis in Cryopyrin-Associated Periodic Syndrome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40693403",
-          "author": "Kentaro Kato",
-          "description": "CONCLUSION: In early-onset cases, the VAFs were comparable across various tissues and did not increase over time. Mutations in late-onset cases were enriched in myeloid cells, and VAFs were increased, suggesting a link to CH.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40693403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250723212441&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": 2771,
-          "title": "Longitudinal Analysis of Somatic Mosaicism and Clonal Hematopoiesis in Cryopyrin-Associated Periodic Syndrome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40693403",
-          "author": "Kentaro Kato",
-          "description": "CONCLUSION: In early-onset cases, the VAFs were comparable across various tissues and did not increase over time. Mutations in late-onset cases were enriched in myeloid cells, and VAFs were increased, suggesting a link to CH.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40693403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250722212516&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-22T10:00:00.000Z",
-          "wordCount": 2459,
-          "title": "Longitudinal Analysis of Somatic Mosaicism and Clonal Hematopoiesis in Cryopyrin-Associated Periodic Syndrome",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20250918211222&utm_medium=rss&fc=20220608010801&v=2.18.0.post9+e462414&utm_campaign=pubmed-2&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20250919210851&utm_medium=rss&utm_source=axios&v=2.18.0.post9+e462414&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:40971591",
+          "author": "Adam Streck",
+          "description": "CONCLUSIONS: CNSistent is a general-purpose toolkit for integrated processing of SCNA profiles across many patients and cohorts. It is available at https://bitbucket.org/schwarzlab/cnsistent. The Research Resource Identifier for CNSistent is SCR_027025.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40971591/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 1449,
+          "title": "CNSistent integration and feature extraction from somatic copy number profiles",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40954304",
+          "author": "Chi-Yun Wu",
+          "description": "Somatic mutations such as copy number alterations accumulate during cancer progression, driving intratumor heterogeneity that impacts therapy effectiveness. Understanding the characteristics and spatial distribution of genetically distinct subclones is essential for unraveling tumor evolution and improving cancer treatment. Here we present Clonalscope, a subclone detection method using copy number profiles, applicable to spatial transcriptomics and single-cell sequencing data. Clonalscope...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40954304/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-15T10:00:00.000Z",
+          "wordCount": 1712,
+          "title": "Cancer subclone detection based on DNA copy number in single-cell and spatial omic sequencing data",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:40954304",
           "author": "Chi-Yun Wu",
@@ -8087,6 +8127,16 @@
           "publishedOn": "2025-09-15T10:00:00.000Z",
           "wordCount": 1683,
           "title": "Cancer subclone detection based on DNA copy number in single-cell and spatial omic sequencing data",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40944534",
+          "author": "Leah L Weber",
+          "description": "Cancer arises through an evolutionary process in which somatic mutations, including single-nucleotide variants (SNVs) and copy number aberrations (CNAs), drive the development of a malignant, heterogeneous tumor. Reconstructing this evolutionary history from sequencing data is critical for understanding the order in which mutations are acquired and the dynamic interplay between different types of alterations. Advances in modern whole-genome single-cell sequencing now enable the accurate...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40944534/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-13T10:00:00.000Z",
+          "wordCount": 1311,
+          "title": "Pharming: Joint Clonal Tree Reconstruction of Single-Nucleotide Variant and Copy Number Aberration Evolution from Single-Cell DNA Sequencing of Tumors",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8147,6 +8197,16 @@
           "publishedOn": "2025-09-13T10:00:00.000Z",
           "wordCount": 1278,
           "title": "Pharming: Joint Clonal Tree Reconstruction of Single-Nucleotide Variant and Copy Number Aberration Evolution from Single-Cell DNA Sequencing of Tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40916402",
+          "author": "Yoon Young Choi",
+          "description": "CONCLUSION: Even in patients with shared germline predisposition, primary tumors arising in different organs demonstrate substantial genomic divergence. These findings suggest that organ-specific selective pressures drive independent tumor evolution, underscoring the need for individualized molecular profiling and therapeutic targeting in cases of multiple primary cancers.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40916402/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-08T10:00:00.000Z",
+          "wordCount": 1608,
+          "title": "Intrapatient genomic divergence across multiple primary tumors in young Korean patients",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8257,6 +8317,16 @@
           "publishedOn": "2025-09-08T10:00:00.000Z",
           "wordCount": 1178,
           "title": "Intrapatient genomic divergence across multiple primary tumors in young Korean patients",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40900635",
+          "author": "Masroor Bayati",
+          "description": "Oncogenesis, tumor progression and therapy response are shaped by somatic alterations in the cancer genome and features of the tumor immune microenvironment (TME). How interactions between these two systems influence tumor evolution and clinical outcomes remains incompletely understood. To address this challenge, we developed the multi-omics analysis framework PACIFIC that systematically integrates genetic cancer drivers and infiltration profiles of immune cells to find pairwise combinations of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40900635/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-03T10:00:00.000Z",
+          "wordCount": 1333,
+          "title": "Cancer genomic alterations and microenvironmental features encode synergistic interactions with disease outcomes",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8423,6 +8493,16 @@
           "id": "pubmed:40898324",
           "author": "Shengbo Sun",
           "description": "Cancer immunotherapy has revolutionized oncology by leveraging the immune system to combat tumors. Among various biomarkers, neoantigens and tumor mutational burden (TMB) have emerged as critical factors in tailoring personalized treatments. Neoantigens are tumor-specific peptides displayed on cancer cell surfaces, derived from somatic mutations. Recognized as \"non-self\" by the immune system, they trigger T-cell responses and enable therapies like personalized vaccines and adoptive T-cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40898324/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-02T10:00:00.000Z",
+          "wordCount": 2623,
+          "title": "The role of neoantigens and tumor mutational burden in cancer immunotherapy: advances, mechanisms, and perspectives",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40898324",
+          "author": "Shengbo Sun",
+          "description": "Cancer immunotherapy has revolutionized oncology by leveraging the immune system to combat tumors. Among various biomarkers, neoantigens and tumor mutational burden (TMB) have emerged as critical factors in tailoring personalized treatments. Neoantigens are tumor-specific peptides displayed on cancer cell surfaces, derived from somatic mutations. Recognized as \"non-self\" by the immune system, they trigger T-cell responses and enable therapies like personalized vaccines and adoptive T-cell...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40898324/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250918211222&v=2.18.0.post9+e462414",
           "publishedOn": "2025-09-02T10:00:00.000Z",
           "wordCount": 2623,
@@ -8577,6 +8657,16 @@
           "publishedOn": "2025-09-02T10:00:00.000Z",
           "wordCount": 1992,
           "title": "The role of neoantigens and tumor mutational burden in cancer immunotherapy: advances, mechanisms, and perspectives",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40873563",
+          "author": "Xiaoshi Ma",
+          "description": "CONCLUSION: Our study provides the first molecular roadmap of prostatic PGCA to date, establishing a novel five-gene prognostic signature and revealing fundamental insights into its pathogenesis through divergent evolution from conventional adenocarcinoma. These insights offer new opportunities for precise diagnosis, prognostic stratification, and targeted therapeutic strategies for this lethal prostate cancer variant.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40873563/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-28T10:00:00.000Z",
+          "wordCount": 2721,
+          "title": "Clonal divergence and genomic meltdown in prostatic pleomorphic giant cell adenocarcinoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8797,6 +8887,16 @@
           "publishedOn": "2025-08-28T10:00:00.000Z",
           "wordCount": 2670,
           "title": "Clonal divergence and genomic meltdown in prostatic pleomorphic giant cell adenocarcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40847288",
+          "author": "Wen Chen",
+          "description": "CONCLUSIONS: Our study introduced a novel MPT sequencing approach for CSCC, providing insights into tumor heterogeneity and clonal evolution. We identified novel mutations and their potential associations with patient survival and tumor characteristics. Overall, our study layed the groundwork for personalized treatment strategies and provides a reference for future applications of the MPT panel in CSCC patients.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40847288/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-23T10:00:00.000Z",
+          "wordCount": 2896,
+          "title": "Analysis of genomic heterogeneity and the mutational landscape in cutaneous squamous cell carcinoma through multi-patient-targeted single-cell DNA sequencing",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9067,6 +9167,26 @@
           "publishedOn": "2025-08-23T10:00:00.000Z",
           "wordCount": 2138,
           "title": "Analysis of genomic heterogeneity and the mutational landscape in cutaneous squamous cell carcinoma through multi-patient-targeted single-cell DNA sequencing",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40833784",
+          "author": "Arnaud Da Cruz Paula",
+          "description": "CONCLUSIONS: Our exploratory, hypothesis-generating analysis suggest that PI3K pathway alterations evolve distinctly in MMRd/POLE compared to NSMP EECs, which may have therapeutic consequences. Further studies on the signaling output and PI3K pathway inhibitor response in EECs with subclonal PI3K pathway alterations are warranted.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40833784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-20T10:00:00.000Z",
+          "wordCount": 1498,
+          "title": "Evolution and co-occurrence of PI3K pathway gene mutations in endometrial carcinoma molecular subtypes at the single-cell level",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40832239",
+          "author": "Yang Su",
+          "description": "MutationAssessor (MA) helps researchers evaluate the likely functional impact of somatic and germline mutations in cancer. It provides an evolution-based functional impact score (FIS) to classify mutations based on their likely effect on protein function. FIS scores are based on analysis of patterns of conservation in protein families (conserved residues) and subfamilies (specificity residues). In this new version (r4) we have (1) refined the combinatorial entropy analysis of conservation...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40832239/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-20T10:00:00.000Z",
+          "wordCount": 2334,
+          "title": "MutationAssessor in cBioPortal",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9673,6 +9793,16 @@
           "id": "pubmed:40813987",
           "author": "Junseong Park",
           "description": "CONCLUSION: Together, GSOs constitute a tractable and translationally relevant model that faithfully reflects the cellular complexity, genetic landscape, and tumor-specific heterogeneity. This model addresses a critical gap in GS biology and supports its integration into precision oncology.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40813987/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-15T10:00:00.000Z",
+          "wordCount": 2942,
+          "title": "Tumor microenvironment-preserving gliosarcoma organoids as an in vitro preclinical platform: a comparative analysis with glioblastoma models",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40813987",
+          "author": "Junseong Park",
+          "description": "CONCLUSION: Together, GSOs constitute a tractable and translationally relevant model that faithfully reflects the cellular complexity, genetic landscape, and tumor-specific heterogeneity. This model addresses a critical gap in GS biology and supports its integration into precision oncology.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40813987/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250918211222&v=2.18.0.post9+e462414",
           "publishedOn": "2025-08-15T10:00:00.000Z",
           "wordCount": 2942,
@@ -10023,6 +10153,16 @@
           "id": "pubmed:40813609",
           "author": "Christina R Ross",
           "description": "Metastasis remains a major cause of cancer mortality. This study, expanding upon previous findings in the MMTV-PyMT model, investigated four independent mouse models, representing luminal (MMTV-PyMT, MMTV-Myc), HER2-amplified (MMTV-Her2), and triple-negative (C3(1)TAg) breast cancer subtypes. Consistent with previous results, limited evidence for metastasis-associated somatic point mutations was found for all models. We also found that oncogenic drivers significantly influenced the number and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40813609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-14T10:00:00.000Z",
+          "wordCount": 3062,
+          "title": "Genetic background and oncogenic driver determines the genomic evolution and transcriptomics of mammary tumor metastasis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40813609",
+          "author": "Christina R Ross",
+          "description": "Metastasis remains a major cause of cancer mortality. This study, expanding upon previous findings in the MMTV-PyMT model, investigated four independent mouse models, representing luminal (MMTV-PyMT, MMTV-Myc), HER2-amplified (MMTV-Her2), and triple-negative (C3(1)TAg) breast cancer subtypes. Consistent with previous results, limited evidence for metastasis-associated somatic point mutations was found for all models. We also found that oncogenic drivers significantly influenced the number and...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40813609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250918211222&v=2.18.0.post9+e462414",
           "publishedOn": "2025-08-14T10:00:00.000Z",
           "wordCount": 3062,
@@ -10367,6 +10507,16 @@
           "publishedOn": "2025-08-14T10:00:00.000Z",
           "wordCount": 1458,
           "title": "Genetic background and oncogenic driver determines the genomic evolution and transcriptomics of mammary tumor metastasis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40804524",
+          "author": "Piotr Pawlik",
+          "description": "Both single nucleotide variants (SNVs) and somatic copy number alterations (SCNAs) accumulate in cancer cells during tumour development, fuelling clonal evolution. However, accurate estimation of clone-specific copy numbers from bulk DNA-sequencing data is challenging. Here we present allele-specific phylogenetic analysis of copy number alterations (ALPACA), a method to infer SNV and SCNA coevolution by leveraging phylogenetic trees reconstructed from multi-sample bulk tumour sequencing data...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40804524/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-13T10:00:00.000Z",
+          "wordCount": 2185,
+          "title": "Clone copy number diversity is linked to survival in lung cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -10727,6 +10877,16 @@
           "publishedOn": "2025-08-13T10:00:00.000Z",
           "wordCount": 2185,
           "title": "Clone copy number diversity is linked to survival in lung cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40789644",
+          "author": "Joe Nassour",
+          "description": "Somatic mutations arise in normal tissues and precursor lesions, often targeting cancer-driver genes involved in cell cycle regulation. Most checkpoint-mutant clones, however, remain dormant throughout an individual's lifetime and seldom progress to malignancy, implying the presence of protective mechanisms that limit their expansion and malignant transformation. One such safeguard is telomere crisis-a potent tumor-suppressive barrier that eliminates cells lacking functional checkpoints and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40789644/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-11T10:00:00.000Z",
+          "wordCount": 2717,
+          "title": "Telomere Crisis Shapes Cancer Evolution",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -11107,6 +11267,16 @@
           "publishedOn": "2025-08-11T10:00:00.000Z",
           "wordCount": 1112,
           "title": "Telomere Crisis Shapes Cancer Evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40779108",
+          "author": "Hongyu Shi",
+          "description": "Somatic copy number changes modify gene expression and drive cancer development and progression. Single-cell techniques now allow for the profiling of both gene expression and copy number, opening the possibility of linking expression changes with copy number changes at a single-cell level. However, joint measurement of both expression and copy number from the same cell is not commonplace, and thus joint analysis of expression and copy number requires computational integration of the two...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40779108/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250919210851&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-08T10:00:00.000Z",
+          "wordCount": 1465,
+          "title": "Inferring Phenotypes of Copy Number Clones in Cancer Populations Using TreeAlign",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
