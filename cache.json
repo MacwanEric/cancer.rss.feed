@@ -210,8 +210,78 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.18.0.post9+e462414&utm_medium=rss&fc=20220608003622&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&ff=20250921211709",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&ff=20250922211037&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&utm_source=axios&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
       "articles": [
+        {
+          "id": "pubmed:40983030",
+          "author": "Alejo E Rodriguez-Fraticelli",
+          "description": "For over sixty years, blood researchers have been counting clones with every tool at their disposal. Inspired by phage and fly geneticists, Till and McCulloch irradiated mice to induce chromosomal aberrations. Using this labeling strategy, they demonstrated that different types of blood cells shared the same mutation in every spleen colony, thereby proving the existence of hematopoietic stem cells. Since their breakthrough, technological advances have enabled researchers to quantify...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40983030/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-22T10:00:00.000Z",
+          "wordCount": 1105,
+          "title": "Clonal tracing of blood stem cells across mouse and human lifespans",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40973222",
+          "author": "Vylyny Chat",
+          "description": "CONCLUSIONS: In this report, we provide evidence of the adverse impact of CH on ICI treatment objective response in NSCLC, highlighting CH as a potential predictive biomarker for patient stratification in ICI. Further experimental validation is needed to better understand the mechanism of action behind this reduction in ICI efficacy.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40973222/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 1585,
+          "title": "Clonal hematopoiesis is associated with reduced response to atezolizumab in non-small cell lung cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40973027",
+          "author": "Xiang Liu",
+          "description": "SUMMARY: Clonal hematopoiesis (CH) is a molecular biomarker associated with various adverse outcomes in both healthy individuals and those with underlying conditions, including cancer. Detecting CH usually involves genomic sequencing of individual blood samples followed by robust bioinformatics data filtering. We report an R package, qcCHIP, a bioinformatics pipeline that implements permutation-based parameter optimization to guide quality control filtering and cohort-specific CH identification....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40973027/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 1597,
+          "title": "qcCHIP: An R package to identify clonal hematopoiesis variants using cohort-specific data characteristics",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40972808",
+          "author": "Pawan Bhat",
+          "description": "Myelodysplastic syndromes (MDS) are a group of malignant clonal disorders that are characterized by functional impairment of hematopoiesis, morphologic dysplasia, and genetic heterogeneity¹. While less likely to transform to acute leukemia, lower-risk MDS (LR-MDS) include patients with IPSS-M moderate low risk, low risk, and very low risk patients² and have a limited median survival of 3 to 10 years³. Further, there is growing interest in discovering translational targets of LR-MDS...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40972808/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 1717,
+          "title": "A 30-gene classifier distinguishes low-risk MDS HSPCs from healthy HSPCs",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40971523",
+          "author": "Quentin Neven",
+          "description": "Juvenile myelomonocytic leukemia (JMML) is a rare, aggressive pediatric myeloproliferative neoplasm for which hematopoietic stem cell transplantation (HSCT) is currently the only established curative therapy. However, a watch-and-wait (W&W) approach has shown promise for long-term survival in selected cases. In this real-world study, we analyzed outcomes of JMML patients initially managed with a W&W strategy within a nationwide cohort of 161 genetically characterized cases. W&W was chosen for 35...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40971523/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 1689,
+          "title": "The watch-and-wait approach for patients with juvenile myelomonocytic leukemia: results of the French cohort",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40970771",
+          "author": "Sarah C Reed",
+          "description": "CONCLUSIONS: Our findings demonstrate a genotype-specific impact of CHIP on breast cancer across human and mouse data. Further, the chimeric mouse models we generated offer a clinically relevant tool to study solid tumors in a CHIP background. This work underscores the need for further functional studies and personalized risk assessment to clearly define the impact of various CHIP genotypes on breast cancer.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40970771/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 1436,
+          "title": "Clonal hematopoiesis of indeterminate potential influences breast cancer outcomes in a genotype-specific manner",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40970503",
+          "author": "Cooper Quartermaine",
+          "description": "CONCLUSIONS: Collectively, these data suggest among patients treated with alloHSCT, the presence of CH appears to portend increased AF risk, though validation in larger prospective studies is needed.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40970503/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 1683,
+          "title": "Presence of Clonal Hematopoiesis and Cardiac Events After Allogeneic Stem Cell Transplantation",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:40973222",
           "author": "Vylyny Chat",
@@ -366,6 +436,26 @@
           "id": "pubmed:40962140",
           "author": "Mithra Lakshmi Narasimhan",
           "description": "CONCLUSION: This radiation-free RIC regimen demonstrated excellent DFS with minimal GVHD in all patients, including those from alternative donor sources. Late complications were primarily endocrine in origin. The trials were registered at www.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40962140/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-17T10:00:00.000Z",
+          "wordCount": 1397,
+          "title": "Excellent Outcomes in Feasibility Study of Radiation-free Conditioning and Transplant in Pediatric Severe Aplastic Anemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40961562",
+          "author": "Sebastian Wagner",
+          "description": "Clonal dynamics within hematopoietic stem cells (HSCs) provide critical insights into both hematopoietic regeneration and the development of hematological diseases. Advances in sequencing technologies and temporal clonal analysis have revealed that mutations driving clonal dominance often emerge early in life and gradually expand over decades. This slow progression, often coupled with sub-percentage clonal abundances, presents significant challenges in detecting and monitoring clones that may...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40961562/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-17T10:00:00.000Z",
+          "wordCount": 1443,
+          "title": "Subtle changes in clonal dynamics: Challenges in quantifying the slow expansion of small hematopoietic stem cell clones",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40962140",
+          "author": "Mithra Lakshmi Narasimhan",
+          "description": "CONCLUSION: This radiation-free RIC regimen demonstrated excellent DFS with minimal GVHD in all patients, including those from alternative donor sources. Late complications were primarily endocrine in origin. The trials were registered at www.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40962140/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250921211709&v=2.18.0.post9+e462414",
           "publishedOn": "2025-09-17T10:00:00.000Z",
           "wordCount": 1393,
@@ -446,6 +536,16 @@
           "id": "pubmed:40956966",
           "author": "Tianliang Liu",
           "description": "Circulating cell-free DNA (cfDNA) comprises DNA fragments released into bodily fluids via apoptosis, necrosis, or phagocytosis. cfDNA encapsulates both fragmentomics (structural) and non-fragmentomics (sequence/epigenetic) information from source cells, thereby representing a promising biomarker. While non-fragmentomics analyses have enabled diverse diagnostic applications, they often falter in diseases with subtle or widespread genomic changes due to low cfDNA abundance and clonal hematopoiesis...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40956966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-16T10:00:00.000Z",
+          "wordCount": 1112,
+          "title": "Circulating Cell-free DNA Fragmentomics Detection and Beyond",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40956966",
+          "author": "Tianliang Liu",
+          "description": "Circulating cell-free DNA (cfDNA) comprises DNA fragments released into bodily fluids via apoptosis, necrosis, or phagocytosis. cfDNA encapsulates both fragmentomics (structural) and non-fragmentomics (sequence/epigenetic) information from source cells, thereby representing a promising biomarker. While non-fragmentomics analyses have enabled diverse diagnostic applications, they often falter in diseases with subtle or widespread genomic changes due to low cfDNA abundance and clonal hematopoiesis...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40956966/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250921211709&v=2.18.0.post9+e462414",
           "publishedOn": "2025-09-16T10:00:00.000Z",
           "wordCount": 1112,
@@ -500,6 +600,26 @@
           "publishedOn": "2025-09-16T10:00:00.000Z",
           "wordCount": 1112,
           "title": "Circulating Cell-free DNA Fragmentomics Detection and Beyond",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40950461",
+          "author": "Alyssa C Parker",
+          "description": "CONCLUSIONS: CHIP mutations alter interactions between monocytes and endothelial cells. Therapeutics targeting CXCR2 and ICAM1 may restore normal interactions between monocytes and endothelial cells among patients with TET2 CHIP.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40950461/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-15T10:00:00.000Z",
+          "wordCount": 1307,
+          "title": "Monocyte-endothelial interactions as a targetable node in clonal hematopoiesis-mediated cardiovascular disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40950448",
+          "author": "Mona Arabzadeh",
+          "description": "Clonal hematopoiesis (CH) is the age-related expansion of mutated hematopoietic stem cells without other hematologic abnormalities. In patients with solid tumors, CH is associated with higher mortality and may evolve to therapy-related myeloid neoplasms; however, the mechanisms by which cancer treatments promote CH dynamics remain largely unknown. Here, we analyzed 392 serial samples from a prospective cohort of breast cancer patients and showed that cytotoxic treatments (chemotherapy ±...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40950448/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-15T10:00:00.000Z",
+          "wordCount": 2591,
+          "title": "Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -640,6 +760,36 @@
           "publishedOn": "2025-09-15T10:00:00.000Z",
           "wordCount": 2086,
           "title": "Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40945967",
+          "author": "Valentin Lacombe",
+          "description": "The VEXAS syndrome, whose phenotype has been extensively described in recent years, is now beginning to unveil the secrets of its pathophysiology. For those who tend to keep a respectful distance from basic science papers, Immuno'logical offers a guided dive into two recent fascinating publications, that challenge several long-held assumptions: no, VEXAS is not merely a myeloid disorder; no, UBA1-wild-type cells are not blameless in systemic inflammation; and no, UBA1-mutated progenitors do not...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40945967/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-13T10:00:00.000Z",
+          "wordCount": 1181,
+          "title": "Immuno'logical (The scientific updates you wouldn't dare to read anywhere else): The hidden face of VEXAS syndrome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40944637",
+          "author": "Alessandra Venanzi",
+          "description": "Independent Origin of Hairy Cell Leukemia (HCL) From Co-Occurring Clonal Hematopoiesis.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40944637/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-13T10:00:00.000Z",
+          "wordCount": 1117,
+          "title": "Independent Origin of Hairy Cell Leukemia (HCL) From Co-Occurring Clonal Hematopoiesis (CH)",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40944087",
+          "author": "Samuel B Todor",
+          "description": "Philadelphia-negative myeloproliferative neoplasms (Ph-MPNs) are clonal hematologic malignancies characterized not only by driver mutations such as JAK2V617F, CALR, and MPL but also by a profoundly dysregulated immune microenvironment. Chronic inflammation and immune remodeling sustain malignant hematopoiesis and contribute to disease progression from essential thrombocythemia (ET) and polycythemia vera (PV) to overt myelofibrosis (MF). Pro-inflammatory cytokines and chemokines-including IL-2,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40944087/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-13T10:00:00.000Z",
+          "wordCount": 1746,
+          "title": "Cytokine Landscapes, Immune Dysregulation, and Treatment Perspectives in Philadelphia-Negative Myeloproliferative Neoplasms: A Narrative Review",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7791,234 +7941,34 @@
           "wordCount": 1396,
           "title": "Restoration of Autophagy and Apoptosis in Myelodysplastic Syndromes: The Effect of Azacitidine in Disease Pathogenesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40712856",
-          "author": "Noémie Ravalet",
-          "description": "Acute myeloid leukemia (AML) is a heterogeneous group of hematopoietic cancers. Cytokines play an important role in the regulation of normal and pathologic hematopoiesis. A pro-inflammatory state, described in hematopoietic malignancies, may participate in clonal selection. To identify recurrent cytokine patterns according to AML ontogenic subtypes, we quantified the concentration of 49 cytokines in the bone marrow (BM) plasma from 124 patients with AML or myelodysplastic syndrome (MDS), and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40712856/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250806212652&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 1941,
-          "title": "A specific bone marrow cytokine pattern in de novo acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40709316",
-          "author": "Simon M Krauß",
-          "description": "Clonal hematopoiesis (CH) is common in the general population and associated with various health risks, but its prevalence and clinical implications in acute myeloid leukemia (AML) long-term survivors (LTS; ≥5-year survival) are unknown. We analyzed CH in 373 AML-LTS with a median 11.6-year follow-up from diagnosis using a sensitive targeted sequencing assay based on single-molecule molecular inversion probes. CH variants were detected in 61.9% of survivors, with 26% having small-clone CH...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40709316/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250806212652&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 2809,
-          "title": "Clonal hematopoiesis in AML long-term survivors: Risk factors and clinical consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40712856",
-          "author": "Noémie Ravalet",
-          "description": "Acute myeloid leukemia (AML) is a heterogeneous group of hematopoietic cancers. Cytokines play an important role in the regulation of normal and pathologic hematopoiesis. A pro-inflammatory state, described in hematopoietic malignancies, may participate in clonal selection. To identify recurrent cytokine patterns according to AML ontogenic subtypes, we quantified the concentration of 49 cytokines in the bone marrow (BM) plasma from 124 patients with AML or myelodysplastic syndrome (MDS), and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40712856/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250805212611&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 1941,
-          "title": "A specific bone marrow cytokine pattern in de novo acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40709316",
-          "author": "Simon M Krauß",
-          "description": "Clonal hematopoiesis (CH) is common in the general population and associated with various health risks, but its prevalence and clinical implications in acute myeloid leukemia (AML) long-term survivors (LTS; ≥5-year survival) are unknown. We analyzed CH in 373 AML-LTS with a median 11.6-year follow-up from diagnosis using a sensitive targeted sequencing assay based on single-molecule molecular inversion probes. CH variants were detected in 61.9% of survivors, with 26% having small-clone CH...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40709316/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250805212611&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 2809,
-          "title": "Clonal hematopoiesis in AML long-term survivors: Risk factors and clinical consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40712856",
-          "author": "Noémie Ravalet",
-          "description": "Acute myeloid leukemia (AML) is a heterogeneous group of hematopoietic cancers. Cytokines play an important role in the regulation of normal and pathologic hematopoiesis. A pro-inflammatory state, described in hematopoietic malignancies, may participate in clonal selection. To identify recurrent cytokine patterns according to AML ontogenic subtypes, we quantified the concentration of 49 cytokines in the bone marrow (BM) plasma from 124 patients with AML or myelodysplastic syndrome (MDS), and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40712856/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250804212807&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 1941,
-          "title": "A specific bone marrow cytokine pattern in de novo acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40709316",
-          "author": "Simon M Krauß",
-          "description": "Clonal hematopoiesis (CH) is common in the general population and associated with various health risks, but its prevalence and clinical implications in acute myeloid leukemia (AML) long-term survivors (LTS; ≥5-year survival) are unknown. We analyzed CH in 373 AML-LTS with a median 11.6-year follow-up from diagnosis using a sensitive targeted sequencing assay based on single-molecule molecular inversion probes. CH variants were detected in 61.9% of survivors, with 26% having small-clone CH...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40709316/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250804212807&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 2809,
-          "title": "Clonal hematopoiesis in AML long-term survivors: Risk factors and clinical consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40712856",
-          "author": "Noémie Ravalet",
-          "description": "Acute myeloid leukemia (AML) is a heterogeneous group of hematopoietic cancers. Cytokines play an important role in the regulation of normal and pathologic hematopoiesis. A pro-inflammatory state, described in hematopoietic malignancies, may participate in clonal selection. To identify recurrent cytokine patterns according to AML ontogenic subtypes, we quantified the concentration of 49 cytokines in the bone marrow (BM) plasma from 124 patients with AML or myelodysplastic syndrome (MDS), and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40712856/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250803214206&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 1941,
-          "title": "A specific bone marrow cytokine pattern in de novo acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40709316",
-          "author": "Simon M Krauß",
-          "description": "Clonal hematopoiesis (CH) is common in the general population and associated with various health risks, but its prevalence and clinical implications in acute myeloid leukemia (AML) long-term survivors (LTS; ≥5-year survival) are unknown. We analyzed CH in 373 AML-LTS with a median 11.6-year follow-up from diagnosis using a sensitive targeted sequencing assay based on single-molecule molecular inversion probes. CH variants were detected in 61.9% of survivors, with 26% having small-clone CH...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40709316/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250803214206&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 2809,
-          "title": "Clonal hematopoiesis in AML long-term survivors: Risk factors and clinical consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40712856",
-          "author": "Noémie Ravalet",
-          "description": "Acute myeloid leukemia (AML) is a heterogeneous group of hematopoietic cancers. Cytokines play an important role in the regulation of normal and pathologic hematopoiesis. A pro-inflammatory state, described in hematopoietic malignancies, may participate in clonal selection. To identify recurrent cytokine patterns according to AML ontogenic subtypes, we quantified the concentration of 49 cytokines in the bone marrow (BM) plasma from 124 patients with AML or myelodysplastic syndrome (MDS), and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40712856/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250802214221&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 1941,
-          "title": "A specific bone marrow cytokine pattern in de novo acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40709316",
-          "author": "Simon M Krauß",
-          "description": "Clonal hematopoiesis (CH) is common in the general population and associated with various health risks, but its prevalence and clinical implications in acute myeloid leukemia (AML) long-term survivors (LTS; ≥5-year survival) are unknown. We analyzed CH in 373 AML-LTS with a median 11.6-year follow-up from diagnosis using a sensitive targeted sequencing assay based on single-molecule molecular inversion probes. CH variants were detected in 61.9% of survivors, with 26% having small-clone CH...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40709316/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250802214221&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 2806,
-          "title": "Clonal hematopoiesis in AML long-term survivors: Risk factors and clinical consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40712856",
-          "author": "Noémie Ravalet",
-          "description": "Acute myeloid leukemia (AML) is a heterogeneous group of hematopoietic cancers. Cytokines play an important role in the regulation of normal and pathologic hematopoiesis. A pro-inflammatory state, described in hematopoietic malignancies, may participate in clonal selection. To identify recurrent cytokine patterns according to AML ontogenic subtypes, we quantified the concentration of 49 cytokines in the bone marrow (BM) plasma from 124 patients with AML or myelodysplastic syndrome (MDS), and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40712856/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250801212214&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 1961,
-          "title": "A specific bone marrow cytokine pattern in de novo acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40709316",
-          "author": "Simon M Krauß",
-          "description": "Clonal hematopoiesis (CH) is common in the general population and associated with various health risks, but its prevalence and clinical implications in acute myeloid leukemia (AML) long-term survivors (LTS; ≥5-year survival) are unknown. We analyzed CH in 373 AML-LTS with a median 11.6-year follow-up from diagnosis using a sensitive targeted sequencing assay based on single-molecule molecular inversion probes. CH variants were detected in 61.9% of survivors, with 26% having small-clone CH...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40709316/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250801212214&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 2806,
-          "title": "Clonal hematopoiesis in AML long-term survivors: Risk factors and clinical consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40712856",
-          "author": "Noémie Ravalet",
-          "description": "Acute myeloid leukemia (AML) is a heterogeneous group of hematopoietic cancers. Cytokines play an important role in the regulation of normal and pathologic hematopoiesis. A pro-inflammatory state, described in hematopoietic malignancies, may participate in clonal selection. To identify recurrent cytokine patterns according to AML ontogenic subtypes, we quantified the concentration of 49 cytokines in the bone marrow (BM) plasma from 124 patients with AML or myelodysplastic syndrome (MDS), and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40712856/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250731214430&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 1961,
-          "title": "A specific bone marrow cytokine pattern in de novo acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40709316",
-          "author": "Simon M Krauß",
-          "description": "Clonal hematopoiesis (CH) is common in the general population and associated with various health risks, but its prevalence and clinical implications in acute myeloid leukemia (AML) long-term survivors (LTS; ≥5-year survival) are unknown. We analyzed CH in 373 AML-LTS with a median 11.6-year follow-up from diagnosis using a sensitive targeted sequencing assay based on single-molecule molecular inversion probes. CH variants were detected in 61.9% of survivors, with 26% having small-clone CH...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40709316/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250731214430&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 2806,
-          "title": "Clonal hematopoiesis in AML long-term survivors: Risk factors and clinical consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40712856",
-          "author": "Noémie Ravalet",
-          "description": "Acute myeloid leukemia (AML) is a heterogeneous group of hematopoietic cancers. Cytokines play an important role in the regulation of normal and pathologic hematopoiesis. A pro-inflammatory state, described in hematopoietic malignancies, may participate in clonal selection. To identify recurrent cytokine patterns according to AML ontogenic subtypes, we quantified the concentration of 49 cytokines in the bone marrow (BM) plasma from 124 patients with AML or myelodysplastic syndrome (MDS), and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40712856/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250730212540&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 1961,
-          "title": "A specific bone marrow cytokine pattern in de novo acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40709316",
-          "author": "Simon M Krauß",
-          "description": "Clonal hematopoiesis (CH) is common in the general population and associated with various health risks, but its prevalence and clinical implications in acute myeloid leukemia (AML) long-term survivors (LTS; ≥5-year survival) are unknown. We analyzed CH in 373 AML-LTS with a median 11.6-year follow-up from diagnosis using a sensitive targeted sequencing assay based on single-molecule molecular inversion probes. CH variants were detected in 61.9% of survivors, with 26% having small-clone CH...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40709316/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250730212540&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 2771,
-          "title": "Clonal hematopoiesis in AML long-term survivors: Risk factors and clinical consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40712856",
-          "author": "Noémie Ravalet",
-          "description": "Acute myeloid leukemia (AML) is a heterogeneous group of hematopoietic cancers. Cytokines play an important role in the regulation of normal and pathologic hematopoiesis. A pro-inflammatory state, described in hematopoietic malignancies, may participate in clonal selection. To identify recurrent cytokine patterns according to AML ontogenic subtypes, we quantified the concentration of 49 cytokines in the bone marrow (BM) plasma from 124 patients with AML or myelodysplastic syndrome (MDS), and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40712856/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250729212609&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 1954,
-          "title": "A specific bone marrow cytokine pattern in de novo acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40709316",
-          "author": "Simon M Krauß",
-          "description": "Clonal hematopoiesis (CH) is common in the general population and associated with various health risks, but its prevalence and clinical implications in acute myeloid leukemia (AML) long-term survivors (LTS; ≥5-year survival) are unknown. We analyzed CH in 373 AML-LTS with a median 11.6-year follow-up from diagnosis using a sensitive targeted sequencing assay based on single-molecule molecular inversion probes. CH variants were detected in 61.9% of survivors, with 26% having small-clone CH...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40709316/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250729212609&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 2799,
-          "title": "Clonal hematopoiesis in AML long-term survivors: Risk factors and clinical consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40712856",
-          "author": "Noémie Ravalet",
-          "description": "Acute myeloid leukemia (AML) is a heterogeneous group of hematopoietic cancers. Cytokines play an important role in the regulation of normal and pathologic hematopoiesis. A pro-inflammatory state, described in hematopoietic malignancies, may participate in clonal selection. To identify recurrent cytokine patterns according to AML ontogenic subtypes, we quantified the concentration of 49 cytokines in the bone marrow (BM) plasma from 124 patients with AML or myelodysplastic syndrome (MDS), and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40712856/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250728214428&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 1903,
-          "title": "A specific bone marrow cytokine pattern in de novo acute myeloid leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40709316",
-          "author": "Simon M Krauß",
-          "description": "Clonal hematopoiesis (CH) is common in the general population and associated with various health risks, but its prevalence and clinical implications in acute myeloid leukemia (AML) long-term survivors (LTS; ≥5-year survival) are unknown. We analyzed CH in 373 AML-LTS with a median 11.6-year follow-up from diagnosis using a sensitive targeted sequencing assay based on single-molecule molecular inversion probes. CH variants were detected in 61.9% of survivors, with 26% having small-clone CH...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40709316/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250728214428&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 2751,
-          "title": "Clonal hematopoiesis in AML long-term survivors: Risk factors and clinical consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40709316",
-          "author": "Simon M Krauß",
-          "description": "Clonal hematopoiesis (CH) is common in the general population and associated with various health risks, but its prevalence and clinical implications in acute myeloid leukemia (AML) long-term survivors (LTS; ≥5-year survival) are unknown. We analyzed CH in 373 AML-LTS with a median 11.6-year follow-up from diagnosis using a sensitive targeted sequencing assay based on single-molecule molecular inversion probes. CH variants were detected in 61.9% of survivors, with 26% having small-clone CH...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40709316/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250727213920&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 2716,
-          "title": "Clonal hematopoiesis in AML long-term survivors: Risk factors and clinical consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:40709316",
-          "author": "Simon M Krauß",
-          "description": "Clonal hematopoiesis (CH) is common in the general population and associated with various health risks, but its prevalence and clinical implications in acute myeloid leukemia (AML) long-term survivors (LTS; ≥5-year survival) are unknown. We analyzed CH in 373 AML-LTS with a median 11.6-year follow-up from diagnosis using a sensitive targeted sequencing assay based on single-molecule molecular inversion probes. CH variants were detected in 61.9% of survivors, with 26% having small-clone CH...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/40709316/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20250725212223&v=2.18.0.post9+e462414",
-          "publishedOn": "2025-07-25T10:00:00.000Z",
-          "wordCount": 2467,
-          "title": "Clonal hematopoiesis in AML long-term survivors: Risk factors and clinical consequences",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20250921211709&fc=20220608010801&utm_source=axios&utm_medium=rss&v=2.18.0.post9+e462414",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_campaign=pubmed-2&v=2.18.0.post9+e462414&ff=20250922211037&utm_medium=rss",
       "articles": [
+        {
+          "id": "pubmed:40973068",
+          "author": "Megan K Le",
+          "description": "The accurate identification of somatic structural variants (SVs) is important for understanding the basis and evolution of cancerous tumor growth. Though long-read sequencing has facilitated the development of more accurate SV calling methods, existing somatic SV callers still struggle with achieving simultaneously high precision and high recall. In this work, we present colorSV (COassembly-based LOng-Range SV caller), a long-read-based method for calling long-range SVs by examining the local...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40973068/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 1333,
+          "title": "colorSV: Long-range Somatic Structural Variation Calling from Matched Tumor-normal Co-assembly Graphs",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40971591",
+          "author": "Adam Streck",
+          "description": "CONCLUSIONS: CNSistent is a general-purpose toolkit for integrated processing of SCNA profiles across many patients and cohorts. It is available at https://bitbucket.org/schwarzlab/cnsistent. The Research Resource Identifier for CNSistent is SCR_027025.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40971591/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 2624,
+          "title": "CNSistent integration and feature extraction from somatic copy number profiles",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:40973068",
           "author": "Megan K Le",
@@ -8067,6 +8017,16 @@
           "publishedOn": "2025-09-19T10:00:00.000Z",
           "wordCount": 1449,
           "title": "CNSistent integration and feature extraction from somatic copy number profiles",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40954304",
+          "author": "Chi-Yun Wu",
+          "description": "Somatic mutations such as copy number alterations accumulate during cancer progression, driving intratumor heterogeneity that impacts therapy effectiveness. Understanding the characteristics and spatial distribution of genetically distinct subclones is essential for unraveling tumor evolution and improving cancer treatment. Here we present Clonalscope, a subclone detection method using copy number profiles, applicable to spatial transcriptomics and single-cell sequencing data. Clonalscope...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40954304/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-15T10:00:00.000Z",
+          "wordCount": 1716,
+          "title": "Cancer subclone detection based on DNA copy number in single-cell and spatial omic sequencing data",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8127,6 +8087,16 @@
           "publishedOn": "2025-09-15T10:00:00.000Z",
           "wordCount": 1683,
           "title": "Cancer subclone detection based on DNA copy number in single-cell and spatial omic sequencing data",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40944534",
+          "author": "Leah L Weber",
+          "description": "Cancer arises through an evolutionary process in which somatic mutations, including single-nucleotide variants (SNVs) and copy number aberrations (CNAs), drive the development of a malignant, heterogeneous tumor. Reconstructing this evolutionary history from sequencing data is critical for understanding the order in which mutations are acquired and the dynamic interplay between different types of alterations. Advances in modern whole-genome single-cell sequencing now enable the accurate...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40944534/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-13T10:00:00.000Z",
+          "wordCount": 1311,
+          "title": "Pharming: Joint Clonal Tree Reconstruction of Single-Nucleotide Variant and Copy Number Aberration Evolution from Single-Cell DNA Sequencing of Tumors",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8217,6 +8187,16 @@
           "publishedOn": "2025-09-13T10:00:00.000Z",
           "wordCount": 1278,
           "title": "Pharming: Joint Clonal Tree Reconstruction of Single-Nucleotide Variant and Copy Number Aberration Evolution from Single-Cell DNA Sequencing of Tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40916402",
+          "author": "Yoon Young Choi",
+          "description": "CONCLUSION: Even in patients with shared germline predisposition, primary tumors arising in different organs demonstrate substantial genomic divergence. These findings suggest that organ-specific selective pressures drive independent tumor evolution, underscoring the need for individualized molecular profiling and therapeutic targeting in cases of multiple primary cancers.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40916402/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-08T10:00:00.000Z",
+          "wordCount": 1608,
+          "title": "Intrapatient genomic divergence across multiple primary tumors in young Korean patients",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8357,6 +8337,16 @@
           "publishedOn": "2025-09-08T10:00:00.000Z",
           "wordCount": 1178,
           "title": "Intrapatient genomic divergence across multiple primary tumors in young Korean patients",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40900635",
+          "author": "Masroor Bayati",
+          "description": "Oncogenesis, tumor progression and therapy response are shaped by somatic alterations in the cancer genome and features of the tumor immune microenvironment (TME). How interactions between these two systems influence tumor evolution and clinical outcomes remains incompletely understood. To address this challenge, we developed the multi-omics analysis framework PACIFIC that systematically integrates genetic cancer drivers and infiltration profiles of immune cells to find pairwise combinations of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40900635/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-03T10:00:00.000Z",
+          "wordCount": 1333,
+          "title": "Cancer genomic alterations and microenvironmental features encode synergistic interactions with disease outcomes",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8553,6 +8543,16 @@
           "id": "pubmed:40898324",
           "author": "Shengbo Sun",
           "description": "Cancer immunotherapy has revolutionized oncology by leveraging the immune system to combat tumors. Among various biomarkers, neoantigens and tumor mutational burden (TMB) have emerged as critical factors in tailoring personalized treatments. Neoantigens are tumor-specific peptides displayed on cancer cell surfaces, derived from somatic mutations. Recognized as \"non-self\" by the immune system, they trigger T-cell responses and enable therapies like personalized vaccines and adoptive T-cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40898324/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-09-02T10:00:00.000Z",
+          "wordCount": 2623,
+          "title": "The role of neoantigens and tumor mutational burden in cancer immunotherapy: advances, mechanisms, and perspectives",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40898324",
+          "author": "Shengbo Sun",
+          "description": "Cancer immunotherapy has revolutionized oncology by leveraging the immune system to combat tumors. Among various biomarkers, neoantigens and tumor mutational burden (TMB) have emerged as critical factors in tailoring personalized treatments. Neoantigens are tumor-specific peptides displayed on cancer cell surfaces, derived from somatic mutations. Recognized as \"non-self\" by the immune system, they trigger T-cell responses and enable therapies like personalized vaccines and adoptive T-cell...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40898324/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250921211709&v=2.18.0.post9+e462414",
           "publishedOn": "2025-09-02T10:00:00.000Z",
           "wordCount": 2623,
@@ -8737,6 +8737,16 @@
           "publishedOn": "2025-09-02T10:00:00.000Z",
           "wordCount": 1992,
           "title": "The role of neoantigens and tumor mutational burden in cancer immunotherapy: advances, mechanisms, and perspectives",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40873563",
+          "author": "Xiaoshi Ma",
+          "description": "CONCLUSION: Our study provides the first molecular roadmap of prostatic PGCA to date, establishing a novel five-gene prognostic signature and revealing fundamental insights into its pathogenesis through divergent evolution from conventional adenocarcinoma. These insights offer new opportunities for precise diagnosis, prognostic stratification, and targeted therapeutic strategies for this lethal prostate cancer variant.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40873563/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-28T10:00:00.000Z",
+          "wordCount": 2721,
+          "title": "Clonal divergence and genomic meltdown in prostatic pleomorphic giant cell adenocarcinoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8987,6 +8997,16 @@
           "publishedOn": "2025-08-28T10:00:00.000Z",
           "wordCount": 2670,
           "title": "Clonal divergence and genomic meltdown in prostatic pleomorphic giant cell adenocarcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40847288",
+          "author": "Wen Chen",
+          "description": "CONCLUSIONS: Our study introduced a novel MPT sequencing approach for CSCC, providing insights into tumor heterogeneity and clonal evolution. We identified novel mutations and their potential associations with patient survival and tumor characteristics. Overall, our study layed the groundwork for personalized treatment strategies and provides a reference for future applications of the MPT panel in CSCC patients.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40847288/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-23T10:00:00.000Z",
+          "wordCount": 2896,
+          "title": "Analysis of genomic heterogeneity and the mutational landscape in cutaneous squamous cell carcinoma through multi-patient-targeted single-cell DNA sequencing",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9287,6 +9307,26 @@
           "publishedOn": "2025-08-23T10:00:00.000Z",
           "wordCount": 2138,
           "title": "Analysis of genomic heterogeneity and the mutational landscape in cutaneous squamous cell carcinoma through multi-patient-targeted single-cell DNA sequencing",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40833784",
+          "author": "Arnaud Da Cruz Paula",
+          "description": "CONCLUSIONS: Our exploratory, hypothesis-generating analysis suggest that PI3K pathway alterations evolve distinctly in MMRd/POLE compared to NSMP EECs, which may have therapeutic consequences. Further studies on the signaling output and PI3K pathway inhibitor response in EECs with subclonal PI3K pathway alterations are warranted.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40833784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-20T10:00:00.000Z",
+          "wordCount": 1498,
+          "title": "Evolution and co-occurrence of PI3K pathway gene mutations in endometrial carcinoma molecular subtypes at the single-cell level",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40832239",
+          "author": "Yang Su",
+          "description": "MutationAssessor (MA) helps researchers evaluate the likely functional impact of somatic and germline mutations in cancer. It provides an evolution-based functional impact score (FIS) to classify mutations based on their likely effect on protein function. FIS scores are based on analysis of patterns of conservation in protein families (conserved residues) and subfamilies (specificity residues). In this new version (r4) we have (1) refined the combinatorial entropy analysis of conservation...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40832239/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-20T10:00:00.000Z",
+          "wordCount": 2334,
+          "title": "MutationAssessor in cBioPortal",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9953,6 +9993,16 @@
           "id": "pubmed:40813987",
           "author": "Junseong Park",
           "description": "CONCLUSION: Together, GSOs constitute a tractable and translationally relevant model that faithfully reflects the cellular complexity, genetic landscape, and tumor-specific heterogeneity. This model addresses a critical gap in GS biology and supports its integration into precision oncology.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40813987/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-15T10:00:00.000Z",
+          "wordCount": 2942,
+          "title": "Tumor microenvironment-preserving gliosarcoma organoids as an in vitro preclinical platform: a comparative analysis with glioblastoma models",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40813987",
+          "author": "Junseong Park",
+          "description": "CONCLUSION: Together, GSOs constitute a tractable and translationally relevant model that faithfully reflects the cellular complexity, genetic landscape, and tumor-specific heterogeneity. This model addresses a critical gap in GS biology and supports its integration into precision oncology.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40813987/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250921211709&v=2.18.0.post9+e462414",
           "publishedOn": "2025-08-15T10:00:00.000Z",
           "wordCount": 2942,
@@ -10333,6 +10383,16 @@
           "id": "pubmed:40813609",
           "author": "Christina R Ross",
           "description": "Metastasis remains a major cause of cancer mortality. This study, expanding upon previous findings in the MMTV-PyMT model, investigated four independent mouse models, representing luminal (MMTV-PyMT, MMTV-Myc), HER2-amplified (MMTV-Her2), and triple-negative (C3(1)TAg) breast cancer subtypes. Consistent with previous results, limited evidence for metastasis-associated somatic point mutations was found for all models. We also found that oncogenic drivers significantly influenced the number and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40813609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-14T10:00:00.000Z",
+          "wordCount": 3062,
+          "title": "Genetic background and oncogenic driver determines the genomic evolution and transcriptomics of mammary tumor metastasis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40813609",
+          "author": "Christina R Ross",
+          "description": "Metastasis remains a major cause of cancer mortality. This study, expanding upon previous findings in the MMTV-PyMT model, investigated four independent mouse models, representing luminal (MMTV-PyMT, MMTV-Myc), HER2-amplified (MMTV-Her2), and triple-negative (C3(1)TAg) breast cancer subtypes. Consistent with previous results, limited evidence for metastasis-associated somatic point mutations was found for all models. We also found that oncogenic drivers significantly influenced the number and...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/40813609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250921211709&v=2.18.0.post9+e462414",
           "publishedOn": "2025-08-14T10:00:00.000Z",
           "wordCount": 3062,
@@ -10707,6 +10767,16 @@
           "publishedOn": "2025-08-14T10:00:00.000Z",
           "wordCount": 1458,
           "title": "Genetic background and oncogenic driver determines the genomic evolution and transcriptomics of mammary tumor metastasis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40804524",
+          "author": "Piotr Pawlik",
+          "description": "Both single nucleotide variants (SNVs) and somatic copy number alterations (SCNAs) accumulate in cancer cells during tumour development, fuelling clonal evolution. However, accurate estimation of clone-specific copy numbers from bulk DNA-sequencing data is challenging. Here we present allele-specific phylogenetic analysis of copy number alterations (ALPACA), a method to infer SNV and SCNA coevolution by leveraging phylogenetic trees reconstructed from multi-sample bulk tumour sequencing data...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40804524/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-13T10:00:00.000Z",
+          "wordCount": 2185,
+          "title": "Clone copy number diversity is linked to survival in lung cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -11097,6 +11167,16 @@
           "publishedOn": "2025-08-13T10:00:00.000Z",
           "wordCount": 2185,
           "title": "Clone copy number diversity is linked to survival in lung cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:40789644",
+          "author": "Joe Nassour",
+          "description": "Somatic mutations arise in normal tissues and precursor lesions, often targeting cancer-driver genes involved in cell cycle regulation. Most checkpoint-mutant clones, however, remain dormant throughout an individual's lifetime and seldom progress to malignancy, implying the presence of protective mechanisms that limit their expansion and malignant transformation. One such safeguard is telomere crisis-a potent tumor-suppressive barrier that eliminates cells lacking functional checkpoints and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/40789644/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20250922211037&v=2.18.0.post9+e462414",
+          "publishedOn": "2025-08-11T10:00:00.000Z",
+          "wordCount": 2717,
+          "title": "Telomere Crisis Shapes Cancer Evolution",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
