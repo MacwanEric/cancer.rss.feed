@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2025-10-25T01:11:53.679Z</updated>
+    <updated>2025-10-26T01:19:20.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Racial disparities in clonal hematopoiesis and their impact on hematologic malignancies]]></title>
+        <id>pubmed:41137150</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41137150/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) is a known risk factor for hematologic malignancies (HM), but its distribution and clinical implications across diverse ancestries remain poorly characterized. In this study, we investigated CHIP and its progression to HM in a large, racially diverse cohort from the All of Us Research Program, comprising 245,388 participants. We identified 10,446 CHIP driver mutations in 9,476 individuals. Our analysis revealed clear racial disparities in...]]></summary>
+        <author>
+            <name>Zijian Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prothrombotic profiles in myelofibrosis: Fibrinogen oxidation and the beneficial effects of ruxolitinib]]></title>
+        <id>pubmed:41135228</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41135228/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelofibrosis (MF) is a myeloproliferative neoplasm characterized by stem cell-derived clonal myeloproliferation, bone marrow fibrosis, extramedullary hematopoiesis and aberrant inflammation. About 90 % of MF patients carry mutations in JAK2, CALR, or MPL, with JAK2 mutations promoting cytokine independence, STAT proteins activation and enhances reactive oxygen species (ROS) production. Inflammation and oxidative stress are key contributors to thrombotic risk, a major cause of morbidity and...]]></summary>
+        <author>
+            <name>Francesca Nencini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connecting the Dots: Gouty Arthritis, Clonal Haematopoiesis and Myeloid Activation, in a Unified Inflammation Model for Atherosclerosis Progression]]></title>
+        <id>pubmed:41130316</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41130316/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Gout, one of the most prevalent inflammatory arthropathies, arises from hyperuricemia and is increasingly recognized as a condition extending beyond the joints. Hyperuricemia, the core risk factor for gout, is also an independent risk factor for cardiovascular disease (CVD), complications, and mortality. Multiple conditions that predispose to gout and hyperuricemia, including obesity, metabolic syndrome, type 2 diabetes, hypertension, and chronic kidney disease (CKD), also elevate the risk of...]]></summary>
+        <author>
+            <name>Faith Inkum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A quantitative, Bayesian-informed approach to gene-specific variant classification: Updated Expert Panel recommendations improve classification of TP53 germline variants for Li-Fraumeni syndrome]]></title>
+        <id>pubmed:41126324</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41126324/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: The updated TP53 specfications are expected to reduce VUS rates, increase inter-laboratory concordance, and improve medical management for individuals with germline TP53 variants. The most current version is available at the ClinGen Criteria Specifications Registry (CSpec): https://cspec.genome.network/cspec/ui/svi/svi/GN009 .]]></summary>
+        <author>
+            <name>Cristina Fortuno</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Connecting the Dots: Gouty Arthritis, Clonal Haematopoiesis and Myeloid Activation, in a Unified Inflammation Model for Atherosclerosis Progression]]></title>
         <id>pubmed:41130316</id>
@@ -34,6 +74,36 @@
         <summary type="html"><![CDATA[CONCLUSIONS: The updated TP53 specfications are expected to reduce VUS rates, increase inter-laboratory concordance, and improve medical management for individuals with germline TP53 variants. The most current version is available at the ClinGen Criteria Specifications Registry (CSpec): https://cspec.genome.network/cspec/ui/svi/svi/GN009 .]]></summary>
         <author>
             <name>Cristina Fortuno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact of Exercise on Clonal Hematopoiesis]]></title>
+        <id>pubmed:41124991</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41124991/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Exercise was not associated with CH burden but does reduce excess ACM of CH in patients with cancer. Further research is needed to investigate the exercise-CH relationship in cancer and other populations. Trial Registration Clinical trials.gov number: NCT03996239.]]></summary>
+        <author>
+            <name>Jessica M Scott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Characterization of a PRKCE::ETV6 fusion as a potential oncogenic driver in T-cell acute lymphoblastic leukemia]]></title>
+        <id>pubmed:41123786</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41123786/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: Our study underlines the heterogenous mutational landscape in T-ALL. The previously unrecognized PRKCE::ETV6 resulting from a complex rearrangement involving chromosome 2 and 12 demonstrated transforming potential in cytokine-dependent cellular models support the notion of a driver mutation in near ETP-ALL. Our data reconfirm the relevance of ETV6-fusion proteins in the pathogenesis of undifferentiated T-ALL. Importantly, genomic breakpoints at the ETV6 locus represent potentially...]]></summary>
+        <author>
+            <name>Esther L Monsees</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Erdheim-Chester Disease in Adults: 11 Cases from a Canadian Rare Diseases Program]]></title>
+        <id>pubmed:41122545</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41122545/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Erdheim-Chester disease (ECD) is a rare histiocytic neoplasm with highly variable, multisystem manifestations that present significant diagnostic and therapeutic challenges. This retrospective multicenter case series included 11 adult patients diagnosed with biopsy-proven ECD across Canada between January 2015 and June 2024. The cohort comprised six females and five males with a median age of 55 years (range 41-74). PET-CT was used for disease staging and treatment monitoring in nine cases. The...]]></summary>
+        <author>
+            <name>Stephanie Quon</name>
         </author>
     </entry>
     <entry>
@@ -99,6 +169,16 @@
     <entry>
         <title type="html"><![CDATA[Lung Cancer in Nonsmoking Individuals: A Review]]></title>
         <id>pubmed:41114991</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41114991/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Lung cancer in nonsmoking individuals accounts for 15% to 20% of lung cancer cases worldwide. Among patients with lung cancer, nonsmoking individuals are more likely to have genomic alterations such as EGFR mutations or ALK gene rearrangements, and these patients have improved survival when treated with tyrosine kinase inhibitors compared with chemotherapy.]]></summary>
+        <author>
+            <name>Cian Murphy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lung Cancer in Nonsmoking Individuals: A Review]]></title>
+        <id>pubmed:41114991</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41114991/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251024211152&amp;v=2.18.0.post22+67771e2"/>
         <updated>2025-10-20T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: Lung cancer in nonsmoking individuals accounts for 15% to 20% of lung cancer cases worldwide. Among patients with lung cancer, nonsmoking individuals are more likely to have genomic alterations such as EGFR mutations or ALK gene rearrangements, and these patients have improved survival when treated with tyrosine kinase inhibitors compared with chemotherapy.]]></summary>
@@ -134,6 +214,26 @@
         <summary type="html"><![CDATA[CONCLUSIONS: Lung cancer in nonsmoking individuals accounts for 15% to 20% of lung cancer cases worldwide. Among patients with lung cancer, nonsmoking individuals are more likely to have genomic alterations such as EGFR mutations or ALK gene rearrangements, and these patients have improved survival when treated with tyrosine kinase inhibitors compared with chemotherapy.]]></summary>
         <author>
             <name>Cian Murphy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Causal relevance of clonal haematopoiesis with cardiac disease and adverse remodelling: a Mendelian randomisation study]]></title>
+        <id>pubmed:41107060</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41107060/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Common forms of CH are associated with higher AF risk and adverse remodelling patterns comprising larger atrial and ventricular sizes, myocardial fibrosis, and reduced aortic compliance. Using MR methods, this study triangulates previous observational studies and provides new evidence to support likely causal links between CH and CVD. This study, for the first time, describes associations of CH with adverse CMR phenotypes suggesting early remodelling patterns; these changes may...]]></summary>
+        <author>
+            <name>Alec Peter Morley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TET2-mutant clonal hematopoiesis enhances macrophage antigen presentation and improves immune checkpoint therapy in solid tumors]]></title>
+        <id>pubmed:41106379</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41106379/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is detectable in upwards of 20% of patients with solid tumors and is associated with worsened prognosis; however, its role in tumor immunology and immune checkpoint therapy (ICT) is unknown. Using a bone marrow chimera model of Tet2^(+/mut) CH in mice with solid tumors, we found the Tet2-mutant myeloid cells are abundant in the tumor microenvironment and contributed to an improved response to ICT. Mechanistically, Tet2^(+/mut) macrophages inside the tumor act as...]]></summary>
+        <author>
+            <name>Shelley Herbrich</name>
         </author>
     </entry>
     <entry>
@@ -254,6 +354,36 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is detectable in upwards of 20% of patients with solid tumors and is associated with worsened prognosis; however, its role in tumor immunology and immune checkpoint therapy (ICT) is unknown. Using a bone marrow chimera model of Tet2^(+/mut) CH in mice with solid tumors, we found the Tet2-mutant myeloid cells are abundant in the tumor microenvironment and contributed to an improved response to ICT. Mechanistically, Tet2^(+/mut) macrophages inside the tumor act as...]]></summary>
         <author>
             <name>Shelley Herbrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genetic determinants and genomic consequences of non-leukemogenic somatic point mutations]]></title>
+        <id>pubmed:41102182</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41102182/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is defined by the expansion of a lineage of genetically identical cells in blood. Genetic lesions that confer a fitness advantage, such as leukemogenic point mutations or mosaic chromosomal alterations (mCAs), are frequent mediators of CH. However, recent analyses of both single cell-derived colonies of hematopoietic cells and population sequencing cohorts have revealed CH frequently occurs in the absence of known driver genetic lesions. To characterize CH without known...]]></summary>
+        <author>
+            <name>Joshua S Weinstock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Risk of cardiovascular and cerebrovascular diseases in patients with myeloid neoplasms: results from 1.8 million inhabitants of North-West Italy]]></title>
+        <id>pubmed:41099504</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41099504/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: The results highlighted the importance of implementing a specific CVD prevention and surveillance plan for patients with myeloid neoplasms.]]></summary>
+        <author>
+            <name>Alberto Catalano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenalidomide-associated reversible TP53-mutated clonal hematopoiesis in plasma cell neoplasms]]></title>
+        <id>pubmed:41098111</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41098111/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Not available.]]></summary>
+        <author>
+            <name>Christian B Gocke</name>
         </author>
     </entry>
     <entry>
@@ -469,6 +599,16 @@
     <entry>
         <title type="html"><![CDATA[Deciphering genomic evolution of metastatic organotropism with 535 paired primary lung cancers and metastases]]></title>
         <id>pubmed:41100253</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41100253/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Metastasis is the leading cause of death in lung cancer patients, yet our understanding of its genomic determinants and evolution remains limited. Here, we analyzed whole-exome sequencing data from 535 paired primary and metastatic tumors from 223 non-small cell lung cancer patients, including brain (BM), distant extracranial (ExM), and lymph node (LNM) metastases. BMs harbored the most somatic alterations compared to metastases in other sites. Despite the high concordance of putative driver...]]></summary>
+        <author>
+            <name>Duo Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deciphering genomic evolution of metastatic organotropism with 535 paired primary lung cancers and metastases]]></title>
+        <id>pubmed:41100253</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41100253/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251024211152&amp;v=2.18.0.post22+67771e2"/>
         <updated>2025-10-16T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Metastasis is the leading cause of death in lung cancer patients, yet our understanding of its genomic determinants and evolution remains limited. Here, we analyzed whole-exome sequencing data from 535 paired primary and metastatic tumors from 223 non-small cell lung cancer patients, including brain (BM), distant extracranial (ExM), and lymph node (LNM) metastases. BMs harbored the most somatic alterations compared to metastases in other sites. Despite the high concordance of putative driver...]]></summary>
@@ -534,6 +674,26 @@
         <summary type="html"><![CDATA[Metastasis is the leading cause of death in lung cancer patients, yet our understanding of its genomic determinants and evolution remains limited. Here, we analyzed whole-exome sequencing data from 535 paired primary and metastatic tumors from 223 non-small cell lung cancer patients, including brain (BM), distant extracranial (ExM), and lymph node (LNM) metastases. BMs harbored the most somatic alterations compared to metastases in other sites. Despite the high concordance of putative driver...]]></summary>
         <author>
             <name>Duo Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis and Cardiovascular Disease and Bleeding Risk and the Effectiveness of Aspirin]]></title>
+        <id>pubmed:41091476</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41091476/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION AND RELEVANCE: In this secondary analysis of a randomized clinical trial of daily low-dose aspirin in healthy adults 70 years and older, CHIP was not associated with higher CVD risk. However, participants with CHIP had a greater risk of clinically significant bleeding. There was no evidence that participants with CHIP were more likely than those without CHIP to benefit or experience more harm from aspirin when used for primary prevention of CVD events.]]></summary>
+        <author>
+            <name>Zoe K McQuilten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential: a multisystem hub bridging hematopoietic dysfunction with non-hematopoietic diseases]]></title>
+        <id>pubmed:41088446</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41088446/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP), driven by leukemia-related somatic mutations in hematopoietic stem cells, previously recognized as a major risk factor for hematological malignancies, has now emerged as a potent risk factor for chronic inflammation and diverse non-hematologic diseases. CHIP-associated DNA methyltransferase 3 alpha (DNMT3A), tet methylcytosine dioxygenase 2 (TET2), and additional sex combs like 1 (ASXL1) mutations alter epigenetic programs, skew...]]></summary>
+        <author>
+            <name>Jing-Lei Zhang</name>
         </author>
     </entry>
     <entry>
@@ -674,6 +834,16 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP), driven by leukemia-related somatic mutations in hematopoietic stem cells, previously recognized as a major risk factor for hematological malignancies, has now emerged as a potent risk factor for chronic inflammation and diverse non-hematologic diseases. CHIP-associated DNA methyltransferase 3 alpha (DNMT3A), tet methylcytosine dioxygenase 2 (TET2), and additional sex combs like 1 (ASXL1) mutations alter epigenetic programs, skew...]]></summary>
         <author>
             <name>Jing-Lei Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TET2 Mutations in Myeloproliferative Neoplasms: Potential Mediation of Atrial Fibrillation by IL-1β and Impact on Stroke Risk in Clinical Cohorts]]></title>
+        <id>pubmed:41077132</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41077132/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: TET2 mutations increase the risk of AF, which may be associated with the IL-1β-mediated inflammatory pathway. AF serves as a critical intermediary for CHIP-associated ischemic stroke. Integrating TET2 status into AF surveillance and anticoagulation strategies may reduce thrombosis.]]></summary>
+        <author>
+            <name>Guangshuai Teng</name>
         </author>
     </entry>
     <entry>
@@ -844,6 +1014,16 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) is a predisposing condition to lymphoma development. CHIP carrying mutations that are recurrently found in lymphomas are designated as L-CHIP. We presume that bone marrow-derived L-CHIP populations are able to expand and manifest in peripheral lymphoid tissues, where they could hence be called L-CHIP tissue-equivalents. There, they may proliferate and foster unexplained follicular hyperplasias, and, thus, potentially represent an early...]]></summary>
         <author>
             <name>Magdalena M Brune</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatially Discontinuous Mutation Topographies in Ductal Carcinoma in Situ Reveal Non-Competitive Growth Dynamics]]></title>
+        <id>pubmed:41066536</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41066536/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pre-invasive breast cancer, or ductal carcinoma in situ (DCIS), shares many morphologic and genomic features with invasive breast cancer, yet most DCIS tumors remain indolent over decades. In this study, we performed spatial analyses of somatic mutation patterns in 18 DCIS tumors to infer the underlying growth dynamics. Experimental data combined with mathematical models and Bayesian computation revealed a growth model that mimics the cellular dynamics of branching morphogenesis, which governs...]]></summary>
+        <author>
+            <name>Marc D Ryser</name>
         </author>
     </entry>
     <entry>
@@ -1329,6 +1509,16 @@
     <entry>
         <title type="html"><![CDATA[Clonal origins and divergent evolutionary relationships of synchronous multiple malignant neoplasms in gynecology revealed by next-generation sequencing]]></title>
         <id>pubmed:41061386</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41061386/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Next-generation sequencing precisely resolved the diagnostic dilemma of gynecologic SMMNs by delineating an ovarian origin and a complex evolutionary pattern, thereby proving critical for guiding personalized treatment and screening strategies, particularly in hereditary cancer syndromes.]]></summary>
+        <author>
+            <name>Jindong Sheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal origins and divergent evolutionary relationships of synchronous multiple malignant neoplasms in gynecology revealed by next-generation sequencing]]></title>
+        <id>pubmed:41061386</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41061386/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251024211152&amp;v=2.18.0.post22+67771e2"/>
         <updated>2025-10-08T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: Next-generation sequencing precisely resolved the diagnostic dilemma of gynecologic SMMNs by delineating an ovarian origin and a complex evolutionary pattern, thereby proving critical for guiding personalized treatment and screening strategies, particularly in hereditary cancer syndromes.]]></summary>
@@ -1444,6 +1634,16 @@
         <summary type="html"><![CDATA[CONCLUSIONS: Next-generation sequencing precisely resolved the diagnostic dilemma of gynecologic SMMNs by delineating an ovarian origin and a complex evolutionary pattern, thereby proving critical for guiding personalized treatment and screening strategies, particularly in hereditary cancer syndromes.]]></summary>
         <author>
             <name>Jindong Sheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mutation profiling in differential diagnosis between TdT-positive high-grade/large B-cell lymphoma and B-lymphoblastic leukaemia/lymphoma]]></title>
+        <id>pubmed:41047873</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41047873/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Terminal deoxynucleotidyl transferase (TdT) is occasionally expressed in large B-cell lymphoma (LBCL), and this causes difficulty in differential diagnosis from B-lymphoblastic leukaemia/lymphoma (B-ALL/LBL). We reviewed 31 cases of TdT-positive LBCL and B-ALL/LBL, and their final diagnosis included 19 diffuse large/high-grade BCLs with MYC and BCL2 rearrangements (five DLBCL-MYC/BCL2, 14 HGBCL-MYC/BCL2), three DLBCL not otherwise specified (NOS), three HGBCL-NOS, four B-ALL/LBL, and two...]]></summary>
+        <author>
+            <name>Maria-Myrsini Tzioni</name>
         </author>
     </entry>
     <entry>
@@ -2469,6 +2669,26 @@
     <entry>
         <title type="html"><![CDATA[Clonal hematopoiesis]]></title>
         <id>pubmed:41034053</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41034053/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis is a condition in which hematopoietic cells undergo clonal expansion, often accompanied by the acquisition of driver gene mutations. This is now known to occur inevitably in elderly adults as somatic mutations accumulate in hematopoietic stem cells with aging. Various driver genes associated with clonal hematopoiesis-such as epigenetic regulators and signaling molecules-have been identified, many of which are shared with hematological malignancies. It takes approximately 30...]]></summary>
+        <author>
+            <name>Kenichi Yoshida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-throughput sequencing technologies for cancer genomics]]></title>
+        <id>pubmed:41033716</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41033716/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-10-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In investigations about transcriptomics, epigenomics, and genomics, high-throughput sequencing technologies have become indispensable. Several hundred million of DNA molecules may be sequenced at once thanks to high throughput sequencing (HTS) technologies, which can simultaneously analyze many DNA molecules. Traditionally, sequencing information has been clarified utilizing a low throughput technique known as Sanger sequencing. This added value makes it feasible to employ HTS to generate...]]></summary>
+        <author>
+            <name>None Garima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis]]></title>
+        <id>pubmed:41034053</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41034053/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251024211152&amp;v=2.18.0.post22+67771e2"/>
         <updated>2025-10-01T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Clonal hematopoiesis is a condition in which hematopoietic cells undergo clonal expansion, often accompanied by the acquisition of driver gene mutations. This is now known to occur inevitably in elderly adults as somatic mutations accumulate in hematopoietic stem cells with aging. Various driver genes associated with clonal hematopoiesis-such as epigenetic regulators and signaling molecules-have been identified, many of which are shared with hematological malignancies. It takes approximately 30...]]></summary>
@@ -2984,6 +3204,26 @@
         <summary type="html"><![CDATA[INTRODUCTION: Clonal hematopoiesis of indeterminate potential (CHIP) confers an increased risk of several chronic aging-related diseases. Paradoxically, CHIP was associated with lower risk of dementia in recent studies.]]></summary>
         <author>
             <name>Yasminka A Jakubek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KRAS G12C-associated immunotherapy benefit in NSCLC is substantially mediated by tobacco-induced tumor mutation burden, not allele-specific effects]]></title>
+        <id>pubmed:41027389</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41027389/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-09-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: The improved ICI response observed in KRAS G12C-mutant tumors is more likely driven by tobacco-induced hypermutation and its immunogenic consequences than by G12C-specific biological properties. When available, smoking history and TMB remain more cogent biomarkers for ICI stratification than KRAS G12C-variant NSCLC.]]></summary>
+        <author>
+            <name>Meng Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uterine leiomyosarcoma progression: A study of serial recurrences]]></title>
+        <id>pubmed:41027098</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41027098/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-09-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: Primary uLMS and subsequent recurrences display genomic intra-individual concordance, with sustained driver cancer gene alterations over time. Chromosomal instability was higher in recurrent tumors.]]></summary>
+        <author>
+            <name>Tiffany Y Sia</name>
         </author>
     </entry>
     <entry>
@@ -5499,6 +5739,26 @@
     <entry>
         <title type="html"><![CDATA[colorSV: Long-range Somatic Structural Variation Calling from Matched Tumor-normal Co-assembly Graphs]]></title>
         <id>pubmed:40973068</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40973068/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-09-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The accurate identification of somatic structural variants (SVs) is important for understanding the basis and evolution of cancerous tumor growth. Though long-read sequencing has facilitated the development of more accurate SV calling methods, existing somatic SV callers still struggle with achieving simultaneously high precision and high recall. In this work, we present colorSV (COassembly-based LOng-Range SV caller), a long-read-based method for calling long-range SVs by examining the local...]]></summary>
+        <author>
+            <name>Megan K Le</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNSistent integration and feature extraction from somatic copy number profiles]]></title>
+        <id>pubmed:40971591</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40971591/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-09-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CNSistent is a general-purpose toolkit for integrated processing of SCNA profiles across many patients and cohorts. It is available at https://bitbucket.org/schwarzlab/cnsistent. The Research Resource Identifier for CNSistent is SCR_027025.]]></summary>
+        <author>
+            <name>Adam Streck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[colorSV: Long-range Somatic Structural Variation Calling from Matched Tumor-normal Co-assembly Graphs]]></title>
+        <id>pubmed:40973068</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40973068/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251024211152&amp;v=2.18.0.post22+67771e2"/>
         <updated>2025-09-19T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[The accurate identification of somatic structural variants (SVs) is important for understanding the basis and evolution of cancerous tumor growth. Though long-read sequencing has facilitated the development of more accurate SV calling methods, existing somatic SV callers still struggle with achieving simultaneously high precision and high recall. In this work, we present colorSV (COassembly-based LOng-Range SV caller), a long-read-based method for calling long-range SVs by examining the local...]]></summary>
@@ -6629,6 +6889,16 @@
     <entry>
         <title type="html"><![CDATA[Cancer subclone detection based on DNA copy number in single-cell and spatial omic sequencing data]]></title>
         <id>pubmed:40954304</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40954304/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-09-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Somatic mutations such as copy number alterations accumulate during cancer progression, driving intratumor heterogeneity that impacts therapy effectiveness. Understanding the characteristics and spatial distribution of genetically distinct subclones is essential for unraveling tumor evolution and improving cancer treatment. Here we present Clonalscope, a subclone detection method using copy number profiles, applicable to spatial transcriptomics and single-cell sequencing data. Clonalscope...]]></summary>
+        <author>
+            <name>Chi-Yun Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancer subclone detection based on DNA copy number in single-cell and spatial omic sequencing data]]></title>
+        <id>pubmed:40954304</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40954304/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251024211152&amp;v=2.18.0.post22+67771e2"/>
         <updated>2025-09-15T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Somatic mutations such as copy number alterations accumulate during cancer progression, driving intratumor heterogeneity that impacts therapy effectiveness. Understanding the characteristics and spatial distribution of genetically distinct subclones is essential for unraveling tumor evolution and improving cancer treatment. Here we present Clonalscope, a subclone detection method using copy number profiles, applicable to spatial transcriptomics and single-cell sequencing data. Clonalscope...]]></summary>
@@ -7309,6 +7579,16 @@
     <entry>
         <title type="html"><![CDATA[Pharming: Joint Clonal Tree Reconstruction of Single-Nucleotide Variant and Copy Number Aberration Evolution from Single-Cell DNA Sequencing of Tumors]]></title>
         <id>pubmed:40944534</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40944534/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-09-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cancer arises through an evolutionary process in which somatic mutations, including single-nucleotide variants (SNVs) and copy number aberrations (CNAs), drive the development of a malignant, heterogeneous tumor. Reconstructing this evolutionary history from sequencing data is critical for understanding the order in which mutations are acquired and the dynamic interplay between different types of alterations. Advances in modern whole-genome single-cell sequencing now enable the accurate...]]></summary>
+        <author>
+            <name>Leah L Weber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pharming: Joint Clonal Tree Reconstruction of Single-Nucleotide Variant and Copy Number Aberration Evolution from Single-Cell DNA Sequencing of Tumors]]></title>
+        <id>pubmed:40944534</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/40944534/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251024211152&amp;v=2.18.0.post22+67771e2"/>
         <updated>2025-09-13T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Cancer arises through an evolutionary process in which somatic mutations, including single-nucleotide variants (SNVs) and copy number aberrations (CNAs), drive the development of a malignant, heterogeneous tumor. Reconstructing this evolutionary history from sequencing data is critical for understanding the order in which mutations are acquired and the dynamic interplay between different types of alterations. Advances in modern whole-genome single-cell sequencing now enable the accurate...]]></summary>
@@ -7914,6 +8194,16 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) bridges hematopoietic clonality and solid tumorigenesis, unveiling a systemic dimension of somatic mutagenesis in cancer biology. Generally, population studies demonstrate CHIP carriers face elevated risks of cancer and poorer survival outcomes. This review consolidates current knowledge on the role of CHIP as potential biomarkers in the prediction/early detection/prognosis evaluation of various non-hematological cancers. We provide an...]]></summary>
         <author>
             <name>Bo Zheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intrapatient genomic divergence across multiple primary tumors in young Korean patients]]></title>
+        <id>pubmed:40916402</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40916402/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-09-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: Even in patients with shared germline predisposition, primary tumors arising in different organs demonstrate substantial genomic divergence. These findings suggest that organ-specific selective pressures drive independent tumor evolution, underscoring the need for individualized molecular profiling and therapeutic targeting in cases of multiple primary cancers.]]></summary>
+        <author>
+            <name>Yoon Young Choi</name>
         </author>
     </entry>
     <entry>
@@ -9324,6 +9614,16 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) involves the expansion of hematopoietic stem cells with ageacquired mutations linked to myeloid malignancy. Advances in next-generation and single-cell sequencing, along with computational modeling, have expanded our ability to detect both common and rare CH drivers, including single-nucleotide variants and mosaic chromosomal alterations, with increasing sensitivity. While sequencing methods differ in accuracy, cost, and ability to detect low-frequency variants, they...]]></summary>
         <author>
             <name>Casey K Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancer genomic alterations and microenvironmental features encode synergistic interactions with disease outcomes]]></title>
+        <id>pubmed:40900635</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/40900635/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20251025211918&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2025-09-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Oncogenesis, tumor progression and therapy response are shaped by somatic alterations in the cancer genome and features of the tumor immune microenvironment (TME). How interactions between these two systems influence tumor evolution and clinical outcomes remains incompletely understood. To address this challenge, we developed the multi-omics analysis framework PACIFIC that systematically integrates genetic cancer drivers and infiltration profiles of immune cells to find pairwise combinations of...]]></summary>
+        <author>
+            <name>Masroor Bayati</name>
         </author>
     </entry>
     <entry>
@@ -12014,86 +12314,6 @@
         <summary type="html"><![CDATA[CONCLUSION: Our study provides the first molecular roadmap of prostatic PGCA to date, establishing a novel five-gene prognostic signature and revealing fundamental insights into its pathogenesis through divergent evolution from conventional adenocarcinoma. These insights offer new opportunities for precise diagnosis, prognostic stratification, and targeted therapeutic strategies for this lethal prostate cancer variant.]]></summary>
         <author>
             <name>Xiaoshi Ma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis and Cardiovascular Outcomes in Older Women]]></title>
-        <id>pubmed:40864016</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40864016/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250903210938&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-08-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In an older female cohort, key CHIP subtypes (TET2, ASXL1, and JAK2) were associated with incident CVD, with associations that appeared to differ by CVD outcome. These findings suggest that CHIP remains associated with cardiovascular health into later life. (Women's Health Initiative [WHI]; NCT00000611).]]></summary>
-        <author>
-            <name>Daniel Ezzat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis and Cardiovascular Outcomes in Older Women]]></title>
-        <id>pubmed:40864016</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40864016/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250902211004&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-08-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In an older female cohort, key CHIP subtypes (TET2, ASXL1, and JAK2) were associated with incident CVD, with associations that appeared to differ by CVD outcome. These findings suggest that CHIP remains associated with cardiovascular health into later life. (Women's Health Initiative [WHI]; NCT00000611).]]></summary>
-        <author>
-            <name>Daniel Ezzat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis and Cardiovascular Outcomes in Older Women]]></title>
-        <id>pubmed:40864016</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40864016/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250901211416&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-08-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In an older female cohort, key CHIP subtypes (TET2, ASXL1, and JAK2) were associated with incident CVD, with associations that appeared to differ by CVD outcome. These findings suggest that CHIP remains associated with cardiovascular health into later life. (Women's Health Initiative [WHI]; NCT00000611).]]></summary>
-        <author>
-            <name>Daniel Ezzat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis and Cardiovascular Outcomes in Older Women]]></title>
-        <id>pubmed:40864016</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40864016/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250831212437&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-08-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In an older female cohort, key CHIP subtypes (TET2, ASXL1, and JAK2) were associated with incident CVD, with associations that appeared to differ by CVD outcome. These findings suggest that CHIP remains associated with cardiovascular health into later life. (Women's Health Initiative [WHI]; NCT00000611).]]></summary>
-        <author>
-            <name>Daniel Ezzat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis and Cardiovascular Outcomes in Older Women]]></title>
-        <id>pubmed:40864016</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40864016/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250830211743&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-08-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In an older female cohort, key CHIP subtypes (TET2, ASXL1, and JAK2) were associated with incident CVD, with associations that appeared to differ by CVD outcome. These findings suggest that CHIP remains associated with cardiovascular health into later life. (Women's Health Initiative [WHI]; NCT00000611).]]></summary>
-        <author>
-            <name>Daniel Ezzat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis and Cardiovascular Outcomes in Older Women]]></title>
-        <id>pubmed:40864016</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40864016/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250829210940&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-08-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In an older female cohort, key CHIP subtypes (TET2, ASXL1, and JAK2) were associated with incident CVD, with associations that appeared to differ by CVD outcome. These findings suggest that CHIP remains associated with cardiovascular health into later life. (Women's Health Initiative [WHI]; NCT00000611).]]></summary>
-        <author>
-            <name>Daniel Ezzat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis and Cardiovascular Outcomes in Older Women]]></title>
-        <id>pubmed:40864016</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40864016/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250828211257&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-08-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In an older female cohort, key CHIP subtypes (TET2, ASXL1, and JAK2) were associated with incident CVD, with associations that appeared to differ by CVD outcome. These findings suggest that CHIP remains associated with cardiovascular health into later life. (Women's Health Initiative [WHI]; NCT00000611).]]></summary>
-        <author>
-            <name>Daniel Ezzat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clonal Hematopoiesis and Cardiovascular Outcomes in Older Women]]></title>
-        <id>pubmed:40864016</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/40864016/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20250827211258&amp;v=2.18.0.post9+e462414"/>
-        <updated>2025-08-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: In an older female cohort, key CHIP subtypes (TET2, ASXL1, and JAK2) were associated with incident CVD, with associations that appeared to differ by CVD outcome. These findings suggest that CHIP remains associated with cardiovascular health into later life. (Women's Health Initiative [WHI]; NCT00000611).]]></summary>
-        <author>
-            <name>Daniel Ezzat</name>
         </author>
     </entry>
     <entry>
