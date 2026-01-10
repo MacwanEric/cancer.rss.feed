@@ -210,8 +210,58 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&ff=20260108202425&utm_campaign=pubmed-2&v=2.18.0.post22+67771e2&fc=20220608003622",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&utm_source=axios&v=2.18.0.post22+67771e2&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20260109202154&utm_medium=rss",
       "articles": [
+        {
+          "id": "pubmed:41509334",
+          "author": "Michael Bowman",
+          "description": "Advances in single cell multi-omics technologies have allowed for investigation into genotype-immunophenotype relationships and dynamic clonal changes in cancer patient samples. These technologies provide rich insights into genetic profiling, drivers of disease progression, and subclonal dynamics. Increased adoption and throughput of these technologies, necessitate accessible computational tools for processing and analysis. Toward developing easy to use computational tools, we introduce the S...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41509334/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-09T11:00:00.000Z",
+          "wordCount": 1131,
+          "title": "scDNA: Single Cell DNA analysis software toolkit for subclonality discovery and assessment",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41508691",
+          "author": "Abhishek A Mangaonkar",
+          "description": "CONDITION OVERVIEW: Clonal hematopoiesis (CH) refers to the presence of somatic variants in hematopoietic stem and progenitor cells (HSPC) that result in expansion over time.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41508691/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-09T11:00:00.000Z",
+          "wordCount": 1387,
+          "title": "Clonal Hematopoiesis of Indeterminate Potential and Clonal Cytopenias of Undetermined Significance: 2026 Update on Clinical Associations and Management Recommendations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41505144",
+          "author": "Derek Shyr",
+          "description": "CONCLUSIONS AND RELEVANCE: In this cohort study, CHIP was associated with increased CVD risk in patients with solid tumors receiving cancer therapy. This finding suggests incorporating CHIP status may improve cardio-oncology treatment of cancer survivors.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41505144/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-08T11:00:00.000Z",
+          "wordCount": 1529,
+          "title": "Clonal Hematopoiesis and Cardiovascular Disease Risk After Cancer Therapy in Patients With Solid Tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41502292",
+          "author": "Xiao-Yan Xu",
+          "description": "Triple-negative myeloproliferative neoplasms (TN-MPN) are diseases characterized by absence of the three driver mutations in JAK2, CALR, or MPL, but still exhibit histological and phenotypic features sufficient to diagnose myeloproliferative neoplasms (MPN). Approximately 10% to 20% of essential thrombocythemia (ET) and 5% to 10% of primary myelofibrosis (PMF) cases are reported to be triple negative. TN-MPN may carry non-classical driver mutations at JAK2 or MPL, or other gene mutations,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41502292/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-08T11:00:00.000Z",
+          "wordCount": 1332,
+          "title": "<em>BCR::ABL</em>-Negative Triple Negative Myeloproliferative Neoplasm --Review",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41502289",
+          "author": "Jing-Yun Zou",
+          "description": "Patients with myeloproliferative neoplasms (MPNs) are at risk of developing solid tumors. Although the connection between MPN and solid tumors has been widely discussed, the cause remains to be explored. Some studies show that the MPN is considered to trigger a second cancer, but others suggest both diseases seem to share the same origin. In recent years, more and more studies have found that genetic susceptibility, drugs, chronic inflammation, immune function abnormalities and clonal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41502289/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-08T11:00:00.000Z",
+          "wordCount": 1159,
+          "title": "The Research Progress of Second Cancer Onset in Myeloproliferative Neoplasms --Review",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:41505144",
           "author": "Derek Shyr",
@@ -246,6 +296,16 @@
           "id": "pubmed:41499760",
           "author": "Talha Badar",
           "description": "TP53 and PPM1D are key regulators of DNA damage response and repair and somatic mutations in these genes often co-occur in hematopoietic cells, expanding under genotoxic stress. Unlike with TP53 mutations, where mechanisms of progression are defined, pathways underlying clonal fitness and transformation in PPM1D mutant cells remain unclear. In collaboration with 5 academic institutions, we analyzed the clinical and molecular landscape of 337 patients with clonal hematopoiesis (CH) and clonal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41499760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-07T11:00:00.000Z",
+          "wordCount": 1617,
+          "title": "Spectrum, prevalence, and clinical correlates of PPM1D mutations in patients with clonal hematopoiesis and clonal cytopenias",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41499760",
+          "author": "Talha Badar",
+          "description": "TP53 and PPM1D are key regulators of DNA damage response and repair and somatic mutations in these genes often co-occur in hematopoietic cells, expanding under genotoxic stress. Unlike with TP53 mutations, where mechanisms of progression are defined, pathways underlying clonal fitness and transformation in PPM1D mutant cells remain unclear. In collaboration with 5 academic institutions, we analyzed the clinical and molecular landscape of 337 patients with clonal hematopoiesis (CH) and clonal...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/41499760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260108202425&v=2.18.0.post22+67771e2",
           "publishedOn": "2026-01-07T11:00:00.000Z",
           "wordCount": 1617,
@@ -260,6 +320,46 @@
           "publishedOn": "2026-01-07T11:00:00.000Z",
           "wordCount": 1566,
           "title": "Spectrum, prevalence, and clinical correlates of PPM1D mutations in patients with clonal hematopoiesis and clonal cytopenias",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41493425",
+          "author": "Brooj Abro",
+          "description": "Vacuoles in hematopoietic cell precursors have garnered significant attention in recent years due to their association with a newly characterized clonal hematopoiesis with acquired mutations of ubiquitin like modifier activating enzyme 1 (ubiquitin-activating enzyme E1, UBA1) gene associated with clinical systemic autoinflammatory manifestations, known as VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome. The cytomorphologic hallmark of this rare disorder is vacuolization...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41493425/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-06T11:00:00.000Z",
+          "wordCount": 1306,
+          "title": "Morphologic Deciphering of Hematopoietic Cell Vacuolization: Lessons From VEXAS Syndrome and Other Etiologies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41491423",
+          "author": "George Hajishengallis",
+          "description": "Clonal haematopoiesis of indeterminate potential (CHIP) is an ageing-related condition associated with a substantial fraction of circulating leukocytes having descended from a single somatically mutated haematopoietic stem cell (HSC). CHIP increases the risk of haematological malignancies and several chronic diseases (for example, cardiovascular pathologies) and contributes to persistent, low-grade inflammation or inflammageing. Inflammageing, in turn, promotes functional impairment of normal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41491423/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-06T11:00:00.000Z",
+          "wordCount": 1351,
+          "title": "Inflammageing and clonal haematopoiesis interplay and their impact on human disease",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41490454",
+          "author": "Laura Wiegand",
+          "description": "Gene-specific expansion patterns were evident among the most frequent CH lesions, with DNMT3A-mutant clones exhibiting impaired hematopoietic differentiation and TET2-mutant clones showing multi-lineage propagation. Notably, identical CH clones were detected in 41% of corresponding lymphomas, displaying distinct clonal dynamics: tumor-promoting CH (expansion in B-NHL; 10/16 clones; mainly TP53) and tumor-infiltrating CH (no expansion; mainly DNMT3A). Moreover, we identified lymphoma-associated...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41490454/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-06T11:00:00.000Z",
+          "wordCount": 1437,
+          "title": "Clonal Hematopoiesis and Lymphoma-Associated Mutations in Hematopoietic Progenitors in B-Cell Non-Hodgkin Lymphoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41490322",
+          "author": "Roman Schimmer",
+          "description": "Recessively inherited loss-of-function mutations in Excision Repair Cross-Complementing 6 like 2 (ERCC6L2) cause a bone marrow failure (BMF) syndrome characterized by moderate cytopenias, frequent somatic TP53 mutations, and a propensity to develop myeloid malignancies. The pathophysiology and molecular mechanisms underlying the BMF syndrome as well as its association with TP53-mutant clonal hematopoiesis (CH) and myeloid malignancies have remained poorly understood. Using novel preclinical in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41490322/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-06T11:00:00.000Z",
+          "wordCount": 1442,
+          "title": "Bone marrow failure, somatic rescue by p53 inactivation, and enhanced leukemogenesis in germline ERCC6L2 disease",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -386,6 +486,26 @@
           "id": "pubmed:41488670",
           "author": "Xingyu Qian",
           "description": "Cardiovascular, metabolic, and immune disorders intersect through inflammasome signaling, motivating the development of a unified framework for cardiovascular risk across obesity, diabetes, infection, and autoimmunity. We first outline inflammasome architecture and activation, highlighting cryo-EM evidence that NEK7 licenses NLRP3 assembly, the coupling of priming to ion-flux and oligomerization, and cross-talk with the non-canonical caspase-4/5/11 pathway that feeds forward into IL-1β/IL-18...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41488670/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-05T11:00:00.000Z",
+          "wordCount": 2033,
+          "title": "Inflammasomes as the molecular hub of cardiovascular-metabolic-immune comorbidity networks",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41488014",
+          "author": "Mostafa F Mohammed Saleh",
+          "description": "Aplastic anemia is a bone marrow failure disorder marked by cytopenias that impair oxygen delivery, immune defense, and hemostasis. Standard therapy traditionally combines immunosuppression with or without hematopoietic stem cell transplantation, and more recently incorporates thrombopoietin receptor agonists to stimulate residual hematopoiesis. Eltrombopag improved outcomes when added to immunosuppressive therapy, but its association with hepatotoxicity limits its suitability for patients with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41488014/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-05T11:00:00.000Z",
+          "wordCount": 1930,
+          "title": "Efficacy and safety of avatrombopag in aplastic anemia: a comprehensive review of clinical evidence",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41488670",
+          "author": "Xingyu Qian",
+          "description": "Cardiovascular, metabolic, and immune disorders intersect through inflammasome signaling, motivating the development of a unified framework for cardiovascular risk across obesity, diabetes, infection, and autoimmunity. We first outline inflammasome architecture and activation, highlighting cryo-EM evidence that NEK7 licenses NLRP3 assembly, the coupling of priming to ion-flux and oligomerization, and cross-talk with the non-canonical caspase-4/5/11 pathway that feeds forward into IL-1β/IL-18...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/41488670/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260108202425&v=2.18.0.post22+67771e2",
           "publishedOn": "2026-01-05T11:00:00.000Z",
           "wordCount": 2033,
@@ -466,6 +586,16 @@
           "id": "pubmed:41482697",
           "author": "Ehsan Shahverdi",
           "description": "BACKGROUND VEXAS syndrome (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) is a recently recognized autoinflammatory disorder of adulthood caused by somatic mutations in the UBA1 gene. It is characterized by systemic inflammation, cytopenias, and frequent overlap with myelodysplastic syndromes (MDS). Because of its clinical heterogeneity, diagnosis is often delayed or confounded by coexisting autoimmune or hematologic disorders. CASE REPORT We describe a male patient presenting with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41482697/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-03T11:00:00.000Z",
+          "wordCount": 1465,
+          "title": "A Case of VEXAS Syndrome Initially Masked as Myelodysplastic Syndrome: Importance of Marrow Vacuolization and UBA1 Testing: A Case Report",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41482697",
+          "author": "Ehsan Shahverdi",
+          "description": "BACKGROUND VEXAS syndrome (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) is a recently recognized autoinflammatory disorder of adulthood caused by somatic mutations in the UBA1 gene. It is characterized by systemic inflammation, cytopenias, and frequent overlap with myelodysplastic syndromes (MDS). Because of its clinical heterogeneity, diagnosis is often delayed or confounded by coexisting autoimmune or hematologic disorders. CASE REPORT We describe a male patient presenting with...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/41482697/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260108202425&v=2.18.0.post22+67771e2",
           "publishedOn": "2026-01-03T11:00:00.000Z",
           "wordCount": 1465,
@@ -520,6 +650,16 @@
           "publishedOn": "2026-01-03T11:00:00.000Z",
           "wordCount": 1437,
           "title": "A Case of VEXAS Syndrome Initially Masked as Myelodysplastic Syndrome: Importance of Marrow Vacuolization and UBA1 Testing: A Case Report",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41481681",
+          "author": "Nazia Hilal",
+          "description": "Single-cell genomics has emerged as a transformative approach to unravel the complexity of somatic variation in specific cells within the human body. This field has profound implications for understanding the role of somatic mutations in aging, cardiovascular disease, and tissue-specific pathologies. By focusing on circulating cells and cardiac resident cells, including cardiomyocytes, within the heart, this review explores how single-cell genomics provides insights into cellular heterogeneity...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41481681/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-02T11:00:00.000Z",
+          "wordCount": 1762,
+          "title": "Single-Cell Genomics and Somatic Variation in Circulating and Cardiac Resident Cells",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -590,6 +730,16 @@
           "publishedOn": "2026-01-02T11:00:00.000Z",
           "wordCount": 1277,
           "title": "Single-Cell Genomics and Somatic Variation in Circulating and Cardiac Resident Cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41477906",
+          "author": "Francisco Caiado",
+          "description": "A genome-wide association study identifies a genetic variant that reduces the risk of leukemia.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41477906/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-01T11:00:00.000Z",
+          "wordCount": 1141,
+          "title": "Genetic resistance to leukemia",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7951,264 +8101,64 @@
           "wordCount": 1125,
           "title": "The Link between Modifiable Risk Factors and Myeloid Disorders-From Plate to Pathogenesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41219528",
-          "author": "Tetsuichi Yoshizato",
-          "description": "Dynamic steady-state lineage contribution of human hematopoietic stem cell (HSC) clones needs to be assessed over time. However, clonal contribution of HSCs has only been investigated at single time points and without assessing the critical erythroid and platelet lineages. Here we screened for somatic mutations in healthy aged individuals, identifying expanded HSC clones accessible for lineage tracing of all major blood cell lineages. In addition to HSC clones with balanced contribution to all...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41219528/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251123202159&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Stable clonal contribution of lineage-restricted stem cells to human hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41218172",
-          "author": "Vincent Rondeau",
-          "description": "Somatic mutations inactivating TET2 are among the most common drivers of clonal hematopoiesis (CH). TET2 inactivation is associated with monocyte-derived inflammation and improved chimeric antigen receptor T cell function, suggesting it might also impact immunotherapy response. Here, we found that hematopoietic Tet2 mutation in mouse models enhanced the immune checkpoint blockade (ICB) response, which required the combined presence of phagocytes, CD4+, and CD8+ T cells. The effect was lost with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41218172/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251123202159&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1483,
-          "title": "Response to Immune Checkpoint Blockade is Enhanced in the Presence of Hematopoietic TET2 Inactivation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41219528",
-          "author": "Tetsuichi Yoshizato",
-          "description": "Dynamic steady-state lineage contribution of human hematopoietic stem cell (HSC) clones needs to be assessed over time. However, clonal contribution of HSCs has only been investigated at single time points and without assessing the critical erythroid and platelet lineages. Here we screened for somatic mutations in healthy aged individuals, identifying expanded HSC clones accessible for lineage tracing of all major blood cell lineages. In addition to HSC clones with balanced contribution to all...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41219528/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251122202657&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Stable clonal contribution of lineage-restricted stem cells to human hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41218172",
-          "author": "Vincent Rondeau",
-          "description": "Somatic mutations inactivating TET2 are among the most common drivers of clonal hematopoiesis (CH). TET2 inactivation is associated with monocyte-derived inflammation and improved chimeric antigen receptor T cell function, suggesting it might also impact immunotherapy response. Here, we found that hematopoietic Tet2 mutation in mouse models enhanced the immune checkpoint blockade (ICB) response, which required the combined presence of phagocytes, CD4+, and CD8+ T cells. The effect was lost with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41218172/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251122202657&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1483,
-          "title": "Response to Immune Checkpoint Blockade is Enhanced in the Presence of Hematopoietic TET2 Inactivation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41219528",
-          "author": "Tetsuichi Yoshizato",
-          "description": "Dynamic steady-state lineage contribution of human hematopoietic stem cell (HSC) clones needs to be assessed over time. However, clonal contribution of HSCs has only been investigated at single time points and without assessing the critical erythroid and platelet lineages. Here we screened for somatic mutations in healthy aged individuals, identifying expanded HSC clones accessible for lineage tracing of all major blood cell lineages. In addition to HSC clones with balanced contribution to all...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41219528/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251121201349&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Stable clonal contribution of lineage-restricted stem cells to human hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41218172",
-          "author": "Vincent Rondeau",
-          "description": "Somatic mutations inactivating TET2 are among the most common drivers of clonal hematopoiesis (CH). TET2 inactivation is associated with monocyte-derived inflammation and improved chimeric antigen receptor T cell function, suggesting it might also impact immunotherapy response. Here, we found that hematopoietic Tet2 mutation in mouse models enhanced the immune checkpoint blockade (ICB) response, which required the combined presence of phagocytes, CD4+, and CD8+ T cells. The effect was lost with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41218172/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251121201349&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1483,
-          "title": "Response to Immune Checkpoint Blockade is Enhanced in the Presence of Hematopoietic TET2 Inactivation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41219528",
-          "author": "Tetsuichi Yoshizato",
-          "description": "Dynamic steady-state lineage contribution of human hematopoietic stem cell (HSC) clones needs to be assessed over time. However, clonal contribution of HSCs has only been investigated at single time points and without assessing the critical erythroid and platelet lineages. Here we screened for somatic mutations in healthy aged individuals, identifying expanded HSC clones accessible for lineage tracing of all major blood cell lineages. In addition to HSC clones with balanced contribution to all...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41219528/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251120201624&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Stable clonal contribution of lineage-restricted stem cells to human hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41218172",
-          "author": "Vincent Rondeau",
-          "description": "Somatic mutations inactivating TET2 are among the most common drivers of clonal hematopoiesis (CH). TET2 inactivation is associated with monocyte-derived inflammation and improved chimeric antigen receptor T cell function, suggesting it might also impact immunotherapy response. Here, we found that hematopoietic Tet2 mutation in mouse models enhanced the immune checkpoint blockade (ICB) response, which required the combined presence of phagocytes, CD4+, and CD8+ T cells. The effect was lost with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41218172/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251120201624&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1483,
-          "title": "Response to Immune Checkpoint Blockade is Enhanced in the Presence of Hematopoietic TET2 Inactivation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41219528",
-          "author": "Tetsuichi Yoshizato",
-          "description": "Dynamic steady-state lineage contribution of human hematopoietic stem cell (HSC) clones needs to be assessed over time. However, clonal contribution of HSCs has only been investigated at single time points and without assessing the critical erythroid and platelet lineages. Here we screened for somatic mutations in healthy aged individuals, identifying expanded HSC clones accessible for lineage tracing of all major blood cell lineages. In addition to HSC clones with balanced contribution to all...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41219528/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251119201528&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Stable clonal contribution of lineage-restricted stem cells to human hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41218172",
-          "author": "Vincent Rondeau",
-          "description": "Somatic mutations inactivating TET2 are among the most common drivers of clonal hematopoiesis (CH). TET2 inactivation is associated with monocyte-derived inflammation and improved chimeric antigen receptor T cell function, suggesting it might also impact immunotherapy response. Here, we found that hematopoietic Tet2 mutation in mouse models enhanced the immune checkpoint blockade (ICB) response, which required the combined presence of phagocytes, CD4+, and CD8+ T cells. The effect was lost with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41218172/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251119201528&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1483,
-          "title": "Response to Immune Checkpoint Blockade is Enhanced in the Presence of Hematopoietic TET2 Inactivation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41219528",
-          "author": "Tetsuichi Yoshizato",
-          "description": "Dynamic steady-state lineage contribution of human hematopoietic stem cell (HSC) clones needs to be assessed over time. However, clonal contribution of HSCs has only been investigated at single time points and without assessing the critical erythroid and platelet lineages. Here we screened for somatic mutations in healthy aged individuals, identifying expanded HSC clones accessible for lineage tracing of all major blood cell lineages. In addition to HSC clones with balanced contribution to all...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41219528/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251118201647&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Stable clonal contribution of lineage-restricted stem cells to human hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41218172",
-          "author": "Vincent Rondeau",
-          "description": "Somatic mutations inactivating TET2 are among the most common drivers of clonal hematopoiesis (CH). TET2 inactivation is associated with monocyte-derived inflammation and improved chimeric antigen receptor T cell function, suggesting it might also impact immunotherapy response. Here, we found that hematopoietic Tet2 mutation in mouse models enhanced the immune checkpoint blockade (ICB) response, which required the combined presence of phagocytes, CD4+, and CD8+ T cells. The effect was lost with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41218172/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251118201647&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1483,
-          "title": "Response to Immune Checkpoint Blockade is Enhanced in the Presence of Hematopoietic TET2 Inactivation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41219528",
-          "author": "Tetsuichi Yoshizato",
-          "description": "Dynamic steady-state lineage contribution of human hematopoietic stem cell (HSC) clones needs to be assessed over time. However, clonal contribution of HSCs has only been investigated at single time points and without assessing the critical erythroid and platelet lineages. Here we screened for somatic mutations in healthy aged individuals, identifying expanded HSC clones accessible for lineage tracing of all major blood cell lineages. In addition to HSC clones with balanced contribution to all...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41219528/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251117201704&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Stable clonal contribution of lineage-restricted stem cells to human hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41218172",
-          "author": "Vincent Rondeau",
-          "description": "Somatic mutations inactivating TET2 are among the most common drivers of clonal hematopoiesis (CH). TET2 inactivation is associated with monocyte-derived inflammation and improved chimeric antigen receptor T cell function, suggesting it might also impact immunotherapy response. Here, we found that hematopoietic Tet2 mutation in mouse models enhanced the immune checkpoint blockade (ICB) response, which required the combined presence of phagocytes, CD4+, and CD8+ T cells. The effect was lost with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41218172/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251117201704&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1483,
-          "title": "Response to Immune Checkpoint Blockade is Enhanced in the Presence of Hematopoietic TET2 Inactivation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41219528",
-          "author": "Tetsuichi Yoshizato",
-          "description": "Dynamic steady-state lineage contribution of human hematopoietic stem cell (HSC) clones needs to be assessed over time. However, clonal contribution of HSCs has only been investigated at single time points and without assessing the critical erythroid and platelet lineages. Here we screened for somatic mutations in healthy aged individuals, identifying expanded HSC clones accessible for lineage tracing of all major blood cell lineages. In addition to HSC clones with balanced contribution to all...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41219528/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251116201811&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Stable clonal contribution of lineage-restricted stem cells to human hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41218172",
-          "author": "Vincent Rondeau",
-          "description": "Somatic mutations inactivating TET2 are among the most common drivers of clonal hematopoiesis (CH). TET2 inactivation is associated with monocyte-derived inflammation and improved chimeric antigen receptor T cell function, suggesting it might also impact immunotherapy response. Here, we found that hematopoietic Tet2 mutation in mouse models enhanced the immune checkpoint blockade (ICB) response, which required the combined presence of phagocytes, CD4+, and CD8+ T cells. The effect was lost with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41218172/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251116201811&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1483,
-          "title": "Response to Immune Checkpoint Blockade is Enhanced in the Presence of Hematopoietic TET2 Inactivation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41219528",
-          "author": "Tetsuichi Yoshizato",
-          "description": "Dynamic steady-state lineage contribution of human hematopoietic stem cell (HSC) clones needs to be assessed over time. However, clonal contribution of HSCs has only been investigated at single time points and without assessing the critical erythroid and platelet lineages. Here we screened for somatic mutations in healthy aged individuals, identifying expanded HSC clones accessible for lineage tracing of all major blood cell lineages. In addition to HSC clones with balanced contribution to all...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41219528/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251115202211&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Stable clonal contribution of lineage-restricted stem cells to human hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41218172",
-          "author": "Vincent Rondeau",
-          "description": "Somatic mutations inactivating TET2 are among the most common drivers of clonal hematopoiesis (CH). TET2 inactivation is associated with monocyte-derived inflammation and improved chimeric antigen receptor T cell function, suggesting it might also impact immunotherapy response. Here, we found that hematopoietic Tet2 mutation in mouse models enhanced the immune checkpoint blockade (ICB) response, which required the combined presence of phagocytes, CD4+, and CD8+ T cells. The effect was lost with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41218172/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251115202211&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1483,
-          "title": "Response to Immune Checkpoint Blockade is Enhanced in the Presence of Hematopoietic TET2 Inactivation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41219528",
-          "author": "Tetsuichi Yoshizato",
-          "description": "Dynamic steady-state lineage contribution of human hematopoietic stem cell (HSC) clones needs to be assessed over time. However, clonal contribution of HSCs has only been investigated at single time points and without assessing the critical erythroid and platelet lineages. Here we screened for somatic mutations in healthy aged individuals, identifying expanded HSC clones accessible for lineage tracing of all major blood cell lineages. In addition to HSC clones with balanced contribution to all...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41219528/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251114201511&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Stable clonal contribution of lineage-restricted stem cells to human hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41218172",
-          "author": "Vincent Rondeau",
-          "description": "Somatic mutations inactivating TET2 are among the most common drivers of clonal hematopoiesis (CH). TET2 inactivation is associated with monocyte-derived inflammation and improved chimeric antigen receptor T cell function, suggesting it might also impact immunotherapy response. Here, we found that hematopoietic Tet2 mutation in mouse models enhanced the immune checkpoint blockade (ICB) response, which required the combined presence of phagocytes, CD4+, and CD8+ T cells. The effect was lost with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41218172/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251114201511&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1483,
-          "title": "Response to Immune Checkpoint Blockade is Enhanced in the Presence of Hematopoietic TET2 Inactivation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41219528",
-          "author": "Tetsuichi Yoshizato",
-          "description": "Dynamic steady-state lineage contribution of human hematopoietic stem cell (HSC) clones needs to be assessed over time. However, clonal contribution of HSCs has only been investigated at single time points and without assessing the critical erythroid and platelet lineages. Here we screened for somatic mutations in healthy aged individuals, identifying expanded HSC clones accessible for lineage tracing of all major blood cell lineages. In addition to HSC clones with balanced contribution to all...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41219528/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251113201651&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Stable clonal contribution of lineage-restricted stem cells to human hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41218172",
-          "author": "Vincent Rondeau",
-          "description": "Somatic mutations inactivating TET2 are among the most common drivers of clonal hematopoiesis (CH). TET2 inactivation is associated with monocyte-derived inflammation and improved chimeric antigen receptor T cell function, suggesting it might also impact immunotherapy response. Here, we found that hematopoietic Tet2 mutation in mouse models enhanced the immune checkpoint blockade (ICB) response, which required the combined presence of phagocytes, CD4+, and CD8+ T cells. The effect was lost with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41218172/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251113201651&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1483,
-          "title": "Response to Immune Checkpoint Blockade is Enhanced in the Presence of Hematopoietic TET2 Inactivation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41219528",
-          "author": "Tetsuichi Yoshizato",
-          "description": "Dynamic steady-state lineage contribution of human hematopoietic stem cell (HSC) clones needs to be assessed over time. However, clonal contribution of HSCs has only been investigated at single time points and without assessing the critical erythroid and platelet lineages. Here we screened for somatic mutations in healthy aged individuals, identifying expanded HSC clones accessible for lineage tracing of all major blood cell lineages. In addition to HSC clones with balanced contribution to all...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41219528/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251112201744&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1803,
-          "title": "Stable clonal contribution of lineage-restricted stem cells to human hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41218172",
-          "author": "Vincent Rondeau",
-          "description": "Somatic mutations inactivating TET2 are among the most common drivers of clonal hematopoiesis (CH). TET2 inactivation is associated with monocyte-derived inflammation and improved chimeric antigen receptor T cell function, suggesting it might also impact immunotherapy response. Here, we found that hematopoietic Tet2 mutation in mouse models enhanced the immune checkpoint blockade (ICB) response, which required the combined presence of phagocytes, CD4+, and CD8+ T cells. The effect was lost with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41218172/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251112201744&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1483,
-          "title": "Response to Immune Checkpoint Blockade is Enhanced in the Presence of Hematopoietic TET2 Inactivation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41218172",
-          "author": "Vincent Rondeau",
-          "description": "Somatic mutations inactivating TET2 are among the most common drivers of clonal hematopoiesis (CH). TET2 inactivation is associated with monocyte-derived inflammation and improved chimeric antigen receptor T cell function, suggesting it might also impact immunotherapy response. Here, we found that hematopoietic Tet2 mutation in mouse models enhanced the immune checkpoint blockade (ICB) response, which required the combined presence of phagocytes, CD4+, and CD8+ T cells. The effect was lost with...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41218172/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251111201706&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-11T11:00:00.000Z",
-          "wordCount": 1439,
-          "title": "Response to Immune Checkpoint Blockade is Enhanced in the Presence of Hematopoietic TET2 Inactivation",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_campaign=pubmed-2&utm_source=axios&v=2.18.0.post22+67771e2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20260108202425&utm_medium=rss",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&v=2.18.0.post22+67771e2&ff=20260109202154&utm_medium=rss",
       "articles": [
+        {
+          "id": "pubmed:41511464",
+          "author": "Xunuo Zhu",
+          "description": "Cancer development is driven by somatic evolution and clonal selection. However, traditional selective pressure analysis methods have treated all sites within a gene equally, such a gene-level model oversimplifies the complexity of cancer evolution. In this study, we introduced CN/CS-calculator, a novel site-specific method that can capture selective pressures acting across different gene sites. By deciphering the interplay between the selection pattern and the function of a gene in oncogenesis,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41511464/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-09T11:00:00.000Z",
+          "wordCount": 1587,
+          "title": "Identification of cancer mini-drivers by deciphering selective landscape in the cancer genome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41509216",
+          "author": "Christopher Wirth",
+          "description": "Elucidating the evolution of cancers allows us to understand their key events, and the order in which they occur. To chart and interpret these evolutionary trajectories, we leverage whole-genome sequencing of lung tumours, including those from the largest cohort to date of lung cancers in subjects who have never smoked. Through ordering frequent genomic alterations, we discover three distinct evolutionary paths taken by lung adenocarcinomas; two dominated by tumours from people who have never...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41509216/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-09T11:00:00.000Z",
+          "wordCount": 1385,
+          "title": "Revealing the Drivers Underlying Distinct Evolutionary Trajectories in Lung Adenocarcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41508691",
+          "author": "Abhishek A Mangaonkar",
+          "description": "CONDITION OVERVIEW: Clonal hematopoiesis (CH) refers to the presence of somatic variants in hematopoietic stem and progenitor cells (HSPC) that result in expansion over time.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41508691/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-09T11:00:00.000Z",
+          "wordCount": 1387,
+          "title": "Clonal Hematopoiesis of Indeterminate Potential and Clonal Cytopenias of Undetermined Significance: 2026 Update on Clinical Associations and Management Recommendations",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41500272",
+          "author": "Burak Tekin",
+          "description": "Herein, we have provided select updates targeted towards practicing pathologists pertaining to the pathology of kidney, testis, and penile cancer. This includes discussion of diagnostic criteria, evolution of nomenclature, emerging immunohistochemistry markers, diagnostic pitfalls, and improved understanding of prognostic significance of biomarkers and/or staging parameters. For kidney tumors, specific topics of discussion include a summary of the recent literature pertaining to the biology and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41500272/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-07T11:00:00.000Z",
+          "wordCount": 1588,
+          "title": "Select updates in the pathology of kidney, testis, and penile cancer for 2026: Including FLCN-mutated (kidney) tumors, paratesticular mesothelial tumors, and TP53/HPV status in penile squamous cell carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41496508",
+          "author": "Michael Herman Chui",
+          "description": "Intratumor heterogeneity of ERBB2 amplification/HER2 overexpression is frequently observed in ERBB2-amplified high-grade endometrial carcinoma (HG-EC) and contributes to anti-HER2 therapy resistance. To elucidate the molecular pathogenesis and evolutionary trajectory of HER2-heterogeneous HG-ECs, we performed next-generation sequencing of spatially distinct HER2-negative (HER2-) and HER2-positive (HER2+) tumor areas from nine tumors (whole exome, n = 7; targeted panel, n = 2). HER2- and HER2+...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41496508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-07T11:00:00.000Z",
+          "wordCount": 1400,
+          "title": "ERBB2 amplification is a late event in the pathogenesis of high-grade endometrial carcinomas with heterogeneous HER2 expression",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:41500272",
           "author": "Burak Tekin",
@@ -8237,6 +8187,16 @@
           "publishedOn": "2026-01-07T11:00:00.000Z",
           "wordCount": 1357,
           "title": "ERBB2 amplification is a late event in the pathogenesis of high-grade endometrial carcinomas with heterogeneous HER2 expression",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41465072",
+          "author": "Simona Innamorato",
+          "description": "CONCLUSIONS: This experience tells us that a combined approach with TSO500 Illumina NGS on cfDNA, along with LR-WGS, is able to help solve complex cases and define the appropriate treatment and surveillance strategy.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41465072/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2025-12-30T11:00:00.000Z",
+          "wordCount": 2961,
+          "title": "A Complex Case of Retinoblastoma Solved by the Combined Approach of Humor/Plasma cfDNA-NGS and LR-WGS",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8337,6 +8297,26 @@
           "publishedOn": "2025-12-30T11:00:00.000Z",
           "wordCount": 2023,
           "title": "A Complex Case of Retinoblastoma Solved by the Combined Approach of Humor/Plasma cfDNA-NGS and LR-WGS",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41451551",
+          "author": "Mary Egan Clark",
+          "description": "PURPOSE OF REVIEW: Availability and uptake of somatic and/or germline genetic testing is increasing for children with or at risk for cancer. Diagnosis of a cancer predisposition syndrome (CPS) necessitates long-term oncology care or surveillance. Genetic counseling is imperative to optimize genetic testing for providers and patients/families and to identify and manage those with a CPS.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41451551/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2025-12-26T11:00:00.000Z",
+          "wordCount": 1502,
+          "title": "The increasing role of genetic counseling in pediatric oncology",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41450846",
+          "author": "Sadiksha Adhikari",
+          "description": "CONCLUSIONS: As both technologies can overlook variants, multiple technologies should be utilized to understand clonality in heterogeneous diseases such as AML. Careful scDNA-seq target panel planning, utilizing knowledge obtained from bulk sequencing, can offer more information on clonal heterogeneity. One limitation of our study is the small sample size which may limit the generalizability of the conclusions.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41450846/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2025-12-26T11:00:00.000Z",
+          "wordCount": 1981,
+          "title": "Whole exome sequencing and single-cell DNA sequencing for assessment of clonal heterogeneity and evolution in acute myeloid leukemia",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8623,6 +8603,16 @@
           "id": "pubmed:41397346",
           "author": "Jiaoyi Chen",
           "description": "The evolutionary history of cancers is encoded in molecular patterns that provide critical insights into the mechanisms of tumor progression. However, reconstructing cancer lineages in patient tumors remains challenging, as conventional sequencing captures only static snapshots of an ongoing evolutionary process. DNA methylation at CpG sites is a heritable epigenetic mark that accumulates stochastic errors - termed epimutations - at rates far exceeding those of somatic DNA mutations. These...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41397346/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2025-12-15T11:00:00.000Z",
+          "wordCount": 1090,
+          "title": "Methylation-based lineage tracing in cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41397346",
+          "author": "Jiaoyi Chen",
+          "description": "The evolutionary history of cancers is encoded in molecular patterns that provide critical insights into the mechanisms of tumor progression. However, reconstructing cancer lineages in patient tumors remains challenging, as conventional sequencing captures only static snapshots of an ongoing evolutionary process. DNA methylation at CpG sites is a heritable epigenetic mark that accumulates stochastic errors - termed epimutations - at rates far exceeding those of somatic DNA mutations. These...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/41397346/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260108202425&v=2.18.0.post22+67771e2",
           "publishedOn": "2025-12-15T11:00:00.000Z",
           "wordCount": 1090,
@@ -8863,6 +8853,16 @@
           "id": "pubmed:41392153",
           "author": "Charlie Marvalim",
           "description": "Colorectal cancer has widely been described by the classic adenoma-carcinoma sequence, where sequential mutations in APC, KRAS, and TP53 drive the transition from normal epithelium to carcinoma. However, recent high-resolution genomic analyses have expanded this framework by revealing the presence of multiple driver mutations within morphologically normal colonic crypts. In this review, we summarize the emerging landscape of several somatic driver mutations in normal crypts, highlighting genes...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41392153/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2025-12-14T11:00:00.000Z",
+          "wordCount": 1613,
+          "title": "Early mutational events and clonal dynamics in normal crypts: implications for colorectal tumorigenesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41392153",
+          "author": "Charlie Marvalim",
+          "description": "Colorectal cancer has widely been described by the classic adenoma-carcinoma sequence, where sequential mutations in APC, KRAS, and TP53 drive the transition from normal epithelium to carcinoma. However, recent high-resolution genomic analyses have expanded this framework by revealing the presence of multiple driver mutations within morphologically normal colonic crypts. In this review, we summarize the emerging landscape of several somatic driver mutations in normal crypts, highlighting genes...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/41392153/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260108202425&v=2.18.0.post22+67771e2",
           "publishedOn": "2025-12-14T11:00:00.000Z",
           "wordCount": 1613,
@@ -9067,6 +9067,16 @@
           "publishedOn": "2025-12-14T11:00:00.000Z",
           "wordCount": 1593,
           "title": "Early mutational events and clonal dynamics in normal crypts: implications for colorectal tumorigenesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41373802",
+          "author": "John Paul Braun",
+          "description": "Bladder and urothelial carcinoma are marked by profound genomic diversity. Using a large, multi-institutional dataset, we performed comprehensive genomic profiling of 4631 tumor samples from 4050 individuals. A retrospective analysis of bladder and urothelial cancer was performed using the AACR Project GENIE database. Demographic associations, mutation frequencies, copy number changes, and survival correlations were analyzed with a p-value < 0.05. Frequent mutations were identified in TP53,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41373802/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2025-12-11T11:00:00.000Z",
+          "wordCount": 1878,
+          "title": "Genomic Characteristics of Bladder Cancer: An AACR Project GENIE Study",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9357,6 +9367,26 @@
           "publishedOn": "2025-12-11T11:00:00.000Z",
           "wordCount": 1658,
           "title": "Genomic Characteristics of Bladder Cancer: An AACR Project GENIE Study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41372419",
+          "author": "Oriol Pich",
+          "description": "The extent to which exogenous sources, including cancer treatment, contribute to somatic evolution in normal tissue remains unclear. Here we used high-depth duplex sequencing¹ (more than 30,000× coverage) to analyse 168 cancer-free samples representing 16 organs from 22 patients with metastatic cancer enroled in the PEACE research autopsy study. In every sample, we identified somatic mutations (range 305-2,854 mutations) at low variant allele frequencies (median 0.0000323). We extracted 16...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41372419/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2025-12-10T11:00:00.000Z",
+          "wordCount": 3837,
+          "title": "Somatic evolution following cancer treatment in normal tissue",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41367572",
+          "author": "Pan Yang",
+          "description": "CONCLUSIONS: MPLC is a distinct entity arising from genetic, epigenetic, and microenvironmental interplay. Advancing its management requires multi-omics integration to decipher pathology and identify biomarkers. Future work should develop AI-enhanced diagnostics and lesion-specific treatment strategies. This review synthesizes current evidence to inform and direct future research and clinical innovation in MPLC.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41367572/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2025-12-10T11:00:00.000Z",
+          "wordCount": 2038,
+          "title": "Decoding the enigma of multiple primary lung cancers: from mechanism to bedside-a narrative review",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9953,6 +9983,16 @@
           "id": "pubmed:41351070",
           "author": "Rebecca C Allsopp",
           "description": "CONCLUSIONS: Our study shows that CTCs provide key information that would have been missed by ctDNA monitoring alone and extends CTC and cfDNA genomic profiling to patients with a broad range of CTC counts for blood-based monitoring of HER2 status and other clinically actionable targets for informing treatment decisions in metastatic disease.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41351070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2025-12-06T11:00:00.000Z",
+          "wordCount": 2699,
+          "title": "Concurrent genomic assessment of circulating tumour cells and ctDNA to guide therapy in metastatic breast cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41351070",
+          "author": "Rebecca C Allsopp",
+          "description": "CONCLUSIONS: Our study shows that CTCs provide key information that would have been missed by ctDNA monitoring alone and extends CTC and cfDNA genomic profiling to patients with a broad range of CTC counts for blood-based monitoring of HER2 status and other clinically actionable targets for informing treatment decisions in metastatic disease.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/41351070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260108202425&v=2.18.0.post22+67771e2",
           "publishedOn": "2025-12-06T11:00:00.000Z",
           "wordCount": 2699,
@@ -10287,6 +10327,16 @@
           "publishedOn": "2025-12-06T11:00:00.000Z",
           "wordCount": 2141,
           "title": "Concurrent genomic assessment of circulating tumour cells and ctDNA to guide therapy in metastatic breast cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41350422",
+          "author": "Tito Teles Jesus",
+          "description": "Despite improvements in the molecular profiling of pancreatic neuroendocrine tumors (PanNETs), predicting their clinical behavior and response to specific therapies remains challenging. We sought to elucidate the molecular basis underlying the broad phenotypic variations in these neoplasms through a genetic characterization of primary and metastatic PanNETs. Our findings revealed an enrichment of CDKN2A homozygous deletions and TSC2 somatic mutations in metastatic PanNETs when compared to...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41350422/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260109202154&v=2.18.0.post22+67771e2",
+          "publishedOn": "2025-12-05T11:00:00.000Z",
+          "wordCount": 2417,
+          "title": "CDKN2A homozygous deletions and TSC2 somatic mutations in metastatic pancreatic neuroendocrine tumors",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
