@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&ff=20260124204216&fc=20220608003622&v=2.18.0.post22+67771e2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&utm_campaign=pubmed-2&utm_source=axios&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.18.0.post22+67771e2",
       "articles": [
+        {
+          "id": "pubmed:41581223",
+          "author": "Honoka Takahashi",
+          "description": "Acquired aplastic anemia (AA) is an immune-mediated bone marrow failure in which cytotoxic T lymphocytes (CTLs) target hematopoietic stem cells (HSCs). Approximately 30% of AA patients develop immune escape clones lacking specific HLA class I alleles (HLA[-]) through loss of heterozygosity in chromosome 6p (6pLOH) or somatic loss-of-function mutations. Eltrombopag (EPAG), a thrombopoietin receptor agonist (TPO-RA), demonstrates clinical efficacy in AA in combination with immunosuppressive...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41581223/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-25T11:00:00.000Z",
+          "wordCount": 1562,
+          "title": "iPSC-derived modeling of HLA-lacking hematopoiesis reveals clonal diversity in eltrombopag response in acquired aplastic anemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41572489",
+          "author": "Zhenyu Zhang",
+          "description": "Cell-free DNA (cfDNA) in plasma consists of short DNA fragments resulting from a non-random fragmentation process, with distinct fragmentomic characteristics that are related with their cellular origins. Here, we report that somatic variant signatures in cfDNA markedly differ between non-cancerous controls and cancer patients, indicating that tumor-associated signals are retained in these variants. Surprisingly, even in controls, cfDNA molecules harboring somatic variants exhibit cancer-like...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41572489/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-23T11:00:00.000Z",
+          "wordCount": 1619,
+          "title": "Cancer-Like Fragmentomic Characteristics of Somatic Variants in Cell-Free DNA",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:41572489",
           "author": "Zhenyu Zhang",
@@ -230,6 +250,36 @@
           "publishedOn": "2026-01-23T11:00:00.000Z",
           "wordCount": 1619,
           "title": "Cancer-Like Fragmentomic Characteristics of Somatic Variants in Cell-Free DNA",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41568536",
+          "author": "Qiao Yuan",
+          "description": "Characterized by somatic mutations (e.g., DNMT3A) in blood cells, clonal hematopoiesis (CH) is an age-related process wherein mutated hematopoietic stem and progenitor cells (HSPCs) expand. This expansion thereby increases the risk of all-cause mortality, myeloid hematologic malignancies and other nonmalignant disorders, yet the risk factors that contribute to CH are still largely unknown. Periodontitis induces low-grade systemic inflammation and affects an estimated 62% of dentate adults...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41568536/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-22T11:00:00.000Z",
+          "wordCount": 1413,
+          "title": "Ligature-induced periodontitis promotes Dnmt3a R878H-driven clonal hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41568522",
+          "author": "Xiaoxi Yang",
+          "description": "Myeloproliferative neoplasms (MPNs) are clonal stem cell disorders characterized by dysregulated megakaryopoiesis and expansion of neoplastic hematopoietic stem cells (HSCs). Megakaryocytes (MKs) not only regulate HSC function but also shape immune responses within the marrow niche. Using an aging murine model of MPN with MK-restricted JAK2V617F expression, we investigated the immunomodulatory roles of mutant MKs. Compared to wild-type MKs, aged mutant MKs exhibit enhanced antigen uptake and MHC...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41568522/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-22T11:00:00.000Z",
+          "wordCount": 1363,
+          "title": "Immunomodulatory role of megakaryocytes in the hematopoietic niche of myeloproliferative neoplasms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41566785",
+          "author": "Philip Harraka",
+          "description": "Clonal haematopoiesis of indeterminate potential (CHIP) is associated with many diseases of ageing. Large research initiatives are needed to develop clinical guidelines for the management of individuals with CHIP, and their risk of disease. However, little guidance is available for the classification of variants as CHIP-associated, or how to identify individuals consistently and systematically as having CHIP. This study aimed to develop and execute a resource-mindful framework for identifying...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41566785/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-22T11:00:00.000Z",
+          "wordCount": 1861,
+          "title": "A framework for the molecular identification of CHIP for clinical research",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -326,6 +376,26 @@
           "id": "pubmed:41565277",
           "author": "Masako Kurashige",
           "description": "Extranodal NK/T-cell lymphoma (ENKTL) is an Epstein-Barr virus (EBV)-positive lymphoma of the NK- or cytotoxic T-cell lineage. According to the World Health Organization Classification of Hematolymphoid Tumors, Fifth Edition (WHO-HAEM5), EBV-positive cases lacking cytotoxic molecules cannot be classified as ENKTL. To the best of our knowledge, this is the first documented case of primary gastric EBV-positive T-cell lymphoma lacking the expression of cytotoxic molecules. A 76-year-old woman...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41565277/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-21T11:00:00.000Z",
+          "wordCount": 1533,
+          "title": "Primary gastric EBV-positive cytotoxic-molecule-negative T-cell lymphoma with TET2 multihit mutations: a case report",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41564438",
+          "author": "Hannah R Davidson-Swinton",
+          "description": "Long telomere length (TL) extends replicative capacity in vitro, and predisposes to clonal hematopoiesis. We characterized the cancer phenotype in 51 individuals from 24 families with mutant POT1, a negative regulator of telomerase elongation (median age 51, range 5-94). Hematologic malignancies were second in prevalence after melanoma (27%), and lymphoid subsets were more common. They clustered with history of sarcoma, thyroid cancer and chronic myeloproliferative neoplasms. UKB participants...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41564438/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-21T11:00:00.000Z",
+          "wordCount": 1373,
+          "title": "Lymphoid malignancy and clonality in the POT1-mediated long telomere syndrome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41565277",
+          "author": "Masako Kurashige",
+          "description": "Extranodal NK/T-cell lymphoma (ENKTL) is an Epstein-Barr virus (EBV)-positive lymphoma of the NK- or cytotoxic T-cell lineage. According to the World Health Organization Classification of Hematolymphoid Tumors, Fifth Edition (WHO-HAEM5), EBV-positive cases lacking cytotoxic molecules cannot be classified as ENKTL. To the best of our knowledge, this is the first documented case of primary gastric EBV-positive T-cell lymphoma lacking the expression of cytotoxic molecules. A 76-year-old woman...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/41565277/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260124204216&v=2.18.0.post22+67771e2",
           "publishedOn": "2026-01-21T11:00:00.000Z",
           "wordCount": 1533,
@@ -396,6 +466,16 @@
           "id": "pubmed:41558605",
           "author": "Shuang Liang",
           "description": "CONCLUSION: Tet2-mutant cells in CHIP-associated AS acquire immunogenic neoantigens. Leveraging these antigens via a hydrogel vaccine induces clone-specific CD8^(+) T cell responses, clears pathogenic macrophages, and ameliorates atherosclerosis. This validates mutant neoantigens as actionable targets for CHIP-driven cardiovascular disease.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41558605/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-20T11:00:00.000Z",
+          "wordCount": 1565,
+          "title": "Treatment of clonal hematopoiesis associated atherosclerosis via vaccine-based clearance of the mutant cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41558605",
+          "author": "Shuang Liang",
+          "description": "CONCLUSION: Tet2-mutant cells in CHIP-associated AS acquire immunogenic neoantigens. Leveraging these antigens via a hydrogel vaccine induces clone-specific CD8^(+) T cell responses, clears pathogenic macrophages, and ameliorates atherosclerosis. This validates mutant neoantigens as actionable targets for CHIP-driven cardiovascular disease.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/41558605/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260124204216&v=2.18.0.post22+67771e2",
           "publishedOn": "2026-01-20T11:00:00.000Z",
           "wordCount": 1565,
@@ -430,6 +510,16 @@
           "publishedOn": "2026-01-20T11:00:00.000Z",
           "wordCount": 1565,
           "title": "Treatment of clonal hematopoiesis associated atherosclerosis via vaccine-based clearance of the mutant cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41550516",
+          "author": "Jasmine Singh",
+          "description": "CONCLUSION: We propose that the effect of CHIP is modified by participant factors, including comorbidities, partly accounting for heterogeneity across cohorts. This work contributes to a growing understanding of the interplay between CHIP and disease, and considerations in translating findings from large observational studies to individuals with CHIP.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41550516/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-19T11:00:00.000Z",
+          "wordCount": 2198,
+          "title": "Clonal Hematopoiesis and Kidney Function in the ASPREE Cohort",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -490,6 +580,66 @@
           "publishedOn": "2026-01-19T11:00:00.000Z",
           "wordCount": 2125,
           "title": "Clonal Hematopoiesis and Kidney Function in the ASPREE Cohort",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41546079",
+          "author": "Megan A Evans",
+          "description": "Inflammation is increasingly recognized as a central driver of heart failure (HF), particularly in older adults, yet the underlying immune mechanisms remain diverse and incompletely understood. Clonal hematopoiesis (CH), defined by the expansion of somatically mutated hematopoietic clones, has emerged as a risk factor for the development of numerous age-related diseases including HF. Experimental and clinical evidence suggests that mutant clones carrying driver gene mutations promote a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41546079/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-16T11:00:00.000Z",
+          "wordCount": 2109,
+          "title": "The Immunological Consequences of Clonal Hematopoiesis in Heart Failure",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41544283",
+          "author": "Ecler Ercole Jaqua",
+          "description": "Antiretroviral therapy has transformed HIV into a chronic condition, enabling many people living with HIV to achieve near-normal life expectancy. However, HIV-associated complications remain common, driven by persistent immune activation, inflammation, sedentary lifestyle, and poor diet with cardiometabolic issues such as dyslipidemia, insulin resistance, body composition changes, and osteoporosis among the most prevalent. Newer antiretroviral therapy regimens, particularly integrase strand...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41544283/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-16T11:00:00.000Z",
+          "wordCount": 1214,
+          "title": "HIV-Associated Complications: A Systems-Based Approach",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41543641",
+          "author": "Camilla Huse",
+          "description": "PURPOSE OF THE REVIEW: We aimed to summarize the pathogenic role of IL-6 in atherothrombosis and myocardial infarction (MI), with focus on novel pathogenic mechanisms and current IL-6 targeted therapy in clinical cohorts.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41543641/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-16T11:00:00.000Z",
+          "wordCount": 2158,
+          "title": "Role of Interleukin-6 in Atherothrombosis and Myocardial Infarction",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41543636",
+          "author": "Chirayu Mohindroo",
+          "description": "Peptide receptor radionuclide therapy (PRRT) has become an established treatment for patients with well-differentiated gastroenteropancreatic neuroendocrine neoplasms (GEP-NENs) that express somatostatin receptors. Among the available agents, lutetium-177 DOTATATE is the most commonly used radiolabeled somatostatin analog and has demonstrated significant clinical benefits, including improved response rates and prolonged progression-free survival, as shown in landmark trials such as NETTER-1 and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41543636/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-16T11:00:00.000Z",
+          "wordCount": 1570,
+          "title": "Management of Peptide Receptor Radionuclide Therapy Toxicities in Neuroendocrine Neoplasm Patients",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41543509",
+          "author": null,
+          "description": "A large genetic analysis uncovered a variant that restrains clonal hematopoiesis by slowing the growth of mutated blood stem cells linked to myeloid malignancies. The mechanisms involved may offer targets for therapies aimed at preventing cancer progression.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41543509/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-16T11:00:00.000Z",
+          "wordCount": 933,
+          "title": "A Genetic Brake on Blood Cancer Risk",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41541724",
+          "author": "Qing Zhang",
+          "description": "CONCLUSION: Our findings provide genetic evidence that CHIP, particularly DNMT3a-related mutations, causally but modestly increases AF risk. There is no support for reverse causation. Elevated systolic blood pressure was identified as a significant mediator linking DNMT3a-CHIP to AF.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41541724/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-16T11:00:00.000Z",
+          "wordCount": 2310,
+          "title": "Clonal hematopoiesis of indeterminate potential as a risk factor for atrial fibrillation: Evidence of a causal relationship by Mendelian randomization study",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7641,284 +7791,44 @@
           "wordCount": 1153,
           "title": "Lingering Effects: Environmental Exposure Leads to Clonal Hematopoiesis via IL1RAP in 9/11 First Responders",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41309676",
-          "author": "Zhi Yu",
-          "description": "Plasma proteomic profiles associated with subclinical somatic mutations in blood cells may offer insights into downstream clinical consequences. Here we explore these patterns in clonal hematopoiesis of indeterminate potential (CHIP), which is linked to several cancer and non-cancer outcomes, including coronary artery disease (CAD). Among 61,833 participants (3881 with CHIP) from TOPMed and UK Biobank (UKB) with blood-based DNA sequencing and proteomic measurements (1,148 proteins by SomaScan in...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41309676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251210202146&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 3716,
-          "title": "Human plasma proteomic profile of clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251210202146&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1750,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41309676",
-          "author": "Zhi Yu",
-          "description": "Plasma proteomic profiles associated with subclinical somatic mutations in blood cells may offer insights into downstream clinical consequences. Here we explore these patterns in clonal hematopoiesis of indeterminate potential (CHIP), which is linked to several cancer and non-cancer outcomes, including coronary artery disease (CAD). Among 61,833 participants (3881 with CHIP) from TOPMed and UK Biobank (UKB) with blood-based DNA sequencing and proteomic measurements (1,148 proteins by SomaScan in...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41309676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251209202055&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 3716,
-          "title": "Human plasma proteomic profile of clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251209202055&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1750,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41309676",
-          "author": "Zhi Yu",
-          "description": "Plasma proteomic profiles associated with subclinical somatic mutations in blood cells may offer insights into downstream clinical consequences. Here we explore these patterns in clonal hematopoiesis of indeterminate potential (CHIP), which is linked to several cancer and non-cancer outcomes, including coronary artery disease (CAD). Among 61,833 participants (3881 with CHIP) from TOPMed and UK Biobank (UKB) with blood-based DNA sequencing and proteomic measurements (1,148 proteins by SomaScan in...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41309676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251208201908&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 3716,
-          "title": "Human plasma proteomic profile of clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251208201908&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1750,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41309676",
-          "author": "Zhi Yu",
-          "description": "Plasma proteomic profiles associated with subclinical somatic mutations in blood cells may offer insights into downstream clinical consequences. Here we explore these patterns in clonal hematopoiesis of indeterminate potential (CHIP), which is linked to several cancer and non-cancer outcomes, including coronary artery disease (CAD). Among 61,833 participants (3881 with CHIP) from TOPMed and UK Biobank (UKB) with blood-based DNA sequencing and proteomic measurements (1,148 proteins by SomaScan in...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41309676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251207201951&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 3716,
-          "title": "Human plasma proteomic profile of clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251207201951&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1750,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41309676",
-          "author": "Zhi Yu",
-          "description": "Plasma proteomic profiles associated with subclinical somatic mutations in blood cells may offer insights into downstream clinical consequences. Here we explore these patterns in clonal hematopoiesis of indeterminate potential (CHIP), which is linked to several cancer and non-cancer outcomes, including coronary artery disease (CAD). Among 61,833 participants (3881 with CHIP) from TOPMed and UK Biobank (UKB) with blood-based DNA sequencing and proteomic measurements (1,148 proteins by SomaScan in...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41309676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251206202639&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 3716,
-          "title": "Human plasma proteomic profile of clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251206202639&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1750,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41309676",
-          "author": "Zhi Yu",
-          "description": "Plasma proteomic profiles associated with subclinical somatic mutations in blood cells may offer insights into downstream clinical consequences. Here we explore these patterns in clonal hematopoiesis of indeterminate potential (CHIP), which is linked to several cancer and non-cancer outcomes, including coronary artery disease (CAD). Among 61,833 participants (3881 with CHIP) from TOPMed and UK Biobank (UKB) with blood-based DNA sequencing and proteomic measurements (1,148 proteins by SomaScan in...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41309676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251205201526&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 3716,
-          "title": "Human plasma proteomic profile of clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251205201526&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1750,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41309676",
-          "author": "Zhi Yu",
-          "description": "Plasma proteomic profiles associated with subclinical somatic mutations in blood cells may offer insights into downstream clinical consequences. Here we explore these patterns in clonal hematopoiesis of indeterminate potential (CHIP), which is linked to several cancer and non-cancer outcomes, including coronary artery disease (CAD). Among 61,833 participants (3881 with CHIP) from TOPMed and UK Biobank (UKB) with blood-based DNA sequencing and proteomic measurements (1,148 proteins by SomaScan in...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41309676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251204201938&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 3716,
-          "title": "Human plasma proteomic profile of clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251204201938&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1750,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41309676",
-          "author": "Zhi Yu",
-          "description": "Plasma proteomic profiles associated with subclinical somatic mutations in blood cells may offer insights into downstream clinical consequences. Here we explore these patterns in clonal hematopoiesis of indeterminate potential (CHIP), which is linked to several cancer and non-cancer outcomes, including coronary artery disease (CAD). Among 61,833 participants (3881 with CHIP) from TOPMed and UK Biobank (UKB) with blood-based DNA sequencing and proteomic measurements (1,148 proteins by SomaScan in...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41309676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251203201900&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 3716,
-          "title": "Human plasma proteomic profile of clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251203201900&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1750,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41309676",
-          "author": "Zhi Yu",
-          "description": "Plasma proteomic profiles associated with subclinical somatic mutations in blood cells may offer insights into downstream clinical consequences. Here we explore these patterns in clonal hematopoiesis of indeterminate potential (CHIP), which is linked to several cancer and non-cancer outcomes, including coronary artery disease (CAD). Among 61,833 participants (3881 with CHIP) from TOPMed and UK Biobank (UKB) with blood-based DNA sequencing and proteomic measurements (1,148 proteins by SomaScan in...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41309676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251202201906&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 3716,
-          "title": "Human plasma proteomic profile of clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251202201906&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1750,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41309676",
-          "author": "Zhi Yu",
-          "description": "Plasma proteomic profiles associated with subclinical somatic mutations in blood cells may offer insights into downstream clinical consequences. Here we explore these patterns in clonal hematopoiesis of indeterminate potential (CHIP), which is linked to several cancer and non-cancer outcomes, including coronary artery disease (CAD). Among 61,833 participants (3881 with CHIP) from TOPMed and UK Biobank (UKB) with blood-based DNA sequencing and proteomic measurements (1,148 proteins by SomaScan in...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41309676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251201201847&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 3573,
-          "title": "Human plasma proteomic profile of clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251201201847&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1750,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41309676",
-          "author": "Zhi Yu",
-          "description": "Plasma proteomic profiles associated with subclinical somatic mutations in blood cells may offer insights into downstream clinical consequences. Here we explore these patterns in clonal hematopoiesis of indeterminate potential (CHIP), which is linked to several cancer and non-cancer outcomes, including coronary artery disease (CAD). Among 61,833 participants (3881 with CHIP) from TOPMed and UK Biobank (UKB) with blood-based DNA sequencing and proteomic measurements (1,148 proteins by SomaScan in...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41309676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251130204119&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 3573,
-          "title": "Human plasma proteomic profile of clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251130204119&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1750,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41309676",
-          "author": "Zhi Yu",
-          "description": "Plasma proteomic profiles associated with subclinical somatic mutations in blood cells may offer insights into downstream clinical consequences. Here we explore these patterns in clonal hematopoiesis of indeterminate potential (CHIP), which is linked to several cancer and non-cancer outcomes, including coronary artery disease (CAD). Among 61,833 participants (3881 with CHIP) from TOPMed and UK Biobank (UKB) with blood-based DNA sequencing and proteomic measurements (1,148 proteins by SomaScan in...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41309676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251129202617&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 3523,
-          "title": "Human plasma proteomic profile of clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251129202617&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1699,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41309676",
-          "author": "Zhi Yu",
-          "description": "Plasma proteomic profiles associated with subclinical somatic mutations in blood cells may offer insights into downstream clinical consequences. Here we explore these patterns in clonal hematopoiesis of indeterminate potential (CHIP), which is linked to several cancer and non-cancer outcomes, including coronary artery disease (CAD). Among 61,833 participants (3881 with CHIP) from TOPMed and UK Biobank (UKB) with blood-based DNA sequencing and proteomic measurements (1,148 proteins by SomaScan in...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41309676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251128201548&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 3523,
-          "title": "Human plasma proteomic profile of clonal hematopoiesis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251128201548&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1699,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41301057",
-          "author": "Oudai Sahwan",
-          "description": "The role of circulating tumor DNA (ctDNA) in gastroesophageal adenocarcinoma (GEA) has expanded in recent years. In resectable disease, postoperative ctDNA is able to detect patients at highest risk of recurrence months before scans. Tumor-informed assays provide the best sensitivity and emerging methylation assays are useful when tissue is scarce. In metastatic GEA, baseline ctDNA burden correlates with prognosis, and a decrease in ctDNA level after treatment initiation reflects therapeutic...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41301057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251127201526&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1117,
-          "title": "Circulating Tumor DNA (ctDNA) in Gastroesophageal Adenocarcinoma (GEA): Evidence and Emerging Applications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&fc=20220608010801&utm_medium=rss&utm_campaign=pubmed-2&v=2.18.0.post22+67771e2&ff=20260124204216",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&fc=20220608010801&utm_medium=rss&v=2.18.0.post22+67771e2&utm_campaign=pubmed-2&ff=20260125204206&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
       "articles": [
+        {
+          "id": "pubmed:41571832",
+          "author": "Haochen Zhang",
+          "description": "Most evolutionary studies on pancreatic cancer rely on bulk sequencing, yet clonal evolution happens at the single-cell level. We used single-nucleus DNA sequencing to study 137,491 single nuclei from 24 pancreatic neoplasms reflecting various clinical scenarios. We found higher frequencies of somatic alterations to driver genes that bulk studies indicate; many manifest as copy number alterations and account for the majority of spatial heterogeneity. In pancreatic cancers with canonical KRAS...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41571832/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-22T11:00:00.000Z",
+          "wordCount": 2100,
+          "title": "Genomic evolution of pancreatic cancer at single-cell resolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41571190",
+          "author": "Ruirui Fan",
+          "description": "Renal transplant recipients are at significantly higher risk of developing malignancies due to chronic immunosuppression. While DNA polymerase epsilon (POLE)-mutated endometrioid carcinoma (EC) typically presents as early-stage disease with an excellent prognosis and rare metastasis, we conducted a study on POLE-mutated EC in a transplant recipient that rapidly progressed and metastasized. We aimed to first elucidate the molecular and immunological mechanisms of rapid and malignant progression...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41571190/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-22T11:00:00.000Z",
+          "wordCount": 1228,
+          "title": "Clonal Progression of a DNA Polymerase Epsilon-Mutant Endometrial Cancer With Immune Evasion Characteristics and Metastasis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41567982",
+          "author": "Shiyan Zeng",
+          "description": "Tumor neoantigens, a class of entirely novel antigens generated by somatic mutations, can be specifically recognized by T cells and serve as a central bridge connecting tumor genomic variation with anti-tumor immune responses. This review systematically elaborates on the dual role of neoantigens in the dynamic process of immunoediting: they act as targets for immune attack that are \"sculpted\" and as drivers of tumor evolution that are \"selected.\" It further explores their immense potential as...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41567982/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-22T11:00:00.000Z",
+          "wordCount": 1684,
+          "title": "Neoantigens in cancer immunoediting: from mechanisms to personalized vaccines in breast cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:41571832",
           "author": "Haochen Zhang",
@@ -7987,6 +7897,26 @@
           "publishedOn": "2026-01-22T11:00:00.000Z",
           "wordCount": 1639,
           "title": "Neoantigens in cancer immunoediting: from mechanisms to personalized vaccines in breast cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41522204",
+          "author": "Lin Kang",
+          "description": "CONCLUSIONS AND IMPLICATIONS: Chimpanzee HCCs are defined by high mutational burden and frequent TSC2 alterations, contrasting with the more selectively constrained mutation spectrum of human HCC. Divergent evolutionary patterns highlight species-specific oncogenic routes while underscoring conserved pathways. Comparative primate cancer genomics offers novel insights into cancer evolution, biomarkers, and therapeutic targets.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41522204/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-12T11:00:00.000Z",
+          "wordCount": 1919,
+          "title": "Divergent evolution of hepatocellular carcinoma genomes in chimpanzees and humans",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41521784",
+          "author": "Qihang Chen",
+          "description": "The process of migration and colonization is important in evolution; for example, modern humans experienced multiple waves of migrations out of Africa. However, no data cover the spatio-temporal patterns sufficiently to be truly informative. Metastatic cancer provides a unique in vivo model to study these processes through rapid somatic evolution. Here, we apply the high-resolution sampling technique (Dense 3D Crypt-scale Sampling) to analyze hundreds of spatially mapped micro-samples from the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41521784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-12T11:00:00.000Z",
+          "wordCount": 1541,
+          "title": "Full spatio-temporal analyses of migration and colonization in evolution - Dense 3D mapping of cancer metastases provides new insights",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8247,6 +8177,26 @@
           "publishedOn": "2026-01-12T11:00:00.000Z",
           "wordCount": 1504,
           "title": "Full spatio-temporal analyses of migration and colonization in evolution - Dense 3D mapping of cancer metastases provides new insights",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41516405",
+          "author": "Marta Gil-Barrachina",
+          "description": "Melanocytic tumorigenesis is thought to occur through stepwise genomic evolution from normal skin to nevi and, ultimately, melanoma. To investigate this progression, we performed targeted deep sequencing of a 46-gene panel in matched healthy skin, nevus, and melanoma samples from 15 patients, including 14 complete tissue trios. Mutation burden increased progressively across tissues, with median mutation counts rising from benign skin to nevi and showing the highest levels in melanoma, consistent...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41516405/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-10T11:00:00.000Z",
+          "wordCount": 2102,
+          "title": "Genetic Evolution of Melanoma: Comparative Analysis of Candidate Gene Mutations in Healthy Skin, Nevi, and Tumors from the Same Patients",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41514647",
+          "author": "Alessandro Parra",
+          "description": "Background/Objectives: Targeted gene sequencing (TGS) for Comprehensive Genomic Profiling (CGP) use in sarcomas has recently increased in clinical practice. We report on TGS real-world data over a period of 3 years (2022-2025) at the IRCCS Istituto Ortopedico Rizzoli, with the aim of identifying potential actionable targets and providing therapeutic indications for advanced sarcoma patients. Methods: We analyzed 22 advanced sarcoma patients by using the VariantPlex Pan Solid Tumor kit panel,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41514647/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-10T11:00:00.000Z",
+          "wordCount": 2033,
+          "title": "Genomic Profiling of Highly Aggressive Musculoskeletal Sarcomas Identifies Potential Therapeutic Targets: A Single-Center Experience",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8547,6 +8497,36 @@
           "publishedOn": "2026-01-10T11:00:00.000Z",
           "wordCount": 1435,
           "title": "Genomic Profiling of Highly Aggressive Musculoskeletal Sarcomas Identifies Potential Therapeutic Targets: A Single-Center Experience",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41511464",
+          "author": "Xunuo Zhu",
+          "description": "Cancer development is driven by somatic evolution and clonal selection. However, traditional selective pressure analysis methods have treated all sites within a gene equally, such a gene-level model oversimplifies the complexity of cancer evolution. In this study, we introduced CN/CS-calculator, a novel site-specific method that can capture selective pressures acting across different gene sites. By deciphering the interplay between the selection pattern and the function of a gene in oncogenesis,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41511464/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-09T11:00:00.000Z",
+          "wordCount": 2925,
+          "title": "Identification of cancer mini-drivers by deciphering selective landscape in the cancer genome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41509216",
+          "author": "Christopher Wirth",
+          "description": "Elucidating the evolution of cancers allows us to understand their key events, and the order in which they occur. To chart and interpret these evolutionary trajectories, we leverage whole-genome sequencing of lung tumours, including those from the largest cohort to date of lung cancers in subjects who have never smoked. Through ordering frequent genomic alterations, we discover three distinct evolutionary paths taken by lung adenocarcinomas; two dominated by tumours from people who have never...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41509216/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-09T11:00:00.000Z",
+          "wordCount": 4490,
+          "title": "Revealing the Drivers Underlying Distinct Evolutionary Trajectories in Lung Adenocarcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41508691",
+          "author": "Abhishek A Mangaonkar",
+          "description": "CONDITION OVERVIEW: Clonal hematopoiesis (CH) refers to the presence of somatic variants in hematopoietic stem and progenitor cells (HSPC) that result in expansion over time.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41508691/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-09T11:00:00.000Z",
+          "wordCount": 1418,
+          "title": "Clonal Hematopoiesis of Indeterminate Potential and Clonal Cytopenias of Undetermined Significance: 2026 Update on Clinical Associations and Management Recommendations",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9033,6 +9013,26 @@
           "id": "pubmed:41500272",
           "author": "Burak Tekin",
           "description": "Herein, we have provided select updates targeted towards practicing pathologists pertaining to the pathology of kidney, testis, and penile cancer. This includes discussion of diagnostic criteria, evolution of nomenclature, emerging immunohistochemistry markers, diagnostic pitfalls, and improved understanding of prognostic significance of biomarkers and/or staging parameters. For kidney tumors, specific topics of discussion include a summary of the recent literature pertaining to the biology and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41500272/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-07T11:00:00.000Z",
+          "wordCount": 1588,
+          "title": "Select updates in the pathology of kidney, testis, and penile cancer for 2026: Including FLCN-mutated (kidney) tumors, paratesticular mesothelial tumors, and TP53/HPV status in penile squamous cell carcinoma",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41496508",
+          "author": "Michael Herman Chui",
+          "description": "Intratumor heterogeneity of ERBB2 amplification/HER2 overexpression is frequently observed in ERBB2-amplified high-grade endometrial carcinoma (HG-EC) and contributes to anti-HER2 therapy resistance. To elucidate the molecular pathogenesis and evolutionary trajectory of HER2-heterogeneous HG-ECs, we performed next-generation sequencing of spatially distinct HER2-negative (HER2-) and HER2-positive (HER2+) tumor areas from nine tumors (whole exome, n = 7; targeted panel, n = 2). HER2- and HER2+...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41496508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-07T11:00:00.000Z",
+          "wordCount": 1403,
+          "title": "ERBB2 amplification is a late event in the pathogenesis of high-grade endometrial carcinomas with heterogeneous HER2 expression",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41500272",
+          "author": "Burak Tekin",
+          "description": "Herein, we have provided select updates targeted towards practicing pathologists pertaining to the pathology of kidney, testis, and penile cancer. This includes discussion of diagnostic criteria, evolution of nomenclature, emerging immunohistochemistry markers, diagnostic pitfalls, and improved understanding of prognostic significance of biomarkers and/or staging parameters. For kidney tumors, specific topics of discussion include a summary of the recent literature pertaining to the biology and...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/41500272/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260124204216&v=2.18.0.post22+67771e2",
           "publishedOn": "2026-01-07T11:00:00.000Z",
           "wordCount": 1588,
@@ -9383,6 +9383,16 @@
           "id": "pubmed:41465072",
           "author": "Simona Innamorato",
           "description": "CONCLUSIONS: This experience tells us that a combined approach with TSO500 Illumina NGS on cfDNA, along with LR-WGS, is able to help solve complex cases and define the appropriate treatment and surveillance strategy.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41465072/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2025-12-30T11:00:00.000Z",
+          "wordCount": 2961,
+          "title": "A Complex Case of Retinoblastoma Solved by the Combined Approach of Humor/Plasma cfDNA-NGS and LR-WGS",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41465072",
+          "author": "Simona Innamorato",
+          "description": "CONCLUSIONS: This experience tells us that a combined approach with TSO500 Illumina NGS on cfDNA, along with LR-WGS, is able to help solve complex cases and define the appropriate treatment and surveillance strategy.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/41465072/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260124204216&v=2.18.0.post22+67771e2",
           "publishedOn": "2025-12-30T11:00:00.000Z",
           "wordCount": 2961,
@@ -9637,6 +9647,26 @@
           "publishedOn": "2025-12-30T11:00:00.000Z",
           "wordCount": 2023,
           "title": "A Complex Case of Retinoblastoma Solved by the Combined Approach of Humor/Plasma cfDNA-NGS and LR-WGS",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41451551",
+          "author": "Mary Egan Clark",
+          "description": "PURPOSE OF REVIEW: Availability and uptake of somatic and/or germline genetic testing is increasing for children with or at risk for cancer. Diagnosis of a cancer predisposition syndrome (CPS) necessitates long-term oncology care or surveillance. Genetic counseling is imperative to optimize genetic testing for providers and patients/families and to identify and manage those with a CPS.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41451551/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2025-12-26T11:00:00.000Z",
+          "wordCount": 1502,
+          "title": "The increasing role of genetic counseling in pediatric oncology",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41450846",
+          "author": "Sadiksha Adhikari",
+          "description": "CONCLUSIONS: As both technologies can overlook variants, multiple technologies should be utilized to understand clonality in heterogeneous diseases such as AML. Careful scDNA-seq target panel planning, utilizing knowledge obtained from bulk sequencing, can offer more information on clonal heterogeneity. One limitation of our study is the small sample size which may limit the generalizability of the conclusions.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41450846/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260125204206&v=2.18.0.post22+67771e2",
+          "publishedOn": "2025-12-26T11:00:00.000Z",
+          "wordCount": 1981,
+          "title": "Whole exome sequencing and single-cell DNA sequencing for assessment of clonal heterogeneity and evolution in acute myeloid leukemia",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -13497,426 +13527,6 @@
           "publishedOn": "2025-11-29T11:00:00.000Z",
           "wordCount": 1228,
           "title": "Postchemotherapy phenotypes of GCNIS-derived testicular germ cell tumors, focusing on yolk sac tumor variants, trophoblastic tumors, and somatic-type malignancies",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260108202425&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260107202426&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260106202342&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260105202341&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260104204055&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260103204047&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260102201911&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260101202349&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251231204056&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251230202316&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251229202208&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251228202757&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251227203944&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251226201950&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251225202145&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251224202139&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251223202041&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251222202143&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251221202507&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251220202647&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251219201733&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251218202146&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251217201814&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251216201733&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251215202220&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251214202355&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251213202701&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251212201700&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2252,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251211202139&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 2248,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251210202146&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1851,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251209202051&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1851,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251208201908&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1851,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251207201951&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1851,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251206202639&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1851,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251205201526&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1851,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251204201937&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1851,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251203201900&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1851,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251202201906&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1851,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251201201847&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1851,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251130204119&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1851,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251129202617&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1802,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41310231",
-          "author": "Sukanya Panja",
-          "description": "DNA damage is preferentially repaired in expressed genes; thus, genome-wide correlations between somatic mutation patterns and normal cell transcription may reflect tumor cell origins. Accordingly, we found that aggregate lung adenocarcinoma (LUAD) and squamous cancer (LUSC) somatic mutation density associated most strongly with distal (alveolar) and proximal (basal) lung cell-type-specific gene expression, respectively, consistent with presumed LUAD and LUSC cell origins. Analyzing individual...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41310231/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20251128201548&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-11-27T11:00:00.000Z",
-          "wordCount": 1802,
-          "title": "Passenger mutations link cellular origin and transcriptional identity in human lung adenocarcinomas",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
