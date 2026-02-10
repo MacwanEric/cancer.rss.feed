@@ -210,8 +210,58 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&ff=20260208205714&utm_campaign=pubmed-2&v=2.18.0.post22+67771e2&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&utm_campaign=pubmed-2&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:41660461",
+          "author": "Jinlin Wu",
+          "description": "This review summarizes advances in thoracic aortic disease research published in 2025, with literature retrieved from 2,829 articles via PubMed searches, focusing on risk prediction, pathogenesis, and treatment strategies. In risk prediction, key advances include: biomechanical validation of ascending aortic length (AAL) as a stable morphological predictor; the relationship between clonal hematopoiesis and thoracic aortic aneurysm (TAA) linked to Janus kinase 2 (JAK2) (V617F) mutation variant...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41660461/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-09T11:00:00.000Z",
+          "wordCount": 1514,
+          "title": "2025 report on advances in thoracic aortic disease research",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41659449",
+          "author": "Ren-Yi Wang",
+          "description": "Clonal hematopoiesis (CH) arises when hematopoietic stem cells (HSCs) gain a fitness advantage from somatic mutations and expand, resulting in an increase in variant allele frequency (VAF) over time. To analyze CH trajectories, we develop a state-dependent stochastic model of wild-type and mutant HSCs, in which an environmental parameter α in [0,1] regulates death rates and interpolates between homeostatic (Moran-like, α = 1) and growth-facilitating (α < 1) regimes. Using functional law of large...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41659449/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-09T11:00:00.000Z",
+          "wordCount": 1196,
+          "title": "BESTish: A Diffusion-Approximation Framework for Inferring Selection and Mutation in Clonal Hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41657216",
+          "author": "Lili Zhang",
+          "description": "There is an emerging convergence between atherosclerotic cardiovascular disease and cancer, driven by shared risk factors and overlapping pathophysiologic mechanisms. Traditional factors, such as smoking, aging, obesity, hypertension, and diabetes, alongside novel markers, such as clonal hematopoiesis of indeterminate potential, not only predispose individuals to both malignancies and coronary atherosclerosis but also amplify the risk of cardiotoxicity from cancer therapies. Inflammatory...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41657216/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-09T11:00:00.000Z",
+          "wordCount": 1256,
+          "title": "Coronary Atherosclerosis in Patients With Cancer and Survivors: A Scientific Statement From the American Heart Association",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41655693",
+          "author": "Tomasz Obrebski",
+          "description": "TET2 is an epigenetic modifier whose canonical activity leads to the removal of cytosine methylation in the genome, which in essence results in the activation of gene expression. This function is particularly well described in the context of hematopoiesis and its alterations that lead to leukemia. However, in recent years, it has become evident that the non-canonical functions of TET2 also play a vital role in its activity. Rather than depending on its catalytic activity, these functions arise...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41655693/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-08T11:00:00.000Z",
+          "wordCount": 1366,
+          "title": "TET2 in epigenetic control of immune cells: implications for inflammatory responses and age-related pathologies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41654254",
+          "author": "Rachel Kirchner",
+          "description": "Acquired TERT promoter (TERTp) variants are found in the blood of patients with telomere biology disorders (TBDs) and carry diagnostic and prognostic significance. Detection of these variants is challenging due to low variant allele frequencies (VAFs) and high GC content. We tested the sensitivity of long-read amplicon sequencing with deepSNV analysis, referred to as LR-deep AmpSeq, for TERTp variant detection. Among 47 patients with TBD features, we achieved an average depth of coverage of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41654254/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-07T11:00:00.000Z",
+          "wordCount": 1256,
+          "title": "Long-Read Amplicon Sequencing for the Detection of TERT Promoter Variant Clonal Hematopoiesis in Patients with Telomere Biology Disorders",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:41654254",
           "author": "Rachel Kirchner",
@@ -220,6 +270,46 @@
           "publishedOn": "2026-02-07T11:00:00.000Z",
           "wordCount": 1256,
           "title": "Long-Read Amplicon Sequencing for the Detection of TERT Promoter Variant Clonal Hematopoiesis in Patients with Telomere Biology Disorders",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41650719",
+          "author": "Ioannis Chanias",
+          "description": "Clonal hematopoiesis (CH) is increasingly recognized not only as a predisposing factor for overt hematologic malignancies but also as a contributor to cardiovascular, metabolic, and other age-associated degenerative and inflammatory disorders. These associations likely arise from complex heterotypic interactions between clonally affected and non-clonal immune cells, leading to systemic immune dysregulation and chronic inflammation that affects multiple organ systems, most prominently the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41650719/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-06T11:00:00.000Z",
+          "wordCount": 1412,
+          "title": "Clonal hematopoiesis and age-associated degenerative disorders",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41649873",
+          "author": "Aslı D Munzur",
+          "description": "CONCLUSION: 177Lu-PSMA-617 strongly promotes CH, supporting integration of longitudinal monitoring for long-term hematologic sequelae as radioligand therapy is implemented earlier in prostate cancer care.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41649873/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-06T11:00:00.000Z",
+          "wordCount": 1594,
+          "title": "Clonal hematopoiesis after 177Lu-PSMA-617 radioligand therapy in prostate cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41648522",
+          "author": "Trieu Nguyen",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is a precursor condition characterized by the expansion of blood cell clones harboring somatic mutations originating in hematopoietic stem cells (HSCs). Since individuals with CHIP face a high risk of developing myeloid malignancies, targeting CHIP clones could provide a viable strategy for leukemia prevention. Despite its clinical significance, the mechanisms underlying CHIP predisposition and progression remain poorly understood. Recent...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41648522/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-06T11:00:00.000Z",
+          "wordCount": 1279,
+          "title": "Systematic functional dissection of germline noncoding risk variants impacting clonal hematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41648254",
+          "author": "Pablo Sánchez Vela",
+          "description": "TET2 is a commonly mutated gene in hematologic malignancies, including as an initiating event in clonal hematopoiesis (CH). Its mutation alters hematopoietic self-renewal, differentiation, and systemic inflammation responses. TP53 mutations co-occur with TET2 mutations and are also observed in patients with high-risk clonal hematopoiesis and hematologic malignancies. Using a murine model, we found that HSPCs with both mutations initially promoted a myeloproliferative phenotype. Over time these...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41648254/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-06T11:00:00.000Z",
+          "wordCount": 1220,
+          "title": "<em>TET2</em> and <em>TP53</em> Mutations Cooperatively Modulate the Response to Inflammation to Promote Leukemic Transformation",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -336,6 +426,26 @@
           "id": "pubmed:41641651",
           "author": "Robert J Vanner",
           "description": "Clonal hematopoiesis (CH) has emerged as a critical mediator of age-associated diseases, with far-reaching implications for hematologic malignancies, cardiovascular diseases, cancer therapy, autoimmune disorders, and other health conditions. This review synthesizes the current evidence supporting the integration of CH testing and monitoring into clinical practice, with a focus on translating scientific discoveries into actionable diagnostic and therapeutic strategies. We present a systematic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41641651/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-05T11:00:00.000Z",
+          "wordCount": 1159,
+          "title": "Clinical decisions in clonal hematopoiesis: a contemporary review for clinicians",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41641638",
+          "author": "Scott J Beeler",
+          "description": "Clonal hematopoiesis (CH) is defined by the clonal expansion of hematopoietic stem and progenitor cells harboring somatic mutations that confer a fitness advantage. CH is common with advancing age and becomes nearly ubiquitous in middle age. Although typically asymptomatic, CH is associated with an increased risk of hematologic malignancies particularly myeloid neoplasms (MN), diverse non-malignant conditions, and all-cause mortality. Over the past decade, research has provided major insights...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41641638/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-05T11:00:00.000Z",
+          "wordCount": 1216,
+          "title": "Clonal hematopoiesis and its progression to myeloid neoplasms: insights into risk, biology, and therapeutic strategies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41641651",
+          "author": "Robert J Vanner",
+          "description": "Clonal hematopoiesis (CH) has emerged as a critical mediator of age-associated diseases, with far-reaching implications for hematologic malignancies, cardiovascular diseases, cancer therapy, autoimmune disorders, and other health conditions. This review synthesizes the current evidence supporting the integration of CH testing and monitoring into clinical practice, with a focus on translating scientific discoveries into actionable diagnostic and therapeutic strategies. We present a systematic...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/41641651/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260208205714&v=2.18.0.post22+67771e2",
           "publishedOn": "2026-02-05T11:00:00.000Z",
           "wordCount": 1159,
@@ -410,6 +520,26 @@
           "publishedOn": "2026-02-05T11:00:00.000Z",
           "wordCount": 1173,
           "title": "Clonal hematopoiesis and its progression to myeloid neoplasms: insights into risk, biology, and therapeutic strategies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41634435",
+          "author": "Klaus Geissler",
+          "description": "Oral decitabine/cedazuridine has been studied in chronic myelomonocytic leukemia (CMML) recently but the molecular changes during this treatment have not been reported so far. We report a CMML patient who was treated with oral decitabine/cedazuridine and showed a stepwise loss of KRAS mutation and trisomy 8 while the TET2 mutated clone gradually increased eventually resulting in clonal hematopoiesis. This case report highlights the disease modifying potential of this treatment in single CMML...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41634435/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-03T11:00:00.000Z",
+          "wordCount": 1343,
+          "title": "Molecular devolution in chronic myelomonocytic leukemia during treatment with decitabine/cedazuridine: A case report",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41631564",
+          "author": "Nooshin C Beygui",
+          "description": "INTRODUCTION: Myelofibrosis (MF) is a BCR-ABL1-negative myeloproliferative neoplasm (MPN) driven by recurrent acquired somatic mutations in hematopoietic stem cells and characterized by progressive bone marrow fibrosis, cytopenias, and extramedullary hematopoiesis. Janus kinase inhibitors (JAKi) improve splenomegaly and MF symptom burden but without achieving molecular remission or clear disease course modification. Novel therapies targeting epigenetic dysregulation through bromodomain and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41631564/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-03T11:00:00.000Z",
+          "wordCount": 1278,
+          "title": "Progress of investigational bromodomain and extra-terminal domain inhibitors for myelofibrosis therapy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -516,6 +646,16 @@
           "id": "pubmed:41614062",
           "author": "Alice Valagussa",
           "description": "Poikiloderma with neutropenia is a genetic disorder characterized by skin abnormalities, nail dystrophy, bone anomalies, and neutropenia. USB1 encodes a phosphodiesterase essential for processing spliceosomal U6 RNA and some microRNAs, regulating their stability. This study describes a heterozygous de novo USB1 variant (p.P44L) identified in a patient with recurrent infections, hypogammaglobulinemia, and low neutrophil counts. Unlike previously reported mutations, p.P44L affects a conserved...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41614062/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-30T11:00:00.000Z",
+          "wordCount": 3740,
+          "title": "A heterozygous USB1 variant linked to immunodeficiency",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41614062",
+          "author": "Alice Valagussa",
+          "description": "Poikiloderma with neutropenia is a genetic disorder characterized by skin abnormalities, nail dystrophy, bone anomalies, and neutropenia. USB1 encodes a phosphodiesterase essential for processing spliceosomal U6 RNA and some microRNAs, regulating their stability. This study describes a heterozygous de novo USB1 variant (p.P44L) identified in a patient with recurrent infections, hypogammaglobulinemia, and low neutrophil counts. Unlike previously reported mutations, p.P44L affects a conserved...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/41614062/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260208205714&v=2.18.0.post22+67771e2",
           "publishedOn": "2026-01-30T11:00:00.000Z",
           "wordCount": 3740,
@@ -610,6 +750,16 @@
           "publishedOn": "2026-01-30T11:00:00.000Z",
           "wordCount": 3704,
           "title": "A heterozygous USB1 variant linked to immunodeficiency",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41611911",
+          "author": "Hani Moslem Ahmed",
+          "description": "Neoadjuvant therapy is a cornerstone of modern oncology, yet its efficacy is traditionally assessed only after treatment completion, creating a \"black box\" period where patients may receive ineffective, toxic therapies. This review explores the transformative potential of circulating tumor DNA (ctDNA) as a dynamic biomarker to overcome this limitation. The short half-life of ctDNA allows for real-time, non-invasive monitoring of tumor burden through serial liquid biopsies. A substantial body of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41611911/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260209210709&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-29T11:00:00.000Z",
+          "wordCount": 1752,
+          "title": "Circulating tumor DNA dynamics predict pathological response and guide therapy personalization in the neoadjuvant setting",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7401,314 +7551,34 @@
           "wordCount": 1268,
           "title": "Current treatments, practical management, and emerging investigational therapies for myelofibrosis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251226201950&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1250,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251226201950&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1229,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251225202145&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1250,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251225202145&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1229,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251224202139&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1250,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251224202139&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1229,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251223202041&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1250,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251223202041&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1229,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251222202142&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1250,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251222202142&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1229,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251221202507&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1250,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251221202507&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1229,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251220202647&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1250,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251220202647&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1229,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251219201734&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1250,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251219201734&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1229,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251218202146&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1250,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251218202146&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1229,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251217201814&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1250,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251217201814&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1229,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251216201733&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1250,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251216201733&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1229,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251215202220&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1250,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251215202220&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1229,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251214202355&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1250,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251214202355&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1229,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251213202701&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1233,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251213202701&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1176,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41384609",
-          "author": "Pasqualina Scala",
-          "description": "The bone marrow niche is a specialized microenvironment sustaining a hematopoietic stem cell (HSC) pool and regulating the production of mature blood cells. Its exact composition and mechanisms remain incompletely defined, mainly due to the lack of in vitro models that accurately reproduce its physiological three-dimensional (3D) architecture and cellular crosstalk. Two-dimensional cultures fail to sustain HSC quiescence and stemness, while advanced 3D systems can reproduce key structural and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41384609/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251212201700&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1233,
-          "title": "3D <em>In Vitro</em> Models of the Bone Marrow Niche",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41383784",
-          "author": "Fanny J Zhou",
-          "description": "Aging is the primary risk factor for clonal hematopoiesis and the development of hematologic malignancies ( 1-5 ), yet the selective pressures that shape stem cell behavior and clonal expansion during aging remain poorly defined. Here, we identify proteostasis stress as a central driver of hematopoietic stem cell (HSC) aging and clonal evolution. We show that Heat shock factor 1 (Hsf1) is activated in aging HSCs to preserve proteostasis and sustain self-renewal. However, this physiological,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41383784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20251212201700&v=2.18.0.post22+67771e2",
-          "publishedOn": "2025-12-12T11:00:00.000Z",
-          "wordCount": 1176,
-          "title": "Proteostasis Stress Drives Stem Cell Aging, Clonal Hematopoiesis and Leukemia",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20260208205714&utm_campaign=pubmed-2&fc=20220608010801&v=2.18.0.post22+67771e2&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&fc=20220608010801&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.18.0.post22+67771e2&utm_source=axios&utm_medium=rss&ff=20260209210710",
       "articles": [
+        {
+          "id": "pubmed:41661399",
+          "author": "Aurelie Choucair",
+          "description": "Pheochromocytomas and paragangliomas (PPGLs) are rare neuroendocrine tumors originating from neural crest-derived chromaffin tissue, marked by clinical heterogeneity and substantial genetic underpinnings. With up to 70% of cases linked to germline or somatic mutations, including Succinate DeHydrogenase genetic alterations (SDHx), and Von Hippel-Lindau (VHL), genetic profiling is central to diagnosis, risk stratification, and therapeutic planning. Clinical presentation varies by tumor location...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41661399/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-09T11:00:00.000Z",
+          "wordCount": 1988,
+          "title": "Precision imaging and evolving therapies in paragangliomas and pheochromocytomas: from molecular diagnostics to imaging-guided management",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41650719",
+          "author": "Ioannis Chanias",
+          "description": "Clonal hematopoiesis (CH) is increasingly recognized not only as a predisposing factor for overt hematologic malignancies but also as a contributor to cardiovascular, metabolic, and other age-associated degenerative and inflammatory disorders. These associations likely arise from complex heterotypic interactions between clonally affected and non-clonal immune cells, leading to systemic immune dysregulation and chronic inflammation that affects multiple organ systems, most prominently the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41650719/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-02-06T11:00:00.000Z",
+          "wordCount": 1412,
+          "title": "Clonal hematopoiesis and age-associated degenerative disorders",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:41650719",
           "author": "Ioannis Chanias",
@@ -7727,6 +7597,16 @@
           "publishedOn": "2026-02-06T11:00:00.000Z",
           "wordCount": 1377,
           "title": "Clonal hematopoiesis and age-associated degenerative disorders",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41620460",
+          "author": "Andrew M Pregnall",
+          "description": "Pheochromocytoma (PCC) and paraganglioma (PGL) are neuroendocrine tumors derived from chromaffin cells of the adrenal medulla and ganglia of the autonomic nervous system. Approximately one-third are causatively associated with pathogenic germline variants. Metastatic disease develops in up to 25% of patients with PCC/PGL, for whom therapeutic options are limited, and no targeted treatments exist. Tumor evolution in metastatic PCC/PGL has not been well delineated. We performed whole-exome...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41620460/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-31T11:00:00.000Z",
+          "wordCount": 1633,
+          "title": "Metastatic progression of pheochromocytoma and paraganglioma occurs via parallel evolution",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -7807,6 +7687,36 @@
           "publishedOn": "2026-01-31T11:00:00.000Z",
           "wordCount": 1633,
           "title": "Metastatic progression of pheochromocytoma and paraganglioma occurs via parallel evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41597409",
+          "author": "Gejla Toromani",
+          "description": "Background and Objectives: Cervical adenocarcinoma (CAC) is a histologically distinct subtype of cervical cancer with a rising incidence in many regions. While the roles of key driver mutations are known, a comprehensive understanding of its genomic landscape, particularly variations across different populations and tumor stages, remains incomplete. This study aims to characterize the somatic genomic landscape of CAC by identifying recurrent mutations, copy number alterations (CNAs), and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41597409/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-28T11:00:00.000Z",
+          "wordCount": 2212,
+          "title": "Comprehensive Genomic Characterization of 102 Cervical Adenocarcinoma Tumors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41596599",
+          "author": "Sopozme Toghey",
+          "description": "Colorectal cancer (CRC) develops through evolutionary processes involving genomic alterations, epigenetic regulation, and microenvironmental interactions. While traditionally explained by the stepwise accumulation of driver mutations, contemporary evidence supports a 'Big Bang' model in which many early-arising clones expand simultaneously to establish extensive heterogeneity. We reviewed recent studies employing spatially resolved multi-omic sequencing of tumour glands combined with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41596599/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-28T11:00:00.000Z",
+          "wordCount": 2206,
+          "title": "Advances in Colorectal Cancer Cell Biology and Clonal Evolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41595475",
+          "author": "Alejandro Leyva",
+          "description": "CONCLUSIONS: Codon-aware neutral modeling provides a statistical framework for distinguishing mutations that deviate from stochastic expectations and may aid in the interpretation of variants of unspecified significance. By contextualizing mutational severity relative to neutral processes, this approach offers insight into tumor evolution and may support prognostic assessment without relying on predefined gene-level neutrality.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41595475/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-28T11:00:00.000Z",
+          "wordCount": 1996,
+          "title": "GenBlosum: On Determining Whether Cancer Mutations Are Functional or Random",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8167,6 +8077,36 @@
           "publishedOn": "2026-01-28T11:00:00.000Z",
           "wordCount": 1398,
           "title": "GenBlosum: On Determining Whether Cancer Mutations Are Functional or Random",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41571832",
+          "author": "Haochen Zhang",
+          "description": "Most evolutionary studies on pancreatic cancer rely on bulk sequencing, yet clonal evolution happens at the single-cell level. We used single-nucleus DNA sequencing to study 137,491 single nuclei from 24 pancreatic neoplasms reflecting various clinical scenarios. We found higher frequencies of somatic alterations to driver genes that bulk studies indicate; many manifest as copy number alterations and account for the majority of spatial heterogeneity. In pancreatic cancers with canonical KRAS...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41571832/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-22T11:00:00.000Z",
+          "wordCount": 2100,
+          "title": "Genomic evolution of pancreatic cancer at single-cell resolution",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41571190",
+          "author": "Ruirui Fan",
+          "description": "Renal transplant recipients are at significantly higher risk of developing malignancies due to chronic immunosuppression. While DNA polymerase epsilon (POLE)-mutated endometrioid carcinoma (EC) typically presents as early-stage disease with an excellent prognosis and rare metastasis, we conducted a study on POLE-mutated EC in a transplant recipient that rapidly progressed and metastasized. We aimed to first elucidate the molecular and immunological mechanisms of rapid and malignant progression...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41571190/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-22T11:00:00.000Z",
+          "wordCount": 1232,
+          "title": "Clonal Progression of a DNA Polymerase Epsilon-Mutant Endometrial Cancer With Immune Evasion Characteristics and Metastasis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41567982",
+          "author": "Shiyan Zeng",
+          "description": "Tumor neoantigens, a class of entirely novel antigens generated by somatic mutations, can be specifically recognized by T cells and serve as a central bridge connecting tumor genomic variation with anti-tumor immune responses. This review systematically elaborates on the dual role of neoantigens in the dynamic process of immunoediting: they act as targets for immune attack that are \"sculpted\" and as drivers of tumor evolution that are \"selected.\" It further explores their immense potential as...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41567982/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-22T11:00:00.000Z",
+          "wordCount": 1684,
+          "title": "Neoantigens in cancer immunoediting: from mechanisms to personalized vaccines in breast cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8687,6 +8627,26 @@
           "publishedOn": "2026-01-22T11:00:00.000Z",
           "wordCount": 1639,
           "title": "Neoantigens in cancer immunoediting: from mechanisms to personalized vaccines in breast cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41522204",
+          "author": "Lin Kang",
+          "description": "CONCLUSIONS AND IMPLICATIONS: Chimpanzee HCCs are defined by high mutational burden and frequent TSC2 alterations, contrasting with the more selectively constrained mutation spectrum of human HCC. Divergent evolutionary patterns highlight species-specific oncogenic routes while underscoring conserved pathways. Comparative primate cancer genomics offers novel insights into cancer evolution, biomarkers, and therapeutic targets.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41522204/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-12T11:00:00.000Z",
+          "wordCount": 1919,
+          "title": "Divergent evolution of hepatocellular carcinoma genomes in chimpanzees and humans",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41521784",
+          "author": "Qihang Chen",
+          "description": "The process of migration and colonization is important in evolution; for example, modern humans experienced multiple waves of migrations out of Africa. However, no data cover the spatio-temporal patterns sufficiently to be truly informative. Metastatic cancer provides a unique in vivo model to study these processes through rapid somatic evolution. Here, we apply the high-resolution sampling technique (Dense 3D Crypt-scale Sampling) to analyze hundreds of spatially mapped micro-samples from the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41521784/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-12T11:00:00.000Z",
+          "wordCount": 3499,
+          "title": "Full spatio-temporal analyses of migration and colonization in evolution-dense 3D mapping of cancer metastases provides new insights",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9247,6 +9207,26 @@
           "publishedOn": "2026-01-12T11:00:00.000Z",
           "wordCount": 1504,
           "title": "Full spatio-temporal analyses of migration and colonization in evolution - Dense 3D mapping of cancer metastases provides new insights",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41516405",
+          "author": "Marta Gil-Barrachina",
+          "description": "Melanocytic tumorigenesis is thought to occur through stepwise genomic evolution from normal skin to nevi and, ultimately, melanoma. To investigate this progression, we performed targeted deep sequencing of a 46-gene panel in matched healthy skin, nevus, and melanoma samples from 15 patients, including 14 complete tissue trios. Mutation burden increased progressively across tissues, with median mutation counts rising from benign skin to nevi and showing the highest levels in melanoma, consistent...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41516405/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-10T11:00:00.000Z",
+          "wordCount": 2102,
+          "title": "Genetic Evolution of Melanoma: Comparative Analysis of Candidate Gene Mutations in Healthy Skin, Nevi, and Tumors from the Same Patients",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41514647",
+          "author": "Alessandro Parra",
+          "description": "Background/Objectives: Targeted gene sequencing (TGS) for Comprehensive Genomic Profiling (CGP) use in sarcomas has recently increased in clinical practice. We report on TGS real-world data over a period of 3 years (2022-2025) at the IRCCS Istituto Ortopedico Rizzoli, with the aim of identifying potential actionable targets and providing therapeutic indications for advanced sarcoma patients. Methods: We analyzed 22 advanced sarcoma patients by using the VariantPlex Pan Solid Tumor kit panel,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41514647/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-10T11:00:00.000Z",
+          "wordCount": 2033,
+          "title": "Genomic Profiling of Highly Aggressive Musculoskeletal Sarcomas Identifies Potential Therapeutic Targets: A Single-Center Experience",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9847,6 +9827,26 @@
           "publishedOn": "2026-01-10T11:00:00.000Z",
           "wordCount": 1435,
           "title": "Genomic Profiling of Highly Aggressive Musculoskeletal Sarcomas Identifies Potential Therapeutic Targets: A Single-Center Experience",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41511464",
+          "author": "Xunuo Zhu",
+          "description": "Cancer development is driven by somatic evolution and clonal selection. However, traditional selective pressure analysis methods have treated all sites within a gene equally, such a gene-level model oversimplifies the complexity of cancer evolution. In this study, we introduced CN/CS-calculator, a novel site-specific method that can capture selective pressures acting across different gene sites. By deciphering the interplay between the selection pattern and the function of a gene in oncogenesis,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41511464/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-09T11:00:00.000Z",
+          "wordCount": 2925,
+          "title": "Identification of cancer mini-drivers by deciphering selective landscape in the cancer genome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:41509216",
+          "author": "Christopher Wirth",
+          "description": "Elucidating the evolution of cancers allows us to understand their key events, and the order in which they occur. To chart and interpret these evolutionary trajectories, we leverage whole-genome sequencing of lung tumours, including those from the largest cohort to date of lung cancers in subjects who have never smoked. Through ordering frequent genomic alterations, we discover three distinct evolutionary paths taken by lung adenocarcinomas; two dominated by tumours from people who have never...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/41509216/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260209210710&v=2.18.0.post22+67771e2",
+          "publishedOn": "2026-01-09T11:00:00.000Z",
+          "wordCount": 4490,
+          "title": "Revealing the Drivers Underlying Distinct Evolutionary Trajectories in Lung Adenocarcinoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
