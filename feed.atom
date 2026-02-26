@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2026-02-25T01:54:19.896Z</updated>
+    <updated>2026-02-26T01:50:17.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
@@ -114,6 +114,16 @@
         <summary type="html"><![CDATA[Somatic mutations in mitochondrial DNA (mtDNA) provide natural barcodes that enable engineering-free lineage tracing in human tissues, but the complex dynamics of mtDNA inheritance across cell divisions and incomplete sampling of mtDNA introduce uncertainty in reconstructed lineages. Here, we present MitoDrift, a probabilistic framework that integrates Wright-Fisher drift dynamics with sparse single-cell measurements to produce confidence-refined lineage trees enriched for accurate clonal...]]></summary>
         <author>
             <name>Teng Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human and viral whole genome sequencing identify HPV and APOBEC as oncogenic drivers in sinonasal squamous cell carcinoma]]></title>
+        <id>pubmed:41728314</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41728314/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-02-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sinonasal squamous cell carcinoma (SNSCC) is an aggressive head and neck cancer of the sinonasal cavity which has not benefitted from therapeutic advances over decades ¹ . Though historically attributed to inhaled carcinogens such as hardwood dust and tobacco smoking ² , SNSCC is incidentally associated with human papillomavirus (HPV) ^(3,4) . Importantly, HPV is the primary oncogenic driver of >80% of anatomically adjacent oropharyngeal cancers ⁵ . While viral status drives clinical staging and...]]></summary>
+        <author>
+            <name>Harrison B Chong</name>
         </author>
     </entry>
     <entry>
@@ -384,6 +394,16 @@
         <summary type="html"><![CDATA[CONCLUSIONS: CHIP was associated with elevated risk of psychiatric disorders, specifically major depressive disorders and substance use disorders, with gene-specific associations observed with changes in brain WM tracts. These findings revealed a potential biological association between CHIP and psychiatric disorders, offering new insights into disease mechanisms and possible therapeutic targets.]]></summary>
         <author>
             <name>Yuefeng Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gene duplication is associated with gene diversification and potential neofunctionalization in lung cancer evolution]]></title>
+        <id>pubmed:41714147</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41714147/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-02-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tumors evolve through a process of selection on somatic mutations, driving cell division and tissue growth through aberrations in cell-cycle control. In non-small-cell lung cancer (NSCLC), genome instability occurs early in tumor growth, resulting in pronounced intratumor heterogeneity, including changes in gene copy number, and whole-genome doubling (WGD) in ∼75% of tumors. Gene duplication, genetic drift, and selection mediate functional diversification during evolution. In this study, we seek...]]></summary>
+        <author>
+            <name>Paul Ashford</name>
         </author>
     </entry>
     <entry>
@@ -859,6 +879,16 @@
     <entry>
         <title type="html"><![CDATA[Modeling the evolutionary dynamics of clonal hematopoiesis]]></title>
         <id>pubmed:41699138</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41699138/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-02-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) results from the acquisition and expansion of somatic mutations in hematopoietic stem and progenitor cells and is associated with age-related clinical sequelae, including an increased risk for cardiovascular disease, myeloid neoplasms and complications related to cancer therapy. Chemotherapy and radiation can accelerate CH expansion and further elevate the risk of adverse events, including cardiotoxicity and therapy-related myeloid neoplasms. Although CH is increasingly...]]></summary>
+        <author>
+            <name>Sadegh Marzban</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeling the evolutionary dynamics of clonal hematopoiesis]]></title>
+        <id>pubmed:41699138</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41699138/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260224205417&amp;v=2.18.0.post22+67771e2"/>
         <updated>2026-02-16T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) results from the acquisition and expansion of somatic mutations in hematopoietic stem and progenitor cells and is associated with age-related clinical sequelae, including an increased risk for cardiovascular disease, myeloid neoplasms and complications related to cancer therapy. Chemotherapy and radiation can accelerate CH expansion and further elevate the risk of adverse events, including cardiotoxicity and therapy-related myeloid neoplasms. Although CH is increasingly...]]></summary>
@@ -934,6 +964,16 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) results from the acquisition and expansion of somatic mutations in hematopoietic stem and progenitor cells and is associated with age-related clinical sequelae, including an increased risk for cardiovascular disease, myeloid neoplasms and complications related to cancer therapy. Chemotherapy and radiation can accelerate CH expansion and further elevate the risk of adverse events, including cardiotoxicity and therapy-related myeloid neoplasms. Although CH is increasingly...]]></summary>
         <author>
             <name>Sadegh Marzban</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transcription-Coupled Repair Promotes the Retention of Mutations in Coding Regions During Replication Stress]]></title>
+        <id>pubmed:41683584</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41683584/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-02-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Replication stress (RS) is a primary driver of genomic instability in cancer, yet the contribution of transcription-coupled repair (TC-NER) to this process remains unclear. Here, we investigate how the TC-NER factor ERCC6 (CSB) shapes mutational landscapes under RS. We found that ERCC6 deficiency biases early damage signaling toward a 53BP1-mediated response, ultimately leading to senescence. Conversely, ERCC6-proficient cells prioritize survival and proliferative recovery but at the expense of...]]></summary>
+        <author>
+            <name>Evelyn Zambrano</name>
         </author>
     </entry>
     <entry>
@@ -1254,6 +1294,16 @@
         <summary type="html"><![CDATA[Lung cancer in never smokers (LCINS) is a growing global health challenge. Unlike smoking-related lung cancer, LCINS is characterized by distinct epidemiological patterns and unique molecular pathogenesis and, consequently, requires different clinical management approaches. Unfortunately, for patients with lung cancer who have never smoked, symptoms are nonspecific and often dismissed due to these patients not fitting a high-risk profile (e.g., smoker), underscoring the need for improved...]]></summary>
         <author>
             <name>Deborah R Caswell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differential effects on tumor progression by APOBEC3A, APOBEC3B, and APOBEC3H Haplotype I in a breast cancer mouse xenograft model]]></title>
+        <id>pubmed:41675410</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41675410/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-02-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[INTRODUCTION: The APOBEC3 family of cytidine deaminases induces somatic mutations that are highly prevalent in cancers, but the functional consequences remain largely unknown.]]></summary>
+        <author>
+            <name>Milaid Granadillo Rodríguez</name>
         </author>
     </entry>
     <entry>
@@ -2449,6 +2499,16 @@
     <entry>
         <title type="html"><![CDATA[Precision imaging and evolving therapies in paragangliomas and pheochromocytomas: from molecular diagnostics to imaging-guided management]]></title>
         <id>pubmed:41661399</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41661399/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-02-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pheochromocytomas and paragangliomas (PPGLs) are rare neuroendocrine tumors originating from neural crest-derived chromaffin tissue, marked by clinical heterogeneity and substantial genetic underpinnings. With up to 70% of cases linked to germline or somatic mutations, including Succinate DeHydrogenase genetic alterations (SDHx), and Von Hippel-Lindau (VHL), genetic profiling is central to diagnosis, risk stratification, and therapeutic planning. Clinical presentation varies by tumor location...]]></summary>
+        <author>
+            <name>Aurelie Choucair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precision imaging and evolving therapies in paragangliomas and pheochromocytomas: from molecular diagnostics to imaging-guided management]]></title>
+        <id>pubmed:41661399</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41661399/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260224205417&amp;v=2.18.0.post22+67771e2"/>
         <updated>2026-02-09T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Pheochromocytomas and paragangliomas (PPGLs) are rare neuroendocrine tumors originating from neural crest-derived chromaffin tissue, marked by clinical heterogeneity and substantial genetic underpinnings. With up to 70% of cases linked to germline or somatic mutations, including Succinate DeHydrogenase genetic alterations (SDHx), and Von Hippel-Lindau (VHL), genetic profiling is central to diagnosis, risk stratification, and therapeutic planning. Clinical presentation varies by tumor location...]]></summary>
@@ -3019,6 +3079,16 @@
     <entry>
         <title type="html"><![CDATA[Clonal hematopoiesis and age-associated degenerative disorders]]></title>
         <id>pubmed:41650719</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41650719/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-02-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is increasingly recognized not only as a predisposing factor for overt hematologic malignancies but also as a contributor to cardiovascular, metabolic, and other age-associated degenerative and inflammatory disorders. These associations likely arise from complex heterotypic interactions between clonally affected and non-clonal immune cells, leading to systemic immune dysregulation and chronic inflammation that affects multiple organ systems, most prominently the...]]></summary>
+        <author>
+            <name>Ioannis Chanias</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis and age-associated degenerative disorders]]></title>
+        <id>pubmed:41650719</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41650719/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260224205417&amp;v=2.18.0.post22+67771e2"/>
         <updated>2026-02-06T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is increasingly recognized not only as a predisposing factor for overt hematologic malignancies but also as a contributor to cardiovascular, metabolic, and other age-associated degenerative and inflammatory disorders. These associations likely arise from complex heterotypic interactions between clonally affected and non-clonal immune cells, leading to systemic immune dysregulation and chronic inflammation that affects multiple organ systems, most prominently the...]]></summary>
@@ -3424,6 +3494,16 @@
         <summary type="html"><![CDATA[INTRODUCTION: Myelofibrosis (MF) is a BCR-ABL1-negative myeloproliferative neoplasm (MPN) driven by recurrent acquired somatic mutations in hematopoietic stem cells and characterized by progressive bone marrow fibrosis, cytopenias, and extramedullary hematopoiesis. Janus kinase inhibitors (JAKi) improve splenomegaly and MF symptom burden but without achieving molecular remission or clear disease course modification. Novel therapies targeting epigenetic dysregulation through bromodomain and...]]></summary>
         <author>
             <name>Nooshin C Beygui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metastatic progression of pheochromocytoma and paraganglioma occurs via parallel evolution]]></title>
+        <id>pubmed:41620460</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41620460/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-01-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pheochromocytoma (PCC) and paraganglioma (PGL) are neuroendocrine tumors derived from chromaffin cells of the adrenal medulla and ganglia of the autonomic nervous system. Approximately one-third are causatively associated with pathogenic germline variants. Metastatic disease develops in up to 25% of patients with PCC/PGL, for whom therapeutic options are limited, and no targeted treatments exist. Tumor evolution in metastatic PCC/PGL has not been well delineated. We performed whole-exome...]]></summary>
+        <author>
+            <name>Andrew M Pregnall</name>
         </author>
     </entry>
     <entry>
@@ -4444,6 +4524,36 @@
         <summary type="html"><![CDATA[Myelodysplastic syndromes/neoplasms (MDS) are clonal hematopoietic disorders characterized by ineffective hematopoiesis, cytopenias, and a variable risk of progression to secondary acute myeloid leukemia (sAML). Despite major advances in the molecular and clinical characterization of MDS, mechanistic and translational research remains constrained by the limited availability of well-validated in vitro models. Many historically used cell lines are difficult to maintain, exhibit restricted...]]></summary>
         <author>
             <name>Karolina Maślińska-Gromadka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comprehensive Genomic Characterization of 102 Cervical Adenocarcinoma Tumors]]></title>
+        <id>pubmed:41597409</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41597409/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-01-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Background and Objectives: Cervical adenocarcinoma (CAC) is a histologically distinct subtype of cervical cancer with a rising incidence in many regions. While the roles of key driver mutations are known, a comprehensive understanding of its genomic landscape, particularly variations across different populations and tumor stages, remains incomplete. This study aims to characterize the somatic genomic landscape of CAC by identifying recurrent mutations, copy number alterations (CNAs), and...]]></summary>
+        <author>
+            <name>Gejla Toromani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advances in Colorectal Cancer Cell Biology and Clonal Evolution]]></title>
+        <id>pubmed:41596599</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41596599/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-01-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Colorectal cancer (CRC) develops through evolutionary processes involving genomic alterations, epigenetic regulation, and microenvironmental interactions. While traditionally explained by the stepwise accumulation of driver mutations, contemporary evidence supports a 'Big Bang' model in which many early-arising clones expand simultaneously to establish extensive heterogeneity. We reviewed recent studies employing spatially resolved multi-omic sequencing of tumour glands combined with...]]></summary>
+        <author>
+            <name>Sopozme Toghey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GenBlosum: On Determining Whether Cancer Mutations Are Functional or Random]]></title>
+        <id>pubmed:41595475</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41595475/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-01-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Codon-aware neutral modeling provides a statistical framework for distinguishing mutations that deviate from stochastic expectations and may aid in the interpretation of variants of unspecified significance. By contextualizing mutational severity relative to neutral processes, this approach offers insight into tumor evolution and may support prognostic assessment without relying on predefined gene-level neutrality.]]></summary>
+        <author>
+            <name>Alejandro Leyva</name>
         </author>
     </entry>
     <entry>
@@ -5994,6 +6104,36 @@
         <summary type="html"><![CDATA[Clonal haematopoiesis of indeterminate potential (CHIP) is associated with many diseases of ageing. Large research initiatives are needed to develop clinical guidelines for the management of individuals with CHIP, and their risk of disease. However, little guidance is available for the classification of variants as CHIP-associated, or how to identify individuals consistently and systematically as having CHIP. This study aimed to develop and execute a resource-mindful framework for identifying...]]></summary>
         <author>
             <name>Philip Harraka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomic evolution of pancreatic cancer at single-cell resolution]]></title>
+        <id>pubmed:41571832</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41571832/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-01-22T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most evolutionary studies on pancreatic cancer rely on bulk sequencing, yet clonal evolution happens at the single-cell level. We used single-nucleus DNA sequencing to study 137,491 single nuclei from 24 pancreatic neoplasms reflecting various clinical scenarios. We found higher frequencies of somatic alterations to driver genes that bulk studies indicate; many manifest as copy number alterations and account for the majority of spatial heterogeneity. In pancreatic cancers with canonical KRAS...]]></summary>
+        <author>
+            <name>Haochen Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Progression of a DNA Polymerase Epsilon-Mutant Endometrial Cancer With Immune Evasion Characteristics and Metastasis]]></title>
+        <id>pubmed:41571190</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41571190/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-01-22T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Renal transplant recipients are at significantly higher risk of developing malignancies because of chronic immunosuppression. Although DNA polymerase epsilon (POLE)-mutated endometrioid carcinoma (EC) typically presents as early-stage disease with an excellent prognosis and rare metastasis, we conducted a study on POLE-mutated EC in a transplant recipient that rapidly progressed and metastasized. We aimed to first elucidate the molecular and immunological mechanisms of rapid and malignant...]]></summary>
+        <author>
+            <name>Ruirui Fan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neoantigens in cancer immunoediting: from mechanisms to personalized vaccines in breast cancer]]></title>
+        <id>pubmed:41567982</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41567982/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-01-22T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tumor neoantigens, a class of entirely novel antigens generated by somatic mutations, can be specifically recognized by T cells and serve as a central bridge connecting tumor genomic variation with anti-tumor immune responses. This review systematically elaborates on the dual role of neoantigens in the dynamic process of immunoediting: they act as targets for immune attack that are "sculpted" and as drivers of tumor evolution that are "selected." It further explores their immense potential as...]]></summary>
+        <author>
+            <name>Shiyan Zeng</name>
         </author>
     </entry>
     <entry>
@@ -8604,6 +8744,16 @@
         <summary type="html"><![CDATA[Chronic lymphocytic leukemia (CLL) and clonal hematopoiesis (CH) both commonly occur in elderly individuals. To characterize CH in CLL, 620 patients from two German CLL Study Group trials were analyzed (CLL12 (ibrutinib vs. placebo) and CLL14 (venetoclax-obinutuzumab [Ven-Obi] vs. chlorambucil-obinutuzumab [Clb-Obi])) using error-corrected next-generation sequencing with a VAF threshold of 0.5%. Median follow-up was 76.1 months, median age 68 years. CH was detected in 58.2%, most commonly...]]></summary>
         <author>
             <name>Othman Al-Sawaf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emergence and Tandem Repeat-Mediated Elongation of a Translated De Novo Open Reading Frame in Human Oncogenic RNA Gene VPS9D1-AS1 (MYU)]]></title>
+        <id>pubmed:41527363</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41527363/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260225205016&amp;v=2.18.0.post22+67771e2"/>
+        <updated>2026-01-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New protein-coding genes can arise de novo from ancestrally noncoding regions when open reading frames (ORFs) outside existing genes are exposed to selection via pervasive translation. These ORFs are usually born short, and their elongation is considered a key step in de novo gene birth. However, mechanisms of de novo gene elongation remain understudied. Here, we reconstructed the evolutionary history of c16riboseqorf143 (orf143), one of the longest unannotated human translated ORFs. orf143 is...]]></summary>
+        <author>
+            <name>Lin Chou</name>
         </author>
     </entry>
     <entry>
