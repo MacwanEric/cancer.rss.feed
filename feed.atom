@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2026-03-03T01:53:51.669Z</updated>
+    <updated>2026-03-04T01:48:32.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Proteomic patterns according to ejection fraction: an EMPEROR-programme analysis]]></title>
+        <id>pubmed:41771067</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41771067/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-03-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Within EMPEROR-Preserved, the top differentially expressed circulating proteins suggest that pathways related to natriuretic peptides, cell-adhesion, and clonal haematopoiesis are overexpressed at mildly-reduced ejection fraction, but none of the proteins passed the 5%FDR cut-off, and the correlation between circulating proteins and LVEF was weak. These findings suggest that circulating proteins may not be a good discriminant of ejection fraction.]]></summary>
+        <author>
+            <name>João Pedro Ferreira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis mutation is associated with risk of incident lung cancer and death]]></title>
+        <id>pubmed:41770508</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41770508/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-03-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) has emerged as a potential risk factor with leukemia and some solid tumors, but the association between CHIP and lung cancer risk or death remains to be elucidated. This study utilized a longitudinal cohort design derived from the UK Biobank, incorporating whole-exome sequencing to identify CH mutations. The analysis included a nested 1:5 case-control of 3750 incident lung cancer cases and 18,687 controls matched on age and year at blood draw, sex, race, and smoking...]]></summary>
+        <author>
+            <name>Ying Zhu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proteomic patterns according to ejection fraction: an EMPEROR-programme analysis]]></title>
         <id>pubmed:41771067</id>
@@ -24,6 +44,26 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) has emerged as a potential risk factor with leukemia and some solid tumors, but the association between CHIP and lung cancer risk or death remains to be elucidated. This study utilized a longitudinal cohort design derived from the UK Biobank, incorporating whole-exome sequencing to identify CH mutations. The analysis included a nested 1:5 case-control of 3750 incident lung cancer cases and 18,687 controls matched on age and year at blood draw, sex, race, and smoking...]]></summary>
         <author>
             <name>Ying Zhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harnessing genomics for early cancer detection, risk stratification and prevention]]></title>
+        <id>pubmed:41772265</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41772265/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-03-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Therapeutic advances have improved cancer outcomes, but early-stage detection remains the single most important determinant of favorable prognoses across many cancer types. Cancer genomics has yielded detailed maps of somatic mutation and methylation patterns characteristic of different cancers, enabling the development of assays to detect mutation-bearing tumor-derived DNA in tissue biopsies, blood and other body fluids at the earliest stages of disease. In parallel, it has also become clear...]]></summary>
+        <author>
+            <name>Muxin Gu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coexistence of Dual Chromosomal Abnormalities t(3;7) and t(9;22) in Case of B-Acute Lymphoblastic Leukemia: a Rare Genomic Profile with Diagnostic and Prognostic Challenges]]></title>
+        <id>pubmed:41764641</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41764641/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-03-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Acute lymphocytic leukemia (ALL) is a hematologic malignancy marked by clonal growth of lymphoid precursors within the bone marrow, resulting in disrupted hematopoiesis. Chromosomal abnormalities provide valuable information on the development of ALL and serve as a key indicator of patient outcomes and treatment strategies. Numerous genetic abnormalities can be seen in ALL. Here, we described a case of a 15-year-old patient with B-ALL confirmed through biopsy and immunophenotyping. Conventional...]]></summary>
+        <author>
+            <name>Pina J Trivedi</name>
         </author>
     </entry>
     <entry>
@@ -49,6 +89,16 @@
     <entry>
         <title type="html"><![CDATA[Generation of a homozygous TET2 knock-out hiPSC line for modeling of cardiovascular diseases associated with clonal hematopoiesis of indeterminate potential (CHIP)]]></title>
         <id>pubmed:41763035</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41763035/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Atherosclerotic cardiovascular diseases (CVD) have been linked to mutations related to clonal hematopoiesis of indeterminate potential (CHIP), with Tet methylcytosine dioxygenase 2 (TET2) being the second most often altered gene. (Jaiswal et al. 2017; Abplanalp et al. 2021) We produced a genome-edited human induced pluripotent stem cell (hiPSC) line with a homozygous knock-out (KO) of TET2, simulating loss-of-function mutations, and a control line. We evaluated the pluripotency status of these...]]></summary>
+        <author>
+            <name>Christos Triantafyllou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generation of a homozygous TET2 knock-out hiPSC line for modeling of cardiovascular diseases associated with clonal hematopoiesis of indeterminate potential (CHIP)]]></title>
+        <id>pubmed:41763035</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41763035/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260302205349&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-02-28T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Atherosclerotic cardiovascular diseases (CVD) have been linked to mutations related to clonal hematopoiesis of indeterminate potential (CHIP), with Tet methylcytosine dioxygenase 2 (TET2) being the second most often altered gene. (Jaiswal et al. 2017; Abplanalp et al. 2021) We produced a genome-edited human induced pluripotent stem cell (hiPSC) line with a homozygous knock-out (KO) of TET2, simulating loss-of-function mutations, and a control line. We evaluated the pluripotency status of these...]]></summary>
@@ -64,6 +114,56 @@
         <summary type="html"><![CDATA[Atherosclerotic cardiovascular diseases (CVD) have been linked to mutations related to clonal hematopoiesis of indeterminate potential (CHIP), with Tet methylcytosine dioxygenase 2 (TET2) being the second most often altered gene. (Jaiswal et al. 2017; Abplanalp et al. 2021) We produced a genome-edited human induced pluripotent stem cell (hiPSC) line with a homozygous knock-out (KO) of TET2, simulating loss-of-function mutations, and a control line. We evaluated the pluripotency status of these...]]></summary>
         <author>
             <name>Christos Triantafyllou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heart failure in the elderly: epidemiology, mechanisms, and management]]></title>
+        <id>pubmed:41760079</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41760079/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There is no consensus on an age cut-off for being considered elderly, but the majority of patients with heart failure (HF) have an advanced age. The lifetime risk for developing HF is ∼25%, with a sharp increase in incidence after the age of 70. The lifetime risk for men and women is almost equal, but women exhibit a higher propensity towards developing HF with preserved ejection fraction, whereas men are more prone to HF with reduced ejection fraction. During the biological ageing process,...]]></summary>
+        <author>
+            <name>Rudolf A de Boer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thrombo-inflammatory endothelial signatures in <em>JAK2</em> -mutated myeloproliferative neoplasms]]></title>
+        <id>pubmed:41756992</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41756992/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: ECFCs from patients with JAK2-mutated MPN display functional and transcriptomic signatures of endothelial dysfunction in the absence of detectable driver mutations. These findings support a model in which a primed, thrombo-inflammatory endothelium cooperates with clonal hematopoiesis to promote the heightened thrombotic risk characteristic of MPN.]]></summary>
+        <author>
+            <name>Salma A S Abosabie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reassessing Benign <em>ASXL1</em> Variants in Bohring-Opitz Syndrome: The Role of Population Databases in Variant Reinterpretation]]></title>
+        <id>pubmed:41751615</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41751615/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Background/Objectives: ASXL1 is a chromatin-associated gene implicated in both hematologic malignancies and neurodevelopmental disorders, including Bohring-Opitz syndrome (BOS). Although many ASXL1 variants are well classified, a substantial proportion remain variants of uncertain significance (VUS), complicating molecular diagnosis and genetic counseling. The objective of this study was to evaluate whether structural context can inform the interpretation of selected ASXL1 missense variants in a...]]></summary>
+        <author>
+            <name>Liliana Fernández-Hernández</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do DNA Repair Gene Mutations Cause Clonal Hematopoiesis?]]></title>
+        <id>pubmed:41749944</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41749944/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The maintenance of genome integrity by DNA damage response (DDR) mechanisms is indispensable to sustain life [...].]]></summary>
+        <author>
+            <name>Dik C van Gent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decoding Early-Onset Aging After Cancer: Hallmarks, Biomarkers, and Future Directions for Childhood and Young Adult Survivorship]]></title>
+        <id>pubmed:41749897</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41749897/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Survival rates for children, adolescents, and young adults (CAYA) with cancer have markedly improved over recent decades, resulting in a rapidly growing population of long-term survivors. However, many of these individuals experience late and long-term treatment-related effects that resemble conditions typically associated with advanced age, including cardiovascular disease, endocrine dysfunction, neurocognitive impairment, and secondary malignancies. This clinical constellation has led to the...]]></summary>
+        <author>
+            <name>Jasper David Feldkamp</name>
         </author>
     </entry>
     <entry>
@@ -259,6 +359,26 @@
     <entry>
         <title type="html"><![CDATA[Reprogramming tumor immunity through APOBEC3s-mediated mutagenesis: from genome instability to immune checkpoint interactions]]></title>
         <id>pubmed:41756300</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41756300/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The apolipoprotein B mRNA editing catalytic polypeptide-like (APOBEC) family was first defined as an innate antiviral defense system, but the APOBEC3 subfamily (APOBEC3s) is now recognized as a major endogenous source of somatic mutagenesis in cancer. APOBEC3s enzymes, particularly APOBEC3A and APOBEC3B, generate characteristic mutation patterns that promote genomic instability, clonal evolution, and adaptation to therapy. Beyond driving tumor evolution, APOBEC3 activity reshapes antitumor...]]></summary>
+        <author>
+            <name>Qiaoxi Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somatic Mutations in Nuclear and Mitochondrial Genes of Mitochondrial Proteins in Primary and Recurrent Glioblastoma]]></title>
+        <id>pubmed:41751913</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41751913/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The accumulation of somatic mutations contributes to clonal evolution and biological properties of cancers. Acquired mutations in mitochondrial (mt)DNA have been studied, but with the exception of those in isocitrate dehydrogenase genes, no comprehensive assessment of mutations in nuclear mitochondrial genes has been reported in sequential glioblastoma (GBM). We obtained ten pairs of GBM samples at diagnosis (GBM-P) and at recurrence (GBM-R). Extracted DNA was subjected to whole exome and mtDNA...]]></summary>
+        <author>
+            <name>Marton Tompa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reprogramming tumor immunity through APOBEC3s-mediated mutagenesis: from genome instability to immune checkpoint interactions]]></title>
+        <id>pubmed:41756300</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41756300/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260302205349&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-02-27T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[The apolipoprotein B mRNA editing catalytic polypeptide-like (APOBEC) family was first defined as an innate antiviral defense system, but the APOBEC3 subfamily (APOBEC3s) is now recognized as a major endogenous source of somatic mutagenesis in cancer. APOBEC3s enzymes, particularly APOBEC3A and APOBEC3B, generate characteristic mutation patterns that promote genomic instability, clonal evolution, and adaptation to therapy. Beyond driving tumor evolution, APOBEC3 activity reshapes antitumor...]]></summary>
@@ -334,6 +454,46 @@
         <summary type="html"><![CDATA[The accumulation of somatic mutations contributes to clonal evolution and biological properties of cancers. Acquired mutations in mitochondrial (mt)DNA have been studied, but with the exception of those in isocitrate dehydrogenase genes, no comprehensive assessment of mutations in nuclear mitochondrial genes has been reported in sequential glioblastoma (GBM). We obtained ten pairs of GBM samples at diagnosis (GBM-P) and at recurrence (GBM-R). Extracted DNA was subjected to whole exome and mtDNA...]]></summary>
         <author>
             <name>Marton Tompa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inflammatory Bowel Disease-induced Inflammation Augments Clonal Hematopoiesis of Indeterminate Potential through Ref-1]]></title>
+        <id>pubmed:41746260</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41746260/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) is characterized by age-related somatic mutations in hematopoietic stem and progenitor cells (HSC/Ps) and is correlated with an increased risk of myeloid malignancies, elevated inflammatory pathways in circulating myeloid cells, higher all-cause mortality, chronic kidney disease, and cardiovascular disease. The pathophysiology of inflammatory bowel disease (IBD) is intrinsically linked to heightened inflammation. Nevertheless, the presence...]]></summary>
+        <author>
+            <name>Ramesh Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interleukin-18 Inhibition Aggravates Atherosclerosis in Jak2(V617F) Clonal Hematopoiesis]]></title>
+        <id>pubmed:41746243</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41746243/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) driven by JAK2^(V617F) is known to accelerate atherosclerosis through inflammasome activation and release of interleukin (IL)-1β and -18; yet, the specific contribution of IL-18 has remained unclear. In this study, we demonstrate that antibody inhibition of IL-18 in JAK2^(V617F) CH mice increases plaque collagen but paradoxically promotes both early lesion growth and advanced necrotic core formation. Mechanistically, IL-18 blockade reverses absent in melanoma 2...]]></summary>
+        <author>
+            <name>Mojdeh Tavallaie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside the Battle Against Acute Myeloid Leukemia: Biology, Breakthroughs, and Hope]]></title>
+        <id>pubmed:41744781</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41744781/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Acute myeloid leukemia (AML) is a biologically heterogeneous and clinically aggressive hematologic malignancy defined by the clonal expansion of immature myeloid progenitors, resulting in progressive bone marrow (BM) failure, peripheral cytopenias, and fatal infectious or hemorrhagic sequelae. The adverse clinical outcomes associated with AML arise from the combined effects of disrupted physiological hematopoiesis, persistence of therapy-refractory leukemic stem cells (LSCs), and extensive...]]></summary>
+        <author>
+            <name>Jiayang Bao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Routine inflammatory indices modify clonal hematopoiesis-related prognostic risk in patients undergoing percutaneous coronary intervention: a real-world cohort study]]></title>
+        <id>pubmed:41742215</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41742215/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Hematopoiesis-related genetic alterations conferred excess prognostic risk, primarily in the presence of elevated hematological inflammation, underscoring the potential benefit of inflammatory burden management in PCI patients harboring CHIP.]]></summary>
+        <author>
+            <name>Xuxiang Shen</name>
         </author>
     </entry>
     <entry>
@@ -539,6 +699,26 @@
     <entry>
         <title type="html"><![CDATA[Emerging trends and converging evidence in tumor evolution: A comprehensive review]]></title>
         <id>pubmed:41747370</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41747370/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: Integrating evolutionary models with multi-omics data reveals the complexity of tumor adaptation, emphasizing the need for temporally adaptive therapeutic strategies. Current preclinical models inadequately recapitulate human tumor-microenvironment interactions, necessitating advanced systems to bridge this translational gap. Looking forward, the convergence of artificial intelligence and dense, longitudinal biomarker profiling holds the potential to move personalized oncology beyond...]]></summary>
+        <author>
+            <name>Chenqi Jin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Concurrent L1 retrotransposition events promote reciprocal translocations in human tumorigenesis]]></title>
+        <id>pubmed:41747018</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41747018/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[LINE-1 (L1) retrotransposition generates somatic genomic variation in human cancer, but short-read sequencing has limited our understanding of its structural consequences and dynamics. Using long-read sequencing, we analyzed 10 tumors with exceptionally high retrotransposition activity, comprising over 6,000 somatic events. We reveal that L1-mediated reciprocal translocations occur frequently, typically driven by two concurrent L1 retrotransposition events on non-homologous chromosomes. Using an...]]></summary>
+        <author>
+            <name>Sonia Zumalave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emerging trends and converging evidence in tumor evolution: A comprehensive review]]></title>
+        <id>pubmed:41747370</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41747370/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260302205349&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-02-26T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSION: Integrating evolutionary models with multi-omics data reveals the complexity of tumor adaptation, emphasizing the need for temporally adaptive therapeutic strategies. Current preclinical models inadequately recapitulate human tumor-microenvironment interactions, necessitating advanced systems to bridge this translational gap. Looking forward, the convergence of artificial intelligence and dense, longitudinal biomarker profiling holds the potential to move personalized oncology beyond...]]></summary>
@@ -629,6 +809,16 @@
     <entry>
         <title type="html"><![CDATA[Tet2-driven clonal hematopoiesis drives aortic aneurysm via macrophage-to-osteoclast-like differentiation]]></title>
         <id>pubmed:41739588</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41739588/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aortic aneurysms are age-linked aortic dilations that progress silently and carry high rupture mortality. Immune cells are recognized drivers of aneurysm pathogenesis. Clonal hematopoiesis is an age-related expansion of somatically mutated hematopoietic stem cells that reshapes immune function and contributes to diverse age-associated diseases. However, its contribution to aneurysm pathogenesis remains unclear. In this study, targeted ultradeep sequencing of patient specimens revealed a high...]]></summary>
+        <author>
+            <name>Jun Yonekawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tet2-driven clonal hematopoiesis drives aortic aneurysm via macrophage-to-osteoclast-like differentiation]]></title>
+        <id>pubmed:41739588</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41739588/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260302205349&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-02-25T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Aortic aneurysms are age-linked aortic dilations that progress silently and carry high rupture mortality. Immune cells are recognized drivers of aneurysm pathogenesis. Clonal hematopoiesis is an age-related expansion of somatically mutated hematopoietic stem cells that reshapes immune function and contributes to diverse age-associated diseases. However, its contribution to aneurysm pathogenesis remains unclear. In this study, targeted ultradeep sequencing of patient specimens revealed a high...]]></summary>
@@ -674,6 +864,16 @@
         <summary type="html"><![CDATA[Aortic aneurysms are age-linked aortic dilations that progress silently and carry high rupture mortality. Immune cells are recognized drivers of aneurysm pathogenesis. Clonal hematopoiesis is an age-related expansion of somatically mutated hematopoietic stem cells that reshapes immune function and contributes to diverse age-associated diseases. However, its contribution to aneurysm pathogenesis remains unclear. In this study, targeted ultradeep sequencing of patient specimens revealed a high...]]></summary>
         <author>
             <name>Jun Yonekawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis may precede the diagnosis of aplastic anemia by several years]]></title>
+        <id>pubmed:41733938</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41733938/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-24T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aplastic anemia (AA) is a bone marrow failure syndrome resulting from the immune destruction of hematopoietic stem cells. Clonal hematopoiesis (CH) is characterized by expansion of progenitor hematopoietic stem cells that harbor leukemogenic driver mutations. It has previously been shown that individuals with AA have a high prevalence of CH. However, the association between CH and AA remains unknown. We conducted a prospective, matched cohort study within the UK Biobank from 2006 to 2022....]]></summary>
+        <author>
+            <name>Qianwei Liu</name>
         </author>
     </entry>
     <entry>
@@ -1004,6 +1204,16 @@
         <summary type="html"><![CDATA[Somatic mutations in mitochondrial DNA (mtDNA) provide natural barcodes that enable engineering-free lineage tracing in human tissues, but the complex dynamics of mtDNA inheritance across cell divisions and incomplete sampling of mtDNA introduce uncertainty in reconstructed lineages. Here, we present MitoDrift, a probabilistic framework that integrates Wright-Fisher drift dynamics with sparse single-cell measurements to produce confidence-refined lineage trees enriched for accurate clonal...]]></summary>
         <author>
             <name>Teng Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human and viral whole genome sequencing identify HPV and APOBEC as oncogenic drivers in sinonasal squamous cell carcinoma]]></title>
+        <id>pubmed:41728314</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41728314/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sinonasal squamous cell carcinoma (SNSCC) is an aggressive head and neck cancer of the sinonasal cavity which has not benefitted from therapeutic advances over decades ¹ . Though historically attributed to inhaled carcinogens such as hardwood dust and tobacco smoking ² , SNSCC is incidentally associated with human papillomavirus (HPV) ^(3,4) . Importantly, HPV is the primary oncogenic driver of >80% of anatomically adjacent oropharyngeal cancers ⁵ . While viral status drives clinical staging and...]]></summary>
+        <author>
+            <name>Harrison B Chong</name>
         </author>
     </entry>
     <entry>
@@ -1364,6 +1574,16 @@
         <summary type="html"><![CDATA[CONCLUSIONS: CHIP was associated with elevated risk of psychiatric disorders, specifically major depressive disorders and substance use disorders, with gene-specific associations observed with changes in brain WM tracts. These findings revealed a potential biological association between CHIP and psychiatric disorders, offering new insights into disease mechanisms and possible therapeutic targets.]]></summary>
         <author>
             <name>Yuefeng Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gene duplication is associated with gene diversification and potential neofunctionalization in lung cancer evolution]]></title>
+        <id>pubmed:41714147</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41714147/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tumors evolve through a process of selection on somatic mutations, driving cell division and tissue growth through aberrations in cell-cycle control. In non-small-cell lung cancer (NSCLC), genome instability occurs early in tumor growth, resulting in pronounced intratumor heterogeneity, including changes in gene copy number, and whole-genome doubling (WGD) in ∼75% of tumors. Gene duplication, genetic drift, and selection mediate functional diversification during evolution. In this study, we seek...]]></summary>
+        <author>
+            <name>Paul Ashford</name>
         </author>
     </entry>
     <entry>
@@ -1899,6 +2119,16 @@
     <entry>
         <title type="html"><![CDATA[Modeling the evolutionary dynamics of clonal hematopoiesis]]></title>
         <id>pubmed:41699138</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41699138/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) results from the acquisition and expansion of somatic mutations in hematopoietic stem and progenitor cells and is associated with age-related clinical sequelae, including an increased risk for cardiovascular disease, myeloid neoplasms and complications related to cancer therapy. Chemotherapy and radiation can accelerate CH expansion and further elevate the risk of adverse events, including cardiotoxicity and therapy-related myeloid neoplasms. Although CH is increasingly...]]></summary>
+        <author>
+            <name>Sadegh Marzban</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeling the evolutionary dynamics of clonal hematopoiesis]]></title>
+        <id>pubmed:41699138</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41699138/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260302205349&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-02-16T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) results from the acquisition and expansion of somatic mutations in hematopoietic stem and progenitor cells and is associated with age-related clinical sequelae, including an increased risk for cardiovascular disease, myeloid neoplasms and complications related to cancer therapy. Chemotherapy and radiation can accelerate CH expansion and further elevate the risk of adverse events, including cardiotoxicity and therapy-related myeloid neoplasms. Although CH is increasingly...]]></summary>
@@ -2034,6 +2264,16 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) results from the acquisition and expansion of somatic mutations in hematopoietic stem and progenitor cells and is associated with age-related clinical sequelae, including an increased risk for cardiovascular disease, myeloid neoplasms and complications related to cancer therapy. Chemotherapy and radiation can accelerate CH expansion and further elevate the risk of adverse events, including cardiotoxicity and therapy-related myeloid neoplasms. Although CH is increasingly...]]></summary>
         <author>
             <name>Sadegh Marzban</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transcription-Coupled Repair Promotes the Retention of Mutations in Coding Regions During Replication Stress]]></title>
+        <id>pubmed:41683584</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41683584/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Replication stress (RS) is a primary driver of genomic instability in cancer, yet the contribution of transcription-coupled repair (TC-NER) to this process remains unclear. Here, we investigate how the TC-NER factor ERCC6 (CSB) shapes mutational landscapes under RS. We found that ERCC6 deficiency biases early damage signaling toward a 53BP1-mediated response, ultimately leading to senescence. Conversely, ERCC6-proficient cells prioritize survival and proliferative recovery but at the expense of...]]></summary>
+        <author>
+            <name>Evelyn Zambrano</name>
         </author>
     </entry>
     <entry>
@@ -2414,6 +2654,16 @@
         <summary type="html"><![CDATA[Lung cancer in never smokers (LCINS) is a growing global health challenge. Unlike smoking-related lung cancer, LCINS is characterized by distinct epidemiological patterns and unique molecular pathogenesis and, consequently, requires different clinical management approaches. Unfortunately, for patients with lung cancer who have never smoked, symptoms are nonspecific and often dismissed due to these patients not fitting a high-risk profile (e.g., smoker), underscoring the need for improved...]]></summary>
         <author>
             <name>Deborah R Caswell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differential effects on tumor progression by APOBEC3A, APOBEC3B, and APOBEC3H Haplotype I in a breast cancer mouse xenograft model]]></title>
+        <id>pubmed:41675410</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41675410/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[INTRODUCTION: The APOBEC3 family of cytidine deaminases induces somatic mutations that are highly prevalent in cancers, but the functional consequences remain largely unknown.]]></summary>
+        <author>
+            <name>Milaid Granadillo Rodríguez</name>
         </author>
     </entry>
     <entry>
@@ -3669,6 +3919,16 @@
     <entry>
         <title type="html"><![CDATA[Precision imaging and evolving therapies in paragangliomas and pheochromocytomas: from molecular diagnostics to imaging-guided management]]></title>
         <id>pubmed:41661399</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41661399/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pheochromocytomas and paragangliomas (PPGLs) are rare neuroendocrine tumors originating from neural crest-derived chromaffin tissue, marked by clinical heterogeneity and substantial genetic underpinnings. With up to 70% of cases linked to germline or somatic mutations, including Succinate DeHydrogenase genetic alterations (SDHx), and Von Hippel-Lindau (VHL), genetic profiling is central to diagnosis, risk stratification, and therapeutic planning. Clinical presentation varies by tumor location...]]></summary>
+        <author>
+            <name>Aurelie Choucair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precision imaging and evolving therapies in paragangliomas and pheochromocytomas: from molecular diagnostics to imaging-guided management]]></title>
+        <id>pubmed:41661399</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41661399/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260302205349&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-02-09T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Pheochromocytomas and paragangliomas (PPGLs) are rare neuroendocrine tumors originating from neural crest-derived chromaffin tissue, marked by clinical heterogeneity and substantial genetic underpinnings. With up to 70% of cases linked to germline or somatic mutations, including Succinate DeHydrogenase genetic alterations (SDHx), and Von Hippel-Lindau (VHL), genetic profiling is central to diagnosis, risk stratification, and therapeutic planning. Clinical presentation varies by tumor location...]]></summary>
@@ -4299,6 +4559,16 @@
     <entry>
         <title type="html"><![CDATA[Clonal hematopoiesis and age-associated degenerative disorders]]></title>
         <id>pubmed:41650719</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41650719/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-02-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is increasingly recognized not only as a predisposing factor for overt hematologic malignancies but also as a contributor to cardiovascular, metabolic, and other age-associated degenerative and inflammatory disorders. These associations likely arise from complex heterotypic interactions between clonally affected and non-clonal immune cells, leading to systemic immune dysregulation and chronic inflammation that affects multiple organ systems, most prominently the...]]></summary>
+        <author>
+            <name>Ioannis Chanias</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis and age-associated degenerative disorders]]></title>
+        <id>pubmed:41650719</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41650719/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260302205349&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-02-06T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is increasingly recognized not only as a predisposing factor for overt hematologic malignancies but also as a contributor to cardiovascular, metabolic, and other age-associated degenerative and inflammatory disorders. These associations likely arise from complex heterotypic interactions between clonally affected and non-clonal immune cells, leading to systemic immune dysregulation and chronic inflammation that affects multiple organ systems, most prominently the...]]></summary>
@@ -4764,6 +5034,16 @@
         <summary type="html"><![CDATA[INTRODUCTION: Myelofibrosis (MF) is a BCR-ABL1-negative myeloproliferative neoplasm (MPN) driven by recurrent acquired somatic mutations in hematopoietic stem cells and characterized by progressive bone marrow fibrosis, cytopenias, and extramedullary hematopoiesis. Janus kinase inhibitors (JAKi) improve splenomegaly and MF symptom burden but without achieving molecular remission or clear disease course modification. Novel therapies targeting epigenetic dysregulation through bromodomain and...]]></summary>
         <author>
             <name>Nooshin C Beygui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metastatic progression of pheochromocytoma and paraganglioma occurs via parallel evolution]]></title>
+        <id>pubmed:41620460</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41620460/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-01-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pheochromocytoma (PCC) and paraganglioma (PGL) are neuroendocrine tumors derived from chromaffin cells of the adrenal medulla and ganglia of the autonomic nervous system. Approximately one-third are causatively associated with pathogenic germline variants. Metastatic disease develops in up to 25% of patients with PCC/PGL, for whom therapeutic options are limited, and no targeted treatments exist. Tumor evolution in metastatic PCC/PGL has not been well delineated. We performed whole-exome...]]></summary>
+        <author>
+            <name>Andrew M Pregnall</name>
         </author>
     </entry>
     <entry>
@@ -5844,6 +6124,26 @@
         <summary type="html"><![CDATA[Myelodysplastic syndromes/neoplasms (MDS) are clonal hematopoietic disorders characterized by ineffective hematopoiesis, cytopenias, and a variable risk of progression to secondary acute myeloid leukemia (sAML). Despite major advances in the molecular and clinical characterization of MDS, mechanistic and translational research remains constrained by the limited availability of well-validated in vitro models. Many historically used cell lines are difficult to maintain, exhibit restricted...]]></summary>
         <author>
             <name>Karolina Maślińska-Gromadka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comprehensive Genomic Characterization of 102 Cervical Adenocarcinoma Tumors]]></title>
+        <id>pubmed:41597409</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41597409/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-01-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Background and Objectives: Cervical adenocarcinoma (CAC) is a histologically distinct subtype of cervical cancer with a rising incidence in many regions. While the roles of key driver mutations are known, a comprehensive understanding of its genomic landscape, particularly variations across different populations and tumor stages, remains incomplete. This study aims to characterize the somatic genomic landscape of CAC by identifying recurrent mutations, copy number alterations (CNAs), and...]]></summary>
+        <author>
+            <name>Gejla Toromani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advances in Colorectal Cancer Cell Biology and Clonal Evolution]]></title>
+        <id>pubmed:41596599</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41596599/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-01-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Colorectal cancer (CRC) develops through evolutionary processes involving genomic alterations, epigenetic regulation, and microenvironmental interactions. While traditionally explained by the stepwise accumulation of driver mutations, contemporary evidence supports a 'Big Bang' model in which many early-arising clones expand simultaneously to establish extensive heterogeneity. We reviewed recent studies employing spatially resolved multi-omic sequencing of tumour glands combined with...]]></summary>
+        <author>
+            <name>Sopozme Toghey</name>
         </author>
     </entry>
     <entry>
@@ -14924,96 +15224,6 @@
         <summary type="html"><![CDATA[Aplastic anemia is a bone marrow failure disorder marked by cytopenias that impair oxygen delivery, immune defense, and hemostasis. Standard therapy traditionally combines immunosuppression with or without hematopoietic stem cell transplantation, and more recently incorporates thrombopoietin receptor agonists to stimulate residual hematopoiesis. Eltrombopag improved outcomes when added to immunosuppressive therapy, but its association with hepatotoxicity limits its suitability for patients with...]]></summary>
         <author>
             <name>Mostafa F Mohammed Saleh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Case of VEXAS Syndrome Initially Masked as Myelodysplastic Syndrome: Importance of Marrow Vacuolization and UBA1 Testing: A Case Report]]></title>
-        <id>pubmed:41482697</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41482697/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260111202739&amp;v=2.18.0.post22+67771e2"/>
-        <updated>2026-01-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BACKGROUND VEXAS syndrome (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) is a recently recognized autoinflammatory disorder of adulthood caused by somatic mutations in the UBA1 gene. It is characterized by systemic inflammation, cytopenias, and frequent overlap with myelodysplastic syndromes (MDS). Because of its clinical heterogeneity, diagnosis is often delayed or confounded by coexisting autoimmune or hematologic disorders. CASE REPORT We describe a male patient presenting with...]]></summary>
-        <author>
-            <name>Ehsan Shahverdi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Case of VEXAS Syndrome Initially Masked as Myelodysplastic Syndrome: Importance of Marrow Vacuolization and UBA1 Testing: A Case Report]]></title>
-        <id>pubmed:41482697</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41482697/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260110204056&amp;v=2.18.0.post22+67771e2"/>
-        <updated>2026-01-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BACKGROUND VEXAS syndrome (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) is a recently recognized autoinflammatory disorder of adulthood caused by somatic mutations in the UBA1 gene. It is characterized by systemic inflammation, cytopenias, and frequent overlap with myelodysplastic syndromes (MDS). Because of its clinical heterogeneity, diagnosis is often delayed or confounded by coexisting autoimmune or hematologic disorders. CASE REPORT We describe a male patient presenting with...]]></summary>
-        <author>
-            <name>Ehsan Shahverdi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Case of VEXAS Syndrome Initially Masked as Myelodysplastic Syndrome: Importance of Marrow Vacuolization and UBA1 Testing: A Case Report]]></title>
-        <id>pubmed:41482697</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41482697/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260109202154&amp;v=2.18.0.post22+67771e2"/>
-        <updated>2026-01-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BACKGROUND VEXAS syndrome (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) is a recently recognized autoinflammatory disorder of adulthood caused by somatic mutations in the UBA1 gene. It is characterized by systemic inflammation, cytopenias, and frequent overlap with myelodysplastic syndromes (MDS). Because of its clinical heterogeneity, diagnosis is often delayed or confounded by coexisting autoimmune or hematologic disorders. CASE REPORT We describe a male patient presenting with...]]></summary>
-        <author>
-            <name>Ehsan Shahverdi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Case of VEXAS Syndrome Initially Masked as Myelodysplastic Syndrome: Importance of Marrow Vacuolization and UBA1 Testing: A Case Report]]></title>
-        <id>pubmed:41482697</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41482697/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260108202425&amp;v=2.18.0.post22+67771e2"/>
-        <updated>2026-01-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BACKGROUND VEXAS syndrome (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) is a recently recognized autoinflammatory disorder of adulthood caused by somatic mutations in the UBA1 gene. It is characterized by systemic inflammation, cytopenias, and frequent overlap with myelodysplastic syndromes (MDS). Because of its clinical heterogeneity, diagnosis is often delayed or confounded by coexisting autoimmune or hematologic disorders. CASE REPORT We describe a male patient presenting with...]]></summary>
-        <author>
-            <name>Ehsan Shahverdi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Case of VEXAS Syndrome Initially Masked as Myelodysplastic Syndrome: Importance of Marrow Vacuolization and UBA1 Testing: A Case Report]]></title>
-        <id>pubmed:41482697</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41482697/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260107202426&amp;v=2.18.0.post22+67771e2"/>
-        <updated>2026-01-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BACKGROUND VEXAS syndrome (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) is a recently recognized autoinflammatory disorder of adulthood caused by somatic mutations in the UBA1 gene. It is characterized by systemic inflammation, cytopenias, and frequent overlap with myelodysplastic syndromes (MDS). Because of its clinical heterogeneity, diagnosis is often delayed or confounded by coexisting autoimmune or hematologic disorders. CASE REPORT We describe a male patient presenting with...]]></summary>
-        <author>
-            <name>Ehsan Shahverdi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Case of VEXAS Syndrome Initially Masked as Myelodysplastic Syndrome: Importance of Marrow Vacuolization and UBA1 Testing: A Case Report]]></title>
-        <id>pubmed:41482697</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41482697/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260106202342&amp;v=2.18.0.post22+67771e2"/>
-        <updated>2026-01-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BACKGROUND VEXAS syndrome (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) is a recently recognized autoinflammatory disorder of adulthood caused by somatic mutations in the UBA1 gene. It is characterized by systemic inflammation, cytopenias, and frequent overlap with myelodysplastic syndromes (MDS). Because of its clinical heterogeneity, diagnosis is often delayed or confounded by coexisting autoimmune or hematologic disorders. CASE REPORT We describe a male patient presenting with...]]></summary>
-        <author>
-            <name>Ehsan Shahverdi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Case of VEXAS Syndrome Initially Masked as Myelodysplastic Syndrome: Importance of Marrow Vacuolization and UBA1 Testing: A Case Report]]></title>
-        <id>pubmed:41482697</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41482697/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260105202340&amp;v=2.18.0.post22+67771e2"/>
-        <updated>2026-01-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BACKGROUND VEXAS syndrome (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) is a recently recognized autoinflammatory disorder of adulthood caused by somatic mutations in the UBA1 gene. It is characterized by systemic inflammation, cytopenias, and frequent overlap with myelodysplastic syndromes (MDS). Because of its clinical heterogeneity, diagnosis is often delayed or confounded by coexisting autoimmune or hematologic disorders. CASE REPORT We describe a male patient presenting with...]]></summary>
-        <author>
-            <name>Ehsan Shahverdi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Case of VEXAS Syndrome Initially Masked as Myelodysplastic Syndrome: Importance of Marrow Vacuolization and UBA1 Testing: A Case Report]]></title>
-        <id>pubmed:41482697</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41482697/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260104204055&amp;v=2.18.0.post22+67771e2"/>
-        <updated>2026-01-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BACKGROUND VEXAS syndrome (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) is a recently recognized autoinflammatory disorder of adulthood caused by somatic mutations in the UBA1 gene. It is characterized by systemic inflammation, cytopenias, and frequent overlap with myelodysplastic syndromes (MDS). Because of its clinical heterogeneity, diagnosis is often delayed or confounded by coexisting autoimmune or hematologic disorders. CASE REPORT We describe a male patient presenting with...]]></summary>
-        <author>
-            <name>Ehsan Shahverdi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Case of VEXAS Syndrome Initially Masked as Myelodysplastic Syndrome: Importance of Marrow Vacuolization and UBA1 Testing: A Case Report]]></title>
-        <id>pubmed:41482697</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41482697/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260103204047&amp;v=2.18.0.post22+67771e2"/>
-        <updated>2026-01-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BACKGROUND VEXAS syndrome (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) is a recently recognized autoinflammatory disorder of adulthood caused by somatic mutations in the UBA1 gene. It is characterized by systemic inflammation, cytopenias, and frequent overlap with myelodysplastic syndromes (MDS). Because of its clinical heterogeneity, diagnosis is often delayed or confounded by coexisting autoimmune or hematologic disorders. CASE REPORT We describe a male patient presenting with...]]></summary>
-        <author>
-            <name>Ehsan Shahverdi</name>
         </author>
     </entry>
     <entry>
