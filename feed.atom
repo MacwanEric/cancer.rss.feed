@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2026-04-29T02:37:47.312Z</updated>
+    <updated>2026-04-30T02:38:51.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Population-Based Identification of Clonal Hematopoiesis Using Peripheral Blood Whole-Genome Sequencing in Japan]]></title>
+        <id>pubmed:42053152</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42053152/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) is an age-associated condition whose population-level characteristics and clinical concordance in Japan remain incompletely defined. We analyzed whole-genome sequencing data from 49,982 participants in the Tohoku Medical Megabank (TMM) cohort to characterize the prevalence, mutational spectrum, age dependency, and clinical relevance of CHIP. CHIP mutations were detected in 1234 individuals (2.5%), comprising 1413 variants across 1015 loci....]]></summary>
+        <author>
+            <name>SungGi Chi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OncoBERT: Context-Aware Modeling of Somatic Mutations for Precision Oncology]]></title>
+        <id>pubmed:42051297</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42051297/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Somatic mutation profiling is central to cancer diagnosis and treatment selection. However, most studies focus on individual actionable mutations, overlooking the broader mutational context that shapes tumor evolution and treatment response. Here, we introduce OncoBERT, a language model that learns contextual representations of somatic mutations from large-scale clinical sequencing data spanning >210,000 patients, 113 cancer types and 20 institutions. OncoBERT uncovers robust patient-specific...]]></summary>
+        <author>
+            <name>Sushant Patkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Selection and Evolution after Treatment of Severe Aplastic Anemia]]></title>
+        <id>pubmed:42047559</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42047559/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Among patients with SAA treated with IST-EPAG, early and late patterns of clonal evolution to myeloid cancer were observed: Chromosome 7 abnormalities occurred within 1 year, whereas later events (4-5 years) involved stepwise mutation acquisition in preexisting ASXL1- or U2AF1-mutated clones.]]></summary>
+        <author>
+            <name>Fernanda Gutierrez-Rodrigues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Dynamics of Hematopoiesis in Aplastic Anemia after Immunosuppression and Eltrombopag]]></title>
+        <id>pubmed:42047558</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42047558/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CH was frequent in patients with AA and its prevalence appeared to be higher at posttherapy timepoints than at diagnosis. CH in AA may reflect the survival and expansion of selected residual hematopoietic stem/progenitor cells associated with immune-mediated damage. (Funded by Cancer Research UK, Bloodwise UK, and Novartis AG; ClinicalTrials.gov number, NCT02099747; EudraCT number, 2014-000363-40.).]]></summary>
+        <author>
+            <name>Deniz Ece Kaya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Longitudinal circulating tumor DNA profiling in patients with advanced endometrial cancer using an off-the-shelf targeted NGS panel]]></title>
+        <id>pubmed:42047179</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42047179/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intratumor heterogeneity presents a major challenge in precision oncology for endometrial cancer (EC). Circulating tumor DNA (ctDNA) offers a minimally invasive method to monitor tumor evolution and therapeutic resistance. In this retrospective study, we evaluated a tumor-agnostic NGS panel to detect and track ctDNA in 18 EC patients and directly compared its performance with a tumor-informed ddPCR approach. ctDNA was detected by NGS in over 60% of plasma samples, while ddPCR showed higher...]]></summary>
+        <author>
+            <name>Carlos Casas-Arozamena</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clonal Selection and Evolution after Treatment of Severe Aplastic Anemia]]></title>
         <id>pubmed:42047559</id>
@@ -34,6 +84,66 @@
         <summary type="html"><![CDATA[Intratumor heterogeneity presents a major challenge in precision oncology for endometrial cancer (EC). Circulating tumor DNA (ctDNA) offers a minimally invasive method to monitor tumor evolution and therapeutic resistance. In this retrospective study, we evaluated a tumor-agnostic NGS panel to detect and track ctDNA in 18 EC patients and directly compared its performance with a tumor-informed ddPCR approach. ctDNA was detected by NGS in over 60% of plasma samples, while ddPCR showed higher...]]></summary>
         <author>
             <name>Carlos Casas-Arozamena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Site-Specific Genomic Markers Associated with Outcomes of PD-1 Blockade in Gastric and Esophagogastric Junction Cancer: Analysis of Japan's C-CAT Registry]]></title>
+        <id>pubmed:42045774</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42045774/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: In this large Japanese real-world cohort, genomic associations with nivolumab outcomes differed by tumor site. In gastric cancer, ASXL1 mutation was associated with prolonged treatment benefit under PD-1 blockade, while CDH1 and FANCG showed exploratory associations with OS. These findings warrant further validation in prospective and platform-controlled analyses.]]></summary>
+        <author>
+            <name>Yasuyoshi Sato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chronic myelomonocytic leukemia beyond the marrow: biology, patterns, and management of extramedullary disease]]></title>
+        <id>pubmed:42045559</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42045559/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chronic myelomonocytic leukemia (CMML) is an MDS/MPN overlap neoplasm defined by monocytosis, clonal hematopoiesis, and marrow dysplasia, with outcomes ranging from indolent cytopenic disease to aggressive proliferative phenotypes with early AML transformation. Extramedullary disease (EMD) refers to clonal myelomonocytic infiltration outside the bone marrow and is an underrecognized, consequential manifestation that can dominate presentation, drive morbidity, and identify adverse disease...]]></summary>
+        <author>
+            <name>Manal Ahmidouch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Targeted Radiation, Unintended Evolution]]></title>
+        <id>pubmed:42043778</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42043778/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Radioligand therapy exemplifies precision oncology, yet its consequences remain incompletely understood. A recent article shows that [177Lu]Lu-PSMA promotes emergence and expansion of clonal hematopoiesis enriched for DNA damage response gene mutations, reframing bone marrow effects as treatment-emergent clonal selection rather than collateral toxicity and informing biology-guided patient monitoring and theranostics.]]></summary>
+        <author>
+            <name>Katharina Lueckerath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immunophenotypic Heterogeneity and Clonal Sweep in Acute Myeloid Leukemia Revealed by Flow Cytometry: A Case Series Study]]></title>
+        <id>pubmed:42042547</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42042547/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Background/Objectives: Clonal evolution is mainly defined based on the appearance or expansion of clones harboring specific somatic mutations and/or cytogenetic abnormalities, whereas few studies have investigated immunophenotypic heterogeneity assessed by flow cytometry and its relationship with disease progression. In this study, flow cytometry immunophenotyping of acute myeloid leukemia (AML) was carried out to identify phenotypic subclones based on antigen expression and to investigate...]]></summary>
+        <author>
+            <name>Angela Bertolini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential and cardiovascular disease: mechanistic insights, clinical implications, and the dawn of precision cardio-hematology]]></title>
+        <id>pubmed:42039360</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42039360/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) has substantially advanced our understanding of cardiovascular pathogenesis by demonstrating how somatic mutations in hematopoietic stem cells amplify the bone marrow-heart axis to accelerate atherosclerosis and heart failure, building upon the established role of hematopoietic cells in vascular inflammation. Characterized by the age-associated expansion of hematopoietic stem cell clones harboring somatic mutations-most commonly in TET2,...]]></summary>
+        <author>
+            <name>Hong Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mutations in CHIP-associated genes at myeloid neoplasm diagnosis and risk of cardiovascular/cerebrovascular events]]></title>
+        <id>pubmed:42037246</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42037246/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CHIP-associated gene mutations at MN diagnosis were not independently associated with incident CCVEs. Older mutation-positive patients had higher observed CCVE risk, predominantly heart failure, with limited precision. These exploratory findings warrant prospective multicenter validation.]]></summary>
+        <author>
+            <name>Yao Wang</name>
         </author>
     </entry>
     <entry>
@@ -139,6 +249,16 @@
     <entry>
         <title type="html"><![CDATA[MOKCa-3D database: functional and structural analysis of missense mutations in cancer]]></title>
         <id>pubmed:42037558</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42037558/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Determining the functional consequence of missense mutations acquired in the development of cancer is critical to the understanding of the evolution and the therapeutic vulnerabilities of an individual tumour. Several million missense mutations associated with cancer have been reported across different databases with little functional annotation accompanying each mutation. We have designed the MOKCa-3D database, (https://bioinformaticslab.sussex.ac.uk/MOKCa-3D/) to enable the contextualization...]]></summary>
+        <author>
+            <name>Biniam Haile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOKCa-3D database: functional and structural analysis of missense mutations in cancer]]></title>
+        <id>pubmed:42037558</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42037558/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260428223745&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-04-27T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Determining the functional consequence of missense mutations acquired in the development of cancer is critical to the understanding of the evolution and the therapeutic vulnerabilities of an individual tumour. Several million missense mutations associated with cancer have been reported across different databases with little functional annotation accompanying each mutation. We have designed the MOKCa-3D database, (https://bioinformaticslab.sussex.ac.uk/MOKCa-3D/) to enable the contextualization...]]></summary>
@@ -159,6 +279,16 @@
     <entry>
         <title type="html"><![CDATA[Genomic Determinants and Clinical Outcomes of Second Primary Hematological Malignancies in Patients with B-Cell Cancers]]></title>
         <id>pubmed:42035873</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42035873/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: In conclusion, our study adds to the growing body of literature characterizing the features and burden of therapy‑related hematological malignancies and highlights the potential value of early detection of pre‑malignant clonal populations.]]></summary>
+        <author>
+            <name>Jiang J</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomic Determinants and Clinical Outcomes of Second Primary Hematological Malignancies in Patients with B-Cell Cancers]]></title>
+        <id>pubmed:42035873</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42035873/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260428223745&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-04-26T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: In conclusion, our study adds to the growing body of literature characterizing the features and burden of therapy‑related hematological malignancies and highlights the potential value of early detection of pre‑malignant clonal populations.]]></summary>
@@ -174,6 +304,16 @@
         <summary type="html"><![CDATA[CONCLUSIONS: In conclusion, our study adds to the growing body of literature characterizing the features and burden of therapy‑related hematological malignancies and highlights the potential value of early detection of pre‑malignant clonal populations.]]></summary>
         <author>
             <name>Jiang J</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal trajectories of post-transplant hematopoiesis]]></title>
+        <id>pubmed:42028941</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42028941/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hematopoiesis relies on self-renewing hematopoietic stem and more committed progenitor cells (HSPCs), which occurs in specialized niches. Their transplantation can effectively treat malignant blood disorders and genetic diseases, thanks to advances in HLA typing, cell sources, and conditioning regimens. Clonal tracing reveals a biphasic pattern of hematopoietic reconstitution following transplantation, with initial contribution from short-term progenitors followed by long-term multi-potent...]]></summary>
+        <author>
+            <name>Laurence Guyonneau-Harmand</name>
         </author>
     </entry>
     <entry>
@@ -224,6 +364,16 @@
         <summary type="html"><![CDATA[Hematopoiesis relies on self-renewing hematopoietic stem and more committed progenitor cells (HSPCs), which occurs in specialized niches. Their transplantation can effectively treat malignant blood disorders and genetic diseases, thanks to advances in HLA typing, cell sources, and conditioning regimens. Clonal tracing reveals a biphasic pattern of hematopoietic reconstitution following transplantation, with initial contribution from short-term progenitors followed by long-term multi-potent...]]></summary>
         <author>
             <name>Laurence Guyonneau-Harmand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somatic cancer variants enriched in Alzheimer's disease microglia-like cells drive inflammatory and proliferative states]]></title>
+        <id>pubmed:42019491</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42019491/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Alzheimer's disease (AD) is a neurodegenerative condition characterized by microglia-mediated neuroinflammation. Deep (>1,000×) panel sequencing of 311 brain samples revealed enrichment of somatic single-nucleotide variants (sSNVs) in cancer driver genes in AD brains, especially in genes associated with clonal hematopoiesis (CH). These sSNVs were associated with clonal expansion and carried by both microglia-like brain macrophages (MLBMs) in multiple brain regions as well as paired blood,...]]></summary>
+        <author>
+            <name>August Yue Huang</name>
         </author>
     </entry>
     <entry>
@@ -289,6 +439,16 @@
     <entry>
         <title type="html"><![CDATA[Molecular evolution of mosaic chromosome 18 copy-number alterations from gametes to hepatoblastoma]]></title>
         <id>pubmed:42019868</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42019868/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: This case reconstructs the molecular evolution of chromosome 18 alterations from the zygote to tumor formation and highlights how mosaic chromosome abnormalities can intersect with developmental defects and pediatric liver cancer.]]></summary>
+        <author>
+            <name>Elise Cendres</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular evolution of mosaic chromosome 18 copy-number alterations from gametes to hepatoblastoma]]></title>
+        <id>pubmed:42019868</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42019868/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260428223745&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-04-22T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: This case reconstructs the molecular evolution of chromosome 18 alterations from the zygote to tumor formation and highlights how mosaic chromosome abnormalities can intersect with developmental defects and pediatric liver cancer.]]></summary>
@@ -344,6 +504,16 @@
         <summary type="html"><![CDATA[CONCLUSIONS: This case reconstructs the molecular evolution of chromosome 18 alterations from the zygote to tumor formation and highlights how mosaic chromosome abnormalities can intersect with developmental defects and pediatric liver cancer.]]></summary>
         <author>
             <name>Elise Cendres</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Elements in Pituitary Neuroendocrine Tumors: Integrative Evidence and Future Directions]]></title>
+        <id>pubmed:42012999</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42012999/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mobile genetic elements (MGEs), including LINE-1 retrotransposons, Alu and SVA elements, and human endogenous retroviruses (HERVs), constitute nearly half of the human genome and are increasingly understood to influence multiple dimensions of cancer evolution. Yet, pituitary neuroendocrine tumors (PitNETs) remain almost absent from mobilome research, despite exhibiting genomic and epigenetic contexts permissive to retroelement activation. In this review, we synthesize current evidence linking...]]></summary>
+        <author>
+            <name>Rafael Loch Batista</name>
         </author>
     </entry>
     <entry>
@@ -429,6 +599,16 @@
     <entry>
         <title type="html"><![CDATA[Integrated single-cell whole genome sequencing and spatial transcriptomics reveal intra-tumoral heterogeneity in ovarian cancer]]></title>
         <id>pubmed:42007974</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42007974/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The mortality rate of ovarian cancer remains disproportionately high compared to its incidence. This is partly due to a high level of intra-tumoral heterogeneity, driven by genomic instability, that promotes disease recurrence and treatment failure. In this study, we describe degrees of heterogeneity revealed by single-cell whole genome sequencing and spatial transcriptomics of five late-stage, treatment-naïve primary epithelial ovarian carcinomas, including high grade serous and clear cell...]]></summary>
+        <author>
+            <name>Rania Bassiouni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrated single-cell whole genome sequencing and spatial transcriptomics reveal intra-tumoral heterogeneity in ovarian cancer]]></title>
+        <id>pubmed:42007974</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42007974/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260428223745&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-04-20T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[The mortality rate of ovarian cancer remains disproportionately high compared to its incidence. This is partly due to a high level of intra-tumoral heterogeneity, driven by genomic instability, that promotes disease recurrence and treatment failure. In this study, we describe degrees of heterogeneity revealed by single-cell whole genome sequencing and spatial transcriptomics of five late-stage, treatment-naïve primary epithelial ovarian carcinomas, including high grade serous and clear cell...]]></summary>
@@ -504,6 +684,26 @@
         <summary type="html"><![CDATA[The mortality rate of ovarian cancer remains disproportionately high compared to its incidence. This is partly due to a high level of intra-tumoral heterogeneity, driven by genomic instability, that promotes disease recurrence and treatment failure. In this study, we describe degrees of heterogeneity revealed by single-cell whole genome sequencing and spatial transcriptomics of five late-stage, treatment-naïve primary epithelial ovarian carcinomas, including high grade serous and clear cell...]]></summary>
         <author>
             <name>Rania Bassiouni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human genetics of HIV infection]]></title>
+        <id>pubmed:42001553</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42001553/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Human Immunodeficiency Virus Type 1 (HIV-1) continues to pose a significant global public health challenge. Marked inter-individual variability in susceptibility to infection, viral load, and disease progression has long highlighted an important role for host genetic factors. To date, only a small number of germline loci show consistent, reproducible effects on HIV-1 control, most notably CCR5 and HLA class I genes. Recent studies have refined the mechanistic basis of these associations,...]]></summary>
+        <author>
+            <name>Abraham Awada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[plasmaCHORD: A Machine Learning Approach to Distinguish Clonal Hematopoiesis-Derived Variants in Liquid Biopsies from Patients with Solid Tumors]]></title>
+        <id>pubmed:42001480</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42001480/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: plasmaCHORD, a multifeature machine learning model, can significantly enhance the ability to identify bona fide tumor variants in routine plasma-only NGS, addressing a critical need for implementing liquid biopsy-guided therapy by minimizing misinterpretation caused by CH.]]></summary>
+        <author>
+            <name>Jenna V Canzoniero</name>
         </author>
     </entry>
     <entry>
@@ -964,6 +1164,16 @@
         <summary type="html"><![CDATA[CONCLUSION: The presence of CHIP is associated with GCA relapses in this exploratory cohort. Further studies are needed to confirm these findings.]]></summary>
         <author>
             <name>Oriane Cellier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting context-dependent selection on cancer driver genes with DiffDriver]]></title>
+        <id>pubmed:41993381</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the "contexts" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in "differential...]]></summary>
+        <author>
+            <name>Jie Zhou</name>
         </author>
     </entry>
     <entry>
@@ -2139,6 +2349,26 @@
     <entry>
         <title type="html"><![CDATA[Genome-Wide Copy-Number Landscape of Germ Cell Tumors With Synchronous Conventional and "Somatic-Type" Malignancy Components]]></title>
         <id>pubmed:41980879</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41980879/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[So-called "somatic-type" malignancies (SMs) of germ cell tumor (GCT) origin resemble malignant neoplasms that arise from true somatic tissue. Except for enrichment in TP53 pathway alterations, the mutational profile of GCTs with SMs does not significantly differ from that of typical GCTs. Prior studies have suggested that copy number alterations (CNAs) of SMs may differ from those of conventional GCTs, but comparative genome-wide CNA analyses of paired components of GCTs with SMs have not been...]]></summary>
+        <author>
+            <name>Kvetoslava Michalova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathology of Cutaneous T Cell Lymphoma: A Narrative Review]]></title>
+        <id>pubmed:41976391</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41976391/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cutaneous T-cell lymphoma (CTCL) comprises a heterogeneous group of extranodal non-Hodgkin lymphomas. With the publication of the fifth edition of the World Health Organization Classification of Hematolymphoid Tumors, the diagnostic framework for CTCL has shifted from primarily morphologic phenotypes toward an emphasis on molecular drivers. Current research suggests that malignant clones may arise from somatic mutations at the hematopoietic stem cell stage and may follow a continuous...]]></summary>
+        <author>
+            <name>Ting Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genome-Wide Copy-Number Landscape of Germ Cell Tumors With Synchronous Conventional and "Somatic-Type" Malignancy Components]]></title>
+        <id>pubmed:41980879</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41980879/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260428223745&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-04-14T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[So-called "somatic-type" malignancies (SMs) of germ cell tumor (GCT) origin resemble malignant neoplasms that arise from true somatic tissue. Except for enrichment in TP53 pathway alterations, the mutational profile of GCTs with SMs does not significantly differ from that of typical GCTs. Prior studies have suggested that copy number alterations (CNAs) of SMs may differ from those of conventional GCTs, but comparative genome-wide CNA analyses of paired components of GCTs with SMs have not been...]]></summary>
@@ -2524,6 +2754,16 @@
         <summary type="html"><![CDATA[CONCLUSION: Inflammation, metabolic dysregulation, and thrombosis are the intersections between CVD and cancer. Specific approaches to address these pathways, combined with biomarker-based surveillance and the promotion of oncology-cardiology care, could lead to earlier diagnosis, less toxic treatments, and better longterm outcomes.]]></summary>
         <author>
             <name>Shanmugananth Elayaperumal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harnessing Proteogenomics to Advance Precision Oncology: From Melanoma and Hepatocellular Carcinoma Perspective]]></title>
+        <id>pubmed:41964867</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41964867/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PURPOSE OF REVIEW: Genomic profiling has significantly advanced precision oncology; however, relying solely on genome-driven approaches is often insufficient to capture the full molecular complexity of cancer. Proteogenomics integrates proteomics, transcriptomics, and genomic analyses to provide a more holistic view of tumor biology by revealing how genetic alterations translate into functional consequences at the protein level.]]></summary>
+        <author>
+            <name>Abolaji Samson Olagunju</name>
         </author>
     </entry>
     <entry>
@@ -3144,6 +3384,16 @@
         <summary type="html"><![CDATA[Second primary cancers (SPCs) pose an increasingly significant clinical challenge for survivors of hematologic malignancies, attributed to improved therapeutic outcomes and prolonged survival. The development of SPCs is influenced by a complex interplay of treatment-related factors, genetic susceptibility, immune dysregulation, and microenvironmental remodeling. This narrative review summarizes the epidemiological patterns of SPCs in survivors of hematologic malignancies and discusses the...]]></summary>
         <author>
             <name>Yueyue Pan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomic characterization of aggressiveness in pituitary neuroendocrine tumors (PitNETs)]]></title>
+        <id>pubmed:41955313</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41955313/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: This systematic analysis of clinicopathological features of aggressiveness using an integrated multiomic approach establishes a histomolecular definition of aggressiveness in PitNETs. Prospective cohorts studies are needed to validate these molecular signatures and establish their prognostic value.]]></summary>
+        <author>
+            <name>Nesrine Benanteur</name>
         </author>
     </entry>
     <entry>
@@ -4399,6 +4649,16 @@
     <entry>
         <title type="html"><![CDATA[Redefining cancer drivers with tissue-specific context]]></title>
         <id>pubmed:41932332</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41932332/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-04-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this issue of Cancer Cell, Bandlamudi and colleagues analyze over 50,000 tumors spanning 64 cancer types, revealing how tissue context dictates the prevalence and evolutionary timing of somatic driver alterations. Their findings underscore the need to move away from a purely gene-centric view of oncology toward a context-aware framework.]]></summary>
+        <author>
+            <name>Maria Kalyva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redefining cancer drivers with tissue-specific context]]></title>
+        <id>pubmed:41932332</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41932332/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260428223745&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-04-03T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[In this issue of Cancer Cell, Bandlamudi and colleagues analyze over 50,000 tumors spanning 64 cancer types, revealing how tissue context dictates the prevalence and evolutionary timing of somatic driver alterations. Their findings underscore the need to move away from a purely gene-centric view of oncology toward a context-aware framework.]]></summary>
@@ -5164,6 +5424,16 @@
         <summary type="html"><![CDATA[Acute myeloid leukemia (AML) is a biologically heterogeneous and clinically aggressive hematologic malignancy, with outcomes that remain poor for many older adults and patients with adverse-risk disease. Advances in cytogenetics and next-generation sequencing have uncovered actionable lesions (e.g., FLT3, IDH1/2, NPM1) and enabled biomarker-driven risk stratification and therapy selection. Since 2017, multiple targeted and antibody-drug conjugate approaches-often combined with intensive...]]></summary>
         <author>
             <name>Rafal Al-Shibly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bridging the gap between tumor evolution and clonality diagnostics in multiple lung carcinomas]]></title>
+        <id>pubmed:41912125</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41912125/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-03-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Differentiating multiple primary lung carcinomas (MPLCs) from intrapulmonary metastases (IPMs) remains a critical challenge in the management of patients with multiple non-small cell lung carcinomas (NSCLCs). Although the clinical presentation of MPLCs and IPMs often appears similar, they represent biologically distinct evolutionary processes. In the genomics era, molecular pathology has provided new tools to address this diagnostic challenge in clinical practice. Simultaneously, a multitude of...]]></summary>
+        <author>
+            <name>Jurriaan Janssen</name>
         </author>
     </entry>
     <entry>
@@ -6179,6 +6449,16 @@
     <entry>
         <title type="html"><![CDATA[Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma]]></title>
         <id>pubmed:41889415</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.]]></summary>
+        <author>
+            <name>Ruirui Fan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma]]></title>
+        <id>pubmed:41889415</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260428223745&amp;v=2.19.0.post6+133c1fe"/>
         <updated>2026-03-27T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.]]></summary>
@@ -6934,6 +7214,26 @@
         <summary type="html"><![CDATA[CONCLUSION: The spatial and temporal geography of SSCs dictates their specialized roles across development, homeostasis, and repair. Mapping these anatomically distinct populations provides a crucial conceptual framework for understanding skeletal biology and developing targeted regenerative therapies.]]></summary>
         <author>
             <name>Yiming Liam Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular Genetic Demonstration of the Evolution of Transformed Mycosis Fungoides: A Clinicopathological and Molecular Case Study]]></title>
+        <id>pubmed:41873173</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41873173/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-03-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Large cell transformation (LCT) in mycosis fungoides (MF) is thought to represent the clonal evolution of a single clone and is associated with aggressive clinical behavior and poor outcome not overcome by aggressive treatment regimens. The tumor dynamics leading to LCT-MF are poorly understood and previously determined genetic alterations in MF do not explain nor can predict disease progression and/or transformation, although implicating driver mutations have been identified. Our aim is to...]]></summary>
+        <author>
+            <name>Melissa Cheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obesity-associated gene mutations across cancer types: a pan-cancer analysis of TCGA data]]></title>
+        <id>pubmed:41872334</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41872334/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260429223849&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-03-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BACKGROUND: Obesity is a recognized risk factor for numerous cancers. Although several biological mechanisms have been proposed to explain obesity-associated carcinogenesis, the extent to which excess adiposity influences tumor genomic profiles remains incompletely understood. In particular, whether obesity-related selective pressures shape cancer-specific mutational landscapes is still underexplored.]]></summary>
+        <author>
+            <name>Gaetana Porcelli</name>
         </author>
     </entry>
     <entry>
@@ -14544,126 +14844,6 @@
         <summary type="html"><![CDATA[Therapeutic advances have improved cancer outcomes, but early-stage detection remains the single most important determinant of favorable prognoses across many cancer types. Cancer genomics has yielded detailed maps of somatic mutation and methylation patterns characteristic of different cancers, enabling the development of assays to detect mutation-bearing tumor-derived DNA in tissue biopsies, blood and other body fluids at the earliest stages of disease. In parallel, it has also become clear...]]></summary>
         <author>
             <name>Muxin Gu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexistence of Dual Chromosomal Abnormalities t(3;7) and t(9;22) in Case of B-Acute Lymphoblastic Leukemia: a Rare Genomic Profile with Diagnostic and Prognostic Challenges]]></title>
-        <id>pubmed:41764641</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41764641/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260312215005&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acute lymphocytic leukemia (ALL) is a hematologic malignancy marked by clonal growth of lymphoid precursors within the bone marrow, resulting in disrupted hematopoiesis. Chromosomal abnormalities provide valuable information on the development of ALL and serve as a key indicator of patient outcomes and treatment strategies. Numerous genetic abnormalities can be seen in ALL. Here, we described a case of a 15-year-old patient with B-ALL confirmed through biopsy and immunophenotyping. Conventional...]]></summary>
-        <author>
-            <name>Pina J Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexistence of Dual Chromosomal Abnormalities t(3;7) and t(9;22) in Case of B-Acute Lymphoblastic Leukemia: a Rare Genomic Profile with Diagnostic and Prognostic Challenges]]></title>
-        <id>pubmed:41764641</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41764641/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260311215001&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acute lymphocytic leukemia (ALL) is a hematologic malignancy marked by clonal growth of lymphoid precursors within the bone marrow, resulting in disrupted hematopoiesis. Chromosomal abnormalities provide valuable information on the development of ALL and serve as a key indicator of patient outcomes and treatment strategies. Numerous genetic abnormalities can be seen in ALL. Here, we described a case of a 15-year-old patient with B-ALL confirmed through biopsy and immunophenotyping. Conventional...]]></summary>
-        <author>
-            <name>Pina J Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexistence of Dual Chromosomal Abnormalities t(3;7) and t(9;22) in Case of B-Acute Lymphoblastic Leukemia: a Rare Genomic Profile with Diagnostic and Prognostic Challenges]]></title>
-        <id>pubmed:41764641</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41764641/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260310214629&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acute lymphocytic leukemia (ALL) is a hematologic malignancy marked by clonal growth of lymphoid precursors within the bone marrow, resulting in disrupted hematopoiesis. Chromosomal abnormalities provide valuable information on the development of ALL and serve as a key indicator of patient outcomes and treatment strategies. Numerous genetic abnormalities can be seen in ALL. Here, we described a case of a 15-year-old patient with B-ALL confirmed through biopsy and immunophenotyping. Conventional...]]></summary>
-        <author>
-            <name>Pina J Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexistence of Dual Chromosomal Abnormalities t(3;7) and t(9;22) in Case of B-Acute Lymphoblastic Leukemia: a Rare Genomic Profile with Diagnostic and Prognostic Challenges]]></title>
-        <id>pubmed:41764641</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41764641/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260309214620&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acute lymphocytic leukemia (ALL) is a hematologic malignancy marked by clonal growth of lymphoid precursors within the bone marrow, resulting in disrupted hematopoiesis. Chromosomal abnormalities provide valuable information on the development of ALL and serve as a key indicator of patient outcomes and treatment strategies. Numerous genetic abnormalities can be seen in ALL. Here, we described a case of a 15-year-old patient with B-ALL confirmed through biopsy and immunophenotyping. Conventional...]]></summary>
-        <author>
-            <name>Pina J Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexistence of Dual Chromosomal Abnormalities t(3;7) and t(9;22) in Case of B-Acute Lymphoblastic Leukemia: a Rare Genomic Profile with Diagnostic and Prognostic Challenges]]></title>
-        <id>pubmed:41764641</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41764641/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260308215314&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acute lymphocytic leukemia (ALL) is a hematologic malignancy marked by clonal growth of lymphoid precursors within the bone marrow, resulting in disrupted hematopoiesis. Chromosomal abnormalities provide valuable information on the development of ALL and serve as a key indicator of patient outcomes and treatment strategies. Numerous genetic abnormalities can be seen in ALL. Here, we described a case of a 15-year-old patient with B-ALL confirmed through biopsy and immunophenotyping. Conventional...]]></summary>
-        <author>
-            <name>Pina J Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexistence of Dual Chromosomal Abnormalities t(3;7) and t(9;22) in Case of B-Acute Lymphoblastic Leukemia: a Rare Genomic Profile with Diagnostic and Prognostic Challenges]]></title>
-        <id>pubmed:41764641</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41764641/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260307205216&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acute lymphocytic leukemia (ALL) is a hematologic malignancy marked by clonal growth of lymphoid precursors within the bone marrow, resulting in disrupted hematopoiesis. Chromosomal abnormalities provide valuable information on the development of ALL and serve as a key indicator of patient outcomes and treatment strategies. Numerous genetic abnormalities can be seen in ALL. Here, we described a case of a 15-year-old patient with B-ALL confirmed through biopsy and immunophenotyping. Conventional...]]></summary>
-        <author>
-            <name>Pina J Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexistence of Dual Chromosomal Abnormalities t(3;7) and t(9;22) in Case of B-Acute Lymphoblastic Leukemia: a Rare Genomic Profile with Diagnostic and Prognostic Challenges]]></title>
-        <id>pubmed:41764641</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41764641/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260306204421&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acute lymphocytic leukemia (ALL) is a hematologic malignancy marked by clonal growth of lymphoid precursors within the bone marrow, resulting in disrupted hematopoiesis. Chromosomal abnormalities provide valuable information on the development of ALL and serve as a key indicator of patient outcomes and treatment strategies. Numerous genetic abnormalities can be seen in ALL. Here, we described a case of a 15-year-old patient with B-ALL confirmed through biopsy and immunophenotyping. Conventional...]]></summary>
-        <author>
-            <name>Pina J Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexistence of Dual Chromosomal Abnormalities t(3;7) and t(9;22) in Case of B-Acute Lymphoblastic Leukemia: a Rare Genomic Profile with Diagnostic and Prognostic Challenges]]></title>
-        <id>pubmed:41764641</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41764641/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260305205214&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acute lymphocytic leukemia (ALL) is a hematologic malignancy marked by clonal growth of lymphoid precursors within the bone marrow, resulting in disrupted hematopoiesis. Chromosomal abnormalities provide valuable information on the development of ALL and serve as a key indicator of patient outcomes and treatment strategies. Numerous genetic abnormalities can be seen in ALL. Here, we described a case of a 15-year-old patient with B-ALL confirmed through biopsy and immunophenotyping. Conventional...]]></summary>
-        <author>
-            <name>Pina J Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexistence of Dual Chromosomal Abnormalities t(3;7) and t(9;22) in Case of B-Acute Lymphoblastic Leukemia: a Rare Genomic Profile with Diagnostic and Prognostic Challenges]]></title>
-        <id>pubmed:41764641</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41764641/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260304205104&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acute lymphocytic leukemia (ALL) is a hematologic malignancy marked by clonal growth of lymphoid precursors within the bone marrow, resulting in disrupted hematopoiesis. Chromosomal abnormalities provide valuable information on the development of ALL and serve as a key indicator of patient outcomes and treatment strategies. Numerous genetic abnormalities can be seen in ALL. Here, we described a case of a 15-year-old patient with B-ALL confirmed through biopsy and immunophenotyping. Conventional...]]></summary>
-        <author>
-            <name>Pina J Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexistence of Dual Chromosomal Abnormalities t(3;7) and t(9;22) in Case of B-Acute Lymphoblastic Leukemia: a Rare Genomic Profile with Diagnostic and Prognostic Challenges]]></title>
-        <id>pubmed:41764641</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41764641/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260303204830&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acute lymphocytic leukemia (ALL) is a hematologic malignancy marked by clonal growth of lymphoid precursors within the bone marrow, resulting in disrupted hematopoiesis. Chromosomal abnormalities provide valuable information on the development of ALL and serve as a key indicator of patient outcomes and treatment strategies. Numerous genetic abnormalities can be seen in ALL. Here, we described a case of a 15-year-old patient with B-ALL confirmed through biopsy and immunophenotyping. Conventional...]]></summary>
-        <author>
-            <name>Pina J Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexistence of Dual Chromosomal Abnormalities t(3;7) and t(9;22) in Case of B-Acute Lymphoblastic Leukemia: a Rare Genomic Profile with Diagnostic and Prognostic Challenges]]></title>
-        <id>pubmed:41764641</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41764641/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260302205349&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acute lymphocytic leukemia (ALL) is a hematologic malignancy marked by clonal growth of lymphoid precursors within the bone marrow, resulting in disrupted hematopoiesis. Chromosomal abnormalities provide valuable information on the development of ALL and serve as a key indicator of patient outcomes and treatment strategies. Numerous genetic abnormalities can be seen in ALL. Here, we described a case of a 15-year-old patient with B-ALL confirmed through biopsy and immunophenotyping. Conventional...]]></summary>
-        <author>
-            <name>Pina J Trivedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexistence of Dual Chromosomal Abnormalities t(3;7) and t(9;22) in Case of B-Acute Lymphoblastic Leukemia: a Rare Genomic Profile with Diagnostic and Prognostic Challenges]]></title>
-        <id>pubmed:41764641</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41764641/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260301205138&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Acute lymphocytic leukemia (ALL) is a hematologic malignancy marked by clonal growth of lymphoid precursors within the bone marrow, resulting in disrupted hematopoiesis. Chromosomal abnormalities provide valuable information on the development of ALL and serve as a key indicator of patient outcomes and treatment strategies. Numerous genetic abnormalities can be seen in ALL. Here, we described a case of a 15-year-old patient with B-ALL confirmed through biopsy and immunophenotyping. Conventional...]]></summary>
-        <author>
-            <name>Pina J Trivedi</name>
         </author>
     </entry>
     <entry>
