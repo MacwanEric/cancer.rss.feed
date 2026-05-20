@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2026-05-19T02:53:05.014Z</updated>
+    <updated>2026-05-20T02:53:10.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Association between JAK2 mutations and thoracic aortic aneurysms in myeloproliferative neoplasms]]></title>
+        <id>pubmed:42154105</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42154105/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Janus kinase 2 (JAK2) V617F mutation is recognized as a defining molecular lesion in Philadelphia chromosome-negative myeloproliferative neoplasms (MPNs). This mutation was recognized in the context of clonal hematopoiesis of indeterminate potential, which has recently been linked with cardiovascular disease. Recent evidence has demonstrated a significant correlation between JAK2 mutations and thoracic aortic aneurysm (TAA) a condition frequently lacking identifiable risk factors. A scoping...]]></summary>
+        <author>
+            <name>Mohamad Wajeh Dulli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal embeddings allow exploratory analysis of lineage-resolved single-cell data]]></title>
+        <id>pubmed:42146635</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42146635/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Assays coupling high-throughput lineage tracing with single-cell transcriptomics are transforming studies of development and disease biology, revealing not only major differentiation routes but also continuous fate biases and their putative regulators. Yet, analysis of such data at scale presents challenges due to the sparse nature of clonal data and annotation dependencies. Towards that aim we developed a machine learning approach - clone2vec - which learns informative clone embeddings directly...]]></summary>
+        <author>
+            <name>Sergey Isaev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Isolated Neutropenia as a Sentinel of High-Risk Clonal Evolution: Acute Myeloid Leukemia With Myelodysplasia-Related Changes Harboring TP53 Deletion via Isochromosome 17q and Deletion 20q Mimicking a Myeloproliferative Neoplasm]]></title>
+        <id>pubmed:42146026</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42146026/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Isolated neutropenia is often deemed benign in elderly patients, frequently attributed to age-related marrow changes, medications, or nutritional deficiencies. However, persistent and unexplained neutropenia may signal early clonal hematopoiesis or evolving myeloid malignancy. While acute myeloid leukemia with myelodysplasia-related changes (AML-MRC) usually arises from multilineage cytopenia, presentation with isolated neutropenia and myeloproliferative neoplasia (MPN)-like features is...]]></summary>
+        <author>
+            <name>Caryn Louise D Gutierrez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clonal embeddings allow exploratory analysis of lineage-resolved single-cell data]]></title>
         <id>pubmed:42146635</id>
@@ -29,11 +59,31 @@
     <entry>
         <title type="html"><![CDATA[A complete human pancreatic cancer genome]]></title>
         <id>pubmed:42146349</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42146349/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-05-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cancer genome sequencing is essential for understanding tumor evolution and advancing precision medicine. ¹ However, reference gaps and germline variants obscure detection of small and large somatic variants and methylation in repetitive regions. ^(1-3) It is common for tumor cells to gain or lose chromosome arms due to somatic structural changes that occur inside highly repetitive satellite DNA sequences in the centromeres. ⁴ To identify the full spectrum of somatic variants, including complex...]]></summary>
+        <author>
+            <name>Justin Wagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A complete human pancreatic cancer genome]]></title>
+        <id>pubmed:42146349</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42146349/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260518225300&amp;v=2.20.0"/>
         <updated>2026-05-18T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Cancer genome sequencing is essential for understanding tumor evolution and advancing precision medicine. ¹ However, reference gaps and germline variants obscure detection of small and large somatic variants and methylation in repetitive regions. ^(1-3) It is common for tumor cells to gain or lose chromosome arms due to somatic structural changes that occur inside highly repetitive satellite DNA sequences in the centromeres. ⁴ To identify the full spectrum of somatic variants, including complex...]]></summary>
         <author>
             <name>Justin Wagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An exploratory study of environmental and nutritional determinants of early-stage clonal hematopoiesis in the elderly]]></title>
+        <id>pubmed:42142420</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42142420/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP), defined by somatic mutations in hematopoietic cells without overt malignancy, is linked to increased risks of hematologic malignancies, cardiovascular disease, and mortality. However, the contribution of environmental exposures and lifestyle factors remains poorly understood. Our exploratory study characterized early-stage CHIP using a variant allele frequency cut-off > 0.1% in 888 well-phenotyped 70-year-olds leveraging ultra-deep targeted...]]></summary>
+        <author>
+            <name>Albin Österroos</name>
         </author>
     </entry>
     <entry>
@@ -54,6 +104,26 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP), defined by somatic mutations in hematopoietic cells without overt malignancy, is linked to increased risks of hematologic malignancies, cardiovascular disease, and mortality. However, the contribution of environmental exposures and lifestyle factors remains poorly understood. Our exploratory study characterized early-stage CHIP using a variant allele frequency cut-off > 0.1% in 888 well-phenotyped 70-year-olds leveraging ultra-deep targeted...]]></summary>
         <author>
             <name>Albin Österroos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Inflammation Mimics Malignancy: Recognizing VEXAS Syndrome in Oncology Practice]]></title>
+        <id>pubmed:42137383</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42137383/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: VEXAS syndrome represents a clonal hematoinflammatory disorder at the intersection of hematology, oncology, and immunology. Recognition of unexplained cytopenias accompanied by systemic inflammation should prompt consideration of UBA1 testing to facilitate earlier diagnosis and multidisciplinary management.]]></summary>
+        <author>
+            <name>Laura El Halabi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clinical, laboratory and genetic characteristics of VEXAS syndrome: a study on behalf of GESMD]]></title>
+        <id>pubmed:42136657</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42136657/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VEXAS syndrome ('Vacuoles', 'E1 enzyme', 'X-linked', 'Autoinflammatory' and 'Somatic') is a rare autoinflammatory disorder caused by somatic mutations in the UBA1 (ubiquitin-like modifier-activating enzyme 1) gene whose treatment and prognosis remain poorly understood. The GESMD group (Grupo Español de Síndromes Mielodisplásicos) conducted a retrospective multicenter study of 40 male patients (median age 74 years), to analyze clinical and biological features, treatments, responses, prognosis and...]]></summary>
+        <author>
+            <name>Marta Fonseca-Santos</name>
         </author>
     </entry>
     <entry>
@@ -139,6 +209,26 @@
     <entry>
         <title type="html"><![CDATA[Cancer, collapse, and the politics of somatic evolution]]></title>
         <id>pubmed:42136800</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42136800/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multicellularity rests on a social contract: cells give up autonomy in exchange for shared resources, division of labour, and protection. Cancer is what happens when that contract collapses, and somatic evolution runs loose inside the body. Here, the multicellular social contract is used as a framework to recast tumour suppressors, tissue architecture, and immune surveillance as enforcement devices, and cancer as a 'rogue society' where cheater lineages exploit public goods, remodel niches, and...]]></summary>
+        <author>
+            <name>Michel Salzet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advancing precision immuno-oncology in melanoma: the synergistic convergence of personalized neoantigen vaccines and multi-omics biomarker profiling]]></title>
+        <id>pubmed:42136652</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42136652/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cutaneous melanoma represents a paradigm of immunological complexity, where multifactorial primary and acquired resistance often undermine the clinical efficacy of conventional immune checkpoint blockades and targeted therapies. This review provides a comprehensive analysis of the strategic shift toward precision immuno-oncology, focusing on the mechanistic synergy between personalized neoantigen-directed vaccines and integrated multi-omics profiling. Rather than viewing these as independent...]]></summary>
+        <author>
+            <name>Yulong Hou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancer, collapse, and the politics of somatic evolution]]></title>
+        <id>pubmed:42136800</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42136800/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260518225300&amp;v=2.20.0"/>
         <updated>2026-05-15T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Multicellularity rests on a social contract: cells give up autonomy in exchange for shared resources, division of labour, and protection. Cancer is what happens when that contract collapses, and somatic evolution runs loose inside the body. Here, the multicellular social contract is used as a framework to recast tumour suppressors, tissue architecture, and immune surveillance as enforcement devices, and cancer as a 'rogue society' where cheater lineages exploit public goods, remodel niches, and...]]></summary>
@@ -214,6 +304,36 @@
         <summary type="html"><![CDATA[Cutaneous melanoma represents a paradigm of immunological complexity, where multifactorial primary and acquired resistance often undermine the clinical efficacy of conventional immune checkpoint blockades and targeted therapies. This review provides a comprehensive analysis of the strategic shift toward precision immuno-oncology, focusing on the mechanistic synergy between personalized neoantigen-directed vaccines and integrated multi-omics profiling. Rather than viewing these as independent...]]></summary>
         <author>
             <name>Yulong Hou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHIP clinics: a practical overview of structure and function]]></title>
+        <id>pubmed:42135277</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42135277/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern knowledge about the principles of clonal hematopoiesis of indeterminate potential (CHIP) has paved way for numerous clinical efforts aimed at managing this pre-malignant condition. The emergence of various CHIP clinics across the globe attests to collaborative attempts to formalize clinical management of CHIP and its entities. However, translational science in this field is limited to date, partly due to nascent therapeutic concepts with limited understanding of natural history and...]]></summary>
+        <author>
+            <name>Shyam A Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subtype-specific effects of clonal hematopoiesis on cerebrovascular and cardiometabolic disease risk]]></title>
+        <id>pubmed:42131836</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42131836/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: CHIP is associated with subtype-specific patterns of cerebrovascular risk within a broader cardiometabolic context. TET2-CHIP showed the most consistent associations with cerebrovascular outcomes. The marked heterogeneity across CHIP subtypes indicates that clonal hematopoiesis should not be considered a uniform exposure, but rather a mutation-defined condition with distinct clinical consequences.]]></summary>
+        <author>
+            <name>Wenqiang Zhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A KMT2C loss-of-function mutation in a JAK2-negative polycythemia vera-like myeloproliferative neoplasm: a case report]]></title>
+        <id>pubmed:42130627</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42130627/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: This case adds to the emerging molecular landscape of JAK2-negative MPNs by identifying KMT2C loss-of-function as a clonal marker in a patient with a JAK2-negative PV-like MPN phenotype. Whether KMT2C p.Tyr987* contributes causally to the erythroid-biased expansion or represents an accompanying clonal event warrants functional investigation. Comprehensive genomic profiling is essential when canonical driver mutations are absent, and strict adherence to cytoreductive targets remains...]]></summary>
+        <author>
+            <name>Tala N Musa</name>
         </author>
     </entry>
     <entry>
@@ -354,6 +474,66 @@
         <summary type="html"><![CDATA[CONCLUSION: This case adds to the emerging molecular landscape of JAK2-negative MPNs by identifying KMT2C loss-of-function as a clonal marker in a patient with a JAK2-negative PV-like MPN phenotype. Whether KMT2C p.Tyr987* contributes causally to the erythroid-biased expansion or represents an accompanying clonal event warrants functional investigation. Comprehensive genomic profiling is essential when canonical driver mutations are absent, and strict adherence to cytoreductive targets remains...]]></summary>
         <author>
             <name>Tala N Musa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preemptive cardioprotection with a small molecule in rodents that suppresses genes predictive of heart failure]]></title>
+        <id>pubmed:42127187</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42127187/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ischemic heart disease is a leading cause of death worldwide. While percutaneous coronary intervention (PCI) restores blood flow in acute coronary syndrome (ACS), reperfusion injury exacerbates myocardial damage, contributing to heart failure (HF). Preemptive administration of a cardioprotective agent could help counter the imminent proinflammatory insult of PCI and reperfusion. Administering BT2, a small-molecule MAPK kinase/extracellular signal-regulated kinase inhibitor, 24 hours before and...]]></summary>
+        <author>
+            <name>Yue Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radiological concern for liposarcoma unmasked as extra-adrenal myelolipoma: A case report]]></title>
+        <id>pubmed:42125419</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42125419/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Extra-adrenal myelolipomas (EAMLs) are rare, benign tumors composed of mature adipose tissue and trilineage hematopoiesis, most commonly arising in the retroperitoneum. When large or radiographically atypical, they can mimic malignant entities, such as well-differentiated liposarcomas, often necessitating tissue diagnosis. The present case report describes the case of a 79-year-old male patient with a history of pituitary adenoma treated with resection and radiation, resulting in secondary...]]></summary>
+        <author>
+            <name>Shin Zaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gut Microbiota in Hematologic Malignancies: Mechanisms, Clinical Associations, and Translational Opportunities]]></title>
+        <id>pubmed:42124002</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42124002/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hematologic malignancies arise and progress within a systemic ecosystem in which the gut microbiota is an increasingly recognized, partially modifiable component. Across acute leukemias, chronic lymphocytic leukemia, plasma cell disorders, lymphomas, and clonal myeloid neoplasms, human studies consistently report reduced microbial diversity, depletion of barrier-supportive, short-chain fatty acid-producing commensals, and enrichment of Gram-negative, pro-inflammatory, or hospital-adapted taxa....]]></summary>
+        <author>
+            <name>Santino Caserta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hematopoietic Aging and Leukemia: Mechanistic and Therapeutic Insights]]></title>
+        <id>pubmed:42123622</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42123622/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aging profoundly alters hematopoiesis by impairing stem cell self-renewal, skewing lineage differentiation, and remodeling immune and stromal compartments within the bone marrow. Consequently, these changes contribute to an increased susceptibility to leukemia. Conversely, leukemia contributes to systemic aging. Although the connection between hematopoietic aging and leukemogenesis has been well-recognized, the precise molecular and microenvironmental mechanisms underlying this association...]]></summary>
+        <author>
+            <name>Zhihui Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prospects of Chimeric Antigen Receptor T-Cell Therapy in Myelofibrosis: From Immunopathogenesis to Therapeutic Strategies]]></title>
+        <id>pubmed:42122287</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42122287/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelofibrosis (MF) is a myeloproliferative neoplasm characterized by clonal hematopoietic dysregulation, amplification of chronic inflammation, and progressive remodeling of the bone marrow fibrotic niche, clinically manifesting as bone marrow failure, splenomegaly, and systemic inflammatory symptoms. Although Janus kinase (JAK) inhibitors can alleviate symptom burden and reduce spleen size, they have limited capacity to eradicate malignant clones or reverse fibrosis. Allogeneic hematopoietic...]]></summary>
+        <author>
+            <name>Lulu Kong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revisiting the Origins of Cutaneous T-Cell Lymphoma: A Progenitor-Based Model]]></title>
+        <id>pubmed:42122188</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42122188/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260519225306&amp;v=2.20.0"/>
+        <updated>2026-05-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cutaneous T-cell lymphoma (CTCL), primarily mycosis fungoides (MF) and Sézary syndrome (SS), has long been characterized as a neoplasm of mature memory T cells, based on monoclonal T-cell receptor (TCR) rearrangements and tissue-resident memory (TRM)/central memory (TCM) T-cell phenotypes. This review synthesizes converging population-genetic, multi-omic, and single-cell evidence to argue that this characterization is incomplete and that a progenitor-based model better accounts for the full...]]></summary>
+        <author>
+            <name>Yumeng Zhang</name>
         </author>
     </entry>
     <entry>
@@ -1419,6 +1599,16 @@
     <entry>
         <title type="html"><![CDATA[Stem cell competition]]></title>
         <id>pubmed:42097810</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42097810/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-05-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cell competition is a conserved, fitness-based process in which "winner" cells eliminate or displace less-fit "loser" neighbors, thereby shaping development, tissue homeostasis, and disease. This review synthesizes how principles of competition operate in stem cell compartments, focusing on the adult Drosophila testis as a genetically tractable model where neutral competition provides a baseline for stem cell turnover, and defined genetic perturbations bias competition to favor specific clones....]]></summary>
+        <author>
+            <name>Erika A Bach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stem cell competition]]></title>
+        <id>pubmed:42097810</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42097810/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260518225300&amp;v=2.20.0"/>
         <updated>2026-05-07T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Cell competition is a conserved, fitness-based process in which "winner" cells eliminate or displace less-fit "loser" neighbors, thereby shaping development, tissue homeostasis, and disease. This review synthesizes how principles of competition operate in stem cell compartments, focusing on the adult Drosophila testis as a genetically tractable model where neutral competition provides a baseline for stem cell turnover, and defined genetic perturbations bias competition to favor specific clones....]]></summary>
@@ -1660,6 +1850,16 @@
         <title type="html"><![CDATA[Clonal hematopoiesis in patients with cancer and cancer survivors: From clonal burden to cardiovascular diseases]]></title>
         <id>pubmed:42089460</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42089460/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260506223457&amp;v=2.19.0.post6+133c1fe"/>
+        <updated>2026-05-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past decade, clonal hematopoiesis (CH) has gained substantial attention as a prevalent, age-associated phenomenon with major implications for hematologic malignancy, cardiovascular disease, and mortality. CH arises from the clonal expansion of hematopoietic stem cells and progenitor cells harboring somatic mutations, most commonly in genes implicated in leukemia. Beyond chronological aging, CH evolution is shaped by lifelong exposure to inflammatory, metabolic, and environmental...]]></summary>
+        <author>
+            <name>Christian H Nenninger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis in patients with cancer and cancer survivors: From clonal burden to cardiovascular diseases]]></title>
+        <id>pubmed:42089460</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42089460/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
         <updated>2026-05-06T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Over the past decade, clonal hematopoiesis (CH) has gained substantial attention as a prevalent, age-associated phenomenon with major implications for hematologic malignancy, cardiovascular disease, and mortality. CH arises from the clonal expansion of hematopoietic stem cells and progenitor cells harboring somatic mutations, most commonly in genes implicated in leukemia. Beyond chronological aging, CH evolution is shaped by lifelong exposure to inflammatory, metabolic, and environmental...]]></summary>
         <author>
@@ -2809,6 +3009,16 @@
     <entry>
         <title type="html"><![CDATA[Multi-Omic Landscape of Gastrointestinal Stromal Tumors in a Real-World Patient Cohort of 1,427 Cases]]></title>
         <id>pubmed:42059893</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42059893/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-04-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: This molecular landscape provides a broader molecular understanding of GIST and supports a widespread use of genetic profiling for patients' clinical management.]]></summary>
+        <author>
+            <name>César Serrano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Omic Landscape of Gastrointestinal Stromal Tumors in a Real-World Patient Cohort of 1,427 Cases]]></title>
+        <id>pubmed:42059893</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42059893/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260518225300&amp;v=2.20.0"/>
         <updated>2026-04-30T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: This molecular landscape provides a broader molecular understanding of GIST and supports a widespread use of genetic profiling for patients' clinical management.]]></summary>
@@ -3094,6 +3304,26 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis of indeterminate potential (CHIP) is an age-associated condition whose population-level characteristics and clinical concordance in Japan remain incompletely defined. We analyzed whole-genome sequencing data from 49,982 participants in the Tohoku Medical Megabank (TMM) cohort to characterize the prevalence, mutational spectrum, age dependency, and clinical relevance of CHIP. CHIP mutations were detected in 1234 individuals (2.5%), comprising 1413 variants across 1015 loci....]]></summary>
         <author>
             <name>SungGi Chi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolutionary characterization of lung cancer metastasis]]></title>
+        <id>pubmed:42056508</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42056508/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-04-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Limited understanding of the biological processes that govern metastatic dissemination hinders its prevention and treatment¹. Here, using 501 longitudinally collected primary and metastatic tumour samples from 24 patients with non-small cell lung cancer (NSCLC) enrolled in the TRACERx lung study and PEACE autopsy programme, we infer tumour evolution from diagnosis to death. With DNA-sequencing data encompassing 70% of the metastases that were radiologically detected before death and paired...]]></summary>
+        <author>
+            <name>Sonya Hessey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OncoBERT: Context-Aware Modeling of Somatic Mutations for Precision Oncology]]></title>
+        <id>pubmed:42051297</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42051297/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-04-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Somatic mutation profiling is central to cancer diagnosis and treatment selection. However, most studies focus on individual actionable mutations, overlooking the broader mutational context that shapes tumor evolution and treatment response. Here, we introduce OncoBERT, a language model that learns contextual representations of somatic mutations from large-scale clinical sequencing data spanning >210,000 patients, 113 cancer types and 20 institutions. OncoBERT uncovers robust patient-specific...]]></summary>
+        <author>
+            <name>Sushant Patkar</name>
         </author>
     </entry>
     <entry>
@@ -3969,6 +4199,16 @@
     <entry>
         <title type="html"><![CDATA[MOKCa-3D database: functional and structural analysis of missense mutations in cancer]]></title>
         <id>pubmed:42037558</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42037558/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-04-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Determining the functional consequence of missense mutations acquired in the development of cancer is critical to the understanding of the evolution and the therapeutic vulnerabilities of an individual tumour. Several million missense mutations associated with cancer have been reported across different databases with little functional annotation accompanying each mutation. We have designed the MOKCa-3D database, (https://bioinformaticslab.sussex.ac.uk/MOKCa-3D/) to enable the contextualization...]]></summary>
+        <author>
+            <name>Biniam Haile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOKCa-3D database: functional and structural analysis of missense mutations in cancer]]></title>
+        <id>pubmed:42037558</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42037558/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260518225300&amp;v=2.20.0"/>
         <updated>2026-04-27T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Determining the functional consequence of missense mutations acquired in the development of cancer is critical to the understanding of the evolution and the therapeutic vulnerabilities of an individual tumour. Several million missense mutations associated with cancer have been reported across different databases with little functional annotation accompanying each mutation. We have designed the MOKCa-3D database, (https://bioinformaticslab.sussex.ac.uk/MOKCa-3D/) to enable the contextualization...]]></summary>
@@ -4379,6 +4619,16 @@
     <entry>
         <title type="html"><![CDATA[Molecular evolution of mosaic chromosome 18 copy-number alterations from gametes to hepatoblastoma]]></title>
         <id>pubmed:42019868</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42019868/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-04-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: This case reconstructs the molecular evolution of chromosome 18 alterations from the zygote to tumor formation and highlights how mosaic chromosome abnormalities can intersect with developmental defects and pediatric liver cancer.]]></summary>
+        <author>
+            <name>Elise Cendres</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular evolution of mosaic chromosome 18 copy-number alterations from gametes to hepatoblastoma]]></title>
+        <id>pubmed:42019868</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42019868/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260518225300&amp;v=2.20.0"/>
         <updated>2026-04-22T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[CONCLUSIONS: This case reconstructs the molecular evolution of chromosome 18 alterations from the zygote to tumor formation and highlights how mosaic chromosome abnormalities can intersect with developmental defects and pediatric liver cancer.]]></summary>
@@ -4634,6 +4884,16 @@
         <summary type="html"><![CDATA[CONCLUSIONS: This case reconstructs the molecular evolution of chromosome 18 alterations from the zygote to tumor formation and highlights how mosaic chromosome abnormalities can intersect with developmental defects and pediatric liver cancer.]]></summary>
         <author>
             <name>Elise Cendres</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile elements in pituitary neuroendocrine tumors: integrative evidence and future directions]]></title>
+        <id>pubmed:42012999</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42012999/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mobile genetic elements (MGEs), including LINE-1 retrotransposons, Alu and SVA elements, and human endogenous retroviruses (HERVs), constitute nearly half of the human genome and are increasingly understood to influence multiple dimensions of cancer evolution. Yet, pituitary neuroendocrine tumors (PitNETs) remain almost absent from mobilome research, despite exhibiting genomic and epigenetic contexts permissive to retroelement activation. In this review, we synthesize current evidence linking...]]></summary>
+        <author>
+            <name>Rafael Loch Batista</name>
         </author>
     </entry>
     <entry>
@@ -4914,6 +5174,16 @@
         <summary type="html"><![CDATA[Mobile genetic elements (MGEs), including LINE-1 retrotransposons, Alu and SVA elements, and human endogenous retroviruses (HERVs), constitute nearly half of the human genome and are increasingly understood to influence multiple dimensions of cancer evolution. Yet, pituitary neuroendocrine tumors (PitNETs) remain almost absent from mobilome research, despite exhibiting genomic and epigenetic contexts permissive to retroelement activation. In this review, we synthesize current evidence linking...]]></summary>
         <author>
             <name>Rafael Loch Batista</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrated Single-Cell Whole-Genome Sequencing and Spatial Transcriptomics Reveal Intratumoral Heterogeneity in Ovarian Cancer]]></title>
+        <id>pubmed:42007974</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42007974/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-04-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The mortality rate of ovarian cancer remains disproportionately high compared with its incidence. This is partly due to a high level of intratumoral heterogeneity, driven by genomic instability, that promotes disease recurrence and treatment failure. In this study, we describe degrees of heterogeneity revealed by single-cell whole-genome sequencing and spatial transcriptomics (ST) of five late-stage, treatment-naïve primary epithelial ovarian carcinomas, including high-grade serous and...]]></summary>
+        <author>
+            <name>Rania Bassiouni</name>
         </author>
     </entry>
     <entry>
@@ -5674,6 +5944,16 @@
         <summary type="html"><![CDATA[CONCLUSION: The presence of CHIP is associated with GCA relapses in this exploratory cohort. Further studies are needed to confirm these findings.]]></summary>
         <author>
             <name>Oriane Cellier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting context-dependent selection on cancer driver genes with DiffDriver]]></title>
+        <id>pubmed:41993381</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-04-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the "contexts" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in "differential...]]></summary>
+        <author>
+            <name>Jie Zhou</name>
         </author>
     </entry>
     <entry>
@@ -7044,6 +7324,26 @@
         <summary type="html"><![CDATA[Circulating tumour DNA (ctDNA) assays are increasingly applied in haematological malignancies for non-invasive genotyping, quantitative response assessment, measurable residual disease (MRD) detection, and relapse surveillance, often complementing bone marrow-based testing and, in selected scenarios, potentially reducing its frequency. Yet, translating ctDNA results into comparable clinical decisions across laboratories, platforms, and time remains challenging because ctDNA measurements are...]]></summary>
         <author>
             <name>Sapha Shibeeb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genome-Wide Copy-Number Landscape of Germ Cell Tumors With Synchronous Conventional and "Somatic-Type" Malignancy Components]]></title>
+        <id>pubmed:41980879</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41980879/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-04-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[So-called "somatic-type" malignancies (SMs) of germ cell tumor (GCT) origin resemble malignant neoplasms that arise from true somatic tissue. Except for enrichment in TP53 pathway alterations, the mutational profile of GCTs with SMs does not significantly differ from that of typical GCTs. Prior studies have suggested that copy number alterations (CNAs) of SMs may differ from those of conventional GCTs, but comparative genome-wide CNA analyses of paired components of GCTs with SMs have not been...]]></summary>
+        <author>
+            <name>Kvetoslava Michalova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathology of Cutaneous T Cell Lymphoma: A Narrative Review]]></title>
+        <id>pubmed:41976391</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/41976391/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260519225308&amp;v=2.20.0"/>
+        <updated>2026-04-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cutaneous T-cell lymphoma (CTCL) comprises a heterogeneous group of extranodal non-Hodgkin lymphomas. With the publication of the fifth edition of the World Health Organization Classification of Hematolymphoid Tumors, the diagnostic framework for CTCL has shifted from primarily morphologic phenotypes toward an emphasis on molecular drivers. Current research suggests that malignant clones may arise from somatic mutations at the hematopoietic stem cell stage and may follow a continuous...]]></summary>
+        <author>
+            <name>Ting Zhang</name>
         </author>
     </entry>
     <entry>
@@ -14164,66 +14464,6 @@
         <summary type="html"><![CDATA[Cancer genomes accumulate somatic mutations over time, influenced by both intrinsic and extrinsic mutational processes. In metastatic cancer, disseminated tumor cells may acquire additional mutations at metastatic sites, shaped by extrinsic factors distinct from those at the primary tumor. As a result, cancer genomes at metastatic sites may bear mutational signatures originating from both primary and metastatic environments. However, the patterns and relative contributions of mutational...]]></summary>
         <author>
             <name>Anastasia Yankovskiy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Risk of haematologic malignancies among cutaneous melanoma survivors: A population-based analysis using large-scale queensland cancer registry data]]></title>
-        <id>pubmed:41864090</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41864090/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260327215445&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Queensland melanoma survivors experience a persistent and subtype-specific excess of haematological malignancies, particularly plasma-cell and mature B-cell neoplasms. The pattern of risk supports a multifactorial aetiology involving immune modulation, age-related clonal haematopoiesis, and treatment-related influences rather than surveillance bias alone. These findings underscore the importance of risk-aware, symptom-triggered follow-up and the need for future linkage of clinical,...]]></summary>
-        <author>
-            <name>Ashmitha Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Risk of haematologic malignancies among cutaneous melanoma survivors: A population-based analysis using large-scale queensland cancer registry data]]></title>
-        <id>pubmed:41864090</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41864090/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260326220339&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Queensland melanoma survivors experience a persistent and subtype-specific excess of haematological malignancies, particularly plasma-cell and mature B-cell neoplasms. The pattern of risk supports a multifactorial aetiology involving immune modulation, age-related clonal haematopoiesis, and treatment-related influences rather than surveillance bias alone. These findings underscore the importance of risk-aware, symptom-triggered follow-up and the need for future linkage of clinical,...]]></summary>
-        <author>
-            <name>Ashmitha Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Risk of haematologic malignancies among cutaneous melanoma survivors: A population-based analysis using large-scale queensland cancer registry data]]></title>
-        <id>pubmed:41864090</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41864090/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260325220235&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Queensland melanoma survivors experience a persistent and subtype-specific excess of haematological malignancies, particularly plasma-cell and mature B-cell neoplasms. The pattern of risk supports a multifactorial aetiology involving immune modulation, age-related clonal haematopoiesis, and treatment-related influences rather than surveillance bias alone. These findings underscore the importance of risk-aware, symptom-triggered follow-up and the need for future linkage of clinical,...]]></summary>
-        <author>
-            <name>Ashmitha Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Risk of haematologic malignancies among cutaneous melanoma survivors: A population-based analysis using large-scale queensland cancer registry data]]></title>
-        <id>pubmed:41864090</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41864090/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260324215608&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Queensland melanoma survivors experience a persistent and subtype-specific excess of haematological malignancies, particularly plasma-cell and mature B-cell neoplasms. The pattern of risk supports a multifactorial aetiology involving immune modulation, age-related clonal haematopoiesis, and treatment-related influences rather than surveillance bias alone. These findings underscore the importance of risk-aware, symptom-triggered follow-up and the need for future linkage of clinical,...]]></summary>
-        <author>
-            <name>Ashmitha Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Risk of haematologic malignancies among cutaneous melanoma survivors: A population-based analysis using large-scale queensland cancer registry data]]></title>
-        <id>pubmed:41864090</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41864090/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260323215031&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Queensland melanoma survivors experience a persistent and subtype-specific excess of haematological malignancies, particularly plasma-cell and mature B-cell neoplasms. The pattern of risk supports a multifactorial aetiology involving immune modulation, age-related clonal haematopoiesis, and treatment-related influences rather than surveillance bias alone. These findings underscore the importance of risk-aware, symptom-triggered follow-up and the need for future linkage of clinical,...]]></summary>
-        <author>
-            <name>Ashmitha Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Risk of haematologic malignancies among cutaneous melanoma survivors: A population-based analysis using large-scale queensland cancer registry data]]></title>
-        <id>pubmed:41864090</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/41864090/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260322215845&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-03-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: Queensland melanoma survivors experience a persistent and subtype-specific excess of haematological malignancies, particularly plasma-cell and mature B-cell neoplasms. The pattern of risk supports a multifactorial aetiology involving immune modulation, age-related clonal haematopoiesis, and treatment-related influences rather than surveillance bias alone. These findings underscore the importance of risk-aware, symptom-triggered follow-up and the need for future linkage of clinical,...]]></summary>
-        <author>
-            <name>Ashmitha Kumar</name>
         </author>
     </entry>
     <entry>
