@@ -210,8 +210,38 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20260524232958&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&v=2.20.0&utm_medium=rss&fc=20220608003622",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&utm_campaign=pubmed-2&v=2.20.0&utm_medium=rss&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:42180554",
+          "author": "Xingling Chen",
+          "description": "TET2-mediated clonal hematopoiesis of indeterminate potential (CHIP) is a known cardiovascular risk factor, but its role in cardiac aging and potential for pharmacological intervention remain unclear. Herein, Mendelian randomization using large-scale genome-wide association studies (GWAS) data assessed CHIP's causal impact on aging and cardiovascular disease that revealed significant causal associations between TET2-CHIP, CVD, and aging biomarkers. Transcriptome-guided screening identified...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42180554/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-25T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Oridonin as a novel KDM5C inhibitor alleviates clonal hematopoiesis-induced cardiac aging via H3K4me3-dependent SASP suppression",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42180127",
+          "author": "Luana Greco",
+          "description": "Li-Fraumeni syndrome (LFS) is a rare hereditary cancer predisposition syndrome caused by pathogenic variants in the TP53 gene. The increasing use of next-generation sequencing (NGS) in germline testing has led to more frequent detection of TP53 variants with low variant allele frequency (VAF), raising diagnostic challenges in distinguishing true germline alterations from post-zygotic mosaicism or clonal hematopoiesis and circulating tumor DNA, with relevant clinical and counseling implications....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42180127/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-25T10:00:00.000Z",
+          "wordCount": 2115,
+          "title": "Mosaic <em>TP53</em> pathogenic variant in early-onset breast cancer: a case report",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42176138",
+          "author": "Yareli Lizbeth Rojas-Salazar",
+          "description": "PURPOSE OF REVIEW: Liquid biopsy has emerged as a minimally invasive approach to overcome the limitations of tissue biopsy in oncology. This review aims to synthesize recent advances in its clinical applications, particularly in early cancer detection, therapeutic monitoring, and minimal residual disease (MRD), while discussing current challenges, regulatory perspectives, and future directions.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42176138/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-23T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Liquid Biopsy in Modern Oncology: Advances, Challenges, and Future Perspectives in Early Cancer Detection, Minimal Residual Disease, and Dynamic Patient Monitoring",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42176138",
           "author": "Yareli Lizbeth Rojas-Salazar",
@@ -221,6 +251,16 @@
           "wordCount": 1701,
           "title": "Liquid Biopsy in Modern Oncology: Advances, Challenges, and Future Perspectives in Early Cancer Detection, Minimal Residual Disease, and Dynamic Patient Monitoring",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42170273",
+          "author": "Manon Robert",
+          "description": "CONCLUSIONS: Met-ctDNA is a versatile, non-invasive biomarker with diagnostic, prognostic, and predictive value in NSCLC. Standardization of methodologies and validation in large-scale prospective trials are essential to enable its integration into routine clinical practice.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42170273/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-22T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Methylated circulating tumor DNA: technical challenges and clinical applications in non-small cell lung cancer patients-a narrative review",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42170273",
@@ -250,6 +290,36 @@
           "publishedOn": "2026-05-22T10:00:00.000Z",
           "wordCount": 527,
           "title": "Methylated circulating tumor DNA: technical challenges and clinical applications in non-small cell lung cancer patients-a narrative review",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42168198",
+          "author": "Kara M Barnao",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) and mosaic chromosomal alterations (mCAs) are two types of clonal hematopoiesis (CH) associated with hematological parameters and malignancy risk. Here we show, in genomic data from 546,090 biobank participants, that co-occurring CH (≥2 CH mutations detected) is present in 1.6% of cancer-free individuals and shows strong evidence for selection (up to 804x enrichment). Co-occurrence is more frequent in those with a prior cancer (3.6%),...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42168198/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-21T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Co-occurring clonal hematopoiesis exhibits strong selection and high leukemia risk",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42165208",
+          "author": "Tamanna Haque",
+          "description": "BackgroundApproximately 50% of venous thromboembolism (VTE) are unprovoked, and 30% recur, leading to significant patient morbidity. Clonal hematopoiesis (CH) are acquired hematopoietic mutations that increase the risk of cardiovascular disease and myeloid neoplasms. CH may be associated with VTE and/or a predictive risk factor for recurrent VTE.MethodsWe conducted the first prospective pilot single-center study for patients with VTE to assess rate of CH, VTE recurrence rate, and clinical...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42165208/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-21T10:00:00.000Z",
+          "wordCount": 2001,
+          "title": "Clonal Hematopoiesis Rates in a Recurrent Venous Thrombosis Population: A Prospective Pilot Study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42165150",
+          "author": "Cesar De Jeronimo Diaz",
+          "description": "CONCLUSIONS: These findings indicate that in murine models, Ppm1d mutations are not sufficient to promote atherosclerosis, suggesting that the epidemiological association between PPM1D CH and coronary artery disease may not be due to changes in plaque development.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42165150/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-21T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Ppm1d Clonal Hematopoiesis Does Not Promote Atherosclerosis in Murine Models",
           "imageUrl": null
         },
         {
@@ -361,6 +431,46 @@
           "wordCount": 1615,
           "title": "Ppm1d Clonal Hematopoiesis Does Not Promote Atherosclerosis in Murine Models",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42162670",
+          "author": "Liu Liu",
+          "description": "CONCLUSION: ctDNA effectively detected ESR1 and PIK3CA mutations relevant to targeted therapies, while failed to identify a subset of patients with ESR1 amplification, as well as other CNVs potentially mediating CDK4/6 inhibitor resistance. TP53 mutations observed at high frequency in ctDNA without tissue confirmation may reflect clonal hematopoiesis and its prognostic significance requires careful interpretation. As liquid biopsy is valuable for disease and treatment monitoring, understanding...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42162670/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-20T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Paired Tissue and ctDNA Profiling Reveals Novel ESR1 Amplifications CDK4/6 Resistance Mechanisms in HR+/HER2- Metastatic Breast Cancers",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42162181",
+          "author": "Alec P Morley",
+          "description": "Clonal haematopoiesis (CH) refers to the clonal expansion of haematopoietic stem cells in the absence of overt haematological malignancy and is common in older individuals. Recent evidence has heralded CH as a novel determinant of cardiovascular disease. This review explores the associations of CH with ischaemic heart disease, heart failure, atrial fibrillation and cardio-oncology, highlighting biases in the literature, exploring effects of mutation and clone size, concluding with clinical...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42162181/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-20T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Clonal haematopoiesis and cardiovascular disease, defining risk, filling gaps, and framing the future",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42161403",
+          "author": "Gina G Bishara",
+          "description": "Despite the success of immunotherapy, chemotherapy remains the backbone of front-line therapy for most patients with cancer. Immune checkpoint inhibitors, T cell engagers, and adoptive cell therapies have traditionally been relegated to second-line or later settings. However, accumulating evidence of improved clinical responses when immunotherapy is administered to less heavily pretreated patients has prompted the incorporation of these modalities earlier in treatment scheduling. Yet,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42161403/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-20T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Immunological consequences of chemotherapy: implications for cancer immunotherapy",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42157378",
+          "author": "Shyam A Patel",
+          "description": "Age-related changes in human hematopoietic stem cells (HSCs) often form the basis for clonal hematopoiesis (CH), which presages the development of overt myeloid neoplasm with variable risk. CH can also arise after exposure to chemotherapy, radiotherapy, or immune interventions. In this study, we performed clinico-genomic profiling of therapy-related CH (t-CH) (n = 67) versus de novo CH (n = 123) from a multidisciplinary CHIP Clinic. The most enriched mutations in t-CH were TET2 (26.2%), DNMT3A...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42157378/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-20T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Ontogeny and Natural History of Therapy-Related Clonal Hematopoiesis From a Multidisciplinary CHIP Clinic",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42162670",
@@ -536,6 +646,16 @@
           "id": "pubmed:42154105",
           "author": "Mohamad Wajeh Dulli",
           "description": "The Janus kinase 2 (JAK2) V617F mutation is recognized as a defining molecular lesion in Philadelphia chromosome-negative myeloproliferative neoplasms (MPNs). This mutation was recognized in the context of clonal hematopoiesis of indeterminate potential, which has recently been linked with cardiovascular disease. Recent evidence has demonstrated a significant correlation between JAK2 mutations and thoracic aortic aneurysm (TAA) a condition frequently lacking identifiable risk factors. A scoping...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42154105/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-19T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Association between JAK2 mutations and thoracic aortic aneurysms in myeloproliferative neoplasms",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42154105",
+          "author": "Mohamad Wajeh Dulli",
+          "description": "The Janus kinase 2 (JAK2) V617F mutation is recognized as a defining molecular lesion in Philadelphia chromosome-negative myeloproliferative neoplasms (MPNs). This mutation was recognized in the context of clonal hematopoiesis of indeterminate potential, which has recently been linked with cardiovascular disease. Recent evidence has demonstrated a significant correlation between JAK2 mutations and thoracic aortic aneurysm (TAA) a condition frequently lacking identifiable risk factors. A scoping...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42154105/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260524232958&v=2.20.0",
           "publishedOn": "2026-05-19T10:00:00.000Z",
           "wordCount": 527,
@@ -590,6 +710,26 @@
           "publishedOn": "2026-05-19T10:00:00.000Z",
           "wordCount": 527,
           "title": "Association between JAK2 mutations and thoracic aortic aneurysms in myeloproliferative neoplasms",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42146635",
+          "author": "Sergey Isaev",
+          "description": "Assays coupling high-throughput lineage tracing with single-cell transcriptomics are transforming studies of development and disease biology, revealing not only major differentiation routes but also continuous fate biases and their putative regulators. Yet, analysis of such data at scale presents challenges due to the sparse nature of clonal data and annotation dependencies. Towards that aim we developed a machine learning approach - clone2vec - which learns informative clone embeddings directly...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42146635/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-18T10:00:00.000Z",
+          "wordCount": 1164,
+          "title": "Clonal embeddings allow exploratory analysis of lineage-resolved single-cell data",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42146026",
+          "author": "Caryn Louise D Gutierrez",
+          "description": "Isolated neutropenia is often deemed benign in elderly patients, frequently attributed to age-related marrow changes, medications, or nutritional deficiencies. However, persistent and unexplained neutropenia may signal early clonal hematopoiesis or evolving myeloid malignancy. While acute myeloid leukemia with myelodysplasia-related changes (AML-MRC) usually arises from multilineage cytopenia, presentation with isolated neutropenia and myeloproliferative neoplasia (MPN)-like features is...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42146026/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-18T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Isolated Neutropenia as a Sentinel of High-Risk Clonal Evolution: Acute Myeloid Leukemia With Myelodysplasia-Related Changes Harboring TP53 Deletion via Isochromosome 17q and Deletion 20q Mimicking a Myeloproliferative Neoplasm",
           "imageUrl": null
         },
         {
@@ -731,6 +871,16 @@
           "wordCount": 527,
           "title": "Isolated Neutropenia as a Sentinel of High-Risk Clonal Evolution: Acute Myeloid Leukemia With Myelodysplasia-Related Changes Harboring TP53 Deletion via Isochromosome 17q and Deletion 20q Mimicking a Myeloproliferative Neoplasm",
           "imageUrl": null
+        },
+        {
+          "id": "pubmed:42142420",
+          "author": "Albin Österroos",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP), defined by somatic mutations in hematopoietic cells without overt malignancy, is linked to increased risks of hematologic malignancies, cardiovascular disease, and mortality. However, the contribution of environmental exposures and lifestyle factors remains poorly understood. Our exploratory study characterized early-stage CHIP using a variant allele frequency cut-off > 0.1% in 888 well-phenotyped 70-year-olds leveraging ultra-deep targeted...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42142420/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-16T10:00:00.000Z",
+          "wordCount": 1567,
+          "title": "An exploratory study of environmental and nutritional determinants of early-stage clonal hematopoiesis in the elderly",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
           "id": "pubmed:42142420",
@@ -8481,264 +8631,34 @@
           "wordCount": 1275,
           "title": "Emerging Mechanisms and Therapeutic Strategies in Dilated Cardiomyopathy",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41896073",
-          "author": "Christopher M Sande",
-          "description": "Telomere biology disorders (TBDs) are a group of genetic conditions of varying severity caused by defects in telomere maintenance. Patients with TBDs can experience dysfunction in nearly all organ systems, including the bone marrow, with increased risk for bone marrow failure and myeloid neoplasms. Over the past decade, several groups have identified higher rates and earlier onset of clonal hematopoiesis (CH) in TBDs patients, with a distinct profile of somatic variants compared to the general...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41896073/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260402220202&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1276,
-          "title": "Clonal hematopoiesis in telomere biology disorders",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41894068",
-          "author": "Joseph Van Galen",
-          "description": "Acute myeloid leukemia (AML) is a lethal and rapidly progressive hematologic malignancy with high rates of relapse and treatment refractoriness. Management of AML is complicated by biological heterogeneity in a disease that is broadly defined by the clonal expansion of myeloblasts that otherwise play an important role in healthy marrow tissues. While subtypes of AML are increasingly defined by druggable driver mutations including FLT3-ITD, IDH1, IDH2, and NPM1, conventional chemotherapy and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41894068/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260402220202&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2082,
-          "title": "Measurable residual disease testing in acute myeloid leukemia: current state, foundational models, and tools for future development",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41896073",
-          "author": "Christopher M Sande",
-          "description": "Telomere biology disorders (TBDs) are a group of genetic conditions of varying severity caused by defects in telomere maintenance. Patients with TBDs can experience dysfunction in nearly all organ systems, including the bone marrow, with increased risk for bone marrow failure and myeloid neoplasms. Over the past decade, several groups have identified higher rates and earlier onset of clonal hematopoiesis (CH) in TBDs patients, with a distinct profile of somatic variants compared to the general...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41896073/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260401220023&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1276,
-          "title": "Clonal hematopoiesis in telomere biology disorders",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41894068",
-          "author": "Joseph Van Galen",
-          "description": "Acute myeloid leukemia (AML) is a lethal and rapidly progressive hematologic malignancy with high rates of relapse and treatment refractoriness. Management of AML is complicated by biological heterogeneity in a disease that is broadly defined by the clonal expansion of myeloblasts that otherwise play an important role in healthy marrow tissues. While subtypes of AML are increasingly defined by druggable driver mutations including FLT3-ITD, IDH1, IDH2, and NPM1, conventional chemotherapy and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41894068/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260401220023&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2082,
-          "title": "Measurable residual disease testing in acute myeloid leukemia: current state, foundational models, and tools for future development",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41892345",
-          "author": "Ann X Wang",
-          "description": "Blood platelets are derived from megakaryocytes with functions extending beyond hemostasis to inflammation, immunity, and cancer. Myeloproliferative neoplasms (MPNs) are clonal stem cell disorders driven by somatic mutations affecting JAK-STAT signaling, leading to excessive myeloid proliferation. Thrombosis affects approximately one-fifth of patients at diagnosis and remains elevated throughout the disease course, while the paradoxical coexistence of bleeding further complicates clinical...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41892345/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260401220023&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1799,
-          "title": "Molecular and Functional Platelet Abnormalities in Myeloproliferative Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41888514",
-          "author": "Xiong Yang",
-          "description": "Multiple germline and somatic genomic factors are associated with risk of coronary artery disease, but there is no single measure of risk that integrates all information from a DNA sample. To address this gap, we develop an integrated genomic model that includes six germline and somatic genetic drivers for coronary artery disease, including polygenic risk score, genetically-proxied proteomic/metabolomic risk scores, and clonal hematopoiesis of indeterminate potential. We evaluated its predictive...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41888514/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260401220023&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 3998,
-          "title": "An integrated germline and somatic genomic model for coronary artery disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41896073",
-          "author": "Christopher M Sande",
-          "description": "Telomere biology disorders (TBDs) are a group of genetic conditions of varying severity caused by defects in telomere maintenance. Patients with TBDs can experience dysfunction in nearly all organ systems, including the bone marrow, with increased risk for bone marrow failure and myeloid neoplasms. Over the past decade, several groups have identified higher rates and earlier onset of clonal hematopoiesis (CH) in TBDs patients, with a distinct profile of somatic variants compared to the general...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41896073/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260331221247&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1276,
-          "title": "Clonal hematopoiesis in telomere biology disorders",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41894068",
-          "author": "Joseph Van Galen",
-          "description": "Acute myeloid leukemia (AML) is a lethal and rapidly progressive hematologic malignancy with high rates of relapse and treatment refractoriness. Management of AML is complicated by biological heterogeneity in a disease that is broadly defined by the clonal expansion of myeloblasts that otherwise play an important role in healthy marrow tissues. While subtypes of AML are increasingly defined by druggable driver mutations including FLT3-ITD, IDH1, IDH2, and NPM1, conventional chemotherapy and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41894068/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260331221247&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2082,
-          "title": "Measurable residual disease testing in acute myeloid leukemia: current state, foundational models, and tools for future development",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41892345",
-          "author": "Ann X Wang",
-          "description": "Blood platelets are derived from megakaryocytes with functions extending beyond hemostasis to inflammation, immunity, and cancer. Myeloproliferative neoplasms (MPNs) are clonal stem cell disorders driven by somatic mutations affecting JAK-STAT signaling, leading to excessive myeloid proliferation. Thrombosis affects approximately one-fifth of patients at diagnosis and remains elevated throughout the disease course, while the paradoxical coexistence of bleeding further complicates clinical...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41892345/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260331221247&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1799,
-          "title": "Molecular and Functional Platelet Abnormalities in Myeloproliferative Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41888514",
-          "author": "Xiong Yang",
-          "description": "Multiple germline and somatic genomic factors are associated with risk of coronary artery disease, but there is no single measure of risk that integrates all information from a DNA sample. To address this gap, we develop an integrated genomic model that includes six germline and somatic genetic drivers for coronary artery disease, including polygenic risk score, genetically-proxied proteomic/metabolomic risk scores, and clonal hematopoiesis of indeterminate potential. We evaluated its predictive...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41888514/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260331221247&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 3998,
-          "title": "An integrated germline and somatic genomic model for coronary artery disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41896073",
-          "author": "Christopher M Sande",
-          "description": "Telomere biology disorders (TBDs) are a group of genetic conditions of varying severity caused by defects in telomere maintenance. Patients with TBDs can experience dysfunction in nearly all organ systems, including the bone marrow, with increased risk for bone marrow failure and myeloid neoplasms. Over the past decade, several groups have identified higher rates and earlier onset of clonal hematopoiesis (CH) in TBDs patients, with a distinct profile of somatic variants compared to the general...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41896073/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260330220416&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1276,
-          "title": "Clonal hematopoiesis in telomere biology disorders",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41894068",
-          "author": "Joseph Van Galen",
-          "description": "Acute myeloid leukemia (AML) is a lethal and rapidly progressive hematologic malignancy with high rates of relapse and treatment refractoriness. Management of AML is complicated by biological heterogeneity in a disease that is broadly defined by the clonal expansion of myeloblasts that otherwise play an important role in healthy marrow tissues. While subtypes of AML are increasingly defined by druggable driver mutations including FLT3-ITD, IDH1, IDH2, and NPM1, conventional chemotherapy and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41894068/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260330220416&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2082,
-          "title": "Measurable residual disease testing in acute myeloid leukemia: current state, foundational models, and tools for future development",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41892345",
-          "author": "Ann X Wang",
-          "description": "Blood platelets are derived from megakaryocytes with functions extending beyond hemostasis to inflammation, immunity, and cancer. Myeloproliferative neoplasms (MPNs) are clonal stem cell disorders driven by somatic mutations affecting JAK-STAT signaling, leading to excessive myeloid proliferation. Thrombosis affects approximately one-fifth of patients at diagnosis and remains elevated throughout the disease course, while the paradoxical coexistence of bleeding further complicates clinical...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41892345/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260330220416&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1799,
-          "title": "Molecular and Functional Platelet Abnormalities in Myeloproliferative Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41888514",
-          "author": "Xiong Yang",
-          "description": "Multiple germline and somatic genomic factors are associated with risk of coronary artery disease, but there is no single measure of risk that integrates all information from a DNA sample. To address this gap, we develop an integrated genomic model that includes six germline and somatic genetic drivers for coronary artery disease, including polygenic risk score, genetically-proxied proteomic/metabolomic risk scores, and clonal hematopoiesis of indeterminate potential. We evaluated its predictive...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41888514/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260330220416&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 3998,
-          "title": "An integrated germline and somatic genomic model for coronary artery disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41896073",
-          "author": "Christopher M Sande",
-          "description": "Telomere biology disorders (TBDs) are a group of genetic conditions of varying severity caused by defects in telomere maintenance. Patients with TBDs can experience dysfunction in nearly all organ systems, including the bone marrow, with increased risk for bone marrow failure and myeloid neoplasms. Over the past decade, several groups have identified higher rates and earlier onset of clonal hematopoiesis (CH) in TBDs patients, with a distinct profile of somatic variants compared to the general...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41896073/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260329220823&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1276,
-          "title": "Clonal hematopoiesis in telomere biology disorders",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41894068",
-          "author": "Joseph Van Galen",
-          "description": "Acute myeloid leukemia (AML) is a lethal and rapidly progressive hematologic malignancy with high rates of relapse and treatment refractoriness. Management of AML is complicated by biological heterogeneity in a disease that is broadly defined by the clonal expansion of myeloblasts that otherwise play an important role in healthy marrow tissues. While subtypes of AML are increasingly defined by druggable driver mutations including FLT3-ITD, IDH1, IDH2, and NPM1, conventional chemotherapy and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41894068/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260329220823&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2074,
-          "title": "Measurable residual disease testing in acute myeloid leukemia: current state, foundational models, and tools for future development",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41892345",
-          "author": "Ann X Wang",
-          "description": "Blood platelets are derived from megakaryocytes with functions extending beyond hemostasis to inflammation, immunity, and cancer. Myeloproliferative neoplasms (MPNs) are clonal stem cell disorders driven by somatic mutations affecting JAK-STAT signaling, leading to excessive myeloid proliferation. Thrombosis affects approximately one-fifth of patients at diagnosis and remains elevated throughout the disease course, while the paradoxical coexistence of bleeding further complicates clinical...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41892345/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260329220823&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1791,
-          "title": "Molecular and Functional Platelet Abnormalities in Myeloproliferative Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41888514",
-          "author": "Xiong Yang",
-          "description": "Multiple germline and somatic genomic factors are associated with risk of coronary artery disease, but there is no single measure of risk that integrates all information from a DNA sample. To address this gap, we develop an integrated genomic model that includes six germline and somatic genetic drivers for coronary artery disease, including polygenic risk score, genetically-proxied proteomic/metabolomic risk scores, and clonal hematopoiesis of indeterminate potential. We evaluated its predictive...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41888514/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260329220823&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 3998,
-          "title": "An integrated germline and somatic genomic model for coronary artery disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41896073",
-          "author": "Christopher M Sande",
-          "description": "Telomere biology disorders (TBDs) are a group of genetic conditions of varying severity caused by defects in telomere maintenance. Patients with TBDs can experience dysfunction in nearly all organ systems, including the bone marrow, with increased risk for bone marrow failure and myeloid neoplasms. Over the past decade, several groups have identified higher rates and earlier onset of clonal hematopoiesis (CH) in TBDs patients, with a distinct profile of somatic variants compared to the general...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41896073/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260328220607&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1236,
-          "title": "Clonal hematopoiesis in telomere biology disorders",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41894068",
-          "author": "Joseph Van Galen",
-          "description": "Acute myeloid leukemia (AML) is a lethal and rapidly progressive hematologic malignancy with high rates of relapse and treatment refractoriness. Management of AML is complicated by biological heterogeneity in a disease that is broadly defined by the clonal expansion of myeloblasts that otherwise play an important role in healthy marrow tissues. While subtypes of AML are increasingly defined by druggable driver mutations including FLT3-ITD, IDH1, IDH2, and NPM1, conventional chemotherapy and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41894068/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260328220607&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1863,
-          "title": "Measurable residual disease testing in acute myeloid leukemia: current state, foundational models, and tools for future development",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41892345",
-          "author": "Ann X Wang",
-          "description": "Blood platelets are derived from megakaryocytes with functions extending beyond hemostasis to inflammation, immunity, and cancer. Myeloproliferative neoplasms (MPNs) are clonal stem cell disorders driven by somatic mutations affecting JAK-STAT signaling, leading to excessive myeloid proliferation. Thrombosis affects approximately one-fifth of patients at diagnosis and remains elevated throughout the disease course, while the paradoxical coexistence of bleeding further complicates clinical...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41892345/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260328220607&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1225,
-          "title": "Molecular and Functional Platelet Abnormalities in Myeloproliferative Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41888514",
-          "author": "Xiong Yang",
-          "description": "Multiple germline and somatic genomic factors are associated with risk of coronary artery disease, but there is no single measure of risk that integrates all information from a DNA sample. To address this gap, we develop an integrated genomic model that includes six germline and somatic genetic drivers for coronary artery disease, including polygenic risk score, genetically-proxied proteomic/metabolomic risk scores, and clonal hematopoiesis of indeterminate potential. We evaluated its predictive...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41888514/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260328220607&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 3952,
-          "title": "An integrated germline and somatic genomic model for coronary artery disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41894068",
-          "author": "Joseph Van Galen",
-          "description": "Acute myeloid leukemia (AML) is a lethal and rapidly progressive hematologic malignancy with high rates of relapse and treatment refractoriness. Management of AML is complicated by biological heterogeneity in a disease that is broadly defined by the clonal expansion of myeloblasts that otherwise play an important role in healthy marrow tissues. While subtypes of AML are increasingly defined by druggable driver mutations including FLT3-ITD, IDH1, IDH2, and NPM1, conventional chemotherapy and...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41894068/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260327215445&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1863,
-          "title": "Measurable residual disease testing in acute myeloid leukemia: current state, foundational models, and tools for future development",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41892345",
-          "author": "Ann X Wang",
-          "description": "Blood platelets are derived from megakaryocytes with functions extending beyond hemostasis to inflammation, immunity, and cancer. Myeloproliferative neoplasms (MPNs) are clonal stem cell disorders driven by somatic mutations affecting JAK-STAT signaling, leading to excessive myeloid proliferation. Thrombosis affects approximately one-fifth of patients at diagnosis and remains elevated throughout the disease course, while the paradoxical coexistence of bleeding further complicates clinical...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41892345/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260327215445&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1225,
-          "title": "Molecular and Functional Platelet Abnormalities in Myeloproliferative Neoplasms",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41888514",
-          "author": "Xiong Yang",
-          "description": "Multiple germline and somatic genomic factors are associated with risk of coronary artery disease, but there is no single measure of risk that integrates all information from a DNA sample. To address this gap, we develop an integrated genomic model that includes six germline and somatic genetic drivers for coronary artery disease, including polygenic risk score, genetically-proxied proteomic/metabolomic risk scores, and clonal hematopoiesis of indeterminate potential. We evaluated its predictive...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41888514/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260327215445&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 3952,
-          "title": "An integrated germline and somatic genomic model for coronary artery disease",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&ff=20260524232958&v=2.20.0&fc=20220608010801&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20260525224952&utm_medium=rss&fc=20220608010801&v=2.20.0&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:42180375",
+          "author": "Nicola Calonaci",
+          "description": "The intricate interplay between somatic mutations and copy number alterations critically influences tumour evolution and patient prognosis. However, traditional genomic analyses often treat these alterations independently, overlooking gene mutant dosage - a key emergent property of their interaction. Here, we develop an innovative computational framework that infers mutation copy number and multiplicity directly from clinical targeted sequencing panels without requiring matched normal samples....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42180375/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-25T10:00:00.000Z",
+          "wordCount": 1188,
+          "title": "Gene mutant dosage is associated with prognosis and metastatic tropism in 60,000 clinical cancer samples",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42174641",
+          "author": "Elle Loughran",
+          "description": "CONCLUSIONS: Together, these findings provide the first pan-cancer characterization of hypodiploidy as a widespread and clinically relevant phenomenon often driven by pervasive chromosomal instability, and illustrate the remarkable ability of cancer cells to tolerate and evolve under extreme dosage imbalance.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42174641/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-23T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Pervasive chromosomal instability drives the karyotypic evolution of hypodiploid tumours",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42174641",
           "author": "Elle Loughran",
@@ -8757,6 +8677,16 @@
           "publishedOn": "2026-05-23T10:00:00.000Z",
           "wordCount": 527,
           "title": "Pervasive chromosomal instability drives the karyotypic evolution of hypodiploid tumours",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42169999",
+          "author": "Dan Tomomasa",
+          "description": "X-linked lymphoproliferative syndrome type 1 (XLP1) is an inborn error of immunity caused by pathogenic variants in SH2D1A and is frequently complicated by Epstein-Barr virus (EBV)-associated lymphoproliferative disorders (LPDs). However, cases of LPD without EBV infection have been reported and remain poorly understood. We investigated tumorigenesis mechanisms through transcriptomic profiling and somatic variant analysis in tumor samples from six patients with XLP1. Pathogenic variants were...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42169999/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-22T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Polyclonal evolution of lymphoproliferative disorders in XLP1",
           "imageUrl": null
         },
         {
@@ -8793,6 +8723,16 @@
           "id": "pubmed:42168613",
           "author": "Hany A Abdel-Hafiz",
           "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-21T10:00:00.000Z",
+          "wordCount": 1503,
+          "title": "Beyond sex determination: the Y chromosome in male cancers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42168613",
+          "author": "Hany A Abdel-Hafiz",
+          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260524232958&v=2.20.0",
           "publishedOn": "2026-05-21T10:00:00.000Z",
           "wordCount": 527,
@@ -8817,6 +8757,16 @@
           "publishedOn": "2026-05-21T10:00:00.000Z",
           "wordCount": 1503,
           "title": "Beyond sex determination: the Y chromosome in male cancers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42161272",
+          "author": "Ya-Hsuan Ho",
+          "description": "Sensory innervation regulates lung physiology and pathology, but its role in lung cancer is poorly understood. We show that lung adenocarcinoma (LUAD) progression locally amplifies nociceptive sensory innervation and activation, which drives the release of a major sensory neuropeptide, calcitonin gene-related peptide (CGRP). CGRP acts on a subset of macrophages, thereby impairing the recruitment of CXCL13^(+) fibroblasts and blocking tertiary lymphoid structure (TLS) assembly, a key predictor of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42161272/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-20T10:00:00.000Z",
+          "wordCount": 2218,
+          "title": "Nociceptive innervation limits tertiary lymphoid structures to promote lung cancer",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8857,6 +8807,16 @@
           "publishedOn": "2026-05-20T10:00:00.000Z",
           "wordCount": 527,
           "title": "Nociceptive innervation limits tertiary lymphoid structures to promote lung cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42156280",
+          "author": "Rohan K Achar",
+          "description": "Philadelphia chromosome-negative myeloproliferative neoplasms (MPN) are clonal hematopoietic stem cell disorders that carry the risk of transformation to accelerated-phase MPN (MPN-AP) and blast-phase MPN (MPN-BP) characterized by 10% to 19% and ≥20% peripheral or circulating blasts, respectively. This leukemic transformation is associated with less than 6 to 9 months of median overall survival and remains a major clinical challenge with limited effective treatment options. The biology of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42156280/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-19T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Current landscape and future directions for treatment of accelerated-phase and blast-phase myeloproliferative neoplasms",
           "imageUrl": null
         },
         {
@@ -8908,6 +8868,16 @@
           "wordCount": 1326,
           "title": "Current landscape and future directions for treatment of accelerated-phase and blast-phase myeloproliferative neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42146349",
+          "author": "Justin Wagner",
+          "description": "Cancer genome sequencing is essential for understanding tumor evolution and advancing precision medicine. ¹ However, reference gaps and germline variants obscure detection of small and large somatic variants and methylation in repetitive regions. ^(1-3) It is common for tumor cells to gain or lose chromosome arms due to somatic structural changes that occur inside highly repetitive satellite DNA sequences in the centromeres. ⁴ To identify the full spectrum of somatic variants, including complex...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42146349/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-18T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "A complete human pancreatic cancer genome",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42146349",
@@ -8977,6 +8947,26 @@
           "publishedOn": "2026-05-18T10:00:00.000Z",
           "wordCount": 1557,
           "title": "A complete human pancreatic cancer genome",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42136800",
+          "author": "Michel Salzet",
+          "description": "Multicellularity rests on a social contract: cells give up autonomy in exchange for shared resources, division of labour, and protection. Cancer is what happens when that contract collapses, and somatic evolution runs loose inside the body. Here, the multicellular social contract is used as a framework to recast tumour suppressors, tissue architecture, and immune surveillance as enforcement devices, and cancer as a 'rogue society' where cheater lineages exploit public goods, remodel niches, and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42136800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-15T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Cancer, collapse, and the politics of somatic evolution",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42136652",
+          "author": "Yulong Hou",
+          "description": "Cutaneous melanoma represents a paradigm of immunological complexity, where multifactorial primary and acquired resistance often undermine the clinical efficacy of conventional immune checkpoint blockades and targeted therapies. This review provides a comprehensive analysis of the strategic shift toward precision immuno-oncology, focusing on the mechanistic synergy between personalized neoantigen-directed vaccines and integrated multi-omics profiling. Rather than viewing these as independent...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42136652/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-15T10:00:00.000Z",
+          "wordCount": 2316,
+          "title": "Advancing precision immuno-oncology in melanoma: the synergistic convergence of personalized neoantigen vaccines and multi-omics biomarker profiling",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -9183,6 +9173,26 @@
           "id": "pubmed:42097810",
           "author": "Erika A Bach",
           "description": "Cell competition is a conserved, fitness-based process in which \"winner\" cells eliminate or displace less-fit \"loser\" neighbors, thereby shaping development, tissue homeostasis, and disease. This review synthesizes how principles of competition operate in stem cell compartments, focusing on the adult Drosophila testis as a genetically tractable model where neutral competition provides a baseline for stem cell turnover, and defined genetic perturbations bias competition to favor specific clones....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42097810/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-07T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Stem cell competition",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42094394",
+          "author": "Geoffrey A Smith",
+          "description": "Osteosarcoma (OS) genomes are characterized by complex genomic rearrangements (CGRs) that drive genomic instability and clonal diversification early in tumor evolution. As a result, OS tumors display high inter-patient variability, which has hindered molecular stratification and targeted therapeutic development. To study genomic complexity in OS and credential a genetically engineered mouse model of the disease (Sp7-Cre Trp53 ^(fl) Rb1^(fl)), we performed high-depth and multi-region whole genome...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42094394/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-07T10:00:00.000Z",
+          "wordCount": 2759,
+          "title": "Murine osteosarcoma recapitulates the driver landscape and genomic complexity of osteosarcoma evolution in humans",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42097810",
+          "author": "Erika A Bach",
+          "description": "Cell competition is a conserved, fitness-based process in which \"winner\" cells eliminate or displace less-fit \"loser\" neighbors, thereby shaping development, tissue homeostasis, and disease. This review synthesizes how principles of competition operate in stem cell compartments, focusing on the adult Drosophila testis as a genetically tractable model where neutral competition provides a baseline for stem cell turnover, and defined genetic perturbations bias competition to favor specific clones....",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42097810/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260524232958&v=2.20.0",
           "publishedOn": "2026-05-07T10:00:00.000Z",
           "wordCount": 527,
@@ -9347,6 +9357,16 @@
           "publishedOn": "2026-05-07T10:00:00.000Z",
           "wordCount": 527,
           "title": "Stem cell competition",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42089460",
+          "author": "Christian H Nenninger",
+          "description": "Over the past decade, clonal hematopoiesis (CH) has gained substantial attention as a prevalent, age-associated phenomenon with major implications for hematologic malignancy, cardiovascular disease, and mortality. CH arises from the clonal expansion of hematopoietic stem cells and progenitor cells harboring somatic mutations, most commonly in genes implicated in leukemia. Beyond chronological aging, CH evolution is shaped by lifelong exposure to inflammatory, metabolic, and environmental...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42089460/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-05-06T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Clonal hematopoiesis in patients with cancer and cancer survivors: From clonal burden to cardiovascular diseases",
           "imageUrl": null
         },
         {
@@ -9538,6 +9558,16 @@
           "wordCount": 527,
           "title": "Clonal hematopoiesis in patients with cancer and cancer survivors: From clonal burden to cardiovascular diseases",
           "imageUrl": null
+        },
+        {
+          "id": "pubmed:42059893",
+          "author": "César Serrano",
+          "description": "CONCLUSIONS: This molecular landscape provides a broader molecular understanding of GIST and supports a widespread use of genetic profiling for patients' clinical management.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42059893/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-04-30T10:00:00.000Z",
+          "wordCount": 1602,
+          "title": "Multi-Omic Landscape of Gastrointestinal Stromal Tumors in a Real-World Patient Cohort of 1,427 Cases",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
           "id": "pubmed:42059893",
@@ -9787,6 +9817,26 @@
           "publishedOn": "2026-04-30T10:00:00.000Z",
           "wordCount": 527,
           "title": "Multi-Omic Landscape of Gastrointestinal Stromal Tumors in a Real-World Patient Cohort of 1,427 Cases",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42056508",
+          "author": "Sonya Hessey",
+          "description": "Limited understanding of the biological processes that govern metastatic dissemination hinders its prevention and treatment¹. Here, using 501 longitudinally collected primary and metastatic tumour samples from 24 patients with non-small cell lung cancer (NSCLC) enrolled in the TRACERx lung study and PEACE autopsy programme, we infer tumour evolution from diagnosis to death. With DNA-sequencing data encompassing 70% of the metastases that were radiologically detected before death and paired...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42056508/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-04-29T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Evolutionary characterization of lung cancer metastasis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42051297",
+          "author": "Sushant Patkar",
+          "description": "Somatic mutation profiling is central to cancer diagnosis and treatment selection. However, most studies focus on individual actionable mutations, overlooking the broader mutational context that shapes tumor evolution and treatment response. Here, we introduce OncoBERT, a language model that learns contextual representations of somatic mutations from large-scale clinical sequencing data spanning >210,000 patients, 113 cancer types and 20 institutions. OncoBERT uncovers robust patient-specific...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42051297/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
+          "publishedOn": "2026-04-29T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "OncoBERT: Context-Aware Modeling of Somatic Mutations for Precision Oncology",
           "imageUrl": null
         },
         {
@@ -14097,406 +14147,6 @@
           "publishedOn": "2026-03-30T10:00:00.000Z",
           "wordCount": 1470,
           "title": "Bridging the gap between tumor evolution and clonality diagnostics in multiple lung carcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41893977",
-          "author": "Lars J S Kemp",
-          "description": "CONCLUSION: HDGC progression is marked by a stepwise accumulation of somatic mutations and chromosomal alterations. While early lesions remain genetically quiet, advanced tumors exhibit complex genetic landscapes, including CDH1 inactivation, oncogenic mutations, and CNVs. These findings highlight key molecular events in HDGC progression and may inform future strategies for early detection and targeted intervention.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41893977/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260505223315&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Mapping the genetic landscape of hereditary diffuse-type gastric cancer progression",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41893977",
-          "author": "Lars J S Kemp",
-          "description": "CONCLUSION: HDGC progression is marked by a stepwise accumulation of somatic mutations and chromosomal alterations. While early lesions remain genetically quiet, advanced tumors exhibit complex genetic landscapes, including CDH1 inactivation, oncogenic mutations, and CNVs. These findings highlight key molecular events in HDGC progression and may inform future strategies for early detection and targeted intervention.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41893977/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260504222833&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Mapping the genetic landscape of hereditary diffuse-type gastric cancer progression",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41893977",
-          "author": "Lars J S Kemp",
-          "description": "CONCLUSION: HDGC progression is marked by a stepwise accumulation of somatic mutations and chromosomal alterations. While early lesions remain genetically quiet, advanced tumors exhibit complex genetic landscapes, including CDH1 inactivation, oncogenic mutations, and CNVs. These findings highlight key molecular events in HDGC progression and may inform future strategies for early detection and targeted intervention.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41893977/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260503223452&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Mapping the genetic landscape of hereditary diffuse-type gastric cancer progression",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41893977",
-          "author": "Lars J S Kemp",
-          "description": "CONCLUSION: HDGC progression is marked by a stepwise accumulation of somatic mutations and chromosomal alterations. While early lesions remain genetically quiet, advanced tumors exhibit complex genetic landscapes, including CDH1 inactivation, oncogenic mutations, and CNVs. These findings highlight key molecular events in HDGC progression and may inform future strategies for early detection and targeted intervention.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41893977/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260502223640&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Mapping the genetic landscape of hereditary diffuse-type gastric cancer progression",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41893977",
-          "author": "Lars J S Kemp",
-          "description": "CONCLUSION: HDGC progression is marked by a stepwise accumulation of somatic mutations and chromosomal alterations. While early lesions remain genetically quiet, advanced tumors exhibit complex genetic landscapes, including CDH1 inactivation, oncogenic mutations, and CNVs. These findings highlight key molecular events in HDGC progression and may inform future strategies for early detection and targeted intervention.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41893977/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260501222725&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Mapping the genetic landscape of hereditary diffuse-type gastric cancer progression",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41893977",
-          "author": "Lars J S Kemp",
-          "description": "CONCLUSION: HDGC progression is marked by a stepwise accumulation of somatic mutations and chromosomal alterations. While early lesions remain genetically quiet, advanced tumors exhibit complex genetic landscapes, including CDH1 inactivation, oncogenic mutations, and CNVs. These findings highlight key molecular events in HDGC progression and may inform future strategies for early detection and targeted intervention.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41893977/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260430224501&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Mapping the genetic landscape of hereditary diffuse-type gastric cancer progression",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260429223849&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260428223745&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260427223741&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260426223014&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260425222802&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260424220535&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260423222330&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260422222311&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260421221106&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260420221256&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260419222513&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260418222437&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260417220338&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260416221223&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260415222426&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260414220851&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260413221132&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260412222501&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260411221228&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260410215903&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260409221026&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260408215823&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2015,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260407220539&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260406220458&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260405220910&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2015,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260404220802&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2015,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260403215444&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2015,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260402220202&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2015,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260401220024&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2015,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260331221247&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2015,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260330220416&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2015,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260329220823&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 2015,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260328220607&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1958,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41889415",
-          "author": "Ruirui Fan",
-          "description": "CONCLUSION: This study provides the first genomic evidence of shared and divergent somatic mutations in SMARCA4-dNSCLC and its hepatic metastasis. Clonal evolutionary analysis confirmed the diagnosis of SMARCA4-dNSCLC with hepatic metastasis, resolving diagnostic challenges and supporting precision therapy.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41889415/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260327215445&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-03-27T10:00:00.000Z",
-          "wordCount": 1958,
-          "title": "Therapeutic misalignment averted by clonal evolutionary evidence: molecular confirmation of hepatic metastasis in SMARCA4-deficient non-small cell lung cancer initially misdiagnosed as resectable cholangiocarcinoma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
