@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20260530232858&v=2.20.0&utm_medium=rss&utm_source=axios&utm_campaign=pubmed-2&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&utm_campaign=pubmed-2&ff=20260531234042&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&v=2.20.0",
       "articles": [
+        {
+          "id": "pubmed:42217421",
+          "author": "Jia-Tao Zhang",
+          "description": "Circulating tumor DNA (ctDNA) has revolutionized lung cancer management, yet its clinical sensitivity remains fundamentally limited by biological factors governing ctDNA release, clearance, and abundance. This review examines how these biological realities constrain each stage of ctDNA analysis, from pre-analytical variables to bioinformatic processing, with additional complexity from clonal hematopoiesis. Given these layered constraints, we argue that further incremental technical improvements...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42217421/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-30T10:00:00.000Z",
+          "wordCount": 1265,
+          "title": "Circulating tumor DNA analysis in lung cancer: from molecular origins to analytical boundaries",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42216432",
+          "author": "Takamasa Fujita",
+          "description": "CONCLUSION: In this real-world cohort, CHIP, particularly TET2 mutations, was associated with prolonged ICI treatment duration. These findings suggest that CHIP may serve as a potential biomarker for predicting the clinical benefit of ICIs in advanced solid tumors.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42216432/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-30T10:00:00.000Z",
+          "wordCount": 1910,
+          "title": "A real-world data analysis of the impact of clonal hematopoiesis of indeterminate potential on therapeutic efficacy and adverse events of immune checkpoint inhibitors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:42216432",
           "author": "Takamasa Fujita",
@@ -220,6 +240,36 @@
           "publishedOn": "2026-05-30T10:00:00.000Z",
           "wordCount": 1868,
           "title": "A real-world data analysis of the impact of clonal hematopoiesis of indeterminate potential on therapeutic efficacy and adverse events of immune checkpoint inhibitors",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42216078",
+          "author": "Yan Zhang",
+          "description": "Hematopoietic stem cells (HSCs) transition through different functional states throughout life from emergence and expansion in the fetus, homeostasis maintenance in adulthood, and progressive functional decline with age. Aged HSCs are characterized by increased phenotypic number, decreased self-renewal and long-term reconstitution capacity, myeloid-biased differentiation, and clonal hematopoiesis. In this review, we summarize the life cycle of HSCs, integrate recent advances in understanding the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42216078/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-29T10:00:00.000Z",
+          "wordCount": 1474,
+          "title": "Aging mechanisms and rejuvenation strategies for hematopoietic stem cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42214505",
+          "author": "Piercarlo Minoretti",
+          "description": "Human spaceflight exposes crew members to a combination of environmental stressors - including microgravity, galactic cosmic radiation, circadian disruption, and prolonged confinement - that together induce multisystem physiological changes resembling terrestrial aging. In this narrative review, we examine how short- and medium-term spaceflight affects all twelve recognized hallmarks of aging. Integrated multi-omics analyses in astronauts and rodent models identified mitochondrial dysfunction as...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42214505/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-29T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Aging in orbit: The twelve hallmarks as a bidirectional bridge between spaceflight-induced senescence and terrestrial geroscience",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42211688",
+          "author": "Mayumi Takahashi-Kobayashi",
+          "description": "Polycythemia vera (PV) is a myeloproliferative neoplasm characterized by the clonal expansion of hematopoietic stem cells, commonly caused by pathogenic variants in Janus kinase 2 (JAK2). Although PV primarily affects the hematologic system, various renal manifestations have been reported, including rare cases of glomerulopathies. We describe a 73-year-old woman with PV harboring a JAK2 ^(V617F) mutation who developed hematuria, proteinuria, and renal dysfunction. Kidney biopsy revealed IgA...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42211688/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-29T10:00:00.000Z",
+          "wordCount": 1468,
+          "title": "JAK Inhibitor-Induced Improvement of IgA Nephropathy in a Patient With Polycythemia Vera: A Case Report",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -260,6 +310,26 @@
           "publishedOn": "2026-05-29T10:00:00.000Z",
           "wordCount": 1285,
           "title": "JAK Inhibitor-Induced Improvement of IgA Nephropathy in a Patient With Polycythemia Vera: A Case Report",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42208774",
+          "author": "Annabelle J Anandappa",
+          "description": "Acute myeloid leukemia (AML) is an aggressive hematologic malignancy characterized by clonal expansion of myeloid precursor cells. The pathologic evaluation of AML integrates multiple levels of characterization, including morphology of cells circulating in peripheral blood and bone marrow, identification of blast lineage by immunohistochemistry and flow cytometry immunophenotyping, and genetic studies including karyotype, fluorescence in-situ hybridization, and next generation sequencing (NGS)....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42208774/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-28T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Single cell sequencing in acute myeloid leukemia: Linking genotype to functional phenotype for precision risk stratification and treatment decisions",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42206372",
+          "author": "Marta Amorós-Pérez",
+          "description": "CONCLUSIONS: Ppm1d-mutant hematopoietic cells expand predominantly under genotoxic stress and do not promote atherosclerosis in mice under the conditions tested. These findings raise the possibility that the association of PPM1D mutations with atherosclerotic cardiovascular disease may, at least in part, reflect exposure to DNA damage response-activating stressors that independently promote clonal expansion and atherosclerosis, rather than direct causality.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42206372/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-28T10:00:00.000Z",
+          "wordCount": 1474,
+          "title": "No Effect of Ppm1d-Mutant Clonal Hematopoiesis on Atherosclerosis Development in Mice",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -310,6 +380,86 @@
           "publishedOn": "2026-05-28T10:00:00.000Z",
           "wordCount": 1443,
           "title": "No Effect of Ppm1d-Mutant Clonal Hematopoiesis on Atherosclerosis Development in Mice",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42203882",
+          "author": "Andy G X Zeng",
+          "description": "Inflammation activates blood cells, contributing to ageing and malignancy^(1-3). Haematopoietic stem cells (HSCs) survive a lifetime of infection to sustain life-long haematopoiesis^(1-9), but how human HSCs respond and adapt to inflammatory stress is largely unknown. Here, to empirically understand this adaptation, we developed xenograft inflammation-recovery models and performed single-cell multiomics on xenografted human HSCs. Two transcriptionally and epigenetically distinct HSC subsets were...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42203882/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Human haematopoietic stem cells remember inflammatory stress",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42203880",
+          "author": "Rahul Gupta",
+          "description": "Accumulation of mutant mitochondrial DNA (mtDNA) heteroplasmy is among the strongest signatures of ageing¹. Here we investigated the underlying mechanism by calling mtDNA sequence, mtDNA abundance and mtDNA heteroplasmic variants in human blood using whole-genome sequences from approximately 750,000 individuals. We observed that mtDNA single-nucleotide variants (mtSNVs) accumulate sharply at age 60 years, occur at low levels of heteroplasmy, exhibit little evidence of positive selection and are...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42203880/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 2310,
+          "title": "Mechanism of age-related accumulation of mtDNA mutations in human blood",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42203479",
+          "author": "Tetsuro Yokokawa",
+          "description": "Clonal hematopoiesis, characterized by the age-related expansion of hematopoietic stem cell clones harboring somatic mutations, has emerged as an essential contributor to cardiovascular disease. Accumulating evidence indicates that clonal hematopoiesis driven by myeloproliferative neoplasm-associated driver mutations, particularly JAK2, is associated with an increased risk of vascular and cardiac complications, even at low variant allele frequencies. Experimental models and clinical studies...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42203479/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Clonal hematopoiesis and circulating biomarkers in cardiovascular diseases",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42202166",
+          "author": "Marco M Buttigieg",
+          "description": "Small particulate matter air pollution (PM2.5) is a recognized driver of non-small cell lung cancer (NSCLC), including in non-smoking individuals. Inhaled PM2.5 recruits pro-inflammatory macrophages to the air-lung interface, which promotes malignant lung epithelial cell growth and progression to overt cancer. Smoking is recognized to potentiate this process, though no factors potentiating risk among non-smoking individuals have been identified. We sought to determine whether clonal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42202166/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 1347,
+          "title": "Air pollution modifies clonal hematopoiesis-associated non-small cell lung cancer risk in non-smoking individuals",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42200828",
+          "author": "Ioannis Tsamesidis",
+          "description": "Objectives: Myelodysplastic syndromes (MDSs) are a heterogeneous group of clonal hematopoietic disorders characterized by ineffective hematopoiesis, genomic instability, and a high risk of progression to acute myeloid leukemia. Oxidative stress (OS) has emerged as a central factor in MDS pathophysiology, contributing to DNA damage, altered cellular signaling, and disease progression. Recent advances in artificial intelligence (AI) and machine learning (ML) offer a transformative approach for...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42200828/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 1892,
+          "title": "Novel Approaches to the Management of Myelodysplastic Syndromes: The Roles of Artificial Intelligence and Oxidative Stress Biomarkers",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42200581",
+          "author": "Francesco Versino",
+          "description": "Pure red cell aplasia (PRCA) is a rare single lineage bone marrow failure defined by anemia with profound reticulocytopenia and severe reduction of erythroid precursors. Clinical spectrum is heterogeneous, and diagnosis often requires extensive evaluation to distinguish primary from secondary causes such as thymoma, autoimmune diseases, T-LGL expansion and MDS, with which differential diagnosis is particularly challening. Evidence guiding management remains limited due to the rarity of the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42200581/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 1906,
+          "title": "Clinical Heterogeneity and Outcome of acquired PRCA: a Multicenter European Study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42197020",
+          "author": "Camille Brzechffa",
+          "description": "Diet is a modifiable factor that influences multiple pathways relevant to hematologic malignancy, including systemic inflammation, immune cell activity, gut microbiota composition, and cancer cell metabolism. Translation of preclinical findings into clinical practice for hematologic malignancies remains nascent, although momentum is building to evaluate dietary interventions as a component of supportive and disease-modifying care. This review examines the mechanistic rationale for dietary...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42197020/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Leveraging Dietary Interventions to Benefit Patients with Hematologic Malignancies and Clonal Hematopoiesis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42195121",
+          "author": "Elcin Erdogan Yucel",
+          "description": "Background and Objectives: Peripheral cytopenia occurs in approximately 2% of the population; however, in up to 0.9%, no cause is identified by conventional tests. Next-Generation Sequencing (NGS) detects somatic variants consistent with clonal hematopoiesis (CH). We aimed to determine the prevalence of CH and pre-myelodysplastic syndrome (pre-MDS) using a 51-gene panel with histopathological assessment. Materials and Methods: Bone marrow samples from 96 consecutive patients evaluated for...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42195121/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 2518,
+          "title": "Is Unidentified Cytopenia Truly Unidentified? Or Are We Overlooking Clonality?",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8391,94 +8541,24 @@
           "wordCount": 1474,
           "title": "Clonal Cytopenias of Undetermined Significance and Cardiovascular Disease: Inflammatory Mechanisms, Risk Stratification, and Clinical Outcomes",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41926089",
-          "author": "Chan Soon Park",
-          "description": "CONCLUSIONS AND RELEVANCE: In this cohort study, the presence of CHIP was associated with increased susceptibility to trastuzumab-related cardiotoxic effects.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41926089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260409221026&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-02T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Clonal Hematopoiesis and Risk of Trastuzumab-Related Cardiotoxic Effects",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41926089",
-          "author": "Chan Soon Park",
-          "description": "CONCLUSIONS AND RELEVANCE: In this cohort study, the presence of CHIP was associated with increased susceptibility to trastuzumab-related cardiotoxic effects.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41926089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260408215823&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-02T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Clonal Hematopoiesis and Risk of Trastuzumab-Related Cardiotoxic Effects",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41926089",
-          "author": "Chan Soon Park",
-          "description": "CONCLUSIONS AND RELEVANCE: In this cohort study, the presence of CHIP was associated with increased susceptibility to trastuzumab-related cardiotoxic effects.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41926089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260407220539&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-02T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Clonal Hematopoiesis and Risk of Trastuzumab-Related Cardiotoxic Effects",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41926089",
-          "author": "Chan Soon Park",
-          "description": "CONCLUSIONS AND RELEVANCE: In this cohort study, the presence of CHIP was associated with increased susceptibility to trastuzumab-related cardiotoxic effects.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41926089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260406220458&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-02T10:00:00.000Z",
-          "wordCount": 2116,
-          "title": "Clonal Hematopoiesis and Risk of Trastuzumab-Related Cardiotoxic Effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41926089",
-          "author": "Chan Soon Park",
-          "description": "CONCLUSIONS AND RELEVANCE: In this cohort study, the presence of CHIP was associated with increased susceptibility to trastuzumab-related cardiotoxic effects.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41926089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260405220909&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-02T10:00:00.000Z",
-          "wordCount": 2116,
-          "title": "Clonal Hematopoiesis and Risk of Trastuzumab-Related Cardiotoxic Effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41926089",
-          "author": "Chan Soon Park",
-          "description": "CONCLUSIONS AND RELEVANCE: In this cohort study, the presence of CHIP was associated with increased susceptibility to trastuzumab-related cardiotoxic effects.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41926089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260404220802&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-02T10:00:00.000Z",
-          "wordCount": 2116,
-          "title": "Clonal Hematopoiesis and Risk of Trastuzumab-Related Cardiotoxic Effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41926089",
-          "author": "Chan Soon Park",
-          "description": "CONCLUSIONS AND RELEVANCE: In this cohort study, the presence of CHIP was associated with increased susceptibility to trastuzumab-related cardiotoxic effects.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41926089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260403215444&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-02T10:00:00.000Z",
-          "wordCount": 1751,
-          "title": "Clonal Hematopoiesis and Risk of Trastuzumab-Related Cardiotoxic Effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41926089",
-          "author": "Chan Soon Park",
-          "description": "CONCLUSIONS AND RELEVANCE: In this cohort study, the presence of CHIP was associated with increased susceptibility to trastuzumab-related cardiotoxic effects.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41926089/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260402220202&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-02T10:00:00.000Z",
-          "wordCount": 1702,
-          "title": "Clonal Hematopoiesis and Risk of Trastuzumab-Related Cardiotoxic Effects",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&v=2.20.0&utm_source=axios&ff=20260530232858",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&fc=20220608010801&v=2.20.0&utm_campaign=pubmed-2&ff=20260531234042&utm_medium=rss&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
       "articles": [
+        {
+          "id": "pubmed:42212495",
+          "author": "Quratulain Maqsood",
+          "description": "Liquid biopsy has emerged as a powerful approach for non-invasive cancer monitoring, with circulating tumor cells (CTCs) and circulating tumor DNA (ctDNA) representing biologically distinct yet complementary analytes. Cell-free DNA (cfDNA) refers to fragmented DNA released into circulation from both normal and malignant cells, whereas ctDNA constitutes the tumor-derived fraction of cfDNA and carries cancer-specific genetic and epigenetic alterations. CTCs provide intact cellular material that...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42212495/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-29T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Circulating tumor cells and tumor-derived cell-free DNA in cancer management: Clinical evidence, limitations, and future directions",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42212495",
           "author": "Quratulain Maqsood",
@@ -8497,6 +8577,36 @@
           "publishedOn": "2026-05-29T10:00:00.000Z",
           "wordCount": 528,
           "title": "Circulating tumor cells and tumor-derived cell-free DNA in cancer management: Clinical evidence, limitations, and future directions",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42194993",
+          "author": "Yikang Shen",
+          "description": "Objective: Gastric cancer (GC) is characterized by molecular heterogeneity, yet current classifications are largely based on cross-sectional molecular profiles and do not account for the temporal order of mutation accumulation. This study aimed to reconstruct somatic mutation trajectories to identify prognostically distinct subtypes and to examine transcriptomic and microenvironmental features associated with these inferred trajectories. Methods: We applied the Subtype and Stage Inference...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42194993/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Somatic Mutation Trajectories Define Prognostically Distinct Subtypes and Shape the Tumor Microenvironment in Gastric Cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42192904",
+          "author": "Joana Ferreira",
+          "description": "Background/Objectives: Metastatic breast cancer (MBC) remains a daunting clinical challenge, accounting for approximately 90% of all breast cancer-related deaths. The management of MBC has shifted from traditional chemotherapy to a sophisticated, biomarker-driven model of precision oncology. This evolution is predicated on the ability of biomarkers to provide prognostic and predictive information. The objective of this review is to provide a comprehensive synthesis of the current landscape of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42192904/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "The Current Landscape of Metastatic Breast Cancer: A Pathology Guide on Emerging Biomarkers",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42192882",
+          "author": "Skylar L Nahi",
+          "description": "Desmoid tumors (DTs) are rare, fibroblastic neoplasms characterized by locally aggressive behavior, unpredictable clinical trajectories, and a substantial impact on patient quality of life despite minimal metastatic potential. Although the underlying biology of DTs remains incompletely defined, associations with prior trauma, hormonal exposure, and aberrant Wnt/β-catenin signaling-including somatic CTNNB1 mutations and germline APC alterations seen in Familial Adenomatous Polyposis-have informed...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42192882/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Systemic Therapies for Desmoid Tumors: A Review of Past, Present, and Future Treatments",
           "imageUrl": null
         },
         {
@@ -8623,6 +8733,16 @@
           "id": "pubmed:42180375",
           "author": "Nicola Calonaci",
           "description": "The intricate interplay between somatic mutations and copy number alterations critically influences tumour evolution and patient prognosis. However, traditional genomic analyses often treat these alterations independently, overlooking gene mutant dosage - a key emergent property of their interaction. Here, we develop an innovative computational framework that infers mutation copy number and multiplicity directly from clinical targeted sequencing panels without requiring matched normal samples....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42180375/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-25T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Gene mutant dosage is associated with prognosis and metastatic tropism in 60,000 clinical cancer samples",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42180375",
+          "author": "Nicola Calonaci",
+          "description": "The intricate interplay between somatic mutations and copy number alterations critically influences tumour evolution and patient prognosis. However, traditional genomic analyses often treat these alterations independently, overlooking gene mutant dosage - a key emergent property of their interaction. Here, we develop an innovative computational framework that infers mutation copy number and multiplicity directly from clinical targeted sequencing panels without requiring matched normal samples....",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42180375/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260530232858&v=2.20.0",
           "publishedOn": "2026-05-25T10:00:00.000Z",
           "wordCount": 528,
@@ -8678,6 +8798,16 @@
           "wordCount": 1188,
           "title": "Gene mutant dosage is associated with prognosis and metastatic tropism in 60,000 clinical cancer samples",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42174641",
+          "author": "Elle Loughran",
+          "description": "CONCLUSIONS: Together, these findings provide the first pan-cancer characterization of hypodiploidy as a widespread and clinically relevant phenomenon often driven by pervasive chromosomal instability, and illustrate the remarkable ability of cancer cells to tolerate and evolve under extreme dosage imbalance.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42174641/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-23T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Pervasive chromosomal instability drives the karyotypic evolution of hypodiploid tumours",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42174641",
@@ -8757,6 +8887,16 @@
           "publishedOn": "2026-05-23T10:00:00.000Z",
           "wordCount": 527,
           "title": "Pervasive chromosomal instability drives the karyotypic evolution of hypodiploid tumours",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42169999",
+          "author": "Dan Tomomasa",
+          "description": "X-linked lymphoproliferative syndrome type 1 (XLP1) is an inborn error of immunity caused by pathogenic variants in SH2D1A and is frequently complicated by Epstein-Barr virus (EBV)-associated lymphoproliferative disorders (LPDs). However, cases of LPD without EBV infection have been reported and remain poorly understood. We investigated tumorigenesis mechanisms through transcriptomic profiling and somatic variant analysis in tumor samples from six patients with XLP1. Pathogenic variants were...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42169999/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-22T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Polyclonal evolution of lymphoproliferative disorders in XLP1",
           "imageUrl": null
         },
         {
@@ -8853,6 +8993,16 @@
           "id": "pubmed:42168613",
           "author": "Hany A Abdel-Hafiz",
           "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-21T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Beyond sex determination: the Y chromosome in male cancers",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42168613",
+          "author": "Hany A Abdel-Hafiz",
+          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260530232858&v=2.20.0",
           "publishedOn": "2026-05-21T10:00:00.000Z",
           "wordCount": 528,
@@ -8938,6 +9088,16 @@
           "wordCount": 1503,
           "title": "Beyond sex determination: the Y chromosome in male cancers",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42161272",
+          "author": "Ya-Hsuan Ho",
+          "description": "Sensory innervation regulates lung physiology and pathology, but its role in lung cancer is poorly understood. We show that lung adenocarcinoma (LUAD) progression locally amplifies nociceptive sensory innervation and activation, which drives the release of a major sensory neuropeptide, calcitonin gene-related peptide (CGRP). CGRP acts on a subset of macrophages, thereby impairing the recruitment of CXCL13^(+) fibroblasts and blocking tertiary lymphoid structure (TLS) assembly, a key predictor of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42161272/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-20T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Nociceptive innervation limits tertiary lymphoid structures to promote lung cancer",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42161272",
@@ -9037,6 +9197,16 @@
           "publishedOn": "2026-05-20T10:00:00.000Z",
           "wordCount": 527,
           "title": "Nociceptive innervation limits tertiary lymphoid structures to promote lung cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42156280",
+          "author": "Rohan K Achar",
+          "description": "Philadelphia chromosome-negative myeloproliferative neoplasms (MPN) are clonal hematopoietic stem cell disorders that carry the risk of transformation to accelerated-phase MPN (MPN-AP) and blast-phase MPN (MPN-BP) characterized by 10% to 19% and ≥20% peripheral or circulating blasts, respectively. This leukemic transformation is associated with less than 6 to 9 months of median overall survival and remains a major clinical challenge with limited effective treatment options. The biology of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42156280/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-19T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Current landscape and future directions for treatment of accelerated-phase and blast-phase myeloproliferative neoplasms",
           "imageUrl": null
         },
         {
@@ -9148,6 +9318,16 @@
           "wordCount": 1326,
           "title": "Current landscape and future directions for treatment of accelerated-phase and blast-phase myeloproliferative neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42146349",
+          "author": "Justin Wagner",
+          "description": "Cancer genome sequencing is essential for understanding tumor evolution and advancing precision medicine. ¹ However, reference gaps and germline variants obscure detection of small and large somatic variants and methylation in repetitive regions. ^(1-3) It is common for tumor cells to gain or lose chromosome arms due to somatic structural changes that occur inside highly repetitive satellite DNA sequences in the centromeres. ⁴ To identify the full spectrum of somatic variants, including complex...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42146349/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-18T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "A complete human pancreatic cancer genome",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42146349",
@@ -9278,6 +9458,26 @@
           "wordCount": 1557,
           "title": "A complete human pancreatic cancer genome",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42136800",
+          "author": "Michel Salzet",
+          "description": "Multicellularity rests on a social contract: cells give up autonomy in exchange for shared resources, division of labour, and protection. Cancer is what happens when that contract collapses, and somatic evolution runs loose inside the body. Here, the multicellular social contract is used as a framework to recast tumour suppressors, tissue architecture, and immune surveillance as enforcement devices, and cancer as a 'rogue society' where cheater lineages exploit public goods, remodel niches, and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42136800/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-15T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Cancer, collapse, and the politics of somatic evolution",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42136652",
+          "author": "Yulong Hou",
+          "description": "Cutaneous melanoma represents a paradigm of immunological complexity, where multifactorial primary and acquired resistance often undermine the clinical efficacy of conventional immune checkpoint blockades and targeted therapies. This review provides a comprehensive analysis of the strategic shift toward precision immuno-oncology, focusing on the mechanistic synergy between personalized neoantigen-directed vaccines and integrated multi-omics profiling. Rather than viewing these as independent...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42136652/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-15T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Advancing precision immuno-oncology in melanoma: the synergistic convergence of personalized neoantigen vaccines and multi-omics biomarker profiling",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42136800",
@@ -9597,6 +9797,26 @@
           "publishedOn": "2026-05-15T10:00:00.000Z",
           "wordCount": 527,
           "title": "Advancing precision immuno-oncology in melanoma: the synergistic convergence of personalized neoantigen vaccines and multi-omics biomarker profiling",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42097810",
+          "author": "Erika A Bach",
+          "description": "Cell competition is a conserved, fitness-based process in which \"winner\" cells eliminate or displace less-fit \"loser\" neighbors, thereby shaping development, tissue homeostasis, and disease. This review synthesizes how principles of competition operate in stem cell compartments, focusing on the adult Drosophila testis as a genetically tractable model where neutral competition provides a baseline for stem cell turnover, and defined genetic perturbations bias competition to favor specific clones....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42097810/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-07T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Stem cell competition",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42094394",
+          "author": "Geoffrey A Smith",
+          "description": "Osteosarcoma (OS) genomes are characterized by complex genomic rearrangements (CGRs) that drive genomic instability and clonal diversification early in tumor evolution. As a result, OS tumors display high inter-patient variability, which has hindered molecular stratification and targeted therapeutic development. To study genomic complexity in OS and credential a genetically engineered mouse model of the disease (Sp7-Cre Trp53 ^(fl) Rb1^(fl)), we performed high-depth and multi-region whole genome...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42094394/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
+          "publishedOn": "2026-05-07T10:00:00.000Z",
+          "wordCount": 528,
+          "title": "Murine osteosarcoma recapitulates the driver landscape and genomic complexity of osteosarcoma evolution in humans",
           "imageUrl": null
         },
         {
