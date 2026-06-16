@@ -210,8 +210,68 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20260614235433&v=2.20.0&utm_medium=rss&fc=20220608003622&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&utm_medium=rss&v=2.20.0&utm_source=axios&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:42295092",
+          "author": "Hua Yan",
+          "description": "The inflammatory hypothesis of atherosclerosis has generated large-scale clinical trials with heterogeneous outcomes-from landmark success (CANTOS) to informative neutral results (CIRT). Understanding why anti-inflammatory therapies produce inconsistent outcomes requires a structured translational framework. We conducted a narrative review of randomized controlled trials, Mendelian randomization studies, and mechanistic investigations in anti-inflammatory cardiovascular therapy, searching...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42295092/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-15T10:00:00.000Z",
+          "wordCount": 1157,
+          "title": "A Biological Alignment Framework for Interpreting Anti-Inflammatory Cardiovascular Trials in Atherosclerosis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42293735",
+          "author": "Cornelia Englisch",
+          "description": "Clonal hematopoiesis (CH) is characterized by the clonal expansion of hematopoietic stem cells driven by somatic mutations that confer a survival or proliferative advantage. In recent years, numerous studies have identified an association between clonal hematopoiesis and adverse cardiovascular outcomes, particularly thromboembolic events. This has led to in-depth research efforts to uncover a potential underlying causal link and to use this knowledge to find preventive strategies and treatments....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42293735/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-15T10:00:00.000Z",
+          "wordCount": 1398,
+          "title": "Clonal hematopoiesis and thrombosis risk-what are research and clinical gaps?",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42283711",
+          "author": "Laura M Linville",
+          "description": "Poly(ADP-ribose) polymerase (PARP) inhibitors have emerged as an important therapeutic option for patients with homologous recombination repair (HRR)-deficient cancers, especially those with BRCA1/2 mutations. Since the initial US Food Administration approval of olaparib in 2014, PARP inhibitors have shown efficacy across ovarian, breast, and prostate cancers, although differences in trial design and biomarker strategies have resulted in tumor-specific indications. Homologous recombination...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42283711/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-12T10:00:00.000Z",
+          "wordCount": 1480,
+          "title": "Clinical applications of PARP inhibitors in breast, ovarian, and prostate cancer: current insights and future directions",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42279286",
+          "author": "Bicky Thapa",
+          "description": "A circulating tumor DNA (ctDNA) assay is an emerging non-invasive diagnostic approach providing real-time insights into the heterogeneous tumor molecular landscape of advanced prostate cancer, overcoming the limitations of traditional tissue biopsies and PSA. Detection methods include droplet digital PCR, next-generation sequencing, and new epigenomic and fragmentomic strategies (investigational) designed to improve sensitivity in cases of low ctDNA shedding. While ctDNA's role in localized...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42279286/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-12T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Circulating Tumor DNA as Emerging Predictive and Prognostic Biomarker in Prostate Cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42279262",
+          "author": "Kalliopi Keramida",
+          "description": "Sex differences influence cancer incidence, treatment response, and susceptibility to cardiovascular toxicity. Males exhibit higher rates and poorer outcomes in most non-sex-specific cancers, while females more frequently experience treatment-related adverse events, including cancer therapy-related cardiac dysfunction. Biological factors such as hormonal status, genetic polymorphisms, immune responses, and pharmacokinetics contribute to these disparities. In cardio-oncology, women-particularly...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42279262/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-12T10:00:00.000Z",
+          "wordCount": 2244,
+          "title": "Sex Differences in Cancer and Cardiotoxicity: Mechanisms, Outcomes, and Clinical Implications Across Solid and Hematological Malignancies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42279002",
+          "author": "Mateusz Dudek",
+          "description": "Background: Despite significant progress in management of acute coronary syndromes (ACSs), they continue to be a major cause of death worldwide due to residual inflammatory risk (RIR). Aim: This study reviews existing clinical evidence for anti-inflammatory therapies in coronary heart disease (CHD) and assesses precision medicine in classifying patients from clinical, immunological, and genetic perspectives. Results: Large clinical trials confirm the inflammatory hypothesis of atherosclerosis....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42279002/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-12T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Anti-Inflammatory Therapies in Acute Coronary Syndromes-A Review of Immunological, Genetic, and Clinical Challenges for Precision Medicine",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42283711",
           "author": "Laura M Linville",
@@ -330,6 +390,46 @@
           "publishedOn": "2026-06-12T10:00:00.000Z",
           "wordCount": 1188,
           "title": "Anti-Inflammatory Therapies in Acute Coronary Syndromes-A Review of Immunological, Genetic, and Clinical Challenges for Precision Medicine",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42276300",
+          "author": "Surya Nath Pandey",
+          "description": "Aging is a major driver of hematological impairment and a significant risk factor for hematologic malignancies. CD34⁺ hematopoietic stem and progenitor cells (HSPCs) represent a critical cellular compartment in which age-related changes converge to promote leukemogenesis. This review synthesizes contemporary findings on the interplay between intrinsic hallmarks of aging, including genomic instability, telomere attrition, epigenetic drift, and mitochondrial dysfunction, and extrinsic factors,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42276300/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-11T10:00:00.000Z",
+          "wordCount": 1483,
+          "title": "Aging-driven reprogramming of CD34⁺ hematopoietic stem cells in leukemogenesis: Mechanisms and therapeutic implications",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42276140",
+          "author": "Christina Hart",
+          "description": "ABSTRACT: Philadelphia chromosome-negative myeloproliferative neoplasms (MPNs) are acquired clonal disorders of hematopoiesis that typically cause thromboembolic and hemorrhagic complications. These include an increased risk of both arterial and venous thromboembolic events as well as a heightened bleeding tendency. Venous thromboembolic events frequently manifest at atypical sites and characteristically present as splanchnic vein thrombosis. A common cause of the elevated bleeding risk is...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42276140/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-11T10:00:00.000Z",
+          "wordCount": 1298,
+          "title": "Coagulation Disorders in Philadelphia Chromosome-negative Myeloproliferative Neoplasms-A Guide for Specialists in Coagulation Disorders",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42275722",
+          "author": "Maria Alejandra Urbano",
+          "description": "CONCLUSION: This study provides one of the first extensive characterizations of PV in southern Colombia, confirming internationally recognized clinical features, including advanced age at diagnosis, increased prevalence of cardiovascular comorbidities, and a predominance of high-risk classification. The low rate of finding JAK2 mutations suggests that molecular testing may not be as easy to get as it could be. Even if the treatment followed the guidelines, the risk of recurrence and thrombosis...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42275722/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-11T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "A real-world analysis of polycythemia vera at two comprehensive cancer centers in Cali, Colombia",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42275156",
+          "author": "Minsang Kim",
+          "description": "CONCLUSIONS: CHIP is more prevalent in patients with CKD and serves as an independent risk factor for KF. This association is consistently observed across both an underrepresented East Asian cohort and a European cohort, establishing CHIP as a globally relevant risk factor for CKD progression.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42275156/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-11T10:00:00.000Z",
+          "wordCount": 1629,
+          "title": "Clonal Hematopoiesis of Indeterminate Potential and Kidney Failure in Chronic Kidney Disease: An East Asian Cohort Study",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -476,6 +576,36 @@
           "id": "pubmed:42271062",
           "author": "Teresa Gerhardt",
           "description": "Clonal haematopoiesis (CH) activates inflammation and increases the risk of atherosclerosis^(1,2). Whether lifestyle alters CH clone expansion or the phenotypic programming of CH mutant cells, thereby affecting atherosclerosis, is unknown. Here, in humans and mice and across mutations in Jak2, Tet2, Trp53 and Dnmt3a, we demonstrate mutation-dependent responses to sleep and exercise in CH and show that mutant cells are uniquely sensitive to lifestyle. In two human datasets, moderate-to-vigorous...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42271062/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-10T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Mutation-dependent responses to sleep and exercise in clonal haematopoiesis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42269078",
+          "author": "Margarita Dionysiou",
+          "description": "Severe aplastic anemia (SAA) is a life-threatening bone marrow failure syndrome. Allogeneic bone marrow transplantation (BMT) is the most definitive curative treatment for SAA and is prioritized when matched sibling donors (MSDs) are available. Haploidentical BMT (haploBMT) with post-transplant cyclophosphamide (PTCy) has emerged as a promising alternative, expanding donor access while mitigating historically high rates of graft failure and graft-versus-host disease (GVHD). We report the...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42269078/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-10T10:00:00.000Z",
+          "wordCount": 1434,
+          "title": "PT/Cy-based alloBMT platform as a curative, accessible alternative for pediatric and young adult severe aplastic anemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42268520",
+          "author": "Kirti Arora",
+          "description": "PURPOSEOF REVIEW: Clonal hematopoiesis of indeterminate potential (CHIP) is characterized by the age-associated expansion of hematopoietic stem and progenitor cells (HSPCs) bearing somatic mutations in genes such as DNMT3A, TET2, ASXL1, and JAK2, without overt cytopenias or hematologic malignancy. CHIP is increasingly understood as a systemic inflammatory condition that influences extra-hematopoietic organs. Recent findings highlight its role in gastrointestinal (GI) pathology through immune...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42268520/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-10T10:00:00.000Z",
+          "wordCount": 1857,
+          "title": "Current Understanding of CHIP's Immunobiological Footprint with A Focus on Gastrointestinal Disorders: A Review of the Literature",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42271062",
+          "author": "Teresa Gerhardt",
+          "description": "Clonal haematopoiesis (CH) activates inflammation and increases the risk of atherosclerosis^(1,2). Whether lifestyle alters CH clone expansion or the phenotypic programming of CH mutant cells, thereby affecting atherosclerosis, is unknown. Here, in humans and mice and across mutations in Jak2, Tet2, Trp53 and Dnmt3a, we demonstrate mutation-dependent responses to sleep and exercise in CH and show that mutant cells are uniquely sensitive to lifestyle. In two human datasets, moderate-to-vigorous...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42271062/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260614235433&v=2.20.0",
           "publishedOn": "2026-06-10T10:00:00.000Z",
           "wordCount": 2724,
@@ -606,6 +736,16 @@
           "id": "pubmed:42262879",
           "author": "Mona Arabzadeh",
           "description": "Clonal hematopoiesis (CH) is the age-related expansion of mutated hematopoietic stem cells without hematologic abnormalities. In patients with solid tumors, CH is associated with higher mortality and may evolve to therapy-related myeloid neoplasms; however, the mechanisms by which cancer treatments promote CH dynamics remain largely unknown. Here, we analyzed 392 serial samples from a prospective cohort of breast cancer patients and showed that cytotoxic treatments led to strong therapeutic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42262879/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-09T10:00:00.000Z",
+          "wordCount": 1485,
+          "title": "Evolution of clonal hematopoiesis during cancer treatment and its impact on outcomes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42262879",
+          "author": "Mona Arabzadeh",
+          "description": "Clonal hematopoiesis (CH) is the age-related expansion of mutated hematopoietic stem cells without hematologic abnormalities. In patients with solid tumors, CH is associated with higher mortality and may evolve to therapy-related myeloid neoplasms; however, the mechanisms by which cancer treatments promote CH dynamics remain largely unknown. Here, we analyzed 392 serial samples from a prospective cohort of breast cancer patients and showed that cytotoxic treatments led to strong therapeutic...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42262879/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260614235433&v=2.20.0",
           "publishedOn": "2026-06-09T10:00:00.000Z",
           "wordCount": 1485,
@@ -661,6 +801,16 @@
           "wordCount": 1426,
           "title": "Evolution of clonal hematopoiesis during cancer treatment and its impact on outcomes",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42260206",
+          "author": "Kohei Hosokawa",
+          "description": "Aplastic anemia (AA) and paroxysmal nocturnal hemoglobinuria (PNH) are closely related bone marrow (BM) failure syndromes linked by shared immunological mechanisms. The frequent emergence of PNH-type blood cells during AA, together with the co-occurrence of the disorders and their overlapping therapeutic responses, supports the concept that they represent a spectrum of immune-mediated hematopoietic injury rather than distinct disease entities.AA is a prototypical immune-mediated BM failure...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42260206/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-08T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Immunological links between aplastic anemia and paroxysmal nocturnal hemoglobinuria",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42260206",
@@ -7871,124 +8021,24 @@
           "wordCount": 527,
           "title": "Periodontal Medicine Rewired: Mechanisms Linking Periodontitis to Systemic Diseases",
           "imageUrl": null
-        },
-        {
-          "id": "pubmed:41992515",
-          "author": "Oriane Cellier",
-          "description": "CONCLUSION: The presence of CHIP is associated with GCA relapses in this exploratory cohort. Further studies are needed to confirm these findings.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41992515/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260427223741&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 1485,
-          "title": "Clonal hematopoiesis of indeterminate potential and relapses in patients with giant cell arteritis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41992515",
-          "author": "Oriane Cellier",
-          "description": "CONCLUSION: The presence of CHIP is associated with GCA relapses in this exploratory cohort. Further studies are needed to confirm these findings.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41992515/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260426223014&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Clonal hematopoiesis of indeterminate potential and relapses in patients with giant cell arteritis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41992515",
-          "author": "Oriane Cellier",
-          "description": "CONCLUSION: The presence of CHIP is associated with GCA relapses in this exploratory cohort. Further studies are needed to confirm these findings.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41992515/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260425222802&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Clonal hematopoiesis of indeterminate potential and relapses in patients with giant cell arteritis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41992515",
-          "author": "Oriane Cellier",
-          "description": "CONCLUSION: The presence of CHIP is associated with GCA relapses in this exploratory cohort. Further studies are needed to confirm these findings.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41992515/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260424220535&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Clonal hematopoiesis of indeterminate potential and relapses in patients with giant cell arteritis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41992515",
-          "author": "Oriane Cellier",
-          "description": "CONCLUSION: The presence of CHIP is associated with GCA relapses in this exploratory cohort. Further studies are needed to confirm these findings.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41992515/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260423222330&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Clonal hematopoiesis of indeterminate potential and relapses in patients with giant cell arteritis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41992515",
-          "author": "Oriane Cellier",
-          "description": "CONCLUSION: The presence of CHIP is associated with GCA relapses in this exploratory cohort. Further studies are needed to confirm these findings.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41992515/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260422222311&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 1485,
-          "title": "Clonal hematopoiesis of indeterminate potential and relapses in patients with giant cell arteritis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41992515",
-          "author": "Oriane Cellier",
-          "description": "CONCLUSION: The presence of CHIP is associated with GCA relapses in this exploratory cohort. Further studies are needed to confirm these findings.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41992515/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260421221106&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 1485,
-          "title": "Clonal hematopoiesis of indeterminate potential and relapses in patients with giant cell arteritis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41992515",
-          "author": "Oriane Cellier",
-          "description": "CONCLUSION: The presence of CHIP is associated with GCA relapses in this exploratory cohort. Further studies are needed to confirm these findings.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41992515/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260420221256&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 1485,
-          "title": "Clonal hematopoiesis of indeterminate potential and relapses in patients with giant cell arteritis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41992515",
-          "author": "Oriane Cellier",
-          "description": "CONCLUSION: The presence of CHIP is associated with GCA relapses in this exploratory cohort. Further studies are needed to confirm these findings.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41992515/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260419222513&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 1485,
-          "title": "Clonal hematopoiesis of indeterminate potential and relapses in patients with giant cell arteritis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41992515",
-          "author": "Oriane Cellier",
-          "description": "CONCLUSION: The presence of CHIP is associated with GCA relapses in this exploratory cohort. Further studies are needed to confirm these findings.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41992515/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260418222437&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 1448,
-          "title": "Clonal hematopoiesis of indeterminate potential and relapses in patients with giant cell arteritis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41992515",
-          "author": "Oriane Cellier",
-          "description": "CONCLUSION: The presence of CHIP is associated with GCA relapses in this exploratory cohort. Further studies are needed to confirm these findings.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41992515/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260417220338&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 1448,
-          "title": "Clonal hematopoiesis of indeterminate potential and relapses in patients with giant cell arteritis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.20.0&fc=20220608010801&utm_campaign=pubmed-2&ff=20260614235433&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20260615234252&utm_medium=rss&v=2.20.0&utm_source=axios&fc=20220608010801&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:42264930",
+          "author": "Amalie Noergaard Andersson",
+          "description": "We present two illustrative cases highlighting diagnostic, surveillance and management complexities of TP53 pathogenic variants (PVs). Case 1 describes a 24-year-old female with early-onset breast cancer and a somatic mosaic TP53 PV with a variant allele frequency of 19% in blood, initially missed by panel sequencing. Case 2 concerns a 59-year-old female with multiple primary tumours and two identical TP53 variants detected in two different tissues which initially suggested somatic mosaicism but...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42264930/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-09T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Interpreting TP53 variants: somatic mosaicism and ERCC6L2-driven clonal evolution",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42264930",
           "author": "Amalie Noergaard Andersson",
@@ -8037,6 +8087,16 @@
           "publishedOn": "2026-06-09T10:00:00.000Z",
           "wordCount": 527,
           "title": "Interpreting TP53 variants: somatic mosaicism and ERCC6L2-driven clonal evolution",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42249067",
+          "author": "Jenna Craddock",
+          "description": "Prostate cancer disproportionately affects men of African ancestry, yet the molecular mechanisms underlying these disparities remain poorly defined. Genomic studies have begun to reveal ancestry-linked risk alleles and somatic alterations, but the role of epigenetic dysregulation is only emerging. Drawing on multi-ancestral comparative analyses, with emphasis on cohorts from sub-Saharan Africa, we speculate that germline and somatic variation converge in epigenetic machinery genes to drive...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42249067/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-05T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Epigenetic modulation of prostate cancer disparities in men with African ancestry",
           "imageUrl": null
         },
         {
@@ -8127,6 +8187,26 @@
           "publishedOn": "2026-06-05T10:00:00.000Z",
           "wordCount": 528,
           "title": "Epigenetic modulation of prostate cancer disparities in men with African ancestry",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42243148",
+          "author": "Akshatha Nayak",
+          "description": "The traditional binary classification of somatic mutations in cancer as either drivers or passengers overlooks the potential cumulative impact of smaller-effect mutations. Here, we analyze more than 11,000 whole-genome-sequenced primary tumors across 3 cancer cohorts to assess the functional contribution of passenger mutations in cancer development. We find that in the absence of canonical driver mutations, passenger mutations in cancer genes are significantly enriched, exhibit higher predicted...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42243148/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-04T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "The cumulative impact of passenger mutations on cancer development",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42237506",
+          "author": "Nobuyuki Kakiuchi",
+          "description": "Cancer originates from a single ancestor cell that acquires driver mutations, which confer a selective growth advantage, followed by the acquisition of additional driver mutations by descendant cells. Recently, it has become evident that somatic mutations accumulate even in normal cells with aging; exposure to environmental factors such as alcohol, smoking, and ultraviolet radiation increases this mutation rate. Clones harboring cancer driver mutations expand even in normal tissues with age,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42237506/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-06-04T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Somatic Mosaicism and Clonal Evolution",
           "imageUrl": null
         },
         {
@@ -8333,6 +8413,16 @@
           "id": "pubmed:42212495",
           "author": "Quratulain Maqsood",
           "description": "Liquid biopsy has emerged as a powerful approach for non-invasive cancer monitoring, with circulating tumor cells (CTCs) and circulating tumor DNA (ctDNA) representing biologically distinct yet complementary analytes. Cell-free DNA (cfDNA) refers to fragmented DNA released into circulation from both normal and malignant cells, whereas ctDNA constitutes the tumor-derived fraction of cfDNA and carries cancer-specific genetic and epigenetic alterations. CTCs provide intact cellular material that...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42212495/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-05-29T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Circulating tumor cells and tumor-derived cell-free DNA in cancer management: Clinical evidence, limitations, and future directions",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42212495",
+          "author": "Quratulain Maqsood",
+          "description": "Liquid biopsy has emerged as a powerful approach for non-invasive cancer monitoring, with circulating tumor cells (CTCs) and circulating tumor DNA (ctDNA) representing biologically distinct yet complementary analytes. Cell-free DNA (cfDNA) refers to fragmented DNA released into circulation from both normal and malignant cells, whereas ctDNA constitutes the tumor-derived fraction of cfDNA and carries cancer-specific genetic and epigenetic alterations. CTCs provide intact cellular material that...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42212495/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260614235433&v=2.20.0",
           "publishedOn": "2026-05-29T10:00:00.000Z",
           "wordCount": 527,
@@ -8497,6 +8587,36 @@
           "publishedOn": "2026-05-29T10:00:00.000Z",
           "wordCount": 528,
           "title": "Circulating tumor cells and tumor-derived cell-free DNA in cancer management: Clinical evidence, limitations, and future directions",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42194993",
+          "author": "Yikang Shen",
+          "description": "Objective: Gastric cancer (GC) is characterized by molecular heterogeneity, yet current classifications are largely based on cross-sectional molecular profiles and do not account for the temporal order of mutation accumulation. This study aimed to reconstruct somatic mutation trajectories to identify prognostically distinct subtypes and to examine transcriptomic and microenvironmental features associated with these inferred trajectories. Methods: We applied the Subtype and Stage Inference...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42194993/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Somatic Mutation Trajectories Define Prognostically Distinct Subtypes and Shape the Tumor Microenvironment in Gastric Cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42192904",
+          "author": "Joana Ferreira",
+          "description": "Background/Objectives: Metastatic breast cancer (MBC) remains a daunting clinical challenge, accounting for approximately 90% of all breast cancer-related deaths. The management of MBC has shifted from traditional chemotherapy to a sophisticated, biomarker-driven model of precision oncology. This evolution is predicated on the ability of biomarkers to provide prognostic and predictive information. The objective of this review is to provide a comprehensive synthesis of the current landscape of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42192904/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "The Current Landscape of Metastatic Breast Cancer: A Pathology Guide on Emerging Biomarkers",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42192882",
+          "author": "Skylar L Nahi",
+          "description": "Desmoid tumors (DTs) are rare, fibroblastic neoplasms characterized by locally aggressive behavior, unpredictable clinical trajectories, and a substantial impact on patient quality of life despite minimal metastatic potential. Although the underlying biology of DTs remains incompletely defined, associations with prior trauma, hormonal exposure, and aberrant Wnt/β-catenin signaling-including somatic CTNNB1 mutations and germline APC alterations seen in Familial Adenomatous Polyposis-have informed...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42192882/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-05-27T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Systemic Therapies for Desmoid Tumors: A Review of Past, Present, and Future Treatments",
           "imageUrl": null
         },
         {
@@ -9073,6 +9193,16 @@
           "id": "pubmed:42180375",
           "author": "Nicola Calonaci",
           "description": "The intricate interplay between somatic mutations and copy number alterations critically influences tumour evolution and patient prognosis. However, traditional genomic analyses often treat these alterations independently, overlooking gene mutant dosage - a key emergent property of their interaction. Here, we develop an innovative computational framework that infers mutation copy number and multiplicity directly from clinical targeted sequencing panels without requiring matched normal samples....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42180375/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-05-25T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Gene mutant dosage is associated with prognosis and metastatic tropism in 60,000 clinical cancer samples",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42180375",
+          "author": "Nicola Calonaci",
+          "description": "The intricate interplay between somatic mutations and copy number alterations critically influences tumour evolution and patient prognosis. However, traditional genomic analyses often treat these alterations independently, overlooking gene mutant dosage - a key emergent property of their interaction. Here, we develop an innovative computational framework that infers mutation copy number and multiplicity directly from clinical targeted sequencing panels without requiring matched normal samples....",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42180375/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260614235433&v=2.20.0",
           "publishedOn": "2026-05-25T10:00:00.000Z",
           "wordCount": 527,
@@ -9278,6 +9408,16 @@
           "wordCount": 1188,
           "title": "Gene mutant dosage is associated with prognosis and metastatic tropism in 60,000 clinical cancer samples",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42174641",
+          "author": "Elle Loughran",
+          "description": "CONCLUSIONS: Together, these findings provide the first pan-cancer characterization of hypodiploidy as a widespread and clinically relevant phenomenon often driven by pervasive chromosomal instability, and illustrate the remarkable ability of cancer cells to tolerate and evolve under extreme dosage imbalance.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42174641/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-05-23T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Pervasive chromosomal instability drives the karyotypic evolution of hypodiploid tumours",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42174641",
@@ -9507,6 +9647,16 @@
           "publishedOn": "2026-05-23T10:00:00.000Z",
           "wordCount": 527,
           "title": "Pervasive chromosomal instability drives the karyotypic evolution of hypodiploid tumours",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42169999",
+          "author": "Dan Tomomasa",
+          "description": "X-linked lymphoproliferative syndrome type 1 (XLP1) is an inborn error of immunity caused by pathogenic variants in SH2D1A and is frequently complicated by Epstein-Barr virus (EBV)-associated lymphoproliferative disorders (LPDs). However, cases of LPD without EBV infection have been reported and remain poorly understood. We investigated tumorigenesis mechanisms through transcriptomic profiling and somatic variant analysis in tumor samples from six patients with XLP1. Pathogenic variants were...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42169999/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-05-22T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Polyclonal evolution of lymphoproliferative disorders in XLP1",
           "imageUrl": null
         },
         {
@@ -9753,6 +9903,16 @@
           "id": "pubmed:42168613",
           "author": "Hany A Abdel-Hafiz",
           "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-05-21T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Beyond sex determination: the Y chromosome in male cancers",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42168613",
+          "author": "Hany A Abdel-Hafiz",
+          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260614235433&v=2.20.0",
           "publishedOn": "2026-05-21T10:00:00.000Z",
           "wordCount": 527,
@@ -9988,6 +10148,16 @@
           "wordCount": 1503,
           "title": "Beyond sex determination: the Y chromosome in male cancers",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42161272",
+          "author": "Ya-Hsuan Ho",
+          "description": "Sensory innervation regulates lung physiology and pathology, but its role in lung cancer is poorly understood. We show that lung adenocarcinoma (LUAD) progression locally amplifies nociceptive sensory innervation and activation, which drives the release of a major sensory neuropeptide, calcitonin gene-related peptide (CGRP). CGRP acts on a subset of macrophages, thereby impairing the recruitment of CXCL13^(+) fibroblasts and blocking tertiary lymphoid structure (TLS) assembly, a key predictor of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42161272/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-05-20T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Nociceptive innervation limits tertiary lymphoid structures to promote lung cancer",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42161272",
@@ -10237,6 +10407,16 @@
           "publishedOn": "2026-05-20T10:00:00.000Z",
           "wordCount": 527,
           "title": "Nociceptive innervation limits tertiary lymphoid structures to promote lung cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42156280",
+          "author": "Rohan K Achar",
+          "description": "Philadelphia chromosome-negative myeloproliferative neoplasms (MPN) are clonal hematopoietic stem cell disorders that carry the risk of transformation to accelerated-phase MPN (MPN-AP) and blast-phase MPN (MPN-BP) characterized by 10% to 19% and ≥20% peripheral or circulating blasts, respectively. This leukemic transformation is associated with less than 6 to 9 months of median overall survival and remains a major clinical challenge with limited effective treatment options. The biology of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42156280/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-05-19T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Current landscape and future directions for treatment of accelerated-phase and blast-phase myeloproliferative neoplasms",
           "imageUrl": null
         },
         {
@@ -10498,6 +10678,16 @@
           "wordCount": 1326,
           "title": "Current landscape and future directions for treatment of accelerated-phase and blast-phase myeloproliferative neoplasms",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42146349",
+          "author": "Justin Wagner",
+          "description": "Cancer genome sequencing is essential for understanding tumor evolution and advancing precision medicine.¹ However, reference gaps and germline variants obscure detection of small and large somatic variants and methylation in repetitive regions.^(1-3) It is common for tumor cells to gain or lose chromosome arms due to somatic structural changes that occur inside highly repetitive satellite DNA sequences in the centromeres.⁴ To identify the full spectrum of somatic variants, including complex...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42146349/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
+          "publishedOn": "2026-05-18T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "A complete human pancreatic cancer genome",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42146349",
@@ -13927,356 +14117,6 @@
           "publishedOn": "2026-04-20T10:00:00.000Z",
           "wordCount": 527,
           "title": "Integrated single-cell whole genome sequencing and spatial transcriptomics reveal intra-tumoral heterogeneity in ovarian cancer",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260521225639&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260520225701&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 1222,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260519225308&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 1222,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260518225300&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260517225621&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260516224629&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260515223748&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260514224919&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260513224838&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260512224702&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260511224107&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260510224900&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 1222,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260509223911&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260508223503&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260507224042&v=2.20.0",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 1222,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260506223457&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260505223315&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260504222833&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260503223452&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260502223640&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260501222725&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260430224501&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260429223849&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260428223745&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 1222,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260427223741&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260426223014&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260425222802&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260424220535&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260423222330&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260422222311&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260421221106&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260420221256&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260419222513&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260418222437&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:41993381",
-          "author": "Jie Zhou",
-          "description": "Positive selection on somatic mutations is the driving force for cancer progression. Growing evidence shows that the emergence of a driver mutation in a tumor sample depends on individual-specific factors, for example environmental exposures or the individual's germline genetic background. We term these individual-level factors as the \"contexts\" of a tumor. Our hypothesis is that mutations in a driver gene can bring different growth advantages in different contexts, resulting in \"differential...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/41993381/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260417220338&v=2.19.0.post6+133c1fe",
-          "publishedOn": "2026-04-17T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Detecting context-dependent selection on cancer driver genes with DiffDriver",
           "imageUrl": null
         }
       ]
