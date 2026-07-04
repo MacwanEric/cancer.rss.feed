@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://macwaneric.github.io/cancer.rss.feed/index.html</id>
     <title>CancerFeed</title>
-    <updated>2026-07-03T02:37:14.824Z</updated>
+    <updated>2026-07-04T02:34:21.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://macwaneric.github.io/cancer.rss.feed/index.html"/>
     <link rel="self" href="https://macwaneric.github.io/cancer.rss.feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transcriptional heterogeneity predicts and enables clonal selection in ageing haematopoiesis]]></title>
+        <id>pubmed:42396490</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42396490/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-07-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A general puzzle in stem-cell and ageing biology is why a few cellular clones come to dominate an ageing tissue while otherwise similar neighbours do not, a fate that the average transcriptional state of a cell predicts poorly. Here we ask whether the variability between sister cells of a clone, rather than their transcriptional state, is the property that predicts ageing-associated clonal selection, using the haematopoietic stem cell (HSC) as a tractable test case. We combine heritable lineage...]]></summary>
+        <author>
+            <name>Sheng Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deleterious mitochondrial heteroplasmy drives high-risk clonal hematopoiesis and hematological malignancy]]></title>
+        <id>pubmed:42396288</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42396288/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-07-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mitochondrial DNA (mtDNA) heteroplasmy, the coexistence of multiple mtDNA variants within cells, accumulates with age and is associated with hematological malignancies and mortality. However, whether predicted deleterious heteroplasmies causally contribute to cancer or merely represent passenger mutations remains unresolved. Here, leveraging ∼36,000 first-degree relative pairs from the UK Biobank and All of Us Research Program cohorts, we deconvolute overall heteroplasmy metrics into those that...]]></summary>
+        <author>
+            <name>Dan E Arking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Omics Study of Ancestry in Adults with Intracranial Cancers - Glioma (MOSAIC)]]></title>
+        <id>pubmed:42395459</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42395459/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-07-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: This ancestrally diverse glioma cohort confirms established molecular classifications and identifies ancestry-associated differences in survival, somatic alterations, and mutational processes, indicating the critical need for broad representation to inform precision neuro-oncology.]]></summary>
+        <author>
+            <name>Melissa L Bondy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis in Alzheimer's brain: Protective, pathogenic, and context-dependent?]]></title>
+        <id>pubmed:42392958</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42392958/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-07-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis is emerging as a surprising modifier of Alzheimer's disease. Recent findings suggest that mutant myeloid cells may enter or expand within the brain, adopting either inflammatory or reparative states. We propose that their effects depend on the mutation, timing, clone size, brain niche, and disease stage.]]></summary>
+        <author>
+            <name>Hong Zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher serum vitamin D concentration is associated with a lower risk of incident type 2 diabetes independent of clonal haematopoiesis]]></title>
+        <id>pubmed:42391848</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42391848/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-07-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal haematopoiesis of indeterminate potential (CHIP) and low vitamin D are recognised as independent risk factors for type 2 diabetes mellitus (T2DM); however, their joint effects on T2DM incidence remain unclear. We hypothesised that CHIP mutations and vitamin D deficiency may be jointly associated with the risk of T2DM. This study included 405,095 participants from the UK Biobank without T2DM at baseline. CHIP was identified through whole-exome sequencing of peripheral blood samples, and...]]></summary>
+        <author>
+            <name>Bowei Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomic features of clonal hematopoiesis-associated genes in primary and CAR T-cell-related secondary T-cell malignancies]]></title>
+        <id>pubmed:42382045</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42382045/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-07-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Secondary T-cell leukemias and lymphomas (TCLs) manifesting after chimeric antigen receptor (CAR) T-cell therapy represent an emerging concern, but their pathogenesis remains poorly understood. Risk factors are multifactorial and potentially include previous exposure to anticancer treatments, insertional mutagenesis, latent oncogenic mutations, and clonal hematopoiesis (CH). In this study, the molecular features of CAR T-cell-associated secondary TCLs are analyzed and contrasted with those of...]]></summary>
+        <author>
+            <name>Jonathan J Park</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNMT3A-driven Clonal Expansion of Hematopoiesis Influences Autoimmunity Mediated by Distinct Immune Cell Populations: A Mendelian Randomization Study]]></title>
+        <id>pubmed:42381332</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42381332/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-07-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: Genetic liability to DNMT3A-driven CHIP shows heterogeneous associations with AIDs. Selected circulating immune phenotypes may mediate the associations with SLE and PsO, whereas no circulating immune-cell mediator was identified for PM or DM. Further mechanistic and longitudinal validation is needed.]]></summary>
+        <author>
+            <name>Lei Sun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardiovascular Risk Assessment: A Review of Current Models and Emerging Determinants, including Biomarkers, Genetics, and Artificial Intelligence]]></title>
+        <id>pubmed:42381136</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42381136/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-07-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cardiovascular disease (CVD) remains the leading cause of death worldwide. While advances in treatment have improved outcomes, the greatest gains in public health will come from primary prevention. Risk stratification is the foundation of CVD prevention. Traditional tools, such as pooled cohort equations (PCEs) and SCORE2, do not capture non-traditional risk factors and individual variability, driving efforts to refine existing approaches. We critically discuss emerging risk determinants for...]]></summary>
+        <author>
+            <name>Omar Baqal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatial remodeling of bone marrow architecture defines tissue-state signatures of disease activity and therapeutic response in myelodysplastic neoplasms]]></title>
+        <id>pubmed:42380663</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42380663/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-07-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myelodysplastic neoplasms (MDS) disrupt bone marrow hematopoiesis, yet clinical assessment relies largely on blast enumeration and qualitative morphology, which incompletely capture marrow architecture and disease state. We applied whole-slide multiplex immunofluorescence imaging with single-cell phenotyping to map bone marrow microarchitecture in MDS. Diagnostic biopsies (n = 36), longitudinal treatment samples (n = 29), precursor states (n = 13), and normal controls (n = 21) were analyzed,...]]></summary>
+        <author>
+            <name>Ryan Nachman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Genomic features of clonal hematopoiesis-associated genes in primary and CAR T-cell-related secondary T-cell malignancies]]></title>
         <id>pubmed:42382045</id>
@@ -89,6 +179,26 @@
     <entry>
         <title type="html"><![CDATA[Clonal Hematopoiesis and Type 2 Diabetes: A Narrative Review]]></title>
         <id>pubmed:42374733</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42374733/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) refers to an expanded clonal hematopoietic cell population due to acquired mutations conferring a selective growth advantage. Once considered a premalignant hematological state, CH has now been causally associated with cardiovascular diseases (CVDs) and several aging-related clinical conditions. Emerging evidence suggests that CH is at the intersection of aging and metabolic disorders. CH carriers exhibit a higher risk of Type 2 diabetes, potentially through the...]]></summary>
+        <author>
+            <name>Jian-Jun Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Analyses Reveal the Impact of Hematopoietic Stem and Progenitor Cell Aging on T Cell Development]]></title>
+        <id>pubmed:42374656</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42374656/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[T cell output from the thymus falls throughout life and is associated with profound remodeling of the thymic stroma. To what extent the decline in T cell output is caused by aging of the hematopoietic stem and progenitor cells (HSPCs) has been difficult to define because of HSPC heterogeneity, the multi-stage process of HSPC migration, and the cross-talk between hematopoietic and stromal elements of the thymus. To address the contribution of HSPC aging on T cell development, we interrogated T...]]></summary>
+        <author>
+            <name>Julia Gensheimer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal Hematopoiesis and Type 2 Diabetes: A Narrative Review]]></title>
+        <id>pubmed:42374733</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42374733/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260702223713&amp;v=2.20.0"/>
         <updated>2026-06-30T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) refers to an expanded clonal hematopoietic cell population due to acquired mutations conferring a selective growth advantage. Once considered a premalignant hematological state, CH has now been causally associated with cardiovascular diseases (CVDs) and several aging-related clinical conditions. Emerging evidence suggests that CH is at the intersection of aging and metabolic disorders. CH carriers exhibit a higher risk of Type 2 diabetes, potentially through the...]]></summary>
@@ -144,6 +254,56 @@
         <summary type="html"><![CDATA[T cell output from the thymus falls throughout life and is associated with profound remodeling of the thymic stroma. To what extent the decline in T cell output is caused by aging of the hematopoietic stem and progenitor cells (HSPCs) has been difficult to define because of HSPC heterogeneity, the multi-stage process of HSPC migration, and the cross-talk between hematopoietic and stromal elements of the thymus. To address the contribution of HSPC aging on T cell development, we interrogated T...]]></summary>
         <author>
             <name>Julia Gensheimer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No evidence of immunosurveillance in mutation-hotspot-driven clonal hematopoiesis]]></title>
+        <id>pubmed:42373856</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42373856/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The theory of immunosurveillance posits that T cells eliminate clones harboring nonself-antigens generated by somatic mutations. Although a role of immunosurveillance in cancer is supported by evidence, whether it affects precancerous expansions has not been well established. Here we studied the association between MHC-variant binding and risk of clonal hematopoiesis (CH), a blood precancer state, predicting MHC binding affinity toward CH hotspot variants in 380,000 UK Biobank participants and...]]></summary>
+        <author>
+            <name>Barbara Walkowiak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNA (cytosine-5)-methyltransferase 3A (Dnmt3a) mutations limit normal and autoreactive CD4+ T follicular helper responses and attenuate T cell-driven joint inflammation]]></title>
+        <id>pubmed:42373566</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42373566/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSION: Wild-type Dnmt3a supports Tfh responses under both immunization-driven and autoreactive conditions. Dnmt3a loss-of-function in CD4^(+) T cells limits autoreactive inflammation, suggesting that clinical associations in RA may reflect effects in other hematopoietic lineages or T cell functions beyond Tfh-dependent responses.]]></summary>
+        <author>
+            <name>Yunbing Shen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clonal hematopoiesis in the setting of sickle cell disease and its relevance to curative therapies]]></title>
+        <id>pubmed:42373375</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42373375/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sickle cell disease (SCD) is an inherited hemoglobinopathy characterized by chronic hemolytic anemia, painful vaso-occlusive episodes, and end-organ damage. Population-level studies indicate individuals with SCD are at an increased risk for myeloid neoplasia (MN). While the absolute risk of MN remains low, fatal cases of myelodysplastic syndrome and acute myeloid leukemia suggest MN risk is enhanced in the setting of curative cellular therapies for SCD, including allogeneic hematopoietic cell...]]></summary>
+        <author>
+            <name>Lachelle D Weeks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEA hypothesis: disinhibition, enhancing recognition, and alerting the host are the three pillars of effective cancer immunotherapy]]></title>
+        <id>pubmed:42373132</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42373132/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why are clonal neoantigens paradoxically rare in established tumors? Why does tumor-associated antigen (TAA) burden inversely correlate with T-cell infiltration? Why do damage-associated molecular pattern (DAMP)/danger signal-inducing interventions (messenger RNA (mRNA) vaccines, stereotactic body radiotherapy (SBRT), immunogenic chemotherapy) enhance checkpoint blockade activity in "cold" tumors? We propose the "DEA Hypothesis" to resolve these paradoxes: durable antitumor immunity for...]]></summary>
+        <author>
+            <name>Xiao-Song Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epigenetic regulation of cardiac physiology and pathophysiology: biological sex matters]]></title>
+        <id>pubmed:42369572</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42369572/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cardiovascular disease (CVD) is the leading cause of global morbidity and mortality, with epigenetic mechanisms playing a pivotal role in its pathogenesis. This review synthesizes current evidence on sex-specific epigenetic regulation in cardiac health and disease, highlighting DNA methylation, histone modifications, and non-coding RNAs as key mediators. Epigenetic processes govern cardiac development, remodeling, and responses to injury, with sex chromosomes, sex hormones, and environmental...]]></summary>
+        <author>
+            <name>Omid M T Rouzbehani</name>
         </author>
     </entry>
     <entry>
@@ -384,6 +544,16 @@
         <summary type="html"><![CDATA[Neutropenia in general is defined as a blood neutrophil count of less than 1.5 × 10⁹/L, in severe neutropenia counts drop to less than 0.5 × 10⁹/L, but the definition of neutropenia varies according to the patient's ethnic origin and age. For Caucasian adults, the absolute neutrophil count (ANC) threshold of 1.8 × 10⁹/L is adopted for the definition of neutropenia according to the World Health Organization (see Fioredda et al. (1)). It can be inherited or acquired, and it is an uncommon...]]></summary>
         <author>
             <name>Karl Welte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Treatment of myeloproliferative neoplasms: Exploring new horizons of who and when to cytoreduce in patients with polycythemia vera and essential thrombocytosis]]></title>
+        <id>pubmed:42373374</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42373374/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Treatment for the classical Philadelphia-negative myeloproliferative neoplasms (MPNs), including polycythemia vera (PV) and essential thrombocythemia (ET), has long relied on reducing thrombotic risk without a focus on underlying disease modification. The simplified framework of age and thrombosis history inadequately captures the biological complexity of these diseases with emerging data identifying leukocytosis, elevated neutrophil-to-lymphocyte ratio, and high JAK2 V617F variant allele...]]></summary>
+        <author>
+            <name>Katherine J Feder</name>
         </author>
     </entry>
     <entry>
@@ -859,6 +1029,16 @@
     <entry>
         <title type="html"><![CDATA[Cancer Genetic Predisposition and Clinical Applications-A Narrative Review on Germline Genetic Testing, High-Risk Cancer Surveillance and Management]]></title>
         <id>pubmed:42353805</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42353805/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding germline genetic variation is essential for improving human cancer care. Cancer predisposition genetic testing has become a part of the landscape of healthcare. Clinical guidelines have been established to identify individuals with monogenic risk, support variant classification, and guide enhanced cancer surveillance and prevention strategies. However, genetic mechanisms, cancer syndromes, genetic testing, patient education, and high-risk cancer management are often addressed in...]]></summary>
+        <author>
+            <name>Xia Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancer Genetic Predisposition and Clinical Applications-A Narrative Review on Germline Genetic Testing, High-Risk Cancer Surveillance and Management]]></title>
+        <id>pubmed:42353805</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42353805/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260702223713&amp;v=2.20.0"/>
         <updated>2026-06-26T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Understanding germline genetic variation is essential for improving human cancer care. Cancer predisposition genetic testing has become a part of the landscape of healthcare. Clinical guidelines have been established to identify individuals with monogenic risk, support variant classification, and guide enhanced cancer surveillance and prevention strategies. However, genetic mechanisms, cancer syndromes, genetic testing, patient education, and high-risk cancer management are often addressed in...]]></summary>
@@ -1014,6 +1194,16 @@
         <summary type="html"><![CDATA[Systemic lupus erythematosus (SLE) is an established, independent risk factor for cardiovascular disease (CVD), most notably premature atherosclerotic cardiovascular disease (ASCVD). This association is thought to relate to chronic immune mediated inflammation. Clonal expansion of haematopoietic stem and progenitor cells (HSPCs) with acquired mutations, but no evidence of a blood disorder, is known as clonal haematopoiesis of indeterminate potential (CHIP). CHIP is associated with a...]]></summary>
         <author>
             <name>Aamir Shamsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas]]></title>
+        <id>pubmed:42349107</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...]]></summary>
+        <author>
+            <name>Ioannis Panagopoulos</name>
         </author>
     </entry>
     <entry>
@@ -1184,6 +1374,26 @@
         <summary type="html"><![CDATA[Tumor-infiltrating clonal hematopoiesis (TI-CH) contributes to progression of non-hematologic cancers. CH is prevalent in peripheral blood of patients with diffuse large B-cell lymphoma (DLBCL), but TI-CH prevalence and clinical relevance remain largely unexplored. Here, through genome- and exome-wide sequencing of DLBCL biopsies and blood samples from 304 treatment-naïve patients, we identified TI-CH in 13.5% of cases, which emerged as an independent risk indicator for disease progression and...]]></summary>
         <author>
             <name>Jiahao Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMPACT OF THE DIAGNOSIS OF A MUSCULOSKELETAL SARCOMA AND ITS TREATMENT OUTCOMES ON PATIENTS' MOOD, ANXIETY, QUALITY F LIFE AND COPING STRATEGIES)]]></title>
+        <id>pubmed:42342029</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42342029/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Most patients with musculoskeletal sarcomas develop adaptive coping styles. However, emotional disturbances and their association with oncological and functional outcomes justify comprehensive interventions that include psychological care.]]></summary>
+        <author>
+            <name>Paula Casas Ramos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Late-stage dedifferentiation and epigenetic memory of cancer stem cells in hepatocellular carcinoma]]></title>
+        <id>pubmed:42337581</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42337581/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: We propose a framework in which hepatocytes dedifferentiate into BPs as a pre-malignant state, undergo malignant transformation, and a subset acquires stemness through DNMT-mediated reprogramming stabilized by epigenetic memory. These findings challenge the classical stem cell origin hypothesis, showing that CSCs in established HCC are late-stage dedifferentiation products, provide a rationale for targeting CSC epigenetic stability, and offer a biomarker for early recurrence.]]></summary>
+        <author>
+            <name>Yi-Kai Hu</name>
         </author>
     </entry>
     <entry>
@@ -1474,6 +1684,16 @@
         <summary type="html"><![CDATA[Clonal hematopoiesis (CH) is increasingly recognized as a significant biological phenomenon in aging and cancer, marked by the expansion of hematopoietic stem and progenitor cells harboring somatic mutations in genes associated with myeloid neoplasms. While CH is strongly linked to a spectrum of inflammatory diseases and hematologic malignancies, its role in shaping responses to cancer immunotherapy-especially chimeric antigen receptor (CAR) T cell therapy-has only recently begun to emerge. This...]]></summary>
         <author>
             <name>Wei Du</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atlantic to Pacific: Outbreak of bivalve transmissible neoplasia detected in hybridizing soft-shell clams and eDNA in Puget Sound]]></title>
+        <id>pubmed:42335235</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42335235/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bivalve transmissible neoplasias (BTNs) are transmissible cancers that have arisen in multiple bivalve species, including Eastern soft-shell clam (Mya arenaria) populations on the East Coast of North America. Two sublineages of a single clone (termed MarBTN) currently circulate at low enzootic levels (1 to 5%) in New England, the United States, and Prince Edward Island, Canada, but MarBTN has not previously been observed in soft-shell clams on the West Coast. In 2022, we collected soft-shell...]]></summary>
+        <author>
+            <name>Sydney A Weinandt</name>
         </author>
     </entry>
     <entry>
@@ -1774,6 +1994,26 @@
         <summary type="html"><![CDATA[BackgroundClonal hematopoiesis (CH) increases with age and elevates the risk of numerous age-associated diseases. However, the association between CH and neurodegenerative diseases has remained unclear.ObjectiveWe tested the association between the presence of CH and tauopathy in a murine model.MethodsWe established novel models of Tet2 loss-of-function and Jak2 gain-of-function (V617F) CH in CD45.1-expressing PS19 tauopathy mice using unconditioned bone marrow (BM) cell transfer, thereby...]]></summary>
         <author>
             <name>Lena Gaebel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endonuclease-Assisted Selective Exponential Amplification for Ultrasensitive Enrichment and Detection of Low-Abundance Mutant Alleles in Lung Cancer]]></title>
+        <id>pubmed:42320754</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42320754/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lung cancer is one of the most prevalent and lethal malignancies worldwide. Despite recent advancements in precision medicine, early detection and therapeutic monitoring of lung cancer remain challenging. Herein, an endonuclease-assisted selective exponential amplification (ESEA) platform is presented that selectively depletes wild-type alleles through programmable endonuclease digestion (CRISPR-Cas or restriction enzymes) while simultaneously amplifying mutant alleles, enabling robust and...]]></summary>
+        <author>
+            <name>Pei Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lineage infidelity in FH-deficient RCC with secondary somatic alterations: a case report and implications for diagnosis and treatment]]></title>
+        <id>pubmed:42317258</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42317258/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fumarate hydratase (FH)-deficient renal cell carcinoma (RCC) can exhibit striking histologic and immunophenotypic heterogeneity. A 36-year-old woman with uterine leiomyomas presented with a 5.1-cm left renal sinus mass and retroperitoneal adenopathy. Biopsy showed juxtaposed lower-grade oncocytic (PAX8 strong, GATA3 weak) and higher-grade pleomorphic (PAX8 negative, GATA3 and CK7 strong) components. DNA sequencing revealed germline pathogenic FH p.S419P, clonal TP53 p.H193D, and subclonal NF2...]]></summary>
+        <author>
+            <name>Jianping Zhao</name>
         </author>
     </entry>
     <entry>
@@ -2264,6 +2504,26 @@
         <summary type="html"><![CDATA[CONCLUSIONS: ctDNA analysis is a powerful tool for prognostication and response monitoring in EC. Future integration with multi-omics data, radiomics, and artificial intelligence (AI) promises to enhance its clinical utility. Overcoming current hurdles through standardization and technological innovation is essential for its routine clinical adoption.]]></summary>
         <author>
             <name>Rentong Gu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metastasis-related genomic aberrations and evolutionary trajectory in uveal melanoma]]></title>
+        <id>pubmed:42310376</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42310376/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Uveal melanoma (UM) is the most common primary intraocular cancer, characterized by genetic variations associated with metastasis-related mortality. Current prognostic classifications primarily rely on large-scale copy number alterations without incorporating more precise genomic aberrations. We present a comprehensive analysis of whole-genome sequences from 40 primary UMs and matched normal tissues, revealing a complete landscape of somatic aberrations, including loss of heterozygosity and...]]></summary>
+        <author>
+            <name>Chang Hyun Nam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phagocytic remodeling in CD74(High) tumor-associated macrophages during brain metastasis of lung adenocarcinoma]]></title>
+        <id>pubmed:42305497</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42305497/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CONCLUSIONS: Our study identifies CD74^(High) TAMs as a highly plastic macrophage population that undergoes systematic cross-organ functional remodeling during LUAD BM. The observed loss of phagocytic capacity reflects dynamic functional state transitions toward an inflammatory and hypoxic phenotype rather than the passive enrichment of a single subpopulation. These insights provide a single-cell evolutionary framework for metastasis-associated immune reprogramming and underscore the potential...]]></summary>
+        <author>
+            <name>Junming Jia</name>
         </author>
     </entry>
     <entry>
@@ -3919,6 +4179,16 @@
     <entry>
         <title type="html"><![CDATA[Interpreting TP53 variants: somatic mosaicism and ERCC6L2-driven clonal evolution]]></title>
         <id>pubmed:42264930</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42264930/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We present two illustrative cases highlighting diagnostic, surveillance and management complexities of TP53 pathogenic variants (PVs). Case 1 describes a 24-year-old female with early-onset breast cancer and a somatic mosaic TP53 PV with a variant allele frequency of 19% in blood, initially missed by panel sequencing. Case 2 concerns a 59-year-old female with multiple primary tumours and two identical TP53 variants detected in two different tissues which initially suggested somatic mosaicism but...]]></summary>
+        <author>
+            <name>Amalie Noergaard Andersson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpreting TP53 variants: somatic mosaicism and ERCC6L2-driven clonal evolution]]></title>
+        <id>pubmed:42264930</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42264930/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260702223713&amp;v=2.20.0"/>
         <updated>2026-06-09T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[We present two illustrative cases highlighting diagnostic, surveillance and management complexities of TP53 pathogenic variants (PVs). Case 1 describes a 24-year-old female with early-onset breast cancer and a somatic mosaic TP53 PV with a variant allele frequency of 19% in blood, initially missed by panel sequencing. Case 2 concerns a 59-year-old female with multiple primary tumours and two identical TP53 variants detected in two different tissues which initially suggested somatic mosaicism but...]]></summary>
@@ -4579,6 +4849,16 @@
     <entry>
         <title type="html"><![CDATA[Epigenetic modulation of prostate cancer disparities in men with African ancestry]]></title>
         <id>pubmed:42249067</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42249067/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prostate cancer disproportionately affects men of African ancestry, yet the molecular mechanisms underlying these disparities remain poorly defined. Genomic studies have begun to reveal ancestry-linked risk alleles and somatic alterations, but the role of epigenetic dysregulation is only emerging. Drawing on multi-ancestral comparative analyses, with emphasis on cohorts from sub-Saharan Africa, we speculate that germline and somatic variation converge in epigenetic machinery genes to drive...]]></summary>
+        <author>
+            <name>Jenna Craddock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epigenetic modulation of prostate cancer disparities in men with African ancestry]]></title>
+        <id>pubmed:42249067</id>
         <link href="https://pubmed.ncbi.nlm.nih.gov/42249067/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260702223713&amp;v=2.20.0"/>
         <updated>2026-06-05T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Prostate cancer disproportionately affects men of African ancestry, yet the molecular mechanisms underlying these disparities remain poorly defined. Genomic studies have begun to reveal ancestry-linked risk alleles and somatic alterations, but the role of epigenetic dysregulation is only emerging. Drawing on multi-ancestral comparative analyses, with emphasis on cohorts from sub-Saharan Africa, we speculate that germline and somatic variation converge in epigenetic machinery genes to drive...]]></summary>
@@ -5064,6 +5344,26 @@
         <summary type="html"><![CDATA[Microglia are the resident hematopoietic cells of the central nervous system ¹ . In mice, microglia seed the brain during embryogenesis and can be maintained throughout life with minimal input from adult hematopoiesis ^(2-4) . The origins of human microglia are less clear, but recent evidence suggests that marrow-derived cells may be able to supplement the human microglial pool in certain individuals ^(5,6) . Here, to investigate the ontogeny of human microglia, we develop a method that uses the...]]></summary>
         <author>
             <name>Julia A Belk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The cumulative impact of passenger mutations on cancer development]]></title>
+        <id>pubmed:42243148</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42243148/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The traditional binary classification of somatic mutations in cancer as either drivers or passengers overlooks the potential cumulative impact of smaller-effect mutations. Here, we analyze more than 11,000 whole-genome-sequenced primary tumors across 3 cancer cohorts to assess the functional contribution of passenger mutations in cancer development. We find that in the absence of canonical driver mutations, passenger mutations in cancer genes are significantly enriched, exhibit higher predicted...]]></summary>
+        <author>
+            <name>Akshatha Nayak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somatic Mosaicism and Clonal Evolution]]></title>
+        <id>pubmed:42237506</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/42237506/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&amp;fc=20220608010801&amp;ff=20260703223420&amp;v=2.20.0"/>
+        <updated>2026-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cancer originates from a single ancestor cell that acquires driver mutations, which confer a selective growth advantage, followed by the acquisition of additional driver mutations by descendant cells. Recently, it has become evident that somatic mutations accumulate even in normal cells with aging; exposure to environmental factors such as alcohol, smoking, and ultraviolet radiation increases this mutation rate. Clones harboring cancer driver mutations expand even in normal tissues with age,...]]></summary>
+        <author>
+            <name>Nobuyuki Kakiuchi</name>
         </author>
     </entry>
     <entry>
@@ -14804,246 +15104,6 @@
         <summary type="html"><![CDATA[Over the past decade, clonal hematopoiesis (CH) has gained substantial attention as a prevalent, age-associated phenomenon with major implications for hematologic malignancy, cardiovascular disease, and mortality. CH arises from the clonal expansion of hematopoietic stem cells and progenitor cells harboring somatic mutations, most commonly in genes implicated in leukemia. Beyond chronological aging, CH evolution is shaped by lifelong exposure to inflammatory, metabolic, and environmental...]]></summary>
         <author>
             <name>Christian H Nenninger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mosaic Loss of Y chromosome associates with lung function, emphysema and epigenetic aging]]></title>
-        <id>pubmed:42085243</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42085243/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260512224702&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: mLOY is associated with lower lung function, accelerated lung function decline, higher emphysema, and faster pace of aging, positioning mLOY as a potential biomarker of respiratory aging in men.]]></summary>
-        <author>
-            <name>Woei-Yuh Saw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biological markers of aging across the menopause transition: current evidence]]></title>
-        <id>pubmed:42084956</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084956/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260512224702&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IMPORTANCE AND OBJECTIVE: Aging is a complex biological process uniquely shaped in women by hormonal transitions, particularly across the menopause transition. While chronological age alone fails to capture individual health variability, emerging molecular biomarkers offer tools to quantify biological aging and understand mechanisms underlying age-related decline. This review synthesizes the current landscape of aging biomarkers, including senescence-associated secretory phenotype factors,...]]></summary>
-        <author>
-            <name>Regina Castaneda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The evolution of polyclonal competition in aging hematopoiesis]]></title>
-        <id>pubmed:42084533</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084533/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260512224702&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) - the expansion of genetic variants in blood - is a prime example of somatic evolution. Although it often precedes malignant transformation, many aspects of this process remain unknown. We show that a model of polyclonal competition, in which selectively-advantaged clones continually appear and compete, explains observed CH dynamics throughout human life. We quantify the fitness distribution and occurrence rate of clonal expansions using either variant trajectories or...]]></summary>
-        <author>
-            <name>Nathaniel V Mon Père</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mosaic Loss of Y chromosome associates with lung function, emphysema and epigenetic aging]]></title>
-        <id>pubmed:42085243</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42085243/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260511224106&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: mLOY is associated with lower lung function, accelerated lung function decline, higher emphysema, and faster pace of aging, positioning mLOY as a potential biomarker of respiratory aging in men.]]></summary>
-        <author>
-            <name>Woei-Yuh Saw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biological markers of aging across the menopause transition: current evidence]]></title>
-        <id>pubmed:42084956</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084956/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260511224106&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IMPORTANCE AND OBJECTIVE: Aging is a complex biological process uniquely shaped in women by hormonal transitions, particularly across the menopause transition. While chronological age alone fails to capture individual health variability, emerging molecular biomarkers offer tools to quantify biological aging and understand mechanisms underlying age-related decline. This review synthesizes the current landscape of aging biomarkers, including senescence-associated secretory phenotype factors,...]]></summary>
-        <author>
-            <name>Regina Castaneda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The evolution of polyclonal competition in aging hematopoiesis]]></title>
-        <id>pubmed:42084533</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084533/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260511224106&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) - the expansion of genetic variants in blood - is a prime example of somatic evolution. Although it often precedes malignant transformation, many aspects of this process remain unknown. We show that a model of polyclonal competition, in which selectively-advantaged clones continually appear and compete, explains observed CH dynamics throughout human life. We quantify the fitness distribution and occurrence rate of clonal expansions using either variant trajectories or...]]></summary>
-        <author>
-            <name>Nathaniel V Mon Père</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mosaic Loss of Y chromosome associates with lung function, emphysema and epigenetic aging]]></title>
-        <id>pubmed:42085243</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42085243/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260510224902&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: mLOY is associated with lower lung function, accelerated lung function decline, higher emphysema, and faster pace of aging, positioning mLOY as a potential biomarker of respiratory aging in men.]]></summary>
-        <author>
-            <name>Woei-Yuh Saw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biological markers of aging across the menopause transition: current evidence]]></title>
-        <id>pubmed:42084956</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084956/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260510224902&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IMPORTANCE AND OBJECTIVE: Aging is a complex biological process uniquely shaped in women by hormonal transitions, particularly across the menopause transition. While chronological age alone fails to capture individual health variability, emerging molecular biomarkers offer tools to quantify biological aging and understand mechanisms underlying age-related decline. This review synthesizes the current landscape of aging biomarkers, including senescence-associated secretory phenotype factors,...]]></summary>
-        <author>
-            <name>Regina Castaneda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The evolution of polyclonal competition in aging hematopoiesis]]></title>
-        <id>pubmed:42084533</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084533/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260510224902&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) - the expansion of genetic variants in blood - is a prime example of somatic evolution. Although it often precedes malignant transformation, many aspects of this process remain unknown. We show that a model of polyclonal competition, in which selectively-advantaged clones continually appear and compete, explains observed CH dynamics throughout human life. We quantify the fitness distribution and occurrence rate of clonal expansions using either variant trajectories or...]]></summary>
-        <author>
-            <name>Nathaniel V Mon Père</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mosaic Loss of Y chromosome associates with lung function, emphysema and epigenetic aging]]></title>
-        <id>pubmed:42085243</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42085243/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260509223911&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: mLOY is associated with lower lung function, accelerated lung function decline, higher emphysema, and faster pace of aging, positioning mLOY as a potential biomarker of respiratory aging in men.]]></summary>
-        <author>
-            <name>Woei-Yuh Saw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biological markers of aging across the menopause transition: current evidence]]></title>
-        <id>pubmed:42084956</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084956/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260509223911&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IMPORTANCE AND OBJECTIVE: Aging is a complex biological process uniquely shaped in women by hormonal transitions, particularly across the menopause transition. While chronological age alone fails to capture individual health variability, emerging molecular biomarkers offer tools to quantify biological aging and understand mechanisms underlying age-related decline. This review synthesizes the current landscape of aging biomarkers, including senescence-associated secretory phenotype factors,...]]></summary>
-        <author>
-            <name>Regina Castaneda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The evolution of polyclonal competition in aging hematopoiesis]]></title>
-        <id>pubmed:42084533</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084533/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260509223911&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) - the expansion of genetic variants in blood - is a prime example of somatic evolution. Although it often precedes malignant transformation, many aspects of this process remain unknown. We show that a model of polyclonal competition, in which selectively-advantaged clones continually appear and compete, explains observed CH dynamics throughout human life. We quantify the fitness distribution and occurrence rate of clonal expansions using either variant trajectories or...]]></summary>
-        <author>
-            <name>Nathaniel V Mon Père</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mosaic Loss of Y chromosome associates with lung function, emphysema and epigenetic aging]]></title>
-        <id>pubmed:42085243</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42085243/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260508223503&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: mLOY is associated with lower lung function, accelerated lung function decline, higher emphysema, and faster pace of aging, positioning mLOY as a potential biomarker of respiratory aging in men.]]></summary>
-        <author>
-            <name>Woei-Yuh Saw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biological markers of aging across the menopause transition: current evidence]]></title>
-        <id>pubmed:42084956</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084956/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260508223503&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IMPORTANCE AND OBJECTIVE: Aging is a complex biological process uniquely shaped in women by hormonal transitions, particularly across the menopause transition. While chronological age alone fails to capture individual health variability, emerging molecular biomarkers offer tools to quantify biological aging and understand mechanisms underlying age-related decline. This review synthesizes the current landscape of aging biomarkers, including senescence-associated secretory phenotype factors,...]]></summary>
-        <author>
-            <name>Regina Castaneda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The evolution of polyclonal competition in aging hematopoiesis]]></title>
-        <id>pubmed:42084533</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084533/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260508223503&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) - the expansion of genetic variants in blood - is a prime example of somatic evolution. Although it often precedes malignant transformation, many aspects of this process remain unknown. We show that a model of polyclonal competition, in which selectively-advantaged clones continually appear and compete, explains observed CH dynamics throughout human life. We quantify the fitness distribution and occurrence rate of clonal expansions using either variant trajectories or...]]></summary>
-        <author>
-            <name>Nathaniel V Mon Père</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mosaic Loss of Y chromosome associates with lung function, emphysema and epigenetic aging]]></title>
-        <id>pubmed:42085243</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42085243/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260507224042&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: mLOY is associated with lower lung function, accelerated lung function decline, higher emphysema, and faster pace of aging, positioning mLOY as a potential biomarker of respiratory aging in men.]]></summary>
-        <author>
-            <name>Woei-Yuh Saw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biological markers of aging across the menopause transition: current evidence]]></title>
-        <id>pubmed:42084956</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084956/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260507224042&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IMPORTANCE AND OBJECTIVE: Aging is a complex biological process uniquely shaped in women by hormonal transitions, particularly across the menopause transition. While chronological age alone fails to capture individual health variability, emerging molecular biomarkers offer tools to quantify biological aging and understand mechanisms underlying age-related decline. This review synthesizes the current landscape of aging biomarkers, including senescence-associated secretory phenotype factors,...]]></summary>
-        <author>
-            <name>Regina Castaneda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The evolution of polyclonal competition in aging hematopoiesis]]></title>
-        <id>pubmed:42084533</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084533/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260507224042&amp;v=2.20.0"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) - the expansion of genetic variants in blood - is a prime example of somatic evolution. Although it often precedes malignant transformation, many aspects of this process remain unknown. We show that a model of polyclonal competition, in which selectively-advantaged clones continually appear and compete, explains observed CH dynamics throughout human life. We quantify the fitness distribution and occurrence rate of clonal expansions using either variant trajectories or...]]></summary>
-        <author>
-            <name>Nathaniel V Mon Père</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mosaic Loss of Y chromosome associates with lung function, emphysema and epigenetic aging]]></title>
-        <id>pubmed:42085243</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42085243/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260506223457&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: mLOY is associated with lower lung function, accelerated lung function decline, higher emphysema, and faster pace of aging, positioning mLOY as a potential biomarker of respiratory aging in men.]]></summary>
-        <author>
-            <name>Woei-Yuh Saw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biological markers of aging across the menopause transition: current evidence]]></title>
-        <id>pubmed:42084956</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084956/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260506223457&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IMPORTANCE AND OBJECTIVE: Aging is a complex biological process uniquely shaped in women by hormonal transitions, particularly across the menopause transition. While chronological age alone fails to capture individual health variability, emerging molecular biomarkers offer tools to quantify biological aging and understand mechanisms underlying age-related decline. This review synthesizes the current landscape of aging biomarkers, including senescence-associated secretory phenotype factors,...]]></summary>
-        <author>
-            <name>Regina Castaneda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The evolution of polyclonal competition in aging hematopoiesis]]></title>
-        <id>pubmed:42084533</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084533/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260506223457&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) - the expansion of genetic variants in blood - is a prime example of somatic evolution. Although it often precedes malignant transformation, many aspects of this process remain unknown. We show that a model of polyclonal competition, in which selectively-advantaged clones continually appear and compete, explains observed CH dynamics throughout human life. We quantify the fitness distribution and occurrence rate of clonal expansions using either variant trajectories or...]]></summary>
-        <author>
-            <name>Nathaniel V Mon Père</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mosaic Loss of Y chromosome associates with lung function, emphysema and epigenetic aging]]></title>
-        <id>pubmed:42085243</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42085243/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260505223315&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CONCLUSIONS: mLOY is associated with lower lung function, accelerated lung function decline, higher emphysema, and faster pace of aging, positioning mLOY as a potential biomarker of respiratory aging in men.]]></summary>
-        <author>
-            <name>Woei-Yuh Saw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biological markers of aging across the menopause transition: current evidence]]></title>
-        <id>pubmed:42084956</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084956/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260505223315&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IMPORTANCE AND OBJECTIVE: Aging is a complex biological process uniquely shaped in women by hormonal transitions, particularly across the menopause transition. While chronological age alone fails to capture individual health variability, emerging molecular biomarkers offer tools to quantify biological aging and understand mechanisms underlying age-related decline. This review synthesizes the current landscape of aging biomarkers, including senescence-associated secretory phenotype factors,...]]></summary>
-        <author>
-            <name>Regina Castaneda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The evolution of polyclonal competition in aging hematopoiesis]]></title>
-        <id>pubmed:42084533</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/42084533/?utm_source=axios&amp;utm_medium=rss&amp;utm_campaign=pubmed-2&amp;utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&amp;fc=20220608003622&amp;ff=20260505223315&amp;v=2.19.0.post6+133c1fe"/>
-        <updated>2026-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clonal hematopoiesis (CH) - the expansion of genetic variants in blood - is a prime example of somatic evolution. Although it often precedes malignant transformation, many aspects of this process remain unknown. We show that a model of polyclonal competition, in which selectively-advantaged clones continually appear and compete, explains observed CH dynamics throughout human life. We quantify the fitness distribution and occurrence rate of clonal expansions using either variant trajectories or...]]></summary>
-        <author>
-            <name>Nathaniel V Mon Père</name>
         </author>
     </entry>
     <entry>
