@@ -210,8 +210,58 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&v=2.20.0&utm_campaign=pubmed-2&ff=20260708223722&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&utm_medium=rss",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.20.0&utm_source=axios&utm_medium=rss&fc=20220608003622&ff=20260709223938&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:42422408",
+          "author": "Gavin M Traber",
+          "description": "Background. Hematopoietic stem cells (HSCs) reside in the bone marrow and are responsible for the life-long production of blood cells by balancing quiescence, self-renewal, and differentiation. A major feature distinguishing quiescent HSCs from their activated counterparts is a shift in the metabolic profile including changes in glycolytic flux and mitochondrial oxidative metabolism. Disruptions to HSC homeostasis can lead to hematologic diseases such as bone marrow failure or clonal...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42422408/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-09T10:00:00.000Z",
+          "wordCount": 2009,
+          "title": "Metabolomics of healthy hematopoietic stem cells and leukemic stem cells",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42419990",
+          "author": "Satoru Aoyama",
+          "description": "This review outlines the clinical significance of comprehensive genomic profiling (CGP) in patients with hematopoietic failure, including severe unexplained cytopenia. Since March 2025, Japanese National Health Insurance has covered CGP for hematologic malignancies and related disorders, facilitating a genome-based precision medicine approach that complements conventional clinical approaches, including morphologic and cytogenetic analyses. In bone marrow failure phenotypes, CGP supports...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42419990/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-08T10:00:00.000Z",
+          "wordCount": 1240,
+          "title": "Clinical significance of comprehensive genomic profiling in hematopoietic failure",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42419674",
+          "author": "Mengyu Han",
+          "description": "Atherosclerosis is a chronic inflammatory disease, and anti-inflammatory therapy has become a key strategy for preventing and treating coronary artery disease (CAD). Colchicine, a cost-effective anti-inflammatory drug, can intervene in the atherosclerotic process through multiple mechanisms, such as inhibiting neutrophils and the nucleotide-binding domain, leucine-rich repeat family, pyrin domain-containing protein 3 (NLRP3) inflammasome. Numerous clinical trials have demonstrated that...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42419674/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-08T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Research Advances of Colchicine in Anti-Inflammatory Treatment for Coronary Artery Disease",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42419444",
+          "author": "Fu-Rong Li",
+          "description": "CONCLUSION: CHIP was an independent risk factor for incident AMD. The risk is amplified in individuals with high genetic susceptibility, suggesting a synergistic interplay between inherited genetic risk and somatic clonal expansion in AMD pathogenesis, with the strongest effects observed in older adults. These findings provide a rationale for future efforts to integrate somatic mutation status into risk stratification paradigms for AMD, especially among the elderly.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42419444/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-08T10:00:00.000Z",
+          "wordCount": 1646,
+          "title": "Clonal Hematopoiesis of Indeterminate Potential and Genetic Susceptibility in Incident Age-Related Macular Degeneration: A Cohort Study",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42417917",
+          "author": "Sumit Mallick",
+          "description": "Type 1 diabetes (T1D) is an autoimmune disorder characterized by insulin deficiency and hyperglycemia, driven by environmental insults and epigenetic reprogramming beyond genetic predisposition. Recent evidence suggests that systemic epigenetic dysregulation in T1D influences the differentiation of hematopoietic stem cells (HSCs) towards pro-inflammatory myeloid subsets, such as macrophages and dendritic cells, and compromises lymphoid tolerance, including Treg dysfunction. Mechanistically,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42417917/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-08T10:00:00.000Z",
+          "wordCount": 1782,
+          "title": "DNMT3A/TET2-mediated epigenetic alteration in Type-1 diabetes dysregulates the haematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:42417917",
           "author": "Sumit Mallick",
@@ -221,6 +271,16 @@
           "wordCount": 1742,
           "title": "DNMT3A/TET2-mediated epigenetic alteration in Type-1 diabetes dysregulates the haematopoiesis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42411665",
+          "author": "Chang-Hun Park",
+          "description": "CONCLUSIONS: NGS using PB needs to be considered in ECD for the detection of CH and for the diagnosis of coexisting MNs.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42411665/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-07T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Monocytosis and Clonal Hematopoiesis in Peripheral Blood as Indicators of Myeloid Neoplasm in Erdheim-Chester Disease",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42411665",
@@ -241,6 +301,26 @@
           "wordCount": 1333,
           "title": "Monocytosis and Clonal Hematopoiesis in Peripheral Blood as Indicators of Myeloid Neoplasm in Erdheim-Chester Disease",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42407416",
+          "author": "Ayman Mohammad",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) and clonal cytopenia of undetermined significance (CCUS) are increasingly recognized as risk factors for hematologic malignancy, cardiovascular disease, and inflammatory disorders. While dedicated clonal hematopoiesis (CH) clinics have emerged to address these risks, referral patterns have not been systematically described. We conducted a retrospective chart review of 126 consecutive adults referred to a CH clinic within a large academic...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42407416/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Multispecialty referral patterns to a clonal hematopoiesis clinic: Who, what, and why?",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42406895",
+          "author": "Matthew Sadler",
+          "description": "CONCLUSIONS: CHIP is associated with increased mortality following ACS across a broad range of clinical settings, suggesting it is a marker of adverse post-ACS risk. These findings highlight the need for adequately powered prospective studies with standardised CHIP ascertainment to determine whether CHIP represents a feasible biomarker or modifiable therapeutic target.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42406895/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Clonal haematopoiesis and outcomes after acute coronary syndrome: a systematic review and meta-analysis",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42407416",
@@ -291,6 +371,36 @@
           "wordCount": 527,
           "title": "Clonal haematopoiesis and outcomes after acute coronary syndrome: a systematic review and meta-analysis",
           "imageUrl": null
+        },
+        {
+          "id": "pubmed:42398939",
+          "author": "Yang Lyu",
+          "description": "Splicing factor (SF) mutations are recurrent driver alterations in myeloid neoplasms and also represent a distinctive class of mutations in clonal hematopoiesis (CH), an age-associated expansion of hematopoietic clones carrying somatic driver mutations. SF-mutant CH is characterized by relatively late emergence and accelerated clonal expansion in older individuals. This review summarizes current knowledge of the genetic features and clonal dynamics of SF-mutant CH. We discuss disease-associated...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42398939/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-03T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Splicing Factor Mutations in Clonal Hematopoiesis and Progression to Myeloid Neoplasms",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42396490",
+          "author": "Marco De Dominici",
+          "description": "A general puzzle in stem-cell and ageing biology is why a few cellular clones come to dominate an ageing tissue while otherwise similar neighbours do not, a fate that the average transcriptional state of a cell predicts poorly. Here we ask whether the variability between sister cells of a clone, rather than their transcriptional state, is the property that predicts ageing-associated clonal selection, using the haematopoietic stem cell (HSC) as a tractable test case. We combine heritable lineage...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42396490/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-03T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Transcriptional heterogeneity predicts and enables clonal selection in ageing haematopoiesis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42396288",
+          "author": "Dan E Arking",
+          "description": "Mitochondrial DNA (mtDNA) heteroplasmy, the coexistence of multiple mtDNA variants within cells, accumulates with age and is associated with hematological malignancies and mortality. However, whether predicted deleterious heteroplasmies causally contribute to cancer or merely represent passenger mutations remains unresolved. Here, leveraging ∼36,000 first-degree relative pairs from the UK Biobank and All of Us Research Program cohorts, we deconvolute overall heteroplasmy metrics into those that...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42396288/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-03T10:00:00.000Z",
+          "wordCount": 1242,
+          "title": "Deleterious mitochondrial heteroplasmy drives high-risk clonal hematopoiesis and hematological malignancy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
           "id": "pubmed:42398939",
@@ -466,6 +576,26 @@
           "id": "pubmed:42392958",
           "author": "Hong Zhao",
           "description": "Clonal hematopoiesis is emerging as a surprising modifier of Alzheimer's disease. Recent findings suggest that mutant myeloid cells may enter or expand within the brain, adopting either inflammatory or reparative states. We propose that their effects depend on the mutation, timing, clone size, brain niche, and disease stage.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42392958/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-02T10:00:00.000Z",
+          "wordCount": 1228,
+          "title": "Clonal hematopoiesis in Alzheimer's brain: Protective, pathogenic, and context-dependent?",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42391848",
+          "author": "Bowei Yu",
+          "description": "Clonal haematopoiesis of indeterminate potential (CHIP) and low vitamin D are recognised as independent risk factors for type 2 diabetes mellitus (T2DM); however, their joint effects on T2DM incidence remain unclear. We hypothesised that CHIP mutations and vitamin D deficiency may be jointly associated with the risk of T2DM. This study included 405,095 participants from the UK Biobank without T2DM at baseline. CHIP was identified through whole-exome sequencing of peripheral blood samples, and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42391848/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-02T10:00:00.000Z",
+          "wordCount": 1595,
+          "title": "Higher serum vitamin D concentration is associated with a lower risk of incident type 2 diabetes independent of clonal haematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42392958",
+          "author": "Hong Zhao",
+          "description": "Clonal hematopoiesis is emerging as a surprising modifier of Alzheimer's disease. Recent findings suggest that mutant myeloid cells may enter or expand within the brain, adopting either inflammatory or reparative states. We propose that their effects depend on the mutation, timing, clone size, brain niche, and disease stage.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42392958/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260708223722&v=2.20.0",
           "publishedOn": "2026-07-02T10:00:00.000Z",
           "wordCount": 1228,
@@ -580,6 +710,26 @@
           "publishedOn": "2026-07-02T10:00:00.000Z",
           "wordCount": 1595,
           "title": "Higher serum vitamin D concentration is associated with a lower risk of incident type 2 diabetes independent of clonal haematopoiesis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42382045",
+          "author": "Jonathan J Park",
+          "description": "Secondary T-cell leukemias and lymphomas (TCLs) manifesting after chimeric antigen receptor (CAR) T-cell therapy represent an emerging concern, but their pathogenesis remains poorly understood. Risk factors are multifactorial and potentially include previous exposure to anticancer treatments, insertional mutagenesis, latent oncogenic mutations, and clonal hematopoiesis (CH). In this study, the molecular features of CAR T-cell-associated secondary TCLs are analyzed and contrasted with those of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42382045/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-01T10:00:00.000Z",
+          "wordCount": 2029,
+          "title": "Genomic features of clonal hematopoiesis-associated genes in primary and CAR T-cell-related secondary T-cell malignancies",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42381332",
+          "author": "Lei Sun",
+          "description": "CONCLUSION: Genetic liability to DNMT3A-driven CHIP shows heterogeneous associations with AIDs. Selected circulating immune phenotypes may mediate the associations with SLE and PsO, whereas no circulating immune-cell mediator was identified for PM or DM. Further mechanistic and longitudinal validation is needed.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42381332/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260709223938&v=2.20.0",
+          "publishedOn": "2026-07-01T10:00:00.000Z",
+          "wordCount": 1585,
+          "title": "DNMT3A-driven Clonal Expansion of Hematopoiesis Influences Autoimmunity Mediated by Distinct Immune Cell Populations: A Mendelian Randomization Study",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -8581,74 +8731,34 @@
           "wordCount": 527,
           "title": "Clonal Hematopoiesis of Indeterminate Potential (CHIP): A Model of Mutation-Driven Thromboinflammation",
           "imageUrl": null
-        },
-        {
-          "id": "pubmed:42115585",
-          "author": "Oisun Jung",
-          "description": "Despite therapeutic advances, multiple myeloma (MM) remains incurable, largely due to relapse and the emergence of drug resistance driven by clonal evolution and alterations in the bone marrow (BM) microenvironment that support tumor survival. This highlights the need for novel therapeutics targeting both tumor cells and the supportive BM niche, particularly for patients with relapsed/refractory MM. Syndecan-1 (Sdc1/CD138), a heparan sulfate proteoglycan, is abundantly expressed on both the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42115585/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260517225621&v=2.20.0",
-          "publishedOn": "2026-05-11T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "SSTN<sub>IV</sub>, a syndecan-1-targeting peptide chimera, reverses immune suppression and inhibits myeloma progression",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42115585",
-          "author": "Oisun Jung",
-          "description": "Despite therapeutic advances, multiple myeloma (MM) remains incurable, largely due to relapse and the emergence of drug resistance driven by clonal evolution and alterations in the bone marrow (BM) microenvironment that support tumor survival. This highlights the need for novel therapeutics targeting both tumor cells and the supportive BM niche, particularly for patients with relapsed/refractory MM. Syndecan-1 (Sdc1/CD138), a heparan sulfate proteoglycan, is abundantly expressed on both the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42115585/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260516224629&v=2.20.0",
-          "publishedOn": "2026-05-11T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "SSTN<sub>IV</sub>, a syndecan-1-targeting peptide chimera, reverses immune suppression and inhibits myeloma progression",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42115585",
-          "author": "Oisun Jung",
-          "description": "Despite therapeutic advances, multiple myeloma (MM) remains incurable, largely due to relapse and the emergence of drug resistance driven by clonal evolution and alterations in the bone marrow (BM) microenvironment that support tumor survival. This highlights the need for novel therapeutics targeting both tumor cells and the supportive BM niche, particularly for patients with relapsed/refractory MM. Syndecan-1 (Sdc1/CD138), a heparan sulfate proteoglycan, is abundantly expressed on both the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42115585/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260515223748&v=2.20.0",
-          "publishedOn": "2026-05-11T10:00:00.000Z",
-          "wordCount": 4869,
-          "title": "SSTN<sub>IV</sub>, a syndecan-1-targeting peptide chimera, reverses immune suppression and inhibits myeloma progression",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42115585",
-          "author": "Oisun Jung",
-          "description": "Despite therapeutic advances, multiple myeloma (MM) remains incurable, largely due to relapse and the emergence of drug resistance driven by clonal evolution and alterations in the bone marrow (BM) microenvironment that support tumor survival. This highlights the need for novel therapeutics targeting both tumor cells and the supportive BM niche, particularly for patients with relapsed/refractory MM. Syndecan-1 (Sdc1/CD138), a heparan sulfate proteoglycan, is abundantly expressed on both the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42115585/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260514224920&v=2.20.0",
-          "publishedOn": "2026-05-11T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "SSTN<sub>IV</sub>, a syndecan-1-targeting peptide chimera, reverses immune suppression and inhibits myeloma progression",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42115585",
-          "author": "Oisun Jung",
-          "description": "Despite therapeutic advances, multiple myeloma (MM) remains incurable, largely due to relapse and the emergence of drug resistance driven by clonal evolution and alterations in the bone marrow (BM) microenvironment that support tumor survival. This highlights the need for novel therapeutics targeting both tumor cells and the supportive BM niche, particularly for patients with relapsed/refractory MM. Syndecan-1 (Sdc1/CD138), a heparan sulfate proteoglycan, is abundantly expressed on both the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42115585/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260513224838&v=2.20.0",
-          "publishedOn": "2026-05-11T10:00:00.000Z",
-          "wordCount": 4861,
-          "title": "SSTN<sub>IV</sub>, a syndecan-1-targeting peptide chimera, reverses immune suppression and inhibits myeloma progression",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42115585",
-          "author": "Oisun Jung",
-          "description": "Despite therapeutic advances, multiple myeloma (MM) remains incurable, largely due to relapse and the emergence of drug resistance driven by clonal evolution and alterations in the bone marrow (BM) microenvironment that support tumor survival. This highlights the need for novel therapeutics targeting both tumor cells and the supportive BM niche, particularly for patients with relapsed/refractory MM. Syndecan-1 (Sdc1/CD138), a heparan sulfate proteoglycan, is abundantly expressed on both the...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42115585/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260512224702&v=2.20.0",
-          "publishedOn": "2026-05-11T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "SSTN<sub>IV</sub>, a syndecan-1-targeting peptide chimera, reverses immune suppression and inhibits myeloma progression",
-          "imageUrl": null
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20260708223722&v=2.20.0&utm_campaign=pubmed-2&utm_source=axios&fc=20220608010801",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_medium=rss&v=2.20.0&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&ff=20260709223939",
       "articles": [
+        {
+          "id": "pubmed:42416117",
+          "author": "Risa Burr",
+          "description": "The somatic mutation theory frames cancer initiation as the consequence of accumulating driver mutations. However, the widespread presence of oncogenic mutations in normal tissues and the rarity with which these clones progress to malignancy suggest that mutation alone is insufficient. Non-small-cell lung cancer in never-smokers exemplifies this paradox, as tumors often arise in the context of low mutational burden. Here, I integrate insights from developmental mosaicism and stress biology to...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42416117/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-07-08T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Epithelial and microenvironmental mosaicism under stress: a two-compartment model for lung cancer development in never-smokers",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42415575",
+          "author": "Ernest A Morton",
+          "description": "CONCLUSIONS: Although referrals increased over time with guideline evolution, urologists accounted for a minority of referrals. While most results were negative or uncertain, pathogenic variants likely carried therapeutic significance. Addressing barriers to referral and improving integration of genetic services into urologic practice may help improve PCa care.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42415575/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-07-08T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Understanding the utilization of genetic counseling and testing among patients with prostate cancer",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42416117",
           "author": "Risa Burr",
@@ -8667,6 +8777,26 @@
           "publishedOn": "2026-07-08T10:00:00.000Z",
           "wordCount": 527,
           "title": "Understanding the utilization of genetic counseling and testing among patients with prostate cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42410432",
+          "author": "Atefeh Bakhshian",
+          "description": "CONCLUSIONS: AI-guided neoantigen discovery is now clinically actionable, enabled by immunopeptidomics and deep learning models. Despite significant progress, key challenges remain, including limited class II prediction accuracy, incomplete coverage of rare HLA alleles, tumor heterogeneity, and the need for standardized benchmarking and validation. Anchoring computational predictions to mass spectrometry-derived ligands and incorporating tumor evolution and immune escape mechanisms will be...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42410432/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "AI-driven neoantigen identification: a comprehensive review from somatic variant calling to T cell recognition",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42409738",
+          "author": "Y M Zhang",
+          "description": "This study aimed to characterize the somatic variant candidate gene profile of patients with chemotherapy-associated aplastic anemia (CAA) and compare it with that of patients with cancer without aplastic anemia (non-AA) and primary aplastic anemia (PAA). This study included 24 patients with CAA diagnosed at Peking Union Medical College Hospital from September 2019 to May 2023 (male-to-female ratio of 3∶5; median age, 60 years). Peripheral blood samples were collected for whole-exome sequencing,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42409738/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Somatic and immune profiling of chemotherapy-associated aplastic anemia: a comparison with primary aplastic anemia and cancer without aplastic anemia",
           "imageUrl": null
         },
         {
@@ -8707,6 +8837,16 @@
           "publishedOn": "2026-07-06T10:00:00.000Z",
           "wordCount": 527,
           "title": "Somatic and immune profiling of chemotherapy-associated aplastic anemia: a comparison with primary aplastic anemia and cancer without aplastic anemia",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42400003",
+          "author": "Taru A Muranen",
+          "description": "CONCLUSIONS: Our findings provide a strategy for more reliable biomarker detection in precision oncology, inform biomarker-guided clinical trial design, and reveal unexploited therapeutic vulnerabilities in HGSC.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42400003/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-07-04T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Multi-modal data integration reveals functionally credible predictive biomarkers in ovarian cancer",
           "imageUrl": null
         },
         {
@@ -8757,6 +8897,26 @@
           "publishedOn": "2026-07-04T10:00:00.000Z",
           "wordCount": 527,
           "title": "Multi-modal data integration reveals functionally credible predictive biomarkers in ovarian cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42398939",
+          "author": "Yang Lyu",
+          "description": "Splicing factor (SF) mutations are recurrent driver alterations in myeloid neoplasms and also represent a distinctive class of mutations in clonal hematopoiesis (CH), an age-associated expansion of hematopoietic clones carrying somatic driver mutations. SF-mutant CH is characterized by relatively late emergence and accelerated clonal expansion in older individuals. This review summarizes current knowledge of the genetic features and clonal dynamics of SF-mutant CH. We discuss disease-associated...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42398939/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-07-03T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Splicing Factor Mutations in Clonal Hematopoiesis and Progression to Myeloid Neoplasms",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42395459",
+          "author": "Melissa L Bondy",
+          "description": "CONCLUSIONS: This ancestrally diverse glioma cohort confirms established molecular classifications and identifies ancestry-associated differences in survival, somatic alterations, and mutational processes, indicating the critical need for broad representation to inform precision neuro-oncology.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42395459/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-07-03T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Multi-Omics Study of Ancestry in Adults with Intracranial Cancers - Glioma (MOSAIC)",
           "imageUrl": null
         },
         {
@@ -8873,6 +9033,16 @@
           "id": "pubmed:42373374",
           "author": "Katherine J Feder",
           "description": "Treatment for the classical Philadelphia-negative myeloproliferative neoplasms (MPNs), including polycythemia vera (PV) and essential thrombocythemia (ET), has long relied on reducing thrombotic risk without a focus on underlying disease modification. The simplified framework of age and thrombosis history inadequately captures the biological complexity of these diseases with emerging data identifying leukocytosis, elevated neutrophil-to-lymphocyte ratio, and high JAK2 V617F variant allele...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42373374/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-06-29T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Treatment of myeloproliferative neoplasms: Exploring new horizons of who and when to cytoreduce in patients with polycythemia vera and essential thrombocytosis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42373374",
+          "author": "Katherine J Feder",
+          "description": "Treatment for the classical Philadelphia-negative myeloproliferative neoplasms (MPNs), including polycythemia vera (PV) and essential thrombocythemia (ET), has long relied on reducing thrombotic risk without a focus on underlying disease modification. The simplified framework of age and thrombosis history inadequately captures the biological complexity of these diseases with emerging data identifying leukocytosis, elevated neutrophil-to-lymphocyte ratio, and high JAK2 V617F variant allele...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42373374/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260708223722&v=2.20.0",
           "publishedOn": "2026-06-29T10:00:00.000Z",
           "wordCount": 527,
@@ -8957,6 +9127,16 @@
           "publishedOn": "2026-06-29T10:00:00.000Z",
           "wordCount": 527,
           "title": "Treatment of myeloproliferative neoplasms: Exploring new horizons of who and when to cytoreduce in patients with polycythemia vera and essential thrombocytosis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42353805",
+          "author": "Xia Wang",
+          "description": "Understanding germline genetic variation is essential for improving human cancer care. Cancer predisposition genetic testing has become a part of the landscape of healthcare. Clinical guidelines have been established to identify individuals with monogenic risk, support variant classification, and guide enhanced cancer surveillance and prevention strategies. However, genetic mechanisms, cancer syndromes, genetic testing, patient education, and high-risk cancer management are often addressed in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42353805/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-06-26T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Cancer Genetic Predisposition and Clinical Applications-A Narrative Review on Germline Genetic Testing, High-Risk Cancer Surveillance and Management",
           "imageUrl": null
         },
         {
@@ -9093,6 +9273,16 @@
           "id": "pubmed:42349107",
           "author": "Ioannis Panagopoulos",
           "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-06-25T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42349107",
+          "author": "Ioannis Panagopoulos",
+          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260708223722&v=2.20.0",
           "publishedOn": "2026-06-25T10:00:00.000Z",
           "wordCount": 527,
@@ -9218,6 +9408,26 @@
           "wordCount": 1809,
           "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42342029",
+          "author": "Paula Casas Ramos",
+          "description": "CONCLUSIONS: Most patients with musculoskeletal sarcomas develop adaptive coping styles. However, emotional disturbances and their association with oncological and functional outcomes justify comprehensive interventions that include psychological care.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42342029/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-06-24T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "IMPACT OF THE DIAGNOSIS OF A MUSCULOSKELETAL SARCOMA AND ITS TREATMENT OUTCOMES ON PATIENTS' MOOD, ANXIETY, QUALITY F LIFE AND COPING STRATEGIES)",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42337581",
+          "author": "Yi-Kai Hu",
+          "description": "CONCLUSIONS: We propose a framework in which hepatocytes dedifferentiate into BPs as a pre-malignant state, undergo malignant transformation, and a subset acquires stemness through DNMT-mediated reprogramming stabilized by epigenetic memory. These findings challenge the classical stem cell origin hypothesis, showing that CSCs in established HCC are late-stage dedifferentiation products, provide a rationale for targeting CSC epigenetic stability, and offer a biomarker for early recurrence.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42337581/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-06-24T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Late-stage dedifferentiation and epigenetic memory of cancer stem cells in hepatocellular carcinoma",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42342029",
@@ -9513,6 +9723,16 @@
           "id": "pubmed:42335235",
           "author": "Sydney A Weinandt",
           "description": "Bivalve transmissible neoplasias (BTNs) are transmissible cancers that have arisen in multiple bivalve species, including Eastern soft-shell clam (Mya arenaria) populations on the East Coast of North America. Two sublineages of a single clone (termed MarBTN) currently circulate at low enzootic levels (1 to 5%) in New England, the United States, and Prince Edward Island, Canada, but MarBTN has not previously been observed in soft-shell clams on the West Coast. In 2022, we collected soft-shell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42335235/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-06-23T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Atlantic to Pacific: Outbreak of bivalve transmissible neoplasia detected in hybridizing soft-shell clams and eDNA in Puget Sound",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42335235",
+          "author": "Sydney A Weinandt",
+          "description": "Bivalve transmissible neoplasias (BTNs) are transmissible cancers that have arisen in multiple bivalve species, including Eastern soft-shell clam (Mya arenaria) populations on the East Coast of North America. Two sublineages of a single clone (termed MarBTN) currently circulate at low enzootic levels (1 to 5%) in New England, the United States, and Prince Edward Island, Canada, but MarBTN has not previously been observed in soft-shell clams on the West Coast. In 2022, we collected soft-shell...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42335235/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260708223722&v=2.20.0",
           "publishedOn": "2026-06-23T10:00:00.000Z",
           "wordCount": 527,
@@ -9667,6 +9887,26 @@
           "publishedOn": "2026-06-23T10:00:00.000Z",
           "wordCount": 528,
           "title": "Atlantic to Pacific: Outbreak of bivalve transmissible neoplasia detected in hybridizing soft-shell clams and eDNA in Puget Sound",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42320754",
+          "author": "Pei Li",
+          "description": "Lung cancer is one of the most prevalent and lethal malignancies worldwide. Despite recent advancements in precision medicine, early detection and therapeutic monitoring of lung cancer remain challenging. Herein, an endonuclease-assisted selective exponential amplification (ESEA) platform is presented that selectively depletes wild-type alleles through programmable endonuclease digestion (CRISPR-Cas or restriction enzymes) while simultaneously amplifying mutant alleles, enabling robust and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42320754/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-06-19T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Endonuclease-Assisted Selective Exponential Amplification for Ultrasensitive Enrichment and Detection of Low-Abundance Mutant Alleles in Lung Cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42317258",
+          "author": "Jianping Zhao",
+          "description": "Fumarate hydratase (FH)-deficient renal cell carcinoma (RCC) can exhibit striking histologic and immunophenotypic heterogeneity. A 36-year-old woman with uterine leiomyomas presented with a 5.1-cm left renal sinus mass and retroperitoneal adenopathy. Biopsy showed juxtaposed lower-grade oncocytic (PAX8 strong, GATA3 weak) and higher-grade pleomorphic (PAX8 negative, GATA3 and CK7 strong) components. DNA sequencing revealed germline pathogenic FH p.S419P, clonal TP53 p.H193D, and subclonal NF2...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42317258/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
+          "publishedOn": "2026-06-19T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Lineage infidelity in FH-deficient RCC with secondary somatic alterations: a case report and implications for diagnosis and treatment",
           "imageUrl": null
         },
         {
