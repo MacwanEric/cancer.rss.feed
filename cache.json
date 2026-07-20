@@ -210,8 +210,68 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&v=2.20.0&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&ff=20260718222248&fc=20220608003622&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20260719223813&utm_source=axios&v=2.20.0&utm_medium=rss&fc=20220608003622&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:42470580",
+          "author": "Sophie G Carlson",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is the presence of hematologic malignancy-associated somatic mutations in patients without hematologic malignancies. In multiple myeloma (MM), the implications of CHIP on chimeric antigen receptor (CAR)-T cell outcomes and toxicities have yet to be fully explored. In a retrospective study at UCLA, we explored the association between CHIP and clinical outcomes of 68 adult patients with MM (31% with CHIP mutations) who were undergoing CAR-T...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42470580/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-18T10:00:00.000Z",
+          "wordCount": 1638,
+          "title": "Impact of clonal hematopoiesis of indeterminate potential on treatment outcomes in multiple myeloma patients undergoing CAR-T cell therapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42466898",
+          "author": "Ohad Oren",
+          "description": "Clonal haematopoiesis of indeterminate potential (CHIP), a recently recognized, age-related cardiovascular risk factor, results from acquired, somatic mutations in a subset of known leukaemia driver genes in haematopoietic stem or progenitor cells. While prior work suggested that screening for these somatic mutations, which requires DNA sequencing, was premature due to lack of actionable evidence-based interventions, this review proposes that in light of the rapidly accumulating knowledge...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42466898/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-17T10:00:00.000Z",
+          "wordCount": 1273,
+          "title": "Clonal haematopoiesis of indeterminate potential in cardiovascular medicine: is it time for selective testing?",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42465528",
+          "author": "Abdullahi Osman Mohamud",
+          "description": "Atherosclerosis is a chronic inflammatory disease marked by the deposition of lipids, fibrous components, and calcification in the major arteries. The process is initiated by endothelial activation, which increases vascular permeability, promotes leukocyte adhesion, and leads to the migration of inflammatory cells into the arterial wall. These events trigger vascular constriction and activate inflammatory pathways, together promoting atheromatous plaque development. This review integrates...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42465528/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-17T10:00:00.000Z",
+          "wordCount": 1458,
+          "title": "Emerging insights into inflammation-driven atherosclerosis: immune cell mechanisms",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42465328",
+          "author": "Michael Bowman",
+          "description": "Single cell RNA-seq (scRNA) has provided unprecedented resolution into cellular and clonal heterogeneity. Computational approaches have enabled recovery of differentiation dynamics, yet current approaches do not evaluate discontinuous differentiation processes present in malignant leukemia. To address these gaps, we developed SupeRJump: a jump-drift-diffusion based supervised cell-fate model ( https://github.com/namwob44/SupeRJump/ ). We deploy this approach in human bone marrow, murine aging...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42465328/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-17T10:00:00.000Z",
+          "wordCount": 1145,
+          "title": "SupeRJump: Determining normal and leukemic differentiation fate through semi-supervised jump diffusion modeling",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42464613",
+          "author": "Konstantinos Liapis",
+          "description": "The authors performed a systematic review and meta-analysis to estimate the prevalence of comorbidities among patients with myelodysplastic syndrome (MDS) by pooling results from 28 studies and 71,400 patients. In conducting this research, the authors observed that individuals with MDS have a high rate of cardiovascular disease that is 6.2 times greater than that in the general population. A remarkably high prevalence of heart failure (between 10.4% and 18.6%) was observed, indicating that heart...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42464613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-17T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Excess risk for cardiovascular and noncardiovascular comorbidities and multimorbidity among patients with myelodysplastic syndrome: A systematic review and meta-analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42464564",
+          "author": "Benjamin Battistone",
+          "description": "Acute myeloid leukemia (AML) is a malignant clonal expansion of myeloid progenitor cells that impedes normal hematopoiesis and culminates in bone marrow failure and death. The development of chemoresistant disease in response to first-line chemotherapies is common and indicates a need for new therapies. Tumor-specific mRNA vaccines have emerged as potent inducers of cellular immunity against solid tumors, yet their utility in targeting AML and the specific mechanisms that govern their broader...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42464564/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-17T10:00:00.000Z",
+          "wordCount": 3384,
+          "title": "T-cell miR-155 regulates the response to tumor-specific mRNA vaccines in a murine model of acute myeloid leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
         {
           "id": "pubmed:42466898",
           "author": "Ohad Oren",
@@ -310,6 +370,66 @@
           "publishedOn": "2026-07-17T10:00:00.000Z",
           "wordCount": 1706,
           "title": "T-cell miR-155 regulates the response to tumor-specific mRNA vaccines in a murine model of acute myeloid leukemia",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42463292",
+          "author": "Praful Ravi",
+          "description": "The prevalence, clinical impact, and clonal dynamics of clonal hematopoiesis (CH) in patients receiving ^(177)Lu-PSMA-617 (LuPSMA) for metastatic castration-resistant prostate cancer (mCRPC) are unknown. Methods: Targeted next-generation sequencing of 21 genes recurrently mutated in CH was performed on DNA extracted from the peripheral blood of patients who received at least 4 cycles of LuPSMA for mCRPC at our institution between 2022 and 2023. Pathogenic somatic mutations with a variant allele...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42463292/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-16T10:00:00.000Z",
+          "wordCount": 1398,
+          "title": "Clinical Impact and Dynamics of Clonal Hematopoiesis with (177)Lu-PSMA-617 Therapy in Advanced Prostate Cancer",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42463064",
+          "author": "Matthew W Simonson",
+          "description": "Clonal haematopoiesis of indeterminate potential (CHIP) represents somatic mutations in haematopoietic stem cells that drive clonal expansion. Epigenetic age acceleration (EAA), estimated from DNA methylation (DNAm) clocks, may capture age-related changes in haematopoiesis. This systematic review and meta-analysis was conducted to synthesise evidence on associations between CHIP and EAA and explore shared biological mechanisms that may underlie this relationship. Six databases were searched from...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42463064/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-16T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Clonal haematopoiesis of indeterminate potential and epigenetic age acceleration: Systematic review and meta-analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42461906",
+          "author": "Jan Vorwerk",
+          "description": "The expanding availability of multi-omics profiling and advances in artificial intelli-gence (AI) and machine learning (ML) are changing precision oncology. Molecular testing strategies such as longitudinal liquid biopsy assessment, germline variant analysis, and the evaluation of tumor-infiltrating clonal hematopoiesis (TI-CH) are gain-ing attention, given their potential to inform treatment decisions from surveillance through therapy selection. In 2025, during a NORD (Northern Oncology,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42461906/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-16T10:00:00.000Z",
+          "wordCount": 1301,
+          "title": "Precision Oncology in Northern Germany - Integrating Multi-Omics and AI to Support Evidence-Based Molecular Tumor Boards",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42459301",
+          "author": "Wanhua An",
+          "description": "Myelodysplastic syndromes (MDS) are a heterogeneous group of clonal hematopoietic stem cell disorders characterized by ineffective hematopoiesis and an increased risk of progression to acute myeloid leukemia (AML). Patients with MDS often develop progressive systemic iron overload due to ineffective erythropoiesis, dysregulated hepcidin expression, and repeated blood transfusions. Excess free iron promotes reactive oxygen species generation through the Fenton reaction, resulting in persistent...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42459301/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-16T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "The role and therapeutic potential of nanotechnology-mediated ferroptosis regulation in myelodysplastic syndromes",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42459134",
+          "author": "Cheng Cheng",
+          "description": "Not available.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42459134/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-16T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Bridging periodontitis and clonal hematopoiesis: implications for solid tumor metastasis, clinical trial design, and microbiome dynamics. Comment on: \"Ligature-induced periodontitis promotes Dnmt3aR878H-driven clonal hematopoiesis\"",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42459120",
+          "author": "Tetiana Perekhrestenko",
+          "description": "Allogeneic stem cell transplantation (allo-SCT) is the only potentially curative approach for several high-risk hematologic malignancies, but high relapse rates remain a challenge. Most relapses derive from the original malignant clone or its descendants. Occasionally, secondary blood cancers arise from transplanted donor cells and are referred to as donor-derived malignancies (DDMs). To assess the incidence of DDM at our center we performed a retrospective observational study on all evaluable...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42459120/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-16T10:00:00.000Z",
+          "wordCount": 1367,
+          "title": "Incidence, molecular and clinical characteristics of donor-derived hematologic malignancies after allogeneic stem cell transplantation for myeloid malignancies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -471,6 +591,36 @@
           "wordCount": 1317,
           "title": "Incidence, molecular and clinical characteristics of donor-derived hematologic malignancies after allogeneic stem cell transplantation for myeloid malignancies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42457967",
+          "author": "Sarah M Urbut",
+          "description": "Electronic health records (EHRs) provide rich longitudinal disease histories, but existing methods for analysing these data typically treat diseases in isolation¹ and rarely integrate germline genetics. Here we present ALADYNOULLI, a Bayesian generative framework that jointly models longitudinal EHR diagnoses, age and polygenic risk to recover latent time-varying disease signatures and patient-specific signature loadings; the model is formulated as a mixture of probabilities rather than a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42457967/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": 2013,
+          "title": "A Bayesian framework for longitudinal EHR and genetic discovery",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42457468",
+          "author": "Vincent Rondeau",
+          "description": "In clonal hematopoiesis (CH), hematopoietic stem cells (HSCs) with mutations conferring a fitness advantage preferentially expand under evolutionary constraints. Over the last decade, cancer therapy has emerged as a selective pressure contributing to high rates of CH in patients with hematological and nonhematological cancers. Distinct chemotherapies, radiotherapies, immunotherapies, and targeted cancer therapies shape somatic evolution by inducing de novo mutations and by conferring a selective...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42457468/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": 1249,
+          "title": "Under pressure: clonal hematopoiesis in patients receiving cancer therapy",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42453701",
+          "author": "Jie Sui",
+          "description": "Muscle-invasive bladder cancer (MIBC) remains characterized by substantial postoperative heterogeneity after radical cystectomy, and conventional pathology and imaging incompletely identify patients with biologically active residual disease. Circulating tumor DNA (ctDNA) has emerged as the most clinically advanced liquid-biopsy marker of molecular residual disease (MRD) in this setting because it can detect recurrence before radiographic progression and, more importantly, can now inform...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42453701/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Post-IMvigor011 Era: CtDNA-Guided Postoperative Adjuvant Treatment Stratification in Muscle-Invasive Bladder Cancer",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42457967",
@@ -8271,204 +8421,24 @@
           "wordCount": 527,
           "title": "Methylated circulating tumor DNA: technical challenges and clinical applications in non-small cell lung cancer patients-a narrative review",
           "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168198",
-          "author": "Kara M Barnao",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) and mosaic chromosomal alterations (mCAs) are two types of clonal hematopoiesis (CH) associated with hematological parameters and malignancy risk. Here we show, in genomic data from 546,090 biobank participants, that co-occurring CH (≥2 CH mutations detected) is present in 1.6% of cancer-free individuals and shows strong evidence for selection (up to 804x enrichment). Co-occurrence is more frequent in those with a prior cancer (3.6%),...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168198/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260527224830&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 3180,
-          "title": "Co-occurring clonal hematopoiesis exhibits strong selection and high leukemia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42165208",
-          "author": "Tamanna Haque",
-          "description": "BackgroundApproximately 50% of venous thromboembolism (VTE) are unprovoked, and 30% recur, leading to significant patient morbidity. Clonal hematopoiesis (CH) are acquired hematopoietic mutations that increase the risk of cardiovascular disease and myeloid neoplasms. CH may be associated with VTE and/or a predictive risk factor for recurrent VTE.MethodsWe conducted the first prospective pilot single-center study for patients with VTE to assess rate of CH, VTE recurrence rate, and clinical...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42165208/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260527224830&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Clonal Hematopoiesis Rates in a Recurrent Venous Thrombosis Population: A Prospective Pilot Study",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168198",
-          "author": "Kara M Barnao",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) and mosaic chromosomal alterations (mCAs) are two types of clonal hematopoiesis (CH) associated with hematological parameters and malignancy risk. Here we show, in genomic data from 546,090 biobank participants, that co-occurring CH (≥2 CH mutations detected) is present in 1.6% of cancer-free individuals and shows strong evidence for selection (up to 804x enrichment). Co-occurrence is more frequent in those with a prior cancer (3.6%),...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168198/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260526232813&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 3180,
-          "title": "Co-occurring clonal hematopoiesis exhibits strong selection and high leukemia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42165208",
-          "author": "Tamanna Haque",
-          "description": "BackgroundApproximately 50% of venous thromboembolism (VTE) are unprovoked, and 30% recur, leading to significant patient morbidity. Clonal hematopoiesis (CH) are acquired hematopoietic mutations that increase the risk of cardiovascular disease and myeloid neoplasms. CH may be associated with VTE and/or a predictive risk factor for recurrent VTE.MethodsWe conducted the first prospective pilot single-center study for patients with VTE to assess rate of CH, VTE recurrence rate, and clinical...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42165208/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260526232813&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 2001,
-          "title": "Clonal Hematopoiesis Rates in a Recurrent Venous Thrombosis Population: A Prospective Pilot Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42165150",
-          "author": "Cesar De Jeronimo Diaz",
-          "description": "CONCLUSIONS: These findings indicate that in murine models, Ppm1d mutations are not sufficient to promote atherosclerosis, suggesting that the epidemiological association between PPM1D CH and coronary artery disease may not be due to changes in plaque development.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42165150/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260526232813&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 1676,
-          "title": "Ppm1d Clonal Hematopoiesis Does Not Promote Atherosclerosis in Murine Models",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42168198",
-          "author": "Kara M Barnao",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) and mosaic chromosomal alterations (mCAs) are two types of clonal hematopoiesis (CH) associated with hematological parameters and malignancy risk. Here we show, in genomic data from 546,090 biobank participants, that co-occurring CH (≥2 CH mutations detected) is present in 1.6% of cancer-free individuals and shows strong evidence for selection (up to 804x enrichment). Co-occurrence is more frequent in those with a prior cancer (3.6%),...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168198/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Co-occurring clonal hematopoiesis exhibits strong selection and high leukemia risk",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42165208",
-          "author": "Tamanna Haque",
-          "description": "BackgroundApproximately 50% of venous thromboembolism (VTE) are unprovoked, and 30% recur, leading to significant patient morbidity. Clonal hematopoiesis (CH) are acquired hematopoietic mutations that increase the risk of cardiovascular disease and myeloid neoplasms. CH may be associated with VTE and/or a predictive risk factor for recurrent VTE.MethodsWe conducted the first prospective pilot single-center study for patients with VTE to assess rate of CH, VTE recurrence rate, and clinical...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42165208/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 2001,
-          "title": "Clonal Hematopoiesis Rates in a Recurrent Venous Thrombosis Population: A Prospective Pilot Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42165150",
-          "author": "Cesar De Jeronimo Diaz",
-          "description": "CONCLUSIONS: These findings indicate that in murine models, Ppm1d mutations are not sufficient to promote atherosclerosis, suggesting that the epidemiological association between PPM1D CH and coronary artery disease may not be due to changes in plaque development.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42165150/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260525224952&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Ppm1d Clonal Hematopoiesis Does Not Promote Atherosclerosis in Murine Models",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168198",
-          "author": "Kara M Barnao",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) and mosaic chromosomal alterations (mCAs) are two types of clonal hematopoiesis (CH) associated with hematological parameters and malignancy risk. Here we show, in genomic data from 546,090 biobank participants, that co-occurring CH (≥2 CH mutations detected) is present in 1.6% of cancer-free individuals and shows strong evidence for selection (up to 804x enrichment). Co-occurrence is more frequent in those with a prior cancer (3.6%),...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168198/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260524232958&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 3180,
-          "title": "Co-occurring clonal hematopoiesis exhibits strong selection and high leukemia risk",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42165208",
-          "author": "Tamanna Haque",
-          "description": "BackgroundApproximately 50% of venous thromboembolism (VTE) are unprovoked, and 30% recur, leading to significant patient morbidity. Clonal hematopoiesis (CH) are acquired hematopoietic mutations that increase the risk of cardiovascular disease and myeloid neoplasms. CH may be associated with VTE and/or a predictive risk factor for recurrent VTE.MethodsWe conducted the first prospective pilot single-center study for patients with VTE to assess rate of CH, VTE recurrence rate, and clinical...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42165208/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260524232958&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 2001,
-          "title": "Clonal Hematopoiesis Rates in a Recurrent Venous Thrombosis Population: A Prospective Pilot Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42165150",
-          "author": "Cesar De Jeronimo Diaz",
-          "description": "CONCLUSIONS: These findings indicate that in murine models, Ppm1d mutations are not sufficient to promote atherosclerosis, suggesting that the epidemiological association between PPM1D CH and coronary artery disease may not be due to changes in plaque development.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42165150/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260524232958&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 1658,
-          "title": "Ppm1d Clonal Hematopoiesis Does Not Promote Atherosclerosis in Murine Models",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42168198",
-          "author": "Kara M Barnao",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) and mosaic chromosomal alterations (mCAs) are two types of clonal hematopoiesis (CH) associated with hematological parameters and malignancy risk. Here we show, in genomic data from 546,090 biobank participants, that co-occurring CH (≥2 CH mutations detected) is present in 1.6% of cancer-free individuals and shows strong evidence for selection (up to 804x enrichment). Co-occurrence is more frequent in those with a prior cancer (3.6%),...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168198/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260523225357&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Co-occurring clonal hematopoiesis exhibits strong selection and high leukemia risk",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42165208",
-          "author": "Tamanna Haque",
-          "description": "BackgroundApproximately 50% of venous thromboembolism (VTE) are unprovoked, and 30% recur, leading to significant patient morbidity. Clonal hematopoiesis (CH) are acquired hematopoietic mutations that increase the risk of cardiovascular disease and myeloid neoplasms. CH may be associated with VTE and/or a predictive risk factor for recurrent VTE.MethodsWe conducted the first prospective pilot single-center study for patients with VTE to assess rate of CH, VTE recurrence rate, and clinical...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42165208/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260523225357&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Clonal Hematopoiesis Rates in a Recurrent Venous Thrombosis Population: A Prospective Pilot Study",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42165150",
-          "author": "Cesar De Jeronimo Diaz",
-          "description": "CONCLUSIONS: These findings indicate that in murine models, Ppm1d mutations are not sufficient to promote atherosclerosis, suggesting that the epidemiological association between PPM1D CH and coronary artery disease may not be due to changes in plaque development.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42165150/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260523225357&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 1658,
-          "title": "Ppm1d Clonal Hematopoiesis Does Not Promote Atherosclerosis in Murine Models",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42168198",
-          "author": "Kara M Barnao",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) and mosaic chromosomal alterations (mCAs) are two types of clonal hematopoiesis (CH) associated with hematological parameters and malignancy risk. Here we show, in genomic data from 546,090 biobank participants, that co-occurring CH (≥2 CH mutations detected) is present in 1.6% of cancer-free individuals and shows strong evidence for selection (up to 804x enrichment). Co-occurrence is more frequent in those with a prior cancer (3.6%),...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168198/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260522224208&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Co-occurring clonal hematopoiesis exhibits strong selection and high leukemia risk",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42165208",
-          "author": "Tamanna Haque",
-          "description": "BackgroundApproximately 50% of venous thromboembolism (VTE) are unprovoked, and 30% recur, leading to significant patient morbidity. Clonal hematopoiesis (CH) are acquired hematopoietic mutations that increase the risk of cardiovascular disease and myeloid neoplasms. CH may be associated with VTE and/or a predictive risk factor for recurrent VTE.MethodsWe conducted the first prospective pilot single-center study for patients with VTE to assess rate of CH, VTE recurrence rate, and clinical...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42165208/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260522224208&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Clonal Hematopoiesis Rates in a Recurrent Venous Thrombosis Population: A Prospective Pilot Study",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42165150",
-          "author": "Cesar De Jeronimo Diaz",
-          "description": "CONCLUSIONS: These findings indicate that in murine models, Ppm1d mutations are not sufficient to promote atherosclerosis, suggesting that the epidemiological association between PPM1D CH and coronary artery disease may not be due to changes in plaque development.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42165150/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260522224208&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Ppm1d Clonal Hematopoiesis Does Not Promote Atherosclerosis in Murine Models",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42165208",
-          "author": "Tamanna Haque",
-          "description": "BackgroundApproximately 50% of venous thromboembolism (VTE) are unprovoked, and 30% recur, leading to significant patient morbidity. Clonal hematopoiesis (CH) are acquired hematopoietic mutations that increase the risk of cardiovascular disease and myeloid neoplasms. CH may be associated with VTE and/or a predictive risk factor for recurrent VTE.MethodsWe conducted the first prospective pilot single-center study for patients with VTE to assess rate of CH, VTE recurrence rate, and clinical...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42165208/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260521225639&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 1578,
-          "title": "Clonal Hematopoiesis Rates in a Recurrent Venous Thrombosis Population: A Prospective Pilot Study",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42165150",
-          "author": "Cesar De Jeronimo Diaz",
-          "description": "CONCLUSIONS: These findings indicate that in murine models, Ppm1d mutations are not sufficient to promote atherosclerosis, suggesting that the epidemiological association between PPM1D CH and coronary artery disease may not be due to changes in plaque development.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42165150/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260521225639&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 1615,
-          "title": "Ppm1d Clonal Hematopoiesis Does Not Promote Atherosclerosis in Murine Models",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_campaign=pubmed-2&v=2.20.0&ff=20260718222248&utm_medium=rss&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&utm_medium=rss&fc=20220608010801&v=2.20.0&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20260719223813&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:42465838",
+          "author": "Frank Castel",
+          "description": "CONCLUSION: GDNs provide a robust, scalable, and annotation-free framework to understand cancer onset and progression. The separation into N- and T-GDNs, connected by NT-genes, offers a systematic basis for studying carcinogenesis and designing targeted therapies.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42465838/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-17T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "N-Gene and T-Gene deregulation networks: a data-driven causal framework for the analysis of gene interventions in cancer",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42465838",
           "author": "Frank Castel",
@@ -8487,6 +8457,16 @@
           "publishedOn": "2026-07-17T10:00:00.000Z",
           "wordCount": 527,
           "title": "N-Gene and T-Gene deregulation networks: a data-driven causal framework for the analysis of gene interventions in cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42457468",
+          "author": "Vincent Rondeau",
+          "description": "In clonal hematopoiesis (CH), hematopoietic stem cells (HSCs) with mutations conferring a fitness advantage preferentially expand under evolutionary constraints. Over the last decade, cancer therapy has emerged as a selective pressure contributing to high rates of CH in patients with hematological and nonhematological cancers. Distinct chemotherapies, radiotherapies, immunotherapies, and targeted cancer therapies shape somatic evolution by inducing de novo mutations and by conferring a selective...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42457468/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-15T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Under pressure: clonal hematopoiesis in patients receiving cancer therapy",
           "imageUrl": null
         },
         {
@@ -8517,6 +8497,26 @@
           "publishedOn": "2026-07-15T10:00:00.000Z",
           "wordCount": 527,
           "title": "Under pressure: clonal hematopoiesis in patients receiving cancer therapy",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42439376",
+          "author": "Siren Morken",
+          "description": "Colorectal neuroendocrine carcinoma (NEC) is a rare and aggressive cancer, and in a subset of patients associated with an adenocarcinoma (AC) component. When both components exceed 30% of the tumour, it is classified as mixed neuroendocrine-non-neuroendocrine neoplasm (MiNEN), although there is an ongoing debate wether any presence of two distinct components should be sufficient for a MiNEN diagnosis. This study aimed to investigate the origin and subsequent genetic changes of these two...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42439376/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-13T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Origin and evolution of colorectal mixed neuroendocrine-non-neuroendocrine neoplasms (MiNEN)",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42438125",
+          "author": "Sejung Lee",
+          "description": "Whole-genome doubling (WGD) occurs in approximately 30-40% of human cancers, representing a transformative evolutionary event that fundamentally reshapes tumor biology. WGD triggers chromosomal instability (CIN) and somatic copy-number alterations (SCNAs), which accelerate tumor evolution and underlie aggressive clinical behavior. Paradoxically, the same cellular stresses that drive tumor progression also force WGD-positive cells into a heightened dependence on specific survival mechanisms,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42438125/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-13T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Translating whole-genome doubling into precision medicine in cancer",
           "imageUrl": null
         },
         {
@@ -8643,6 +8643,16 @@
           "id": "pubmed:42427883",
           "author": "Edward J Evans",
           "description": "Just as organismal evolution is driven by environmental changes, somatic evolution is similarly driven by changes in tissue environments, whether caused by the normal process of aging, by lifestyle choices, or by extrinsic exposures. We present deep mutational profiling using duplex sequencing of over 390 samples of non-malignant lung tissue from 202 subjects, showing how aging, smoking and different anti-cancer therapies are associated with selection for particular mutations in normal lung...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42427883/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-10T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Context-dependent selection sculpts mutational landscapes in the normal lung",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42427883",
+          "author": "Edward J Evans",
+          "description": "Just as organismal evolution is driven by environmental changes, somatic evolution is similarly driven by changes in tissue environments, whether caused by the normal process of aging, by lifestyle choices, or by extrinsic exposures. We present deep mutational profiling using duplex sequencing of over 390 samples of non-malignant lung tissue from 202 subjects, showing how aging, smoking and different anti-cancer therapies are associated with selection for particular mutations in normal lung...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42427883/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260718222248&v=2.20.0",
           "publishedOn": "2026-07-10T10:00:00.000Z",
           "wordCount": 527,
@@ -8707,6 +8717,26 @@
           "publishedOn": "2026-07-10T10:00:00.000Z",
           "wordCount": 527,
           "title": "Context-dependent selection sculpts mutational landscapes in the normal lung",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42416117",
+          "author": "Risa Burr",
+          "description": "The somatic mutation theory frames cancer initiation as the consequence of accumulating driver mutations. However, the widespread presence of oncogenic mutations in normal tissues and the rarity with which these clones progress to malignancy suggest that mutation alone is insufficient. Non-small-cell lung cancer in never-smokers exemplifies this paradox, as tumors often arise in the context of low mutational burden. Here, I integrate insights from developmental mosaicism and stress biology to...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42416117/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-08T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Epithelial and microenvironmental mosaicism under stress: a two-compartment model for lung cancer development in never-smokers",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42415575",
+          "author": "Ernest A Morton",
+          "description": "CONCLUSIONS: Although referrals increased over time with guideline evolution, urologists accounted for a minority of referrals. While most results were negative or uncertain, pathogenic variants likely carried therapeutic significance. Addressing barriers to referral and improving integration of genetic services into urologic practice may help improve PCa care.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42415575/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-08T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Understanding the utilization of genetic counseling and testing among patients with prostate cancer",
           "imageUrl": null
         },
         {
@@ -8927,6 +8957,26 @@
           "publishedOn": "2026-07-08T10:00:00.000Z",
           "wordCount": 527,
           "title": "Understanding the utilization of genetic counseling and testing among patients with prostate cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42410432",
+          "author": "Atefeh Bakhshian",
+          "description": "CONCLUSIONS: AI-guided neoantigen discovery is now clinically actionable, enabled by immunopeptidomics and deep learning models. Despite significant progress, key challenges remain, including limited class II prediction accuracy, incomplete coverage of rare HLA alleles, tumor heterogeneity, and the need for standardized benchmarking and validation. Anchoring computational predictions to mass spectrometry-derived ligands and incorporating tumor evolution and immune escape mechanisms will be...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42410432/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "AI-driven neoantigen identification: a comprehensive review from somatic variant calling to T cell recognition",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42409738",
+          "author": "Y M Zhang",
+          "description": "This study aimed to characterize the somatic variant candidate gene profile of patients with chemotherapy-associated aplastic anemia (CAA) and compare it with that of patients with cancer without aplastic anemia (non-AA) and primary aplastic anemia (PAA). This study included 24 patients with CAA diagnosed at Peking Union Medical College Hospital from September 2019 to May 2023 (male-to-female ratio of 3∶5; median age, 60 years). Peripheral blood samples were collected for whole-exome sequencing,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42409738/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-06T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Somatic and immune profiling of chemotherapy-associated aplastic anemia: a comparison with primary aplastic anemia and cancer without aplastic anemia",
           "imageUrl": null
         },
         {
@@ -9173,6 +9223,16 @@
           "id": "pubmed:42400003",
           "author": "Taru A Muranen",
           "description": "CONCLUSIONS: Our findings provide a strategy for more reliable biomarker detection in precision oncology, inform biomarker-guided clinical trial design, and reveal unexploited therapeutic vulnerabilities in HGSC.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42400003/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-04T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Multi-modal data integration reveals functionally credible predictive biomarkers in ovarian cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42400003",
+          "author": "Taru A Muranen",
+          "description": "CONCLUSIONS: Our findings provide a strategy for more reliable biomarker detection in precision oncology, inform biomarker-guided clinical trial design, and reveal unexploited therapeutic vulnerabilities in HGSC.",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42400003/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260718222248&v=2.20.0",
           "publishedOn": "2026-07-04T10:00:00.000Z",
           "wordCount": 527,
@@ -9317,6 +9377,26 @@
           "publishedOn": "2026-07-04T10:00:00.000Z",
           "wordCount": 527,
           "title": "Multi-modal data integration reveals functionally credible predictive biomarkers in ovarian cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42398939",
+          "author": "Yang Lyu",
+          "description": "Splicing factor (SF) mutations are recurrent driver alterations in myeloid neoplasms and also represent a distinctive class of mutations in clonal hematopoiesis (CH), an age-associated expansion of hematopoietic clones carrying somatic driver mutations. SF-mutant CH is characterized by relatively late emergence and accelerated clonal expansion in older individuals. This review summarizes current knowledge of the genetic features and clonal dynamics of SF-mutant CH. We discuss disease-associated...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42398939/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-03T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Splicing Factor Mutations in Clonal Hematopoiesis and Progression to Myeloid Neoplasms",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42395459",
+          "author": "Melissa L Bondy",
+          "description": "CONCLUSIONS: This ancestrally diverse glioma cohort confirms established molecular classifications and identifies ancestry-associated differences in survival, somatic alterations, and mutational processes, indicating the critical need for broad representation to inform precision neuro-oncology.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42395459/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-07-03T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Multi-Omics Study of Ancestry in Adults with Intracranial Cancers - Glioma (MOSAIC)",
           "imageUrl": null
         },
         {
@@ -9633,6 +9713,16 @@
           "id": "pubmed:42373374",
           "author": "Katherine J Feder",
           "description": "Treatment for the classical Philadelphia-negative myeloproliferative neoplasms (MPNs), including polycythemia vera (PV) and essential thrombocythemia (ET), has long relied on reducing thrombotic risk without a focus on underlying disease modification. The simplified framework of age and thrombosis history inadequately captures the biological complexity of these diseases with emerging data identifying leukocytosis, elevated neutrophil-to-lymphocyte ratio, and high JAK2 V617F variant allele...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42373374/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-06-29T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Treatment of myeloproliferative neoplasms: Exploring new horizons of who and when to cytoreduce in patients with polycythemia vera and essential thrombocytosis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42373374",
+          "author": "Katherine J Feder",
+          "description": "Treatment for the classical Philadelphia-negative myeloproliferative neoplasms (MPNs), including polycythemia vera (PV) and essential thrombocythemia (ET), has long relied on reducing thrombotic risk without a focus on underlying disease modification. The simplified framework of age and thrombosis history inadequately captures the biological complexity of these diseases with emerging data identifying leukocytosis, elevated neutrophil-to-lymphocyte ratio, and high JAK2 V617F variant allele...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42373374/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260718222248&v=2.20.0",
           "publishedOn": "2026-06-29T10:00:00.000Z",
           "wordCount": 527,
@@ -9817,6 +9907,16 @@
           "publishedOn": "2026-06-29T10:00:00.000Z",
           "wordCount": 527,
           "title": "Treatment of myeloproliferative neoplasms: Exploring new horizons of who and when to cytoreduce in patients with polycythemia vera and essential thrombocytosis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42353805",
+          "author": "Xia Wang",
+          "description": "Understanding germline genetic variation is essential for improving human cancer care. Cancer predisposition genetic testing has become a part of the landscape of healthcare. Clinical guidelines have been established to identify individuals with monogenic risk, support variant classification, and guide enhanced cancer surveillance and prevention strategies. However, genetic mechanisms, cancer syndromes, genetic testing, patient education, and high-risk cancer management are often addressed in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42353805/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-06-26T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Cancer Genetic Predisposition and Clinical Applications-A Narrative Review on Germline Genetic Testing, High-Risk Cancer Surveillance and Management",
           "imageUrl": null
         },
         {
@@ -10048,6 +10148,16 @@
           "wordCount": 1201,
           "title": "Cancer Genetic Predisposition and Clinical Applications-A Narrative Review on Germline Genetic Testing, High-Risk Cancer Surveillance and Management",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42349107",
+          "author": "Ioannis Panagopoulos",
+          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
+          "publishedOn": "2026-06-25T10:00:00.000Z",
+          "wordCount": 527,
+          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42349107",
@@ -15088,346 +15198,6 @@
           "wordCount": 527,
           "title": "Polyclonal evolution of lymphoproliferative disorders in XLP1",
           "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260624225242&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260623225316&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260622225245&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 1503,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260621235310&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260620235007&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260619225822&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 1503,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260618235744&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260617233513&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260616234307&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260615234252&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260614235433&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260613233941&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260612232338&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260611233614&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260610233619&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260609232412&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260608224750&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260607233826&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260606233243&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260605224853&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 1503,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260604232724&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260603233944&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260602234328&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260601233715&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260531234042&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260530232858&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260529224558&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260528225235&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260527224830&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260526232813&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260525224952&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 1503,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260524232958&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260523225357&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42168613",
-          "author": "Hany A Abdel-Hafiz",
-          "description": "Loss of the Y chromosome (LOY) is the most prevalent somatic genomic alteration in males and can be detected in both blood and other tissues. Age, environmental exposures, mitotic errors and genetic predisposition converge to drive LOY, often via clonal expansion. Emerging evidence has linked LOY to susceptibility, progression and poor outcomes in multiple cancer types. Here we summarize Y-chromosome evolution, structure and gene content, which is essential for male development, transcriptional...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42168613/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260522224208&v=2.20.0",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": 1503,
-          "title": "Beyond sex determination: the Y chromosome in male cancers",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
