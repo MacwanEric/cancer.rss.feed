@@ -210,8 +210,48 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.20.1&utm_medium=rss&ff=20260822210509&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&fc=20220608003622&ff=20260823210253&v=2.20.1&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
       "articles": [
+        {
+          "id": "pubmed:42633633",
+          "author": "Alex Jenei",
+          "description": "Extramedullary hematopoiesis is reactive or clonal trilineage hematopoiesis presenting outside the bone marrow, and it is typically caused by an underlying neoplastic process. In this report, we present the case of a 58-year-old patient who underwent multiple kidney transplantations. Follow-up imaging revealed a tumour-like mass in the soft tissue near the graft kidney. Biopsy revealed extramedullary hematopoiesis without dysplastic features or blast increase. The patient did not show blood...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42633633/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Tumour-like extramedullary hematopoiesis in a patient with multiple renal transplantations",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42633405",
+          "author": "Jibran Durrani",
+          "description": "Bone marrow failure syndromes (BMFS) are a diverse group of disorders that commonly present with pancytopenia and require a structured approach to evaluation. Initial assessment focuses on excluding reversible causes, followed by consideration of inherited and acquired conditions. Although the diagnostic approach is broadly similar across age groups, the underlying BMF etiology frequently differs: younger patients are more likely to have immune-mediated or inherited disease, whereas older adults...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42633405/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Bone marrow failure syndromes across the age spectrum: diagnostic and therapeutic principles",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42633066",
+          "author": "Megan A Evans",
+          "description": "The effects of space radiation on clonal hematopoiesis (CH) and its impact on long-term health outcomes are unknown. Using male and female murine models of Trp53-, Ppm1d-, and Tet2-mediated CH, we examined the effects of exposure to gamma radiation, simulated solar particle events, or simplified simulated galactic cosmic rays on the clonal expansion of mutant cells and long-term health outcomes. Radiation accelerated the expansion of Trp53 and Ppm1d, but not Tet2, mutant clones. Over 18 months,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42633066/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Space radiation promotes clonal hematopoiesis and hematologic disease upon aging in a driver gene and sex-specific manner",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42626789",
+          "author": "Amr Ali Mohamed Abdelgawwad El-Sehrawy",
+          "description": "Myeloproliferative neoplasms (MPN) are shaped by epigenetic rewiring that extends beyond canonical JAK2V617F-driven signaling. This review argues that context-dependent chromatin states, not merely genetic lesions, determine disease trajectory, fibrotic transformation, and leukemic progression. We synthesize recent evidence indicating that PRC2 deficiency is supported by the strongest MPN-specific evidence for BRD4 dependency, whereas PARP/BCL-2 vulnerabilities associated with TET2/IDH mutations...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42626789/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Epigenetic Rewiring and Context-Dependent Therapeutic Vulnerabilities in Myeloproliferative Neoplasms",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42626789",
           "author": "Amr Ali Mohamed Abdelgawwad El-Sehrawy",
@@ -230,6 +270,46 @@
           "publishedOn": "2026-08-21T10:00:00.000Z",
           "wordCount": null,
           "title": "Epigenetic Rewiring and Context-Dependent Therapeutic Vulnerabilities in Myeloproliferative Neoplasms",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42624191",
+          "author": "Amr Ali Mohamed Abdelgawwad El-Sehrawy",
+          "description": "Acute myeloid leukemia (AML) is a genetically heterogeneous and dynamically evolving malignancy in which morphologic remission does not necessarily indicate eradication of disease. Bone marrow examination remains central to diagnosis and response assessment, yet repeated aspiration is invasive, may be affected by hemodilution and spatial sampling, and provides only intermittent snapshots of an evolving clonal process. Liquid biopsy offers a complementary strategy by interrogating circulating...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42624191/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Digital droplet PCR and liquid biopsy in acute myeloid Leukemia: bridging translational research and clinical practice",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42623673",
+          "author": "Wangpan Shi",
+          "description": "While chimeric antigen receptor (CAR) T-cell therapy provides potential cure for patients with non-Hodgkin B-cell lymphomas/leukemias and plasma cell myelomas, rare reports of development of T-cell lymphomas(TCLs) in these patients have raised serious safety concerns with regard to whether CAR T-cell therapy could directly contribute to the development of TCLs in a specific patient or in those with certain types of underlying hematologic malignancy. This review aims to comprehensively evaluate...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42623673/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "A Comprehensive Review of T-Cell Lymphoma Following CAR T-Cell Immunotherapy",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42619870",
+          "author": "Marta Mastrogiovanni",
+          "description": "Embryonic hematopoiesis is essential for establishing lifelong blood and immune system function. During development, hematopoietic stem and progenitor cells (HSPCs) acquire intrinsic programs that persist into adulthood and can influence disease susceptibility, yet the molecular signals governing these early-life decisions remain poorly understood. Here, we investigated the role of developmental Transforming Growth Factor-β (TGF-β) signaling in regulating HSPC lineage bias and long-term...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42619870/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Embryonic TGF-β signaling imposes persistent changes to HSPC clonality and inflammatory landscape",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42618695",
+          "author": "Bongsoo Park",
+          "description": "Hematopoietic stem cell (HSC) aging underlies age-related immune decline, anemia and increased risk of hematologic malignancies, including clonal hematopoiesis and leukemia. Many available microarray and bulk RNA sequencing studies have elucidated conserved transcriptional hallmarks, such as myeloid bias, inflammation dysregulation, and self-renewal reinforcement in aged HSCs across mouse and human models. Here, we review key publicly available transcriptome and epigenome datasets from landmark...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42618695/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Hematopoietic stem cell aging: a review of transcriptional and multi-omics insights and potential paths for AI integration",
           "imageUrl": null
         },
         {
@@ -331,6 +411,66 @@
           "wordCount": 1466,
           "title": "Hematopoietic stem cell aging: a review of transcriptional and multi-omics insights and potential paths for AI integration",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42610248",
+          "author": "Pascal B Meyre",
+          "description": "CONCLUSIONS: In patients with AF, CHIP was independently associated with a greater burden and progression of silent brain lesions and with accelerated cognitive decline.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42610248/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Association of Clonal Hematopoiesis With Silent Brain Lesions and Cognitive Decline in Patients With Atrial Fibrillation",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42609881",
+          "author": "Alireza Rezvani",
+          "description": "CONCLUSION: This case illustrates the diagnostic and prognostically relevant value of concurrent morphologic abnormalities across multiple hematopoietic lineages in MDS. It underscores the enduring importance of meticulous bone marrow morphologic assessment, particularly when comprehensive molecular data are not immediately available.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42609881/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": 1446,
+          "title": "Myelodysplastic Neoplasm with Increased Blasts-1 Presenting with Concurrent Diagnostic and Prognostically Relevant Morphologic Features: A Case Report",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42609878",
+          "author": "Ashish Sharma",
+          "description": "CONCLUSIONS: For gastroenterologists encountering ctDNA results in postoperative and surveillance settings, three principles should guide practice (i): match assay selection to clinical intent - tumor-informed platforms for MRD-directed adjuvant decisions, tumor-agnostic platforms when tissue is unavailable (ii); interpret results within biological and technical context, accounting for platform-specific sensitivity limitations, biological confounders, and quantitative VAF trajectory rather than...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42609878/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Circulating tumor DNA in colorectal cancer: assay selection, clinical applications, and practical integration for gastroenterologists",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42609060",
+          "author": "XiaoJie Liu",
+          "description": "Ten-Eleven Translocation 2 (TET2) is an Fe(II)- and α-ketoglutarate-dependent dioxygenase that initiates active DNA demethylation by oxidizing 5-methylcytosine (5mC). Beyond this enzymatic role, TET2 links DNA methylation dynamics with chromatin regulation, cellular metabolism, immune-cell identity, and treatment response in a context-dependent manner. Loss-of-function mutations in TET2 are among the most frequent genetic events in age-related clonal hematopoiesis of indeterminate potential...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42609060/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "TET2 as a Context-Dependent Epigenetic Integrator in Clonal Hematopoiesis, Inflammation, Cancer, and Immunotherapy",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42608968",
+          "author": "Hanmil Jang",
+          "description": "CONCLUSIONS: The ctDNA detection rate using a customized gene panel correlated with tumor burden. Accordingly, ctDNA may be helpful for monitoring recurrence in patients with ESCC.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42608968/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Clinical Application of Circulating Tumor DNA in Surgically Treated Esophageal Squamous Cell Carcinoma",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42608735",
+          "author": "Andrea Magni",
+          "description": "Constitutional trisomy 8 mosaicism (CT8M) is a rare chromosomal disorder associated with congenital anomalies and hematologic malignancies, although its hematologic spectrum remains poorly defined. We report two institutional cases and performed a systematic review restricted to patients with trisomy 8 confirmed in both hematopoietic and non-hematopoietic tissues. Among 61 patients, hematologic abnormalities ranged from macrocytosis and cytopenias to dysplastic bone marrow changes and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42608735/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Hematologic Manifestations of Constitutional Trisomy 8 Mosaicism: Two Cases and a Systematic Review of Cytogenetically Confirmed Patients",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42610248",
@@ -8661,104 +8801,34 @@
           "wordCount": 528,
           "title": "Where Does Liquid Biopsy Add Value in Thyroid Cancer? Biological Rationale, Technological Innovation, and Clinical Utility",
           "imageUrl": null
-        },
-        {
-          "id": "pubmed:42350707",
-          "author": "Jieyun Li",
-          "description": "This scientometric study critically evaluates the global evolution of myelodysplastic syndromes (MDS) research from 2014 to 2025, aiming to integrate fragmented knowledge and identify emerging trends. A scientometric analysis was conducted using data retrieved from the Web of Science Core Collection on August 2, 2025. The search was restricted to \"article\" and \"review\" in English containing \"Myelodysplastic syndrome\" or \"Myelodysplastic syndromes\" in the abstract, covering the period from...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42350707/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260629225716&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Mapping the research landscape of myelodysplastic syndromes: a scientometric analysis (2014-2025)",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42348225",
-          "author": "Aamir Shamsi",
-          "description": "Systemic lupus erythematosus (SLE) is an established, independent risk factor for cardiovascular disease (CVD), most notably premature atherosclerotic cardiovascular disease (ASCVD). This association is thought to relate to chronic immune mediated inflammation. Clonal expansion of haematopoietic stem and progenitor cells (HSPCs) with acquired mutations, but no evidence of a blood disorder, is known as clonal haematopoiesis of indeterminate potential (CHIP). CHIP is associated with a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42348225/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260629225716&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 1285,
-          "title": "Is clonal haematopoiesis the missing link between lupus and cardiovascular disease?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42350707",
-          "author": "Jieyun Li",
-          "description": "This scientometric study critically evaluates the global evolution of myelodysplastic syndromes (MDS) research from 2014 to 2025, aiming to integrate fragmented knowledge and identify emerging trends. A scientometric analysis was conducted using data retrieved from the Web of Science Core Collection on August 2, 2025. The search was restricted to \"article\" and \"review\" in English containing \"Myelodysplastic syndrome\" or \"Myelodysplastic syndromes\" in the abstract, covering the period from...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42350707/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260628233340&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Mapping the research landscape of myelodysplastic syndromes: a scientometric analysis (2014-2025)",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42348225",
-          "author": "Aamir Shamsi",
-          "description": "Systemic lupus erythematosus (SLE) is an established, independent risk factor for cardiovascular disease (CVD), most notably premature atherosclerotic cardiovascular disease (ASCVD). This association is thought to relate to chronic immune mediated inflammation. Clonal expansion of haematopoietic stem and progenitor cells (HSPCs) with acquired mutations, but no evidence of a blood disorder, is known as clonal haematopoiesis of indeterminate potential (CHIP). CHIP is associated with a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42348225/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260628233340&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Is clonal haematopoiesis the missing link between lupus and cardiovascular disease?",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42350707",
-          "author": "Jieyun Li",
-          "description": "This scientometric study critically evaluates the global evolution of myelodysplastic syndromes (MDS) research from 2014 to 2025, aiming to integrate fragmented knowledge and identify emerging trends. A scientometric analysis was conducted using data retrieved from the Web of Science Core Collection on August 2, 2025. The search was restricted to \"article\" and \"review\" in English containing \"Myelodysplastic syndrome\" or \"Myelodysplastic syndromes\" in the abstract, covering the period from...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42350707/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260627232855&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 1528,
-          "title": "Mapping the research landscape of myelodysplastic syndromes: a scientometric analysis (2014-2025)",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42348225",
-          "author": "Aamir Shamsi",
-          "description": "Systemic lupus erythematosus (SLE) is an established, independent risk factor for cardiovascular disease (CVD), most notably premature atherosclerotic cardiovascular disease (ASCVD). This association is thought to relate to chronic immune mediated inflammation. Clonal expansion of haematopoietic stem and progenitor cells (HSPCs) with acquired mutations, but no evidence of a blood disorder, is known as clonal haematopoiesis of indeterminate potential (CHIP). CHIP is associated with a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42348225/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260627232855&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 1281,
-          "title": "Is clonal haematopoiesis the missing link between lupus and cardiovascular disease?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42350707",
-          "author": "Jieyun Li",
-          "description": "This scientometric study critically evaluates the global evolution of myelodysplastic syndromes (MDS) research from 2014 to 2025, aiming to integrate fragmented knowledge and identify emerging trends. A scientometric analysis was conducted using data retrieved from the Web of Science Core Collection on August 2, 2025. The search was restricted to \"article\" and \"review\" in English containing \"Myelodysplastic syndrome\" or \"Myelodysplastic syndromes\" in the abstract, covering the period from...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42350707/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260626224757&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Mapping the research landscape of myelodysplastic syndromes: a scientometric analysis (2014-2025)",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42348225",
-          "author": "Aamir Shamsi",
-          "description": "Systemic lupus erythematosus (SLE) is an established, independent risk factor for cardiovascular disease (CVD), most notably premature atherosclerotic cardiovascular disease (ASCVD). This association is thought to relate to chronic immune mediated inflammation. Clonal expansion of haematopoietic stem and progenitor cells (HSPCs) with acquired mutations, but no evidence of a blood disorder, is known as clonal haematopoiesis of indeterminate potential (CHIP). CHIP is associated with a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42348225/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260626224757&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Is clonal haematopoiesis the missing link between lupus and cardiovascular disease?",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42348225",
-          "author": "Aamir Shamsi",
-          "description": "Systemic lupus erythematosus (SLE) is an established, independent risk factor for cardiovascular disease (CVD), most notably premature atherosclerotic cardiovascular disease (ASCVD). This association is thought to relate to chronic immune mediated inflammation. Clonal expansion of haematopoietic stem and progenitor cells (HSPCs) with acquired mutations, but no evidence of a blood disorder, is known as clonal haematopoiesis of indeterminate potential (CHIP). CHIP is associated with a...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42348225/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260625225816&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 1244,
-          "title": "Is clonal haematopoiesis the missing link between lupus and cardiovascular disease?",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&utm_medium=rss&ff=20260822210509&fc=20220608010801&v=2.20.1&utm_campaign=pubmed-2",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&ff=20260823210253&utm_medium=rss&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.20.1&fc=20220608010801",
       "articles": [
+        {
+          "id": "pubmed:42630750",
+          "author": "Xiaojie Liu",
+          "description": "Far from being a mere epiphenomenon, acidosis is a pivotal factor in the somatic evolution of cancer and its progression toward malignancy. This review provides an inclusive overview of the mechanisms by which acidosis induces and selects for malignant phenotypes. We analyze enhanced invasion and metastasis, chemoresistance, immune surveillance suppression, and metabolic reprogramming. We also briefly examine the clinical development of small-molecule and antibody-based therapies targeting pH...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42630750/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Acidosis and the role of nanotechnology in mitigating cancer progression",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42628663",
+          "author": "Anastasia Iatrou",
+          "description": "Intraclonal heterogeneity is increasingly recognized as a central determinant of evolutionary fitness in B-cell malignancies. Since these tumors arise from lineages that naturally diversify through V(D)J recombination, somatic hypermutation (SHM), and class switch recombination (CSR), their malignant counterparts retain and/or aberrantly reactivate these processes, generating antigen receptor repertoires with complex subclonal architectures. Advances in next-generation and single-cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42628663/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Intraclonal heterogeneity in mature B-cell malignancies: the perspective of immunogenetics",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42628663",
           "author": "Anastasia Iatrou",
@@ -8767,6 +8837,16 @@
           "publishedOn": "2026-08-21T10:00:00.000Z",
           "wordCount": null,
           "title": "Intraclonal heterogeneity in mature B-cell malignancies: the perspective of immunogenetics",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42608735",
+          "author": "Andrea Magni",
+          "description": "Constitutional trisomy 8 mosaicism (CT8M) is a rare chromosomal disorder associated with congenital anomalies and hematologic malignancies, although its hematologic spectrum remains poorly defined. We report two institutional cases and performed a systematic review restricted to patients with trisomy 8 confirmed in both hematopoietic and non-hematopoietic tissues. Among 61 patients, hematologic abnormalities ranged from macrocytosis and cytopenias to dysplastic bone marrow changes and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42608735/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Hematologic Manifestations of Constitutional Trisomy 8 Mosaicism: Two Cases and a Systematic Review of Cytogenetically Confirmed Patients",
           "imageUrl": null
         },
         {
@@ -8818,6 +8898,26 @@
           "wordCount": null,
           "title": "Hematologic Manifestations of Constitutional Trisomy 8 Mosaicism: Two Cases and a Systematic Review of Cytogenetically Confirmed Patients",
           "imageUrl": null
+        },
+        {
+          "id": "pubmed:42608184",
+          "author": "Jia-Zhi Su",
+          "description": "Biological sex is a critical determinant influencing the incidence, progression, clinical presentation, and prognosis of human diseases. Beyond sex-specific tumors, men typically exhibit higher morbidity and mortality rates in nearly all tumors compared to women. However, the genetic mechanisms underlying the cancer sex bias are not definitive. Loss of Y chromosome (LOY), the most prevalent somatic mutation in healthy males, frequently occurs in individuals over 50 years of age. On one hand, LOY...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42608184/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-17T10:00:00.000Z",
+          "wordCount": 1420,
+          "title": "On the role of Y chromosome loss in malignancies: the driving mechanisms and potentials in precision oncology",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42607671",
+          "author": "Hamish A J MacGregor",
+          "description": "Pathogenic variants in TP53, the key tumor suppressor gene underlying Li-Fraumeni syndrome (LFS), are among the best-established causes of inherited cancer predisposition. However, large-scale sequencing has revealed that many apparently pathogenic TP53 variants detected in blood are the result of somatic clonal expansions, complicating risk interpretation. Using blood-derived whole-exome data from 469,391 UK Biobank participants, we combined the variant allele fraction (VAF) with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42607671/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-17T10:00:00.000Z",
+          "wordCount": 1308,
+          "title": "Shared inheritance reveals landscape of somatic and germline cancer risk in TP53",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
           "id": "pubmed:42608184",
@@ -8917,6 +9017,16 @@
           "publishedOn": "2026-08-17T10:00:00.000Z",
           "wordCount": null,
           "title": "Shared inheritance reveals landscape of somatic and germline cancer risk in TP53",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42589439",
+          "author": "Mengjia Huang",
+          "description": "Small cell carcinoma of the cervix (SCCC) is a rare yet highly aggressive subtype of cervical cancer (CC), characterized by early invasion, high metastatic potential, frequent recurrence, and extremely poor prognosis, which severely impairs women's physical and mental health. Currently, high-risk human papillomavirus (hr-HPV, particularly HPV18) infection is recognized as one of the core drivers underlying the initiation and progression of SCCC. Malignant evolution is not triggered by a single...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42589439/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Basic Clinical Bidirectional Empowerment: Synergistic Breakthrough in Molecular Mechanisms and Clinical Management of Small Cell Cervical Carcinoma",
           "imageUrl": null
         },
         {
@@ -9023,6 +9133,16 @@
           "id": "pubmed:42586472",
           "author": "Matheus C Casotti",
           "description": "This review treats cancer as a multiscale adaptive system, asks what the framework must predict to be worth adopting, and separates at each scale what the evidence establishes from what is proposed. It is an expert narrative synthesis, not a systematic review, and states the limits of that design. Proton transfer and tautomeric shifts contribute to spontaneous mispairing but do not license claims of directed or non-random mutation: replication timing, three-dimensional chromatin organization,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42586472/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-12T10:00:00.000Z",
+          "wordCount": 1695,
+          "title": "Integrative quantum and systems biology of cancer: From molecular fluctuations to ecological outcomes",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42586472",
+          "author": "Matheus C Casotti",
+          "description": "This review treats cancer as a multiscale adaptive system, asks what the framework must predict to be worth adopting, and separates at each scale what the evidence establishes from what is proposed. It is an expert narrative synthesis, not a systematic review, and states the limits of that design. Proton transfer and tautomeric shifts contribute to spontaneous mispairing but do not license claims of directed or non-random mutation: replication timing, three-dimensional chromatin organization,...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42586472/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260822210509&v=2.20.1",
           "publishedOn": "2026-08-12T10:00:00.000Z",
           "wordCount": null,
@@ -9118,6 +9238,16 @@
           "wordCount": null,
           "title": "Integrative Quantum and Systems Biology of Cancer: From Molecular Fluctuations to Ecological Outcomes",
           "imageUrl": null
+        },
+        {
+          "id": "pubmed:42573798",
+          "author": "William Gehin",
+          "description": "Pediatric central nervous system tumors remain a leading cause of cancer-related mortality in children, while their diagnosis, risk stratification, and therapeutic management increasingly depend on integrated molecular characterization. However, representative tumor tissue is often difficult to obtain because of tumor location, surgical risk, limited biopsy material, and the impracticality of repeated sampling during disease evolution. Cerebrospinal fluid (CSF) has therefore emerged as a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42573798/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-10T10:00:00.000Z",
+          "wordCount": 1980,
+          "title": "Cerebrospinal fluid cell-free DNA sequencing in pediatric CNS tumors: towards liquid molecular neuropathology",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
           "id": "pubmed:42573798",
@@ -9247,6 +9377,16 @@
           "publishedOn": "2026-08-10T10:00:00.000Z",
           "wordCount": 528,
           "title": "Cerebrospinal fluid cell-free DNA sequencing in pediatric CNS tumors: towards liquid molecular neuropathology",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42558165",
+          "author": "Gabriel Gil",
+          "description": "CONCLUSION: The N- and T-gene framework provides a natural decomposition of carcinogenesis into somatic evolution (loss of N-gene activity) and tumor progression (gain of T-gene activity). Active N- and T-gene counts can be interpreted as tally marks of somatic evolution and tumor progression, respectively, while complete gene panels enable a taxonomy of samples and helps identifying the biological programs active in each sample. The framework is general and applicable across cancer types,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42558165/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Mapping cancer dynamics from normal tissue to malignancy using N- and T-gene expression markers",
           "imageUrl": null
         },
         {
@@ -9418,6 +9558,16 @@
           "wordCount": 528,
           "title": "Mapping cancer dynamics from normal tissue to malignancy using N- and T-gene expression markers",
           "imageUrl": null
+        },
+        {
+          "id": "pubmed:42551899",
+          "author": "Nikita Stepanskyy",
+          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-08-04T10:00:00.000Z",
+          "wordCount": 1417,
+          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
           "id": "pubmed:42551899",
@@ -9597,6 +9747,16 @@
           "publishedOn": "2026-08-04T10:00:00.000Z",
           "wordCount": 528,
           "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42538373",
+          "author": "Nicola Calonaci",
+          "description": "The interplay between somatic mutations and copy number alterations influences tumor evolution and prognosis. These alterations are often treated independently, overlooking gene mutant dosage (GMD)-a key property of their interaction. Here we develop a computational framework that infers mutation copy number and multiplicity from targeted sequencing panels without requiring matched normal samples. We derive GMD for over 500,000 mutations across 60,000 pan-cancer samples. By stratifying more than...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42538373/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-07-31T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Gene mutant dosage is associated with prognosis and metastatic tropism in 60,000 clinical cancer samples",
           "imageUrl": null
         },
         {
@@ -9818,6 +9978,16 @@
           "wordCount": 527,
           "title": "Gene mutant dosage is associated with prognosis and metastatic tropism in 60,000 clinical cancer samples",
           "imageUrl": null
+        },
+        {
+          "id": "pubmed:42506070",
+          "author": "Maysa Al-Hussaini",
+          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-07-27T10:00:00.000Z",
+          "wordCount": 1514,
+          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
           "id": "pubmed:42506070",
@@ -10088,6 +10258,26 @@
           "wordCount": 1256,
           "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42492369",
+          "author": "M Oshi",
+          "description": "CONCLUSIONS: BRCA alteration groups defined by combined germline and somatic status showed distinct genomic and clinical patterns in BC. Somatic BRCA alterations should not be interpreted in isolation and require integration with germline status and broader genomic context.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42492369/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-07-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Somatic BRCA alterations in breast cancer are associated with distinct biological and clinical patterns according to germline BRCA status",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42488496",
+          "author": "Aixin Liu",
+          "description": "CONCLUSIONS: UBTD1 expression defines distinct mutation and microenvironmental states in OC and functionally promotes malignant phenotypes, potentially through TNF/AP-1/FOS-related signaling.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42488496/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-07-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "UBTD1 Drives Ovarian Cancer Progression via Mutation-Associated Alterations, Stromal Microenvironment Remodeling, and TNF/AP-1 Signaling",
+          "imageUrl": null
         },
         {
           "id": "pubmed:42492369",
@@ -10697,6 +10887,16 @@
           "publishedOn": "2026-07-23T10:00:00.000Z",
           "wordCount": 3777,
           "title": "UBTD1 Drives Ovarian Cancer Progression via Mutation-Associated Alterations, Stromal Microenvironment Remodeling, and TNF/AP-1 Signaling",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+        },
+        {
+          "id": "pubmed:42486977",
+          "author": "Sarah J Aitken",
+          "description": "Human cancers are heterogeneous¹. Dissecting how germline genetic variation and environmental factors shape tumour evolution using human datasets is limited by inherent diversity in genetic backgrounds² and environmental exposures^(3-5). Here, to overcome these limitations, we re-ran early tumour evolution hundreds of times in diverged inbred mouse strains, generating matched histology and whole-genome and transcriptome sequences. The sex, environment and carcinogenic exposures were all...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42486977/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
+          "publishedOn": "2026-07-22T10:00:00.000Z",
+          "wordCount": 2089,
+          "title": "Genetic background sets the trajectory of experimental cancer evolution",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         },
         {
@@ -15577,246 +15777,6 @@
           "publishedOn": "2026-06-26T10:00:00.000Z",
           "wordCount": 1201,
           "title": "Cancer Genetic Predisposition and Clinical Applications-A Narrative Review on Germline Genetic Testing, High-Risk Cancer Surveillance and Management",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260719223813&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260718222248&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260717220530&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260716222135&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260715221300&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260714220410&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260713220623&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260712222705&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260711222539&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260710222108&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260709223939&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260708223722&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260707222328&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260706224507&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260705225036&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260704224434&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260703223420&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260702223713&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260701225358&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260630232909&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260629225718&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260628233342&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260627232855&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 1809,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42349107",
-          "author": "Ioannis Panagopoulos",
-          "description": "Genomic instability in high-grade serous tubo-ovarian carcinoma (HGSTOC) can generate fusion genes with potential roles in tumor evolution and clinical relevance. HGSTOCs commonly disseminate prior to diagnosis, but most studies analyze only one tumor sample per patient, limiting understanding of fusion gene dynamics. Here, RNA sequencing was performed on 108 tumor samples from multiple intra‑abdominal sites in 23 patients. A consensus approach involving three fusion callers identified 170...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42349107/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260626224757&v=2.20.0",
-          "publishedOn": "2026-06-25T10:00:00.000Z",
-          "wordCount": 1809,
-          "title": "Fusion gene heterogeneity and kinase enrichment in high-grade serous carcinomas",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
