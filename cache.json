@@ -210,8 +210,48 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&ff=20260910224939&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&fc=20220608003622&v=2.20.1&utm_campaign=pubmed-2&utm_medium=rss",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&v=2.20.1&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&fc=20220608003622&ff=20260911225734&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:42725115",
+          "author": "Ayla Kouli",
+          "description": "CONCLUSION: Given the patient's age, gender, MDS diagnosis and atypical presentation of sweet syndrome, VEXAS syndrome is a strong possibility. Further investigation, including genetic testing for a UBA1 mutation, is warranted. A diagnosis of VEXAS syndrome would significantly impact long-term management and prognosis, as it was determined to be important in reducing the recurrence rate of sweet syndrome.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42725115/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-11T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Vexas Syndrome: A Multisystem Challenge with Sweet Syndrome and Myelodysplastic Syndrome",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42724671",
+          "author": "Kenneth Walsh",
+          "description": "Somatic mutations progressively accumulate in all tissues with age. Although most of these acquired mutations have no consequences on the cell's phenotype, some may occur in genetic regions that provide a small growth, survival, or self-renewal advantage to the mutant cells. These 'driver' gene mutations will lead to the clonal expansion of mutant cells. When clonal expansions occur in the blood system, they are referred to as 'clonal haematopoiesis' or 'clonal haematopoiesis of indeterminate...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42724671/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-11T10:00:00.000Z",
+          "wordCount": null,
+          "title": "EULAR Rheumatology Open Special Issue titled 'VSI: ATT2026': the role of clonal haematopoiesis in immunological and rheumatological diseases",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42723723",
+          "author": "Jana H Husein",
+          "description": "CONCLUSION: This systematic review identifies that malignant progression is dictated by a qualitative proteomic \"switch\" and structural niche reorganization. However, causal relationships remain to be definitively established. We identify a critical \"Spatial Architecture Gap\" in current research, highlighting the need for spatial proteomic platforms to map the physical \"handshake\" between mutant clones and their inflammatory environment to enable early clinical interception.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42723723/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-11T10:00:00.000Z",
+          "wordCount": null,
+          "title": "The proteomic architecture of clonal hematopoiesis: a systematic review of niche remodeling and multi-compartment predictors of malignant transformation",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42721444",
+          "author": "Konrad Stawiski",
+          "description": "Tumor-only whole-exome sequencing (WES) is used when matched normal tissue is unavailable, but one sample can produce thousands of variants. Somatic likelihood tiering (SLT) is an interpretable post-calling protocol that ranks Mutect2 calls into four review-priority tiers using population-frequency, germline-quality, cancer-knowledge, PureCN posterior, and clonal-hematopoiesis evidence. Layer 2 distinguishes common, rare-callable, and unevaluable gnomAD states; missing or unmatchable gnomAD...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42721444/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Somatic likelihood tiering: an interpretable post-calling triage protocol for tumor-only whole-exome variant review",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42721444",
           "author": "Konrad Stawiski",
@@ -220,6 +260,16 @@
           "publishedOn": "2026-09-10T10:00:00.000Z",
           "wordCount": null,
           "title": "Somatic likelihood tiering: an interpretable post-calling triage protocol for tumor-only whole-exome variant review",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42714878",
+          "author": "Nicholas Chiu",
+          "description": "CONCLUSIONS AND RELEVANCE: Designing cardiovascular outcomes trials in CHIP will require moving beyond a 1-size-fits-all approach toward genotype-informed, mechanism-driven trial frameworks. Leveraging innovative trial designs, integrating CHIP analyses into ongoing cardiovascular trials, and fostering interdisciplinary multicenter collaboration will accelerate translating CHIP biology into effective cardiovascular therapies. Establishing an evidence base for managing CHIP-associated...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42714878/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-09T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Designing Cardiovascular Outcomes Trials in Clonal Hematopoiesis of Indeterminate Potential",
           "imageUrl": null
         },
         {
@@ -240,6 +290,16 @@
           "publishedOn": "2026-09-09T10:00:00.000Z",
           "wordCount": null,
           "title": "Designing Cardiovascular Outcomes Trials in Clonal Hematopoiesis of Indeterminate Potential",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42708224",
+          "author": "Mustafa Yalcinkaya",
+          "description": "CONCLUSIONS: Our data identify impaired efferocytosis and glycolysis-lactate-actin polymerization pathways in advanced atherosclerosis as potential therapeutic targets to induce proresolving restructuring of the plaque immune cells and to promote beneficial atherosclerosis remodeling in subjects with TET2 CH.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42708224/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Impaired Glycolysis Leads to Defective Efferocytosis and Impaired Plaque Resolution in Tet2 Clonal Hematopoiesis",
           "imageUrl": null
         },
         {
@@ -276,6 +336,16 @@
           "id": "pubmed:42705591",
           "author": "Yavor Bozhilov",
           "description": "Haematopoietic stem cells (HSCs) are important for human health and clinical therapy. A heterogenous pool of HSCs sustain blood production through life by balancing self-renewal and multilineage differentiation. Aging is associated with a decline in the function of the HSC pool and haematopoietic perturbations. Additionally, aging correlates with clonal haematopoiesis, driven by the accumulation of genetic mutations in this long-lived cell population that can lead to altered cell function and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42705591/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Haematopoietic stem cell fitness mechanisms",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42705591",
+          "author": "Yavor Bozhilov",
+          "description": "Haematopoietic stem cells (HSCs) are important for human health and clinical therapy. A heterogenous pool of HSCs sustain blood production through life by balancing self-renewal and multilineage differentiation. Aging is associated with a decline in the function of the HSC pool and haematopoietic perturbations. Additionally, aging correlates with clonal haematopoiesis, driven by the accumulation of genetic mutations in this long-lived cell population that can lead to altered cell function and...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42705591/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260910224939&v=2.20.1",
           "publishedOn": "2026-09-07T10:00:00.000Z",
           "wordCount": null,
@@ -300,6 +370,26 @@
           "publishedOn": "2026-09-07T10:00:00.000Z",
           "wordCount": null,
           "title": "Haematopoietic stem cell fitness mechanisms",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42699430",
+          "author": "Mutian Cao",
+          "description": "Acute myeloid leukemia (AML) is a group of genetically and clinically heterogeneous malignancies characterized by clonal expansion of immature myeloid progenitors and profound disruption of normal hematopoiesis. Emerging evidence suggests that alterations in cellular homeostasis shape cancer progression. However, the mechanisms underlying AML progression remain largely unclear. Here, we identify lysophosphatidylcholine acyltransferase 3 (LPCAT3), a key enzyme of the Lands' cycle, as a critical...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42699430/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "LPCAT3 is essential for leukemia progression and represents a therapeutic vulnerability in AML",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42698932",
+          "author": "Melissa V Bergman",
+          "description": "CONCLUSION: The prevalence of ASXL1 exon 12 variants in our AML cohort was consistent with international data. Variants in the elderly population were very prevalent; however, with no actionable variants capable of driving clonal expansion, clonal haematopoiesis of indeterminate potential was not detected. The variants of uncertain significance at allele frequencies of ≥ 2% likely suggest a clonal haematopoietic process.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42698932/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "<em>Additional sex combs-like 1</em> variants in an acute myeloid leukaemia and a general elderly cohort in central South Africa",
           "imageUrl": null
         },
         {
@@ -400,6 +490,26 @@
           "publishedOn": "2026-09-05T10:00:00.000Z",
           "wordCount": null,
           "title": "<em>Additional sex combs-like 1</em> variants in an acute myeloid leukaemia and a general elderly cohort in central South Africa",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42694453",
+          "author": "Yan Li",
+          "description": "Circulating tumor DNA (ctDNA) is emerging as a minimally invasive biomarker for risk stratification and treatment-response assessment in lung cancer immunotherapy, but its routine use for treatment selection has not been established. This review critically evaluates evidence across neoadjuvant, adjuvant, consolidation after definitive chemoradiotherapy, and advanced/metastatic settings, with emphasis on serial sampling and on the distinction among prognostic, response-associated, and predictive...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42694453/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Circulating tumor DNA in lung cancer immunotherapy: prognostic marker today, predictive tool tomorrow?",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42693160",
+          "author": "Linzhu Tian",
+          "description": "Aplastic anemia (AA) is an immune-mediated bone marrow failure disorder with 15-20% risk of clonal evolution. We analyzed 371 patients with AA receiving immunosuppressive therapy (IST). All patients underwent PNH testing and 357 evaluable for cytogenetic analysis. Two hundred and thirty-seven received serial targeted sequencing. Clonal characteristics were compared before and after IST across age, disease severity, and hematological response. Among the 237 patients, somatic mutations were...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42693160/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Patterns of clonal hematopoiesis in aplastic anemia under immunosuppressive therapy",
           "imageUrl": null
         },
         {
@@ -540,6 +650,36 @@
           "publishedOn": "2026-09-04T10:00:00.000Z",
           "wordCount": null,
           "title": "Patterns of clonal hematopoiesis in aplastic anemia under immunosuppressive therapy",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42690238",
+          "author": "Trieu Nguyen",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) is a precursor condition characterized by the expansion of mutant hematopoietic stem and progenitor cell (HSPC) clones that increases the risk of hematologic malignancies. Although genome-wide association studies have identified multiple non-coding loci associated with CHIP susceptibility, their mechanisms remain unclear. We hypothesized that CHIP risk variants alter enhancer activity in HSPCs. To test this, we screened 1,374 non-coding...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42690238/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Germline noncoding risk variants influence clonal hematopoiesis through altered hematopoietic enhancer activity",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42689321",
+          "author": "Xiaoxi Yang",
+          "description": "CONCLUSIONS: JAK2V617F-mutant hematopoiesis induces cardiac microvascular dysfunction under cardiometabolic stress. Endocardial ECs play a critical role in this pathological process, and endocardial MPL signaling constitutes a potential targetable pathway in JAK2V617F-associated cardiovascular disease.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42689321/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Targeting Thrombopoietin/MPL Signaling to Mitigate JAK2V617F-Driven Cardiac Microvascular Disease",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42686898",
+          "author": "Julia A Belk",
+          "description": "Microglia are the resident macrophages of the central nervous system¹. In mice, microglia seed the brain during embryogenesis and can be maintained throughout life with minimal input from adult haematopoiesis^(2-4). The origins of human microglia are less clear, but recent evidence suggests that bone-marrow-derived cells contribute to the human microglial pool in certain individuals^(5-9). Here, to investigate the ontogeny of human microglia, we develop an approach that uses the collection of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42686898/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Somatic mutations reveal the ontogeny of microglia in human ageing",
           "imageUrl": null
         },
         {
@@ -780,6 +920,16 @@
           "publishedOn": "2026-09-03T10:00:00.000Z",
           "wordCount": null,
           "title": "Somatic mutations reveal the ontogeny of microglia in human ageing",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42680550",
+          "author": "Balla Evelin",
+          "description": "CONCLUSION: Our findings suggest that JAK2V617F may contribute to ACS pathogenesis through prothrombotic and inflammatory mechanisms. Screening for JAK2V617F in high-risk cardiovascular patients could identify individuals who may benefit from targeted therapies.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42680550/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "High Prevalence of the JAK2V617F Mutation in Patients With Acute Coronary Syndrome",
           "imageUrl": null
         },
         {
@@ -8681,74 +8831,34 @@
           "wordCount": 1332,
           "title": "Low-Frequency <em>PPM1D</em> Gene Mutations Affect Treatment Response to BCMA-Targeted CAR T-Cell Therapy in Multiple Myeloma",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42448959",
-          "author": "Gorana Gašljević",
-          "description": "The case report presents the first documented instance of ARAF-mutated Langerhans cell histiocytosis (LCH) arising in a patient with ARAF/JAK2-mutated polycythaemia vera (PV), providing compelling evidence for a clonal relationship and branching evolution from a common progenitor precursor. The patient, a 63-year-old male, initially presented with classic PV symptoms and was diagnosed with JAK2 p.V617F mutated PV. Over the disease course, persistent monocytosis and progressive splenomegaly were...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42448959/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260716222135&v=2.20.0",
-          "publishedOn": "2026-07-14T10:00:00.000Z",
-          "wordCount": 1483,
-          "title": "ARAF mutated langerhans cell histiocytosis developed on the background of ARAF/JAK2 mutated polycythaemia vera: evidence of branching evolution from the same progenitor cell. A case report and literature review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42448934",
-          "author": "Kirti Arora",
-          "description": "Acute myeloid leukaemia (AML) is characterized by substantial treatment-related morbidity that is not fully explained by cytogenetic or molecular risk stratification alone. Emerging evidence implicates the gut microbiome as a critical, modifiable determinant of AML pathogenesis, therapeutic response, and treatment-related complications. Patients with AML exhibit profound gut microbiome disruption at diagnosis, marked by reduced microbial diversity and depletion of short-chain fatty...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42448934/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260716222135&v=2.20.0",
-          "publishedOn": "2026-07-14T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Acute myeloid leukemia and gut microbiome: bidirectional effects and opportunities for intervention",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42447837",
-          "author": "Laura Gálvez-Carvajal",
-          "description": "CONCLUSION: Buffy-coat WES performed in long-term breast cancer survivors shows no cohort-level association between prior chemotherapy and increased CHIP.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42447837/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260716222135&v=2.20.0",
-          "publishedOn": "2026-07-14T10:00:00.000Z",
-          "wordCount": 1840,
-          "title": "The landscape of clonal hematopoiesis of indeterminate potential in long-term breast cancer survivors",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42448959",
-          "author": "Gorana Gašljević",
-          "description": "The case report presents the first documented instance of ARAF-mutated Langerhans cell histiocytosis (LCH) arising in a patient with ARAF/JAK2-mutated polycythaemia vera (PV), providing compelling evidence for a clonal relationship and branching evolution from a common progenitor precursor. The patient, a 63-year-old male, initially presented with classic PV symptoms and was diagnosed with JAK2 p.V617F mutated PV. Over the disease course, persistent monocytosis and progressive splenomegaly were...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42448959/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260715221300&v=2.20.0",
-          "publishedOn": "2026-07-14T10:00:00.000Z",
-          "wordCount": 1483,
-          "title": "ARAF mutated langerhans cell histiocytosis developed on the background of ARAF/JAK2 mutated polycythaemia vera: evidence of branching evolution from the same progenitor cell. A case report and literature review",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42448934",
-          "author": "Kirti Arora",
-          "description": "Acute myeloid leukaemia (AML) is characterized by substantial treatment-related morbidity that is not fully explained by cytogenetic or molecular risk stratification alone. Emerging evidence implicates the gut microbiome as a critical, modifiable determinant of AML pathogenesis, therapeutic response, and treatment-related complications. Patients with AML exhibit profound gut microbiome disruption at diagnosis, marked by reduced microbial diversity and depletion of short-chain fatty...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42448934/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260715221300&v=2.20.0",
-          "publishedOn": "2026-07-14T10:00:00.000Z",
-          "wordCount": 1496,
-          "title": "Acute myeloid leukemia and gut microbiome: bidirectional effects and opportunities for intervention",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42447837",
-          "author": "Laura Gálvez-Carvajal",
-          "description": "CONCLUSION: Buffy-coat WES performed in long-term breast cancer survivors shows no cohort-level association between prior chemotherapy and increased CHIP.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42447837/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260715221300&v=2.20.0",
-          "publishedOn": "2026-07-14T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "The landscape of clonal hematopoiesis of indeterminate potential in long-term breast cancer survivors",
-          "imageUrl": null
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&fc=20220608010801&utm_medium=rss&utm_campaign=pubmed-2&ff=20260910224939&v=2.20.1",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&utm_source=axios&utm_campaign=pubmed-2&utm_medium=rss&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.20.1",
       "articles": [
+        {
+          "id": "pubmed:42726149",
+          "author": "Xuyu Chen",
+          "description": "Early gastric cancer is still commonly conceptualized as the endpoint of a linear sequence from chronic gastritis to intestinal metaplasia, dysplasia, and invasion. Yet recent single-cell, spatial, genomic, and functional studies indicate that this model incompletely captures the biology of early gastric carcinogenesis. Malignant potential is established progressively within a precancerous gastric field already shaped by somatic evolution, chronic inflammatory injury, and epithelial lineage...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42726149/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-11T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Reframing early gastric carcinogenesis through lineage, niche, and evolution",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42711452",
+          "author": "Franco Izzo",
+          "description": "Genetic heterogeneity and clonal outgrowths are observed even in otherwise healthy human tissues, shaping the genetic composition of cell populations in non-malignant disease and during physiological ageing. This clonal mosaicism likely provides the pre-cancerous seeds for malignant transformation. Once a tumour arises, clonal evolution poses a major challenge to achieving cure, as clonal diversification provides an expanded number of substrates upon which therapy can act as a selective...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42711452/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-09T10:00:00.000Z",
+          "wordCount": null,
+          "title": "A single-cell lens into the co-evolution of genotypes and phenotypes in cancer",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42711452",
           "author": "Franco Izzo",
@@ -8767,6 +8877,16 @@
           "publishedOn": "2026-09-09T10:00:00.000Z",
           "wordCount": null,
           "title": "A single-cell lens into the co-evolution of genotypes and phenotypes in cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42693160",
+          "author": "Linzhu Tian",
+          "description": "Aplastic anemia (AA) is an immune-mediated bone marrow failure disorder with 15-20% risk of clonal evolution. We analyzed 371 patients with AA receiving immunosuppressive therapy (IST). All patients underwent PNH testing and 357 evaluable for cytogenetic analysis. Two hundred and thirty-seven received serial targeted sequencing. Clonal characteristics were compared before and after IST across age, disease severity, and hematological response. Among the 237 patients, somatic mutations were...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42693160/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Patterns of clonal hematopoiesis in aplastic anemia under immunosuppressive therapy",
           "imageUrl": null
         },
         {
@@ -8837,6 +8957,16 @@
           "publishedOn": "2026-09-04T10:00:00.000Z",
           "wordCount": null,
           "title": "Patterns of clonal hematopoiesis in aplastic anemia under immunosuppressive therapy",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42686803",
+          "author": "Nicole Heinzl",
+          "description": "High grade serous ovarian cancer (HGSC) has low survival partly due to the lack of methods for detection, diagnosis, and risk prediction. TP53 mutations, which drive HGSC, are found in gynecological tissues as the result of somatic evolution, but it is unknown whether an excess of mutations is linked to ovarian cancer. Here we investigate if TP53 mutation burden measured in uterine lavage, a minimally invasive gynecological liquid biopsy, can discriminate between patients with and without HGSC....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42686803/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "High-grade serous ovarian cancer is associated with increased TP53 mutation burden in uterine lavage",
           "imageUrl": null
         },
         {
@@ -8917,6 +9047,16 @@
           "publishedOn": "2026-09-02T10:00:00.000Z",
           "wordCount": null,
           "title": "High-grade serous ovarian cancer is associated with increased TP53 mutation burden in uterine lavage",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42676610",
+          "author": "Qianqian Chen",
+          "description": "Malignant tumors have long been viewed as uncontrolled cell proliferation driven by somatic mutations. However, emerging multi-omics and microenvironment evidence challenges this paradigm. Advanced tumors transcend cellular abnormality to form a \"neoorgan\" - a complex tissue ecosystem with multicellular coordination, functional autonomy, metabolic symbiosis, neural integration, and evolutionary potential. Genomic instability generates lineage-specific karyotypes; tumors reactivate ancient gene...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42676610/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-09-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Evolution of malignant tumors as neoorgan and predictions of future scenarios resulting from inappropriate treatment",
           "imageUrl": null
         },
         {
@@ -9017,6 +9157,26 @@
           "publishedOn": "2026-09-01T10:00:00.000Z",
           "wordCount": null,
           "title": "Evolution of malignant tumors as neoorgan and predictions of future scenarios resulting from inappropriate treatment",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42658760",
+          "author": "Madison Caballero",
+          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-08-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Genetic control of local mutation rates",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42658220",
+          "author": "Nicola Fusco",
+          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-08-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
           "imageUrl": null
         },
         {
@@ -9313,6 +9473,16 @@
           "id": "pubmed:42645607",
           "author": "Mohammad Mehdi Akbarin",
           "description": "Human T-cell lymphotropic virus type 1 (HTLV-1) is a persistent human retrovirus associated with severe outcomes, most notably adult T-cell leukemia/lymphoma (ATLL) and HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP). Despite lifelong infection, only a minority of carriers develop clinical disease, highlighting a decisive role for host genetic background in shaping viral control, immune activation, and pathogenic progression. This mini-review synthesizes evidence...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42645607/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-08-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Host genetic determinants of HTLV-1 infection outcomes",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42645607",
+          "author": "Mohammad Mehdi Akbarin",
+          "description": "Human T-cell lymphotropic virus type 1 (HTLV-1) is a persistent human retrovirus associated with severe outcomes, most notably adult T-cell leukemia/lymphoma (ATLL) and HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP). Despite lifelong infection, only a minority of carriers develop clinical disease, highlighting a decisive role for host genetic background in shaping viral control, immune activation, and pathogenic progression. This mini-review synthesizes evidence...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42645607/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260910224939&v=2.20.1",
           "publishedOn": "2026-08-26T10:00:00.000Z",
           "wordCount": null,
@@ -9457,6 +9627,16 @@
           "publishedOn": "2026-08-26T10:00:00.000Z",
           "wordCount": null,
           "title": "Host genetic determinants of HTLV-1 infection outcomes",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42638110",
+          "author": "Corinna Lewis Schmalohr",
+          "description": "CONCLUSIONS: Our modelling strategy quantifies the relative contribution of genomic factors to mutation susceptibility, predicting mutational biases at any genomic resolution across human tissues, and provides a basis for better understanding tumor evolution and age-related diseases.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42638110/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-08-25T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Determinants of mutation susceptibility along the genome are largely invariant across human tissues",
           "imageUrl": null
         },
         {
@@ -9627,6 +9807,16 @@
           "publishedOn": "2026-08-25T10:00:00.000Z",
           "wordCount": null,
           "title": "Determinants of mutation susceptibility along the genome are largely invariant across human tissues",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42630750",
+          "author": "Xiaojie Liu",
+          "description": "Far from being a mere epiphenomenon, acidosis is a pivotal factor in the somatic evolution of cancer and its progression toward malignancy. This review provides an inclusive overview of the mechanisms by which acidosis induces and selects for malignant phenotypes. We analyze enhanced invasion and metastasis, chemoresistance, immune surveillance suppression, and metabolic reprogramming. We also briefly examine the clinical development of small-molecule and antibody-based therapies targeting pH...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42630750/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-08-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Acidosis and the role of nanotechnology in mitigating cancer progression",
           "imageUrl": null
         },
         {
@@ -9817,6 +10007,16 @@
           "publishedOn": "2026-08-22T10:00:00.000Z",
           "wordCount": null,
           "title": "Acidosis and the role of nanotechnology in mitigating cancer progression",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42628663",
+          "author": "Anastasia Iatrou",
+          "description": "Intraclonal heterogeneity is increasingly recognized as a central determinant of evolutionary fitness in B-cell malignancies. Since these tumors arise from lineages that naturally diversify through V(D)J recombination, somatic hypermutation (SHM), and class switch recombination (CSR), their malignant counterparts retain and/or aberrantly reactivate these processes, generating antigen receptor repertoires with complex subclonal architectures. Advances in next-generation and single-cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42628663/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-08-21T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Intraclonal heterogeneity in mature B-cell malignancies: The perspective of immunogenetics",
           "imageUrl": null
         },
         {
@@ -10017,6 +10217,16 @@
           "publishedOn": "2026-08-21T10:00:00.000Z",
           "wordCount": null,
           "title": "Intraclonal heterogeneity in mature B-cell malignancies: the perspective of immunogenetics",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42608735",
+          "author": "Andrea Magni",
+          "description": "Constitutional trisomy 8 mosaicism (CT8M) is a rare chromosomal disorder associated with congenital anomalies and hematologic malignancies, although its hematologic spectrum remains poorly defined. We report two institutional cases and performed a systematic review restricted to patients with trisomy 8 confirmed in both hematopoietic and non-hematopoietic tissues. Among 61 patients, hematologic abnormalities ranged from macrocytosis and cytopenias to dysplastic bone marrow changes and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42608735/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-08-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Hematologic Manifestations of Constitutional Trisomy 8 Mosaicism: Two Cases and a Systematic Review of Cytogenetically Confirmed Patients",
           "imageUrl": null
         },
         {
@@ -10247,6 +10457,26 @@
           "publishedOn": "2026-08-18T10:00:00.000Z",
           "wordCount": null,
           "title": "Hematologic Manifestations of Constitutional Trisomy 8 Mosaicism: Two Cases and a Systematic Review of Cytogenetically Confirmed Patients",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42608184",
+          "author": "Jia-Zhi Su",
+          "description": "Biological sex is a critical determinant influencing the incidence, progression, clinical presentation, and prognosis of human diseases. Beyond sex-specific tumors, men typically exhibit higher morbidity and mortality rates in nearly all tumors compared to women. However, the genetic mechanisms underlying the cancer sex bias are not definitive. Loss of Y chromosome (LOY), the most prevalent somatic mutation in healthy males, frequently occurs in individuals over 50 years of age. On one hand, LOY...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42608184/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-08-17T10:00:00.000Z",
+          "wordCount": null,
+          "title": "On the role of Y chromosome loss in malignancies: the driving mechanisms and potentials in precision oncology",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42607671",
+          "author": "Hamish A J MacGregor",
+          "description": "Pathogenic variants in TP53, the key tumor suppressor gene underlying Li-Fraumeni syndrome (LFS), are among the best-established causes of inherited cancer predisposition. However, large-scale sequencing has revealed that many apparently pathogenic TP53 variants detected in blood are the result of somatic clonal expansions, complicating risk interpretation. Using blood-derived whole-exome data from 469,391 UK Biobank participants, we combined the variant allele fraction (VAF) with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42607671/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-08-17T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Shared inheritance reveals landscape of somatic and germline cancer risk in TP53",
           "imageUrl": null
         },
         {
@@ -10727,6 +10957,16 @@
           "publishedOn": "2026-08-17T10:00:00.000Z",
           "wordCount": null,
           "title": "Shared inheritance reveals landscape of somatic and germline cancer risk in TP53",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42589439",
+          "author": "Mengjia Huang",
+          "description": "Small cell carcinoma of the cervix (SCCC) is a rare yet highly aggressive subtype of cervical cancer (CC), characterized by early invasion, high metastatic potential, frequent recurrence, and extremely poor prognosis, which severely impairs women's physical and mental health. Currently, high-risk human papillomavirus (hr-HPV, particularly HPV18) infection is recognized as one of the core drivers underlying the initiation and progression of SCCC. Malignant evolution is not triggered by a single...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42589439/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
+          "publishedOn": "2026-08-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Basic Clinical Bidirectional Empowerment: Synergistic Breakthrough in Molecular Mechanisms and Clinical Management of Small Cell Cervical Carcinoma",
           "imageUrl": null
         },
         {
