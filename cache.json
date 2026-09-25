@@ -210,8 +210,48 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_source=axios&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.20.1&utm_medium=rss&fc=20220608003622&utm_campaign=pubmed-2&ff=20260923225851",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&v=2.20.1&ff=20260924231555&fc=20220608003622&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:42781284",
+          "author": "Kyoko Yoshihara",
+          "description": "Hypoplastic myelodysplastic syndrome (MDS) often overlaps clinically with aplastic anemia and frequently involves clonal hematopoiesis. Thrombopoietin receptor agonists (TPO-RAs), including eltrombopag, are increasingly used to treat cytopenias in hypoplastic marrow failure syndromes; however, their long-term effects on clonal dynamics and marrow fibrosis remain incompletely defined. We report a case of ASXL1- and TET2-mutated hypoplastic MDS, initially managed as aplastic anemia, in which...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42781284/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-24T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Reversible Eltrombopag-Associated Bone Marrow Fibrosis With Hematologic Recovery After Drug Withdrawal in <em>ASXL1</em>-Mutated Hypoplastic Myelodysplastic Syndrome: A Case Report",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42780190",
+          "author": "Rosiane Batista Mastelari",
+          "description": "Second primary cancers (SPCs) are an important challenge in cancer survivorship, yet their heterogeneous biological origins cannot be reduced to treatment exposure. Inherited susceptibility shared environmental and tissue-field effects, ageing, pre-existing somatic mosaicism and treatment-associated mutagenesis contribute to SPC risk. High-resolution studies show that therapy can alter somatic selection, clonal architecture and persistent immune or stromal states in normal tissues. We propose...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42780190/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-24T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "The therapy-conditioned host: a state-transition framework for second primary cancer evolution",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42779982",
+          "author": "Maher Albitar",
+          "description": "CONCLUSIONS: These findings suggest that LBx using combined DNA and RNA NGS testing of CSF is a reliable approach that yields potentially practice-changing clinical information.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42779982/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-24T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Using cell free DNA (cfDNA) and RNA (cfRNA) in the diagnosis and monitoring of primary and metastatic CNS tumors",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42774839",
+          "author": "Yi Zhang",
+          "description": "Blood-based cancer biomarkers promise minimally invasive, longitudinal monitoring, yet their clinical utility varies profoundly by analyte class, disease stage, and analytical methodology. This Review critically evaluates six circulating biomarker classes, such as CTCs, ctDNA, cfDNA methylation, exosomes, circulating miRNAs, and tumor-educated platelets-moving beyond a descriptive catalog to a comparative analysis of their performance characteristics. We find that the dominant challenge is no...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42774839/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-23T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Blood-based tumor biomarkers: integrating biological layers and analytical strategies for precision cancer detection",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42774839",
           "author": "Yi Zhang",
@@ -220,6 +260,36 @@
           "publishedOn": "2026-09-23T10:00:00.000Z",
           "wordCount": null,
           "title": "Blood-based tumor biomarkers: integrating biological layers and analytical strategies for precision cancer detection",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42767865",
+          "author": "Sada Raza",
+          "description": "Aging is characterized by progressive loss of molecular fidelity that compromises stem-cell function and tissue homeostasis. Aging transcriptomes show widespread disruption of RNA processing, including increased intron retention, cryptic splice-site usage, and altered RNA quality control. These changes arise from somatic mutations as well as accumulated transcriptional, metabolic, and proteostatic stress. Importantly, similar splicing abnormalities are observed in age-associated diseases such as...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42767865/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-21T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "The splicing axis of aging: mechanisms and therapeutic opportunities",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42765309",
+          "author": "Minkwan Kim",
+          "description": "CONCLUSIONS: CHIP is associated with alterations in plasma concentrations of immune/inflammatory proteins. A CHIP-ProtRS is independently associated with adverse outcomes in HFpEF, supporting its potential role as a biomarker of risk and underlying pathobiology.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42765309/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-21T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Clonal Hematopoiesis of Indeterminate Potential Proteomic Risk Score for Predicting Clinical Outcome in Patients With Heart Failure With Preserved Ejection Fraction",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42764731",
+          "author": "Stine Ulrik Mikkelsen",
+          "description": "CONCLUSIONS: These findings suggest oral VitC as a safe, biologically active intervention in patients with early-stage myeloid malignancies and precursor conditions. A phase 3 trial is warranted.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42764731/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-21T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Oral vitamin C supplementation in patients with clonal cytopenia of undetermined significance or lower-risk myeloid malignancies: Results from EVITA, a phase 2 randomized, placebo-controlled trial",
           "imageUrl": null
         },
         {
@@ -286,6 +356,16 @@
           "id": "pubmed:42763649",
           "author": "Humaid O Al-Shamsi",
           "description": "Circulating tumor DNA (ctDNA) is an increasingly important biomarker for molecular residual disease (MRD) after curative-intent treatment of colorectal cancer (CRC), but its prognostic value must be distinguished from proven clinical utility. This structured narrative review synthesizes evidence from PubMed/MEDLINE, Embase, ClinicalTrials.gov, and major oncology conference proceedings, covering stage I-III CRC and selected patients with resected or ablated oligometastatic stage IV disease. We...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42763649/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-20T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "ctDNA in the Management of Resectable &amp; Advanced Colorectal Cancer: Current Status and Future Directions",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42763649",
+          "author": "Humaid O Al-Shamsi",
+          "description": "Circulating tumor DNA (ctDNA) is an increasingly important biomarker for molecular residual disease (MRD) after curative-intent treatment of colorectal cancer (CRC), but its prognostic value must be distinguished from proven clinical utility. This structured narrative review synthesizes evidence from PubMed/MEDLINE, Embase, ClinicalTrials.gov, and major oncology conference proceedings, covering stage I-III CRC and selected patients with resected or ablated oligometastatic stage IV disease. We...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42763649/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260923225851&v=2.20.1",
           "publishedOn": "2026-09-20T10:00:00.000Z",
           "wordCount": null,
@@ -316,6 +396,16 @@
           "id": "pubmed:42761656",
           "author": "Justin Cheng",
           "description": "Myelodysplastic syndrome (MDS) are clonal myeloid neoplasms that cause cytopenias and can progress to acute myeloid leukemia (AML). Hypomethylating agents (HMA) are the mainstay of treatment for higher risk disease, but they achieve responses in only half of treated patients and complete remission rates are low. Several scientifically based combinatorial regimens have been tested in clinical trials but none has demonstrated a survival benefit over HMA monotherapy. Allogeneic stem cell transplant...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42761656/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-19T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "T lymphocytes and natural killer cells in myelodysplastic syndromes: function, dysfunction, and therapeutic potential",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42761656",
+          "author": "Justin Cheng",
+          "description": "Myelodysplastic syndrome (MDS) are clonal myeloid neoplasms that cause cytopenias and can progress to acute myeloid leukemia (AML). Hypomethylating agents (HMA) are the mainstay of treatment for higher risk disease, but they achieve responses in only half of treated patients and complete remission rates are low. Several scientifically based combinatorial regimens have been tested in clinical trials but none has demonstrated a survival benefit over HMA monotherapy. Allogeneic stem cell transplant...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42761656/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260923225851&v=2.20.1",
           "publishedOn": "2026-09-19T10:00:00.000Z",
           "wordCount": null,
@@ -340,6 +430,16 @@
           "publishedOn": "2026-09-19T10:00:00.000Z",
           "wordCount": null,
           "title": "T lymphocytes and natural killer cells in myelodysplastic syndromes: function, dysfunction, and therapeutic potential",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42758109",
+          "author": "Alexander V Blagov",
+          "description": "Atherosclerosis and cancer are among the leading causes of morbidity and mortality worldwide and are increasingly recognized as biologically interconnected diseases rather than independent pathological conditions. Accumulating evidence indicates that these disorders share a complex molecular landscape characterized by chronic inflammation, oxidative stress, immune dysregulation, metabolic reprogramming, endothelial dysfunction, and age-related cellular alterations. This review integrates current...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42758109/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-18T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Molecular and cellular crosstalk between atherosclerosis and cancer: Mechanistic insights and therapeutic opportunities",
           "imageUrl": null
         },
         {
@@ -390,6 +490,26 @@
           "publishedOn": "2026-09-18T10:00:00.000Z",
           "wordCount": null,
           "title": "Molecular and cellular crosstalk between atherosclerosis and cancer: Mechanistic insights and therapeutic opportunities",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42753712",
+          "author": "Hui Wang",
+          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) arises from age-related somatic mutations in hematopoietic stem cells in the bone marrow (BM), driving clonal expansion and altered phenotypes. Loss-of-function mutations in the epigenetic regulator TET2 are among the most frequent in CHIP and increase the risk of hematologic malignancies and chronic inflammatory disorders. Here, we investigated the impact of TET2-driven CHIP on inflammatory bone loss. Partial BM reconstitution with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42753712/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-17T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Exacerbation of inflammatory bone loss in TET2-driven clonal hematopoiesis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42750481",
+          "author": "Federico Stella",
+          "description": "Chimeric antigen receptor (CAR) T-cell therapy has revolutionized the treatment of relapsed or refractory B-cell malignancies and multiple myeloma, with tens of thousands of patients treated worldwide. As survival improves, long-term safety has come into focus, and rare reports of T-cell lymphomas occurring after CAR T-cell infusion have prompted regulatory scrutiny and heightened clinical attention. Drawing on pivotal trials, real-world registries, meta-analyses, pharmacovigilance data, and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42750481/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-17T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "T-cell lymphoma following chimeric antigen receptor-T therapy: a cause for concern?",
           "imageUrl": null
         },
         {
@@ -500,6 +620,26 @@
           "publishedOn": "2026-09-17T10:00:00.000Z",
           "wordCount": null,
           "title": "T-cell lymphoma following chimeric antigen receptor-T therapy: a cause for concern?",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42745000",
+          "author": "Chhiring Lama",
+          "description": "Inflammation accelerates evolutionary dynamics of hematopoietic stem cells (HSCs) in clonal hematopoiesis and myeloid neoplasms. We studied HSCs, progenitors and immune cells from patients with myeloproliferative neoplasms at baseline and following interferon-α (IFNα) treatment, the only therapy to deplete mutated stem cells. We deployed single-cell multiomics methods that distinguish the IFNα effects on mutated stem cells from the admixed wild-type HSCs, with respect to their differentiation,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42745000/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-16T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Type 1 interferon perturbates clonal competition by reshaping human blood development",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42744964",
+          "author": "Maroof Hasan",
+          "description": "Clonal haematopoiesis (CH) is driven by somatic mutations in haematopoietic stem cells that generate clonal populations detectable in peripheral blood and is present in 10-20% of individuals over the age of 65. Mutations in DNMT3A and TET2 are the most common drivers and have been linked to inflammatory phenotypes and increased risk of haematologic and cardiovascular disease. However, the cell-intrinsic mechanisms connecting these mutations to inflammatory signalling remain incompletely...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42744964/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-16T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Retrotransposable element derepression distinguishes DNMT3A-mutant from TET2-mutant clonal haematopoiesis",
           "imageUrl": null
         },
         {
@@ -640,6 +780,16 @@
           "publishedOn": "2026-09-16T10:00:00.000Z",
           "wordCount": null,
           "title": "Retrotransposable element derepression distinguishes DNMT3A-mutant from TET2-mutant clonal haematopoiesis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42744693",
+          "author": "Tarek Taha",
+          "description": "Precision oncology relies on integrating tumour fraction, variant allele frequency, clonal haematopoiesis of indeterminate potential assessment, pathogenicity, and clinical context into next-generation sequencing interpretation, enabling biologically informed and clinically meaningful treatment decisions while reducing the risk of overinterpreting nontumour or nonactionable genomic alterations.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42744693/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-15T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Challenges of Using Circulating Tumour DNA: Insights from Advanced Prostate Cancer",
           "imageUrl": null
         },
         {
@@ -8441,84 +8591,24 @@
           "wordCount": 1473,
           "title": "Evaluating Somatic Mutational Contamination in Large-Scale Germline Genomic Studies",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42508147",
-          "author": "Chenshu Li",
-          "description": "CONCLUSIONS: Hematopoietic mLOY is associated with an increased risk of incident symptomatic PAD in men, independent of traditional cardiovascular risk factors. Assessement of mLOY status may therefore have the potential to improve PAD risk stratification and identify high-risk individuals who would benefit most from early lifestyle modifications and preventive pharamacological treatments.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42508147/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260802222839&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Hematopoietic loss of Y chromosome and risk of symptomatic peripheral artery disease in men",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42508147",
-          "author": "Chenshu Li",
-          "description": "CONCLUSIONS: Hematopoietic mLOY is associated with an increased risk of incident symptomatic PAD in men, independent of traditional cardiovascular risk factors. Assessement of mLOY status may therefore have the potential to improve PAD risk stratification and identify high-risk individuals who would benefit most from early lifestyle modifications and preventive pharamacological treatments.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42508147/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260801222611&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Hematopoietic loss of Y chromosome and risk of symptomatic peripheral artery disease in men",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42508147",
-          "author": "Chenshu Li",
-          "description": "CONCLUSIONS: Hematopoietic mLOY is associated with an increased risk of incident symptomatic PAD in men, independent of traditional cardiovascular risk factors. Assessement of mLOY status may therefore have the potential to improve PAD risk stratification and identify high-risk individuals who would benefit most from early lifestyle modifications and preventive pharamacological treatments.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42508147/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260731222817&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Hematopoietic loss of Y chromosome and risk of symptomatic peripheral artery disease in men",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42508147",
-          "author": "Chenshu Li",
-          "description": "CONCLUSIONS: Hematopoietic mLOY is associated with an increased risk of incident symptomatic PAD in men, independent of traditional cardiovascular risk factors. Assessement of mLOY status may therefore have the potential to improve PAD risk stratification and identify high-risk individuals who would benefit most from early lifestyle modifications and preventive pharamacological treatments.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42508147/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260730222810&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Hematopoietic loss of Y chromosome and risk of symptomatic peripheral artery disease in men",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42508147",
-          "author": "Chenshu Li",
-          "description": "CONCLUSIONS: Hematopoietic mLOY is associated with an increased risk of incident symptomatic PAD in men, independent of traditional cardiovascular risk factors. Assessement of mLOY status may therefore have the potential to improve PAD risk stratification and identify high-risk individuals who would benefit most from early lifestyle modifications and preventive pharamacological treatments.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42508147/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260729220145&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 1559,
-          "title": "Hematopoietic loss of Y chromosome and risk of symptomatic peripheral artery disease in men",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42508147",
-          "author": "Chenshu Li",
-          "description": "CONCLUSIONS: Hematopoietic mLOY is associated with an increased risk of incident symptomatic PAD in men, independent of traditional cardiovascular risk factors. Assessement of mLOY status may therefore have the potential to improve PAD risk stratification and identify high-risk individuals who would benefit most from early lifestyle modifications and preventive pharamacological treatments.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42508147/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260728221302&v=2.20.0",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Hematopoietic loss of Y chromosome and risk of symptomatic peripheral artery disease in men",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42508147",
-          "author": "Chenshu Li",
-          "description": "CONCLUSIONS: Hematopoietic mLOY is associated with an increased risk of incident symptomatic PAD in men, independent of traditional cardiovascular risk factors. Assessement of mLOY status may therefore have the potential to improve PAD risk stratification and identify high-risk individuals who would benefit most from early lifestyle modifications and preventive pharamacological treatments.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42508147/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260727220928&v=2.20.0",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Hematopoietic loss of Y chromosome and risk of symptomatic peripheral artery disease in men",
-          "imageUrl": null
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20260923225851&fc=20220608010801&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&v=2.20.1&utm_medium=rss",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss&v=2.20.1&utm_campaign=pubmed-2&ff=20260924231555&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_source=axios",
       "articles": [
+        {
+          "id": "pubmed:42762962",
+          "author": "Bindu Santhamma",
+          "description": "Endometriosis is a chronic, estrogen-dependent inflammatory disease that, despite its benign histology, displays several cancer-relevant features, including clonal expansion, somatic alteration-associated lesion evolution, tissue invasion, apoptosis resistance, immune evasion, angiogenesis, fibrosis, and metabolic adaptation. These features are particularly important in ovarian endometriosis, where recurrent hemorrhage, iron-driven oxidative stress, and chronic inflammatory remodeling may...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42762962/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-19T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Endometriosis from Initiation to Innovation: Immune Microenvironments, Clonal Lesion Biology, and the Emerging Therapeutic Pipeline",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42762962",
           "author": "Bindu Santhamma",
@@ -8547,6 +8637,16 @@
           "publishedOn": "2026-09-19T10:00:00.000Z",
           "wordCount": null,
           "title": "Endometriosis from Initiation to Innovation: Immune Microenvironments, Clonal Lesion Biology, and the Emerging Therapeutic Pipeline",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42749242",
+          "author": "Wei Li",
+          "description": "Cancer is a disease of somatic evolution driven by the sequential acquisition of genetic alterations that confer reproductive advantage. Understanding how tumors grow, diversify, and adapt to therapeutic pressure requires an integrated framework spanning evolutionary genomics, population genetics, and dynamical systems theory. This review synthesizes current knowledge on clonal dynamics, intratumor heterogeneity (ITH), and the mathematical tools used to model cancer progression, with direct...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42749242/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-16T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Evolutionary genomics, tumor dynamics, and mathematical modeling of cancer progression: Implications for precision oncology",
           "imageUrl": null
         },
         {
@@ -8607,6 +8707,26 @@
           "publishedOn": "2026-09-16T10:00:00.000Z",
           "wordCount": null,
           "title": "Evolutionary genomics, tumor dynamics, and mathematical modeling of cancer progression: Implications for precision oncology",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42740929",
+          "author": "Zhikai Cao",
+          "description": "CONCLUSION: NMB serves as a key driver of metastatic adaptation in ESCC, conferring a survival advantage to tumor cells during metastatic colonization through genomic evolution and immune remodeling, with metabolic adaptation as a downstream consequence of genomic alterations.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42740929/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-15T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Integrative single-cell and genomic analysis reveals NMB as a driver of metastatic adaptation in esophageal squamous cell carcinoma via metabolic rewiring and immune evasion",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42738366",
+          "author": "Yu Kang",
+          "description": "Peutz-Jeghers syndrome (PJS) presents an apparent biological paradox: heterozygous germline pathogenic variants in STK11 predispose to predominantly benign hamartomatous growth while conferring a markedly elevated lifetime risk of cancer, whereas somatic STK11 inactivation in established tumors is frequently associated with aggressive progression and therapeutic resistance. STK11 encodes liver kinase B1 (LKB1), a serine/threonine kinase that integrates metabolic, oxidative, architectural, and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42738366/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-15T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "STK11/LKB1 Loss in Cancer: From Developmental Constraint to Stress-Adapted Malignancy",
           "imageUrl": null
         },
         {
@@ -8773,6 +8893,16 @@
           "id": "pubmed:42726149",
           "author": "Xuyu Chen",
           "description": "Early gastric cancer is still commonly conceptualized as the endpoint of a linear sequence from chronic gastritis to intestinal metaplasia, dysplasia, and invasion. Yet recent single-cell, spatial, genomic, and functional studies indicate that this model incompletely captures the biology of early gastric carcinogenesis. Malignant potential is established progressively within a precancerous gastric field already shaped by somatic evolution, chronic inflammatory injury, and epithelial lineage...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42726149/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-11T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Reframing early gastric carcinogenesis through lineage, niche, and evolution",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42726149",
+          "author": "Xuyu Chen",
+          "description": "Early gastric cancer is still commonly conceptualized as the endpoint of a linear sequence from chronic gastritis to intestinal metaplasia, dysplasia, and invasion. Yet recent single-cell, spatial, genomic, and functional studies indicate that this model incompletely captures the biology of early gastric carcinogenesis. Malignant potential is established progressively within a precancerous gastric field already shaped by somatic evolution, chronic inflammatory injury, and epithelial lineage...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42726149/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260923225851&v=2.20.1",
           "publishedOn": "2026-09-11T10:00:00.000Z",
           "wordCount": null,
@@ -8887,6 +9017,16 @@
           "publishedOn": "2026-09-11T10:00:00.000Z",
           "wordCount": null,
           "title": "Reframing early gastric carcinogenesis through lineage, niche, and evolution",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42711452",
+          "author": "Franco Izzo",
+          "description": "Genetic heterogeneity and clonal outgrowths are observed even in otherwise healthy human tissues, shaping the genetic composition of cell populations in non-malignant disease and during physiological ageing. This clonal mosaicism likely provides the pre-cancerous seeds for malignant transformation. Once a tumour arises, clonal evolution poses a major challenge to achieving cure, as clonal diversification provides an expanded number of substrates upon which therapy can act as a selective...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42711452/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-09T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "A single-cell lens into the co-evolution of genotypes and phenotypes in cancer",
           "imageUrl": null
         },
         {
@@ -9027,6 +9167,16 @@
           "publishedOn": "2026-09-09T10:00:00.000Z",
           "wordCount": null,
           "title": "A single-cell lens into the co-evolution of genotypes and phenotypes in cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42693160",
+          "author": "Linzhu Tian",
+          "description": "Aplastic anemia (AA) is an immune-mediated bone marrow failure disorder with 15-20% risk of clonal evolution. We analyzed 371 patients with AA receiving immunosuppressive therapy (IST). All patients underwent PNH testing and 357 evaluable for cytogenetic analysis. Two hundred and thirty-seven received serial targeted sequencing. Clonal characteristics were compared before and after IST across age, disease severity, and hematological response. Among the 237 patients, somatic mutations were...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42693160/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-04T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Patterns of clonal hematopoiesis in aplastic anemia under immunosuppressive therapy",
           "imageUrl": null
         },
         {
@@ -9217,6 +9367,16 @@
           "publishedOn": "2026-09-04T10:00:00.000Z",
           "wordCount": null,
           "title": "Patterns of clonal hematopoiesis in aplastic anemia under immunosuppressive therapy",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42686803",
+          "author": "Nicole Heinzl",
+          "description": "High grade serous ovarian cancer (HGSC) has low survival partly due to the lack of methods for detection, diagnosis, and risk prediction. TP53 mutations, which drive HGSC, are found in gynecological tissues as the result of somatic evolution, but it is unknown whether an excess of mutations is linked to ovarian cancer. Here we investigate if TP53 mutation burden measured in uterine lavage, a minimally invasive gynecological liquid biopsy, can discriminate between patients with and without HGSC....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42686803/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-02T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "High-grade serous ovarian cancer is associated with increased TP53 mutation burden in uterine lavage",
           "imageUrl": null
         },
         {
@@ -9417,6 +9577,16 @@
           "publishedOn": "2026-09-02T10:00:00.000Z",
           "wordCount": null,
           "title": "High-grade serous ovarian cancer is associated with increased TP53 mutation burden in uterine lavage",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42676610",
+          "author": "Qianqian Chen",
+          "description": "Malignant tumors have long been viewed as uncontrolled cell proliferation driven by somatic mutations. However, emerging multi-omics and microenvironment evidence challenges this paradigm. Advanced tumors transcend cellular abnormality to form a \"neoorgan\" - a complex tissue ecosystem with multicellular coordination, functional autonomy, metabolic symbiosis, neural integration, and evolutionary potential. Genomic instability generates lineage-specific karyotypes; tumors reactivate ancient gene...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42676610/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-09-01T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Evolution of malignant tumors as neoorgan and predictions of future scenarios resulting from inappropriate treatment",
           "imageUrl": null
         },
         {
@@ -9637,6 +9807,26 @@
           "publishedOn": "2026-09-01T10:00:00.000Z",
           "wordCount": null,
           "title": "Evolution of malignant tumors as neoorgan and predictions of future scenarios resulting from inappropriate treatment",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42658760",
+          "author": "Madison Caballero",
+          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-08-27T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Genetic control of local mutation rates",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42658220",
+          "author": "Nicola Fusco",
+          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-08-27T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
           "imageUrl": null
         },
         {
@@ -10173,6 +10363,16 @@
           "id": "pubmed:42645607",
           "author": "Mohammad Mehdi Akbarin",
           "description": "Human T-cell lymphotropic virus type 1 (HTLV-1) is a persistent human retrovirus associated with severe outcomes, most notably adult T-cell leukemia/lymphoma (ATLL) and HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP). Despite lifelong infection, only a minority of carriers develop clinical disease, highlighting a decisive role for host genetic background in shaping viral control, immune activation, and pathogenic progression. This mini-review synthesizes evidence...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42645607/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-08-26T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Host genetic determinants of HTLV-1 infection outcomes",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42645607",
+          "author": "Mohammad Mehdi Akbarin",
+          "description": "Human T-cell lymphotropic virus type 1 (HTLV-1) is a persistent human retrovirus associated with severe outcomes, most notably adult T-cell leukemia/lymphoma (ATLL) and HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP). Despite lifelong infection, only a minority of carriers develop clinical disease, highlighting a decisive role for host genetic background in shaping viral control, immune activation, and pathogenic progression. This mini-review synthesizes evidence...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42645607/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260923225851&v=2.20.1",
           "publishedOn": "2026-08-26T10:00:00.000Z",
           "wordCount": null,
@@ -10437,6 +10637,16 @@
           "publishedOn": "2026-08-26T10:00:00.000Z",
           "wordCount": null,
           "title": "Host genetic determinants of HTLV-1 infection outcomes",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42638110",
+          "author": "Corinna Lewis Schmalohr",
+          "description": "CONCLUSIONS: Our modelling strategy quantifies the relative contribution of genomic factors to mutation susceptibility, predicting mutational biases at any genomic resolution across human tissues, and provides a basis for better understanding tumor evolution and age-related diseases.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42638110/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-08-25T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Determinants of mutation susceptibility along the genome are largely invariant across human tissues",
           "imageUrl": null
         },
         {
@@ -10727,6 +10937,16 @@
           "publishedOn": "2026-08-25T10:00:00.000Z",
           "wordCount": null,
           "title": "Determinants of mutation susceptibility along the genome are largely invariant across human tissues",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42630750",
+          "author": "Xiaojie Liu",
+          "description": "Far from being a mere epiphenomenon, acidosis is a pivotal factor in the somatic evolution of cancer and its progression toward malignancy. This review provides an inclusive overview of the mechanisms by which acidosis induces and selects for malignant phenotypes. We analyze enhanced invasion and metastasis, chemoresistance, immune surveillance suppression, and metabolic reprogramming. We also briefly examine the clinical development of small-molecule and antibody-based therapies targeting pH...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42630750/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-08-22T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Acidosis and the role of nanotechnology in mitigating cancer progression",
           "imageUrl": null
         },
         {
@@ -11037,6 +11257,16 @@
           "publishedOn": "2026-08-22T10:00:00.000Z",
           "wordCount": null,
           "title": "Acidosis and the role of nanotechnology in mitigating cancer progression",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42628663",
+          "author": "Anastasia Iatrou",
+          "description": "Intraclonal heterogeneity is increasingly recognized as a central determinant of evolutionary fitness in B-cell malignancies. Since these tumors arise from lineages that naturally diversify through V(D)J recombination, somatic hypermutation (SHM), and class switch recombination (CSR), their malignant counterparts retain and/or aberrantly reactivate these processes, generating antigen receptor repertoires with complex subclonal architectures. Advances in next-generation and single-cell...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42628663/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
+          "publishedOn": "2026-08-21T10:00:00.000Z",
+          "wordCount": 529,
+          "title": "Intraclonal heterogeneity in mature B-cell malignancies: The perspective of immunogenetics",
           "imageUrl": null
         },
         {
@@ -14068,326 +14298,6 @@
           "wordCount": 527,
           "title": "Gene mutant dosage is associated with prognosis and metastatic tropism in 60,000 clinical cancer samples",
           "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260828045238&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260827030456&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260825210335&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260824210212&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 1514,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260822210509&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260821205957&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260820210334&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260819210001&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260818210028&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260817205928&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260816210128&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260815210345&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260814210005&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260813213840&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260812214036&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260811213758&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260810212130&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260809212330&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260808212144&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260807211651&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260806222825&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260805221117&v=2.20.1",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260804220711&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260803220802&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260802222839&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260801222611&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260731222817&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260730222810&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260729220145&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260728221302&v=2.20.0",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 527,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42506070",
-          "author": "Maysa Al-Hussaini",
-          "description": "CD19-directed chimeric antigen receptor (CAR) T-cell therapy has fundamentally transformed the treatment landscape for relapsed and refractory B-cell malignancies, yet antigen escape remains a persistent therapeutic challenge that limits long-term remission durability. While antigen loss is typically considered a somatic event acquired during tumor evolution under therapeutic selective pressure, germline CD19 polymorphisms could theoretically influence CAR-binding kinetics, alter epitope...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42506070/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260727220928&v=2.20.0",
-          "publishedOn": "2026-07-27T10:00:00.000Z",
-          "wordCount": 1256,
-          "title": "Perspective for CAR T-Cell Therapy in Underrepresented Populations: A Hypothesis-Generating CD19 Genomic Analysis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
