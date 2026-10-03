@@ -210,8 +210,28 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&utm_source=axios&utm_campaign=pubmed-2&ff=20261001235335&utm_medium=rss&v=2.20.1",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&utm_source=axios&fc=20220608003622&utm_campaign=pubmed-2&ff=20261002233831&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.20.1",
       "articles": [
+        {
+          "id": "pubmed:42818292",
+          "author": "Yuri Lee",
+          "description": "Somatic mutations in the de novo DNA methyltransferase DNMT3A are frequent in clonal hematopoiesis, but how they alter the function of differentiated myeloid cells remains unclear. Here, we used isogenic human embryonic stem cell-derived macrophage models to define the consequences of DNMT3A dysfunction during myeloid differentiation. DNMT3A -mutant macrophages selectively upregulated bivalent Polycomb target genes, accompanied by DNA hypomethylation, reduced H3K27me3 and increased promoter...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42818292/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-10-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Clonal hematopoiesis-associated DNMT3A mutations derepress bivalent Polycomb target genes and enhance macrophage migration",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42817852",
+          "author": "Andreas Riedel",
+          "description": "Chimeric antigen receptor T-cell (CAR-T) therapies are effective in relapsed and refractory Bcell neoplasia but can cause immune-effector cell (IEC)-related toxicities, including cytokine release syndrome (CRS), immune effector cell-associated neurotoxicity syndrome (ICANS), hematologic toxicity (ICAHT), and hemophagocytic lymphohistiocytosis-like syndrome (IECHS). We hypothesized that clonal hematopoiesis of indeterminate potential (CHIP) may influence outcomes by modulating inflammatory...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42817852/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-10-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "The role of CHIP and pre-treatment neutropenia in patients treated with chimeric antigen receptor T cells for hematological malignancies",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42818292",
           "author": "Yuri Lee",
@@ -230,6 +250,46 @@
           "publishedOn": "2026-10-01T10:00:00.000Z",
           "wordCount": null,
           "title": "The role of CHIP and pre-treatment neutropenia in patients treated with chimeric antigen receptor T cells for hematological malignancies",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42816584",
+          "author": "Alicia G Aguilar-Navarro",
+          "description": "Clonal hematopoiesis of indeterminate potential is associated with systemic inflammation and increased malignant risk in humans, yet understanding of how it reshapes the bone marrow (BM) microenvironment has been limited. Using single-cell transcriptomic profiling of freshly isolated BM samples, combined with histological and spatial transcriptomic analyses, we identified fibro-inflammatory remodeling as a hallmark of clonal hematopoiesis of indeterminate potential. Fibroblasts were markedly...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42816584/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Prefibrotic bone marrow microenvironment is a hallmark of clonal hematopoiesis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42814862",
+          "author": "Issei Imoto",
+          "description": "Next-generation sequencing has increased the sensitivity of pathogenic variant (PV) detection and enabled the quantitative assessment of variant allele fractions (VAFs) in clinical cancer genetics. However, these advances have exposed the limitations of equating molecular detection with a definitive germline diagnosis. The most clinically consequential example is TP53: in leukocyte-derived DNA, a detected TP53 PV may represent constitutional germline heterozygosity, postzygotic constitutional...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42814862/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Interpreting TP53 pathogenic variants in germline testing and cancer genomics: pathogenicity, origin, and clinical actionability",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42811972",
+          "author": "Ruslan Kalendar",
+          "description": "Mosaic loss of chromosome Y (LOY) is the acquired absence of the Y chromosome in a fraction of cells, is most readily observed in the haematopoietic compartment, and represents the most common form of clonal mosaicism in older men. Once dismissed as a benign correlate of aging, LOY is now recognized as a clinically meaningful biomarker associated with reduced survival and an expanding range of age-related disorders, including multiple solid and haematological cancers, cardiovascular disease,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42811972/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Mosaic Loss of Chromosome Y (LOY): From Genomic Instability to Disease and Single-Cell Detection",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42811375",
+          "author": "Jiansong Huang",
+          "description": "Myelofibrosis is a clonal myeloproliferative neoplasm characterized by progressive remodeling of the bone marrow microenvironment. Megakaryocyte (MK) abnormalities are defining histological features of prefibrotic and overt primary myelofibrosis and contribute to disease pathogenesis. Dysplastic MKs can directly modify the pericellular extracellular matrix (ECM), but their main fibrogenic influence comes from coordinating stromal, immune, and endothelial responses. This Review synthesizes...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42811375/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Megakaryocytes in myelofibrosis: mechanisms of fibrotic niche remodeling and therapeutic implications",
           "imageUrl": null
         },
         {
@@ -300,6 +360,36 @@
           "publishedOn": "2026-09-30T10:00:00.000Z",
           "wordCount": null,
           "title": "Megakaryocytes in myelofibrosis: mechanisms of fibrotic niche remodeling and therapeutic implications",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42810841",
+          "author": "Wei-Ting Liu",
+          "description": "Cutaneous angiosarcoma (cAS) is an aggressive vascular malignancy comprising idiopathic primary cutaneous angiosarcoma (PCAS) and secondary cutaneous angiosarcoma (SCAS) arising after radiation therapy or chronic lymphedema. Comparative genomic analyses delineating these subtypes in Asian populations remain limited. We retrospectively evaluated 15 Japanese cAS patients (10 PCAS, 5 SCAS) who underwent comprehensive genomic profiling (CGP) using FoundationOne CDx or liquid CDx between 2020 and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42810841/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Genomic Landscape of Primary and Secondary Cutaneous Angiosarcoma: A Single-Center Retrospective Cohort Analysis in Japan",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42810491",
+          "author": "Haoyi Zheng",
+          "description": "Telomeres protect chromosome ends and help preserve genomic integrity. Progressive telomere shortening with each cell division functions as a biologic clock that contributes to limited human lifespan. When telomeres become critically short with aging, DNA damage responses are activated, leading to cellular senescence or apoptosis. This process creates selective pressure that triggers the emergence of somatic mutations. Mutant hematopoietic stem cells driving clonal hematopoiesis acquire a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42810491/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Telomeres in Aging: Links to Clonal Hematopoiesis, Cardiovascular Disease, and Cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42809188",
+          "author": "Keshav Garg",
+          "description": "PURPOSE OF REVIEW: Atherosclerosis is a chronic inflammatory disease in which oxidative stress serves as a final common mechanism linking endothelial injury, lipoprotein oxidation, immune activation, and plaque progression. Since the original description of reactive oxygen species (ROS) generating and antioxidant systems in atherogenesis, substantial advances have reshaped the mechanistic and therapeutic landscape. This review provides a comprehensive update on oxidative stress in...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42809188/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "An Update of Oxidative Stress in Atherosclerosis with Emphasis on the LOX-1-NLRP3 Inflammasome Axis",
           "imageUrl": null
         },
         {
@@ -390,6 +480,56 @@
           "publishedOn": "2026-09-29T10:00:00.000Z",
           "wordCount": null,
           "title": "An Update of Oxidative Stress in Atherosclerosis with Emphasis on the LOX-1-NLRP3 Inflammasome Axis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42806144",
+          "author": "Jeremy T Baeten",
+          "description": "Poly(ADP-ribose) polymerase inhibitors (PARPi) are commonly used in tumors with homologous recombination deficiency (HRD) but are associated with an increased risk of therapy-related myeloid neoplasms (tMN). Clonal hematopoiesis (CH) driven by DNA damage response (DDR) mutations is the origin of most tMN. Here, to better understand the causes of tMN following PARPi therapy, we studied the relationship between PARPi use and CH. We observed a high frequency of DDR CH following PARPi therapy,...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42806144/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-28T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Germline homologous recombination deficiency influences TP53-mutant clonal hematopoiesis fitness during platinum and PARP inhibitor treatment",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42805582",
+          "author": "Ebram Tharwat Melika",
+          "description": "Aging is a major risk factor for cardiovascular diseases and is often accompanied by systemic alterations of the immune system, such as the accumulation of terminally differentiated T cells, clonal hematopoiesis of intermediate potential, and dysregulated production of pro-inflammatory cytokines. However, how the aging immune system impacts post-myocardial infarction (MI) repair remains poorly understood. In the present study, we compared the post-MI inflammatory responses in 2- and 18-month-old...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42805582/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-28T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Immune responses following myocardial infarction in aged mice",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42805460",
+          "author": "Zijian Zhang",
+          "description": "CONCLUSIONS: Collectively, our findings support a model in which smoking-associated expansion of ASXL1-mutant clones is associated with an increased risk of lung cancer and suggest that gene-specific CHIP metrics may enhance risk stratification and early detection strategies.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42805460/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-28T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Gene-Specific Analysis of Clonal Hematopoiesis Identifies the Association between ASXL1 and Lung Cancer Risk",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42805147",
+          "author": "Zsófia Sándor",
+          "description": "Autologous hematopoietic stem cell transplantation is a major milestone in modern oncohematological therapies; however, both in the peritransplant and post-transplant phase, the incidence of cardiovascular (CV) events is markedly higher than in the general population. The pathomechanism of CV complications is multifactorial, determined by complex interactions between patient-specific, transplant-related, and oncological risk factors. In recent years, clonal hematopoiesis has emerged as a...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42805147/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-28T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Cardio-Oncological Sequelae of Autologous Stem Cell Transplantation: Role of Clonal Hematopoiesis in Cardiovascular Risk",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42804828",
+          "author": "Samuel C R Sherratt",
+          "description": "Lipoprotein(a) [Lp(a)] levels are associated with increased cardiovascular risk, possibly linked to its oxidized phospholipid content that may accelerate lipoprotein oxidation. Attenuating this process could reduce Lp(a) atherogenicity. Atorvastatin is metabolized into 2 hydroxylated metabolites, which account for low-density lipoprotein reduction and potential antioxidant activity. We compared these metabolites' effects to other active statins on oxidation of plasma samples enriched with...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42804828/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-28T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Rates of Lipoprotein(a) Oxidation Accelerate at Elevated Levels and Attenuate With Atorvastatin Active Metabolites Compared With Other Statins",
           "imageUrl": null
         },
         {
@@ -580,6 +720,16 @@
           "publishedOn": "2026-09-28T10:00:00.000Z",
           "wordCount": null,
           "title": "Rates of Lipoprotein(a) Oxidation Accelerate at Elevated Levels and Attenuate With Atorvastatin Active Metabolites Compared With Other Statins",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42795377",
+          "author": "Kitty Inzunza-Esparza",
+          "description": "Coronary heart disease represents a great economic expense, especially coronary artery calcification (CAC), which is associated with worse clinical outcomes and increased technical complexity of percutaneous coronary intervention. Red cell distribution width (RDW) is a marker of dysregulated erythropoiesis associated with inflammation and iron accumulation in macrophages that is mediated by hepcidin. Research has indicated that higher RDW levels are linked to an increased risk of adverse...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42795377/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Red Blood Cell Distribution Width Is a Biomarker of Red Cell Dysfunction Associated with Inflammation, Macrophage Polarization, and Coronary Artery Calcification: A Prognostic Marker in Cardiovascular Disease and a Potential Target for Anti-Cytokine Therapy",
           "imageUrl": null
         },
         {
@@ -8001,164 +8151,34 @@
           "wordCount": 1823,
           "title": "Multilineage lymphoid clonal hematopoiesis: a cross-sectional, correlative analysis of plasma cell dyscrasias and large granular lymphocytic leukemia",
           "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42550479",
-          "author": "Li Wang",
-          "description": "CONCLUSION: CHIP confers substantial cancer risk, amplified when participants are biologically older. Assessing CHIP and biological aging may serve as an effective strategy for early screening and risk stratification for hematologic neoplasms and lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42550479/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260811213758&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 1677,
-          "title": "The joint association of clonal hematopoiesis of indeterminate potential and biological aging with cancer risk among 332,911 individuals",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42550479",
-          "author": "Li Wang",
-          "description": "CONCLUSION: CHIP confers substantial cancer risk, amplified when participants are biologically older. Assessing CHIP and biological aging may serve as an effective strategy for early screening and risk stratification for hematologic neoplasms and lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42550479/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260810212130&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 1677,
-          "title": "The joint association of clonal hematopoiesis of indeterminate potential and biological aging with cancer risk among 332,911 individuals",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42549421",
-          "author": "Xuejiao Zhang",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) denotes the age-associated expansion of hematopoietic clones carrying acquired somatic variants, conventionally identified at a variant allele frequency of at least 2% in people without overt hematologic malignancy. Once viewed mainly through the lens of premalignant hematology, CHIP is now repeatedly linked to excess cardiovascular morbidity and mortality. The earliest cardiovascular signal centered on atherosclerotic cardiovascular disease...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42549421/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260810212130&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Cardiovascular Disease: Gene-Specific Mechanisms and Therapeutic Implications",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42550479",
-          "author": "Li Wang",
-          "description": "CONCLUSION: CHIP confers substantial cancer risk, amplified when participants are biologically older. Assessing CHIP and biological aging may serve as an effective strategy for early screening and risk stratification for hematologic neoplasms and lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42550479/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260809212330&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 1677,
-          "title": "The joint association of clonal hematopoiesis of indeterminate potential and biological aging with cancer risk among 332,911 individuals",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42549421",
-          "author": "Xuejiao Zhang",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) denotes the age-associated expansion of hematopoietic clones carrying acquired somatic variants, conventionally identified at a variant allele frequency of at least 2% in people without overt hematologic malignancy. Once viewed mainly through the lens of premalignant hematology, CHIP is now repeatedly linked to excess cardiovascular morbidity and mortality. The earliest cardiovascular signal centered on atherosclerotic cardiovascular disease...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42549421/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260809212330&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 1676,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Cardiovascular Disease: Gene-Specific Mechanisms and Therapeutic Implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42550479",
-          "author": "Li Wang",
-          "description": "CONCLUSION: CHIP confers substantial cancer risk, amplified when participants are biologically older. Assessing CHIP and biological aging may serve as an effective strategy for early screening and risk stratification for hematologic neoplasms and lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42550479/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260808212144&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 1677,
-          "title": "The joint association of clonal hematopoiesis of indeterminate potential and biological aging with cancer risk among 332,911 individuals",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42549421",
-          "author": "Xuejiao Zhang",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) denotes the age-associated expansion of hematopoietic clones carrying acquired somatic variants, conventionally identified at a variant allele frequency of at least 2% in people without overt hematologic malignancy. Once viewed mainly through the lens of premalignant hematology, CHIP is now repeatedly linked to excess cardiovascular morbidity and mortality. The earliest cardiovascular signal centered on atherosclerotic cardiovascular disease...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42549421/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260808212144&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 1676,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Cardiovascular Disease: Gene-Specific Mechanisms and Therapeutic Implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42550479",
-          "author": "Li Wang",
-          "description": "CONCLUSION: CHIP confers substantial cancer risk, amplified when participants are biologically older. Assessing CHIP and biological aging may serve as an effective strategy for early screening and risk stratification for hematologic neoplasms and lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42550479/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260807211651&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "The joint association of clonal hematopoiesis of indeterminate potential and biological aging with cancer risk among 332,911 individuals",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42549421",
-          "author": "Xuejiao Zhang",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) denotes the age-associated expansion of hematopoietic clones carrying acquired somatic variants, conventionally identified at a variant allele frequency of at least 2% in people without overt hematologic malignancy. Once viewed mainly through the lens of premalignant hematology, CHIP is now repeatedly linked to excess cardiovascular morbidity and mortality. The earliest cardiovascular signal centered on atherosclerotic cardiovascular disease...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42549421/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260807211651&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 1676,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Cardiovascular Disease: Gene-Specific Mechanisms and Therapeutic Implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42550479",
-          "author": "Li Wang",
-          "description": "CONCLUSION: CHIP confers substantial cancer risk, amplified when participants are biologically older. Assessing CHIP and biological aging may serve as an effective strategy for early screening and risk stratification for hematologic neoplasms and lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42550479/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260806222825&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 1677,
-          "title": "The joint association of clonal hematopoiesis of indeterminate potential and biological aging with cancer risk among 332,911 individuals",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42549421",
-          "author": "Xuejiao Zhang",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) denotes the age-associated expansion of hematopoietic clones carrying acquired somatic variants, conventionally identified at a variant allele frequency of at least 2% in people without overt hematologic malignancy. Once viewed mainly through the lens of premalignant hematology, CHIP is now repeatedly linked to excess cardiovascular morbidity and mortality. The earliest cardiovascular signal centered on atherosclerotic cardiovascular disease...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42549421/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260806222825&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 1676,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Cardiovascular Disease: Gene-Specific Mechanisms and Therapeutic Implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42550479",
-          "author": "Li Wang",
-          "description": "CONCLUSION: CHIP confers substantial cancer risk, amplified when participants are biologically older. Assessing CHIP and biological aging may serve as an effective strategy for early screening and risk stratification for hematologic neoplasms and lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42550479/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260805221117&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "The joint association of clonal hematopoiesis of indeterminate potential and biological aging with cancer risk among 332,911 individuals",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42549421",
-          "author": "Xuejiao Zhang",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) denotes the age-associated expansion of hematopoietic clones carrying acquired somatic variants, conventionally identified at a variant allele frequency of at least 2% in people without overt hematologic malignancy. Once viewed mainly through the lens of premalignant hematology, CHIP is now repeatedly linked to excess cardiovascular morbidity and mortality. The earliest cardiovascular signal centered on atherosclerotic cardiovascular disease...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42549421/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260805221117&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Cardiovascular Disease: Gene-Specific Mechanisms and Therapeutic Implications",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42550479",
-          "author": "Li Wang",
-          "description": "CONCLUSION: CHIP confers substantial cancer risk, amplified when participants are biologically older. Assessing CHIP and biological aging may serve as an effective strategy for early screening and risk stratification for hematologic neoplasms and lung cancer.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42550479/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260804220711&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 1640,
-          "title": "The joint association of clonal hematopoiesis of indeterminate potential and biological aging with cancer risk among 332,911 individuals",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42549421",
-          "author": "Xuejiao Zhang",
-          "description": "Clonal hematopoiesis of indeterminate potential (CHIP) denotes the age-associated expansion of hematopoietic clones carrying acquired somatic variants, conventionally identified at a variant allele frequency of at least 2% in people without overt hematologic malignancy. Once viewed mainly through the lens of premalignant hematology, CHIP is now repeatedly linked to excess cardiovascular morbidity and mortality. The earliest cardiovascular signal centered on atherosclerotic cardiovascular disease...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42549421/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260804220711&v=2.20.0.post5+40e1b98",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 1626,
-          "title": "Clonal Hematopoiesis of Indeterminate Potential in Cardiovascular Disease: Gene-Specific Mechanisms and Therapeutic Implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_source=axios&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&v=2.20.1&utm_campaign=pubmed-2&utm_medium=rss&fc=20220608010801&ff=20261001235335",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_source=axios&utm_medium=rss&ff=20261002233831&v=2.20.1&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2",
       "articles": [
+        {
+          "id": "pubmed:42820819",
+          "author": "Qi Zhang",
+          "description": "Mosaic loss of the Y chromosome (mLOY) is a male‑specific somatic loss of the Y chromosome that is predominantly observed in peripheral blood leukocytes, but can also be found in other tissue types. It represents one of the most common male-specific somatic mutations, particularly prevalent in aging individuals. Accumulating evidence shows that mLOY markedly increases the incidence, progression, and adverse prognosis of multiple diseases, including, but not limited to, myocardial fibrosis, lung...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42820819/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-10-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Mosaic Loss of the Y Chromosome: Mechanisms and Diseases",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42820733",
+          "author": "Meng Liu",
+          "description": "Somatic mutations contribute to tumorigenesis through mutation, selection, and clonal expansion within the native host. Quantifying oncogenic fitness-the extent to which specific somatic mutations promote tumorigenesis-is vital to understanding cancer initiation, progression, and therapeutic response. Perturbation of tumorigenesis by experimental alteration of oncogenes and tumor suppressors in genetically engineered mouse models has long served to inform human cancer research and such...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42820733/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-10-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Cancer evolution in its native host: oncogenic selection and epistasis revealed by human tumor genomes",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42820819",
           "author": "Qi Zhang",
@@ -8177,6 +8197,16 @@
           "publishedOn": "2026-10-01T10:00:00.000Z",
           "wordCount": null,
           "title": "Cancer evolution in its native host: oncogenic selection and epistasis revealed by human tumor genomes",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42802335",
+          "author": "Giuseppe G Loscocco",
+          "description": "Calreticulin (CALR)-mutated myeloproliferative neoplasms (MPNs) are generally associated with favourable outcomes, yet considerable heterogeneity persists across the disease course. Mawalkar et al. provide long-term data across essential thrombocythaemia (ET), post-ET myelofibrosis (MF) and primary MF, highlighting the prognostic relevance of additional somatic mutations. The contribution of co-mutational context, variant allele frequency (VAF), disease origin and timing of molecular assessment...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42802335/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "CALR-mutated myeloproliferative neoplasms: Refining molecular risk beyond the driver",
           "imageUrl": null
         },
         {
@@ -8217,6 +8247,16 @@
           "publishedOn": "2026-09-27T10:00:00.000Z",
           "wordCount": null,
           "title": "CALR-mutated myeloproliferative neoplasms: Refining molecular risk beyond the driver",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42793013",
+          "author": "Eliezer Kopf",
+          "description": "BACKGROUND/OBJECTIVES: Retinoic acid receptor γ (RARγ), encoded by RARG, is increasingly recognized as a cancer-associated regulator through aberrant expression in multiple solid tumors and recurrent gene rearrangements in acute myeloid leukemia. While the oncogenic relevance of RARγ is well established, the potential involvement of its N-terminal activation function-1 (AF1) domain in human cancer remains poorly characterized. Previous biochemical studies demonstrated that phosphorylation of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42793013/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Rare Cancer-Associated Mutations May Affect the AF1 Phosphoregulatory Domain of RARgamma",
           "imageUrl": null
         },
         {
@@ -8267,6 +8307,16 @@
           "publishedOn": "2026-09-26T10:00:00.000Z",
           "wordCount": 529,
           "title": "Rare Cancer-Associated Mutations May Affect the AF1 Phosphoregulatory Domain of RARgamma",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42787686",
+          "author": "Roni Haas",
+          "description": "Multifocal prostate cancer is a prevalent phenomenon, with most cases remaining uncharacterized from a genomic perspective. A patient presented with bilateral prostate cancer. On systematic biopsy, two indistinguishable clinicopathologic lesions were detected. Whole-genome sequencing displayed somatically unrelated tumors with distinct driver CNA regions, suggesting independent origins of the two tumors. We demonstrated that similar clinicopathologic multifocal tumors, which might be interpreted...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42787686/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-25T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Divergent evolution in bilateral prostate cancer: a case study",
           "imageUrl": null
         },
         {
@@ -8327,6 +8377,16 @@
           "publishedOn": "2026-09-25T10:00:00.000Z",
           "wordCount": 529,
           "title": "Divergent evolution in bilateral prostate cancer: a case study",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42762962",
+          "author": "Bindu Santhamma",
+          "description": "Endometriosis is a chronic, estrogen-dependent inflammatory disease that, despite its benign histology, displays several cancer-relevant features, including clonal expansion, somatic alteration-associated lesion evolution, tissue invasion, apoptosis resistance, immune evasion, angiogenesis, fibrosis, and metabolic adaptation. These features are particularly important in ovarian endometriosis, where recurrent hemorrhage, iron-driven oxidative stress, and chronic inflammatory remodeling may...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42762962/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-19T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Endometriosis from initiation to innovation: Immune microenvironments, clonal lesion biology, and the emerging therapeutic pipeline",
           "imageUrl": null
         },
         {
@@ -8427,6 +8487,16 @@
           "publishedOn": "2026-09-19T10:00:00.000Z",
           "wordCount": null,
           "title": "Endometriosis from Initiation to Innovation: Immune Microenvironments, Clonal Lesion Biology, and the Emerging Therapeutic Pipeline",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42749242",
+          "author": "Wei Li",
+          "description": "Cancer is a disease of somatic evolution driven by the sequential acquisition of genetic alterations that confer reproductive advantage. Understanding how tumors grow, diversify, and adapt to therapeutic pressure requires an integrated framework spanning evolutionary genomics, population genetics, and dynamical systems theory. This review synthesizes current knowledge on clonal dynamics, intratumor heterogeneity (ITH), and the mathematical tools used to model cancer progression, with direct...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42749242/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-16T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Evolutionary genomics, tumor dynamics, and mathematical modeling of cancer progression: Implications for precision oncology",
           "imageUrl": null
         },
         {
@@ -8557,6 +8627,26 @@
           "publishedOn": "2026-09-16T10:00:00.000Z",
           "wordCount": null,
           "title": "Evolutionary genomics, tumor dynamics, and mathematical modeling of cancer progression: Implications for precision oncology",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42740929",
+          "author": "Zhikai Cao",
+          "description": "CONCLUSION: NMB serves as a key driver of metastatic adaptation in ESCC, conferring a survival advantage to tumor cells during metastatic colonization through genomic evolution and immune remodeling, with metabolic adaptation as a downstream consequence of genomic alterations.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42740929/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Integrative single-cell and genomic analysis reveals NMB as a driver of metastatic adaptation in esophageal squamous cell carcinoma via metabolic rewiring and immune evasion",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42738366",
+          "author": "Yu Kang",
+          "description": "Peutz-Jeghers syndrome (PJS) presents an apparent biological paradox: heterozygous germline pathogenic variants in STK11 predispose to predominantly benign hamartomatous growth while conferring a markedly elevated lifetime risk of cancer, whereas somatic STK11 inactivation in established tumors is frequently associated with aggressive progression and therapeutic resistance. STK11 encodes liver kinase B1 (LKB1), a serine/threonine kinase that integrates metabolic, oxidative, architectural, and...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42738366/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "STK11/LKB1 Loss in Cancer: From Developmental Constraint to Stress-Adapted Malignancy",
           "imageUrl": null
         },
         {
@@ -8863,6 +8953,16 @@
           "id": "pubmed:42726149",
           "author": "Xuyu Chen",
           "description": "Early gastric cancer is still commonly conceptualized as the endpoint of a linear sequence from chronic gastritis to intestinal metaplasia, dysplasia, and invasion. Yet recent single-cell, spatial, genomic, and functional studies indicate that this model incompletely captures the biology of early gastric carcinogenesis. Malignant potential is established progressively within a precancerous gastric field already shaped by somatic evolution, chronic inflammatory injury, and epithelial lineage...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42726149/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-11T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Reframing early gastric carcinogenesis through lineage, niche, and evolution",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42726149",
+          "author": "Xuyu Chen",
+          "description": "Early gastric cancer is still commonly conceptualized as the endpoint of a linear sequence from chronic gastritis to intestinal metaplasia, dysplasia, and invasion. Yet recent single-cell, spatial, genomic, and functional studies indicate that this model incompletely captures the biology of early gastric carcinogenesis. Malignant potential is established progressively within a precancerous gastric field already shaped by somatic evolution, chronic inflammatory injury, and epithelial lineage...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42726149/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261001235335&v=2.20.1",
           "publishedOn": "2026-09-11T10:00:00.000Z",
           "wordCount": null,
@@ -9047,6 +9147,16 @@
           "publishedOn": "2026-09-11T10:00:00.000Z",
           "wordCount": null,
           "title": "Reframing early gastric carcinogenesis through lineage, niche, and evolution",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42711452",
+          "author": "Franco Izzo",
+          "description": "Genetic heterogeneity and clonal outgrowths are observed even in otherwise healthy human tissues, shaping the genetic composition of cell populations in non-malignant disease and during physiological ageing. This clonal mosaicism likely provides the pre-cancerous seeds for malignant transformation. Once a tumour arises, clonal evolution poses a major challenge to achieving cure, as clonal diversification provides an expanded number of substrates upon which therapy can act as a selective...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42711452/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-09T10:00:00.000Z",
+          "wordCount": null,
+          "title": "A single-cell lens into the co-evolution of genotypes and phenotypes in cancer",
           "imageUrl": null
         },
         {
@@ -9257,6 +9367,16 @@
           "publishedOn": "2026-09-09T10:00:00.000Z",
           "wordCount": null,
           "title": "A single-cell lens into the co-evolution of genotypes and phenotypes in cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42693160",
+          "author": "Linzhu Tian",
+          "description": "Aplastic anemia (AA) is an immune-mediated bone marrow failure disorder with 15-20% risk of clonal evolution. We analyzed 371 patients with AA receiving immunosuppressive therapy (IST). All patients underwent PNH testing and 357 evaluable for cytogenetic analysis. Two hundred and thirty-seven received serial targeted sequencing. Clonal characteristics were compared before and after IST across age, disease severity, and hematological response. Among the 237 patients, somatic mutations were...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42693160/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-04T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Patterns of clonal hematopoiesis in aplastic anemia under immunosuppressive therapy",
           "imageUrl": null
         },
         {
@@ -9517,6 +9637,16 @@
           "publishedOn": "2026-09-04T10:00:00.000Z",
           "wordCount": null,
           "title": "Patterns of clonal hematopoiesis in aplastic anemia under immunosuppressive therapy",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42686803",
+          "author": "Nicole Heinzl",
+          "description": "High grade serous ovarian cancer (HGSC) has low survival partly due to the lack of methods for detection, diagnosis, and risk prediction. TP53 mutations, which drive HGSC, are found in gynecological tissues as the result of somatic evolution, but it is unknown whether an excess of mutations is linked to ovarian cancer. Here we investigate if TP53 mutation burden measured in uterine lavage, a minimally invasive gynecological liquid biopsy, can discriminate between patients with and without HGSC....",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42686803/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "High-grade serous ovarian cancer is associated with increased TP53 mutation burden in uterine lavage",
           "imageUrl": null
         },
         {
@@ -9787,6 +9917,16 @@
           "publishedOn": "2026-09-02T10:00:00.000Z",
           "wordCount": null,
           "title": "High-grade serous ovarian cancer is associated with increased TP53 mutation burden in uterine lavage",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42676610",
+          "author": "Qianqian Chen",
+          "description": "Malignant tumors have long been viewed as uncontrolled cell proliferation driven by somatic mutations. However, emerging multi-omics and microenvironment evidence challenges this paradigm. Advanced tumors transcend cellular abnormality to form a \"neoorgan\" - a complex tissue ecosystem with multicellular coordination, functional autonomy, metabolic symbiosis, neural integration, and evolutionary potential. Genomic instability generates lineage-specific karyotypes; tumors reactivate ancient gene...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42676610/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-09-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Evolution of malignant tumors as neoorgan and predictions of future scenarios resulting from inappropriate treatment",
           "imageUrl": null
         },
         {
@@ -10077,6 +10217,16 @@
           "publishedOn": "2026-09-01T10:00:00.000Z",
           "wordCount": null,
           "title": "Evolution of malignant tumors as neoorgan and predictions of future scenarios resulting from inappropriate treatment",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42658760",
+          "author": "Madison Caballero",
+          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
+          "publishedOn": "2026-08-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Genetic control of local mutation rates",
           "imageUrl": null
         },
         {
@@ -14147,306 +14297,6 @@
           "publishedOn": "2026-08-06T10:00:00.000Z",
           "wordCount": 528,
           "title": "Mapping cancer dynamics from normal tissue to malignancy using N- and T-gene expression markers",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260903224520&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260902224807&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260901224121&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260831232327&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 1417,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260830232300&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260829232506&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260829012824&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260828045238&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260827030456&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260825210335&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260824210212&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260823210253&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 1417,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260822210509&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260821205957&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260820210334&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260819210001&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260818210028&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260817205928&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260816210128&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260815210345&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260814210005&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260813213840&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260812214036&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260811213758&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260810212130&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260809212330&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260808212144&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260807211651&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260806222825&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42551899",
-          "author": "Nikita Stepanskyy",
-          "description": "Reproduction is a key life-history trait but often comes at the expense of somatic maintenance, including ageing and susceptibility to disease. While reproduction-immunity trade-offs have been experimentally demonstrated in the context of infectious diseases, whether reproduction similarly undermines susceptibility to tumours has remained unclear. Using the freshwater cnidarian Hydra oligactis, in which tumours arise spontaneously and reproductive effort can be experimentally modulated through...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42551899/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260805221117&v=2.20.1",
-          "publishedOn": "2026-08-04T10:00:00.000Z",
-          "wordCount": 528,
-          "title": "Empirical evidence for a trade-off between reproduction and tumour dynamics in the freshwater cnidarian Hydra oligactis",
           "imageUrl": null
         }
       ]
