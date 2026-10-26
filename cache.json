@@ -210,8 +210,58 @@
     {
       "title": "Clonal Hematopoiesis",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl/?limit=15&utm_campaign=pubmed-2&fc=20220608003622",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_campaign=pubmed-2&fc=20220608003622&ff=20261024230202&utm_medium=rss&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&v=2.20.1&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&utm_medium=rss&utm_campaign=pubmed-2&utm_source=axios&ff=20261025230143&v=2.20.1&fc=20220608003622&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl",
       "articles": [
+        {
+          "id": "pubmed:42924550",
+          "author": "Nicolas Chapuis",
+          "description": "Myelodysplastic neoplasms (MDS) are clonal hematopoietic disorders characterized by ineffective hematopoiesis, peripheral cytopenias, and a risk of progression to acute myeloid leukemia. As the disease originates in hematopoietic stem and progenitor cells (HSPCs), flow cytometry (FCM) has emerged as a key approach to interrogate the bone marrow CD34+ compartment, providing complementary information to morphology, cytogenetics, and molecular studies. This review summarizes current knowledge on...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42924550/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Clinical applications of CD34<sup>+</sup> progenitor cell immunophenotyping in myelodysplastic neoplasms-The CytHem SMD French network experience",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42921408",
+          "author": "Jorge E Montoya-Pérez",
+          "description": "Atherosclerosis is a multiphase disease, yet contemporary cardiovascular risk stratification relies predominantly on calculators that estimate event probability within a limited pathophysiological window. Framingham, SCORE2, GLOBORISK and PREVENT capture lipid burden, metabolic parameters, and renal function, but they do not organize the chronological sequence of atherogenesis, assign measurable biomarkers to each stage, or integrate vascular aging. We propose CASCADE (Chronological...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42921408/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "A chronological framework for atherosclerosis: from environmental pressure to clinical disease, with vascular aging as a cross-cutting dimension",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42918647",
+          "author": "Juliette E Pearce",
+          "description": "Ribosomopathies reveal how defects in ribosome biogenesis generate lineage-specific hematopoietic phenotypes and create selection pressure that shapes clonal evolution. Using the germline ribosomopathies Diamond-Blackfan anemia and Shwachman-Diamond syndrome to inform a conceptual framework, we examine del(5q) myelodysplastic neoplasm as a paradigmatic acquired ribosomopathy. We propose that disease trajectory is governed not only by the initiating ribosomal defect, but by adaptive responses to...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42918647/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "From ribosomal stress to clonal adaptation: Del(5q) MDS as a paradigmatic acquired ribosomopathy",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42909949",
+          "author": "Xia Jiang",
+          "description": "Genomic instability and immune escape are linked features of hematologic malignancies, but the mechanisms that allow malignant cells to tolerate persistent nuclear and genotoxic stress while avoiding damaging DNA-sensing responses remain incompletely defined. Barrier-to-autointegration factor 1 (BANF1) is a small DNA-binding protein that bridges chromatin, couples it to nuclear-envelope proteins, supports postmitotic nuclear assembly and rupture repair, modulates several DNA-damage-response...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42909949/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "BANF1 at the crossroads of genome stability and innate immunity: emerging implications for hematologic malignancies",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42909319",
+          "author": "Zehao Zhao",
+          "description": "CONCLUSIONS: CHIP is an independent risk factor for cardiovascular mortality across all stages of CKM syndrome. Mechanistically, CHIP exacerbates this adverse outcome primarily by driving systemic inflammation, immune dysregulation, and aberrant tissue remodeling.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42909319/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Association of clonal hematopoiesis of indeterminate potential with cardiovascular mortality in cardiovascular-kidney-metabolic syndrome: a large prospective cohort study",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42918647",
           "author": "Juliette E Pearce",
@@ -266,6 +316,16 @@
           "id": "pubmed:42905187",
           "author": "Mohamed Isam Sharif",
           "description": "Chronic myeloid leukemia (CML) is defined by BCR::ABL1 rearrangement, yet its genomic architecture extends well beyond this single driver. High-risk genomic profiles (HGP)-additional chromosomal abnormalities in Philadelphia-positive cells, Philadelphia chromosome-associated rearrangements, and high-risk somatic mutations detected by next-generation sequencing (NGS)-are present at diagnosis in roughly one-third of chronic-phase (CP) patients and shape response, progression, and survival. We...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42905187/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Current perspectives on high-risk genomic profiles in chronic myeloid leukemia: from bench to clinical practice",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42905187",
+          "author": "Mohamed Isam Sharif",
+          "description": "Chronic myeloid leukemia (CML) is defined by BCR::ABL1 rearrangement, yet its genomic architecture extends well beyond this single driver. High-risk genomic profiles (HGP)-additional chromosomal abnormalities in Philadelphia-positive cells, Philadelphia chromosome-associated rearrangements, and high-risk somatic mutations detected by next-generation sequencing (NGS)-are present at diagnosis in roughly one-third of chronic-phase (CP) patients and shape response, progression, and survival. We...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42905187/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261024230202&v=2.20.1",
           "publishedOn": "2026-10-22T10:00:00.000Z",
           "wordCount": null,
@@ -280,6 +340,16 @@
           "publishedOn": "2026-10-22T10:00:00.000Z",
           "wordCount": null,
           "title": "Current perspectives on high-risk genomic profiles in chronic myeloid leukemia: from bench to clinical practice",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42898635",
+          "author": "Olesya Harkot",
+          "description": "INTRODUCTION: Clonal hematopoiesis (CH), defined as the expansion of a subset of hematopoietic stem or progenitor cells driven by acquired mutations, represents a novel cardiovascular risk factor. Its role in patients with high-grade carotid stenosis remains to be evaluated.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42898635/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Clonal hematopoiesis is associated with adverse events in patients with high-grade carotid artery stenosis",
           "imageUrl": null
         },
         {
@@ -330,6 +400,16 @@
           "publishedOn": "2026-10-20T10:00:00.000Z",
           "wordCount": null,
           "title": "Clonal hematopoiesis is associated with adverse events in patients with high-grade carotid artery stenosis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42894450",
+          "author": "Lanxin Li",
+          "description": "Cryptogenic stroke remains challenging because its complex etiology and limited diagnostic tools hinder precise secondary prevention. Growing genetic evidence suggests that cryptogenic stroke may have identifiable genetic architectures that provide additional insights into etiologic classification. In recent years, large-scale genome-wide association studies, multi-omics integration, and other genetic investigations have begun to reveal signals linked to several potential causes, including...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42894450/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-19T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Genetic Insights Into Cryptogenic Stroke: From Etiologic Heterogeneity to Clinical Translation",
           "imageUrl": null
         },
         {
@@ -390,6 +470,16 @@
           "publishedOn": "2026-10-19T10:00:00.000Z",
           "wordCount": null,
           "title": "Genetic Insights Into Cryptogenic Stroke: From Etiologic Heterogeneity to Clinical Translation",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42892238",
+          "author": "Robert Yuan",
+          "description": "CONCLUSION: This large, real-world study demonstrated that Radium-223 is associated with significantly higher risk of severe cytopenias compared with ^(177)Lu-PSMA-617. Findings may inform appropriate patient selection, and sequencing of radiopharmaceutical therapy. Future studies aimed at evaluating the bone marrow environment may further elucidate the potential for clonal hematopoiesis and therapy-related myeloid neoplasms.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42892238/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Severe Cytopenias Following Radioligand Therapy: A Real-World Analysis",
           "imageUrl": null
         },
         {
@@ -460,6 +550,56 @@
           "publishedOn": "2026-10-18T10:00:00.000Z",
           "wordCount": null,
           "title": "Severe Cytopenias Following Radioligand Therapy: A Real-World Analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42887676",
+          "author": "Siarhei A Dabravolski",
+          "description": "Atherosclerotic cardiovascular disease remains a leading global cause of the cardiovascular mortality burden, yet traditional lipid-centric models fail to explain the residual cardiovascular risk observed in older populations. This review, synthesising contemporary literature from 2020 onwards alongside foundational studies, explores the paradigm shift towards the 'geroscience hypothesis', positing that intrinsic biological ageing of the vascular wall is a potent amplifier and primary driver of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42887676/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-16T10:00:00.000Z",
+          "wordCount": null,
+          "title": "The triad of vascular ageing: Cellular senescence, inflammaging, and epigenetic remodelling in atherosclerosis",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42887064",
+          "author": "Amr Ali Mohamed Abdelgawwad El-Sehrawy",
+          "description": "Mutation-based liquid biopsy supports diagnosis and disease monitoring in hematologic malignancies, but interpretation of plasma variants may be complicated by clonal hematopoiesis, treatment-related changes, and nonmalignant blood-cell turnover. This structured narrative review evaluates whether cell-free DNA (cfDNA) fragmentomics, DNA methylation, and 5-hydroxymethylcytosine (5hmC) provide complementary information beyond mutation detection. Direct plasma evidence is most developed for...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42887064/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-16T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Cell-free DNA fragmentomics and epigenomic profiling in hematologic malignancies: current evidence, translational limitations, and future directions",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42886106",
+          "author": "Yixuan Liu",
+          "description": "CONCLUSIONS: Optimal cardiovascular health is associated with a lower prevalence of CH. Although maintaining ideal cardiovascular health is associated with lower CAD risk in CH carriers, this protective benefit is attenuated compared with noncarriers.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42886106/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-16T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Association of Life's Essential 8 With Clonal Hematopoiesis and Coronary Artery Disease",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42883801",
+          "author": "Anoushka Krishnakumar",
+          "description": "Hereditary autoinflammatory diseases have traditionally been defined as disorders caused by germline mutations in innate immune pathway genes transmitted through Mendelian inheritance, an assumption challenged by the discovery that postzygotic somatic mosaicism can reproduce similar autoinflammatory phenotypes. Aim of the review is to synthesize the mechanistic evidence for somatic and gonadal mosaicism across the major monogenic autoinflammatory diseases and to reassess the adequacy of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42883801/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-16T10:00:00.000Z",
+          "wordCount": null,
+          "title": "A Mechanistic Framework for Somatic Mosaicism in Autoinflammatory Diseases Beyond Mendelian Inheritance",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42882934",
+          "author": "Tancredi Didier Bazan Russo",
+          "description": "Immune checkpoint inhibitors (ICIs) have transformed the treatment of non-small-cell lung cancer (NSCLC), yet predicting durable benefit and detecting resistance remain major challenges. As immunotherapy expands across disease stages, minimally invasive tools are increasingly needed to monitor response and inform treatment personalization. Liquid biopsy enables serial assessment of circulating tumor DNA (ctDNA) and other blood-based biomarkers, complementing tissue analysis and imaging. This...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42882934/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-16T10:00:00.000Z",
+          "wordCount": null,
+          "title": "The Dynamic Role of Liquid Biopsy in Patients with Non-Small Cell Lung Cancer Receiving Immune Checkpoint Inhibitors: Emerging Opportunities and Clinical Challenges",
           "imageUrl": null
         },
         {
@@ -890,6 +1030,16 @@
           "publishedOn": "2026-10-16T10:00:00.000Z",
           "wordCount": null,
           "title": "The Dynamic Role of Liquid Biopsy in Patients with Non-Small Cell Lung Cancer Receiving Immune Checkpoint Inhibitors: Emerging Opportunities and Clinical Challenges",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42881104",
+          "author": "Sophie Park",
+          "description": "This document presents the national recommendations of the Francophone Group for Myelodysplastic Syndromes (Groupe Francophone des Myélodysplasies, GFM) for the diagnosis and management of myelodysplastic syndromes (MDS), chronic myelomonocytic leukemia (CMML), and VEXAS syndrome. Diagnosis relies on the integration of complete blood count data, bone marrow morphology, cytogenetics, and molecular biology, including targeted gene sequencing panels. The document also provides surveillance...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42881104/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Recommendations of the Groupe Francophone des Myélodysplasies (GFM) - Diagnostic approach and management of myelodysplastic syndromes, chronic myelomonocytic leukemias, and VEXAS syndrome",
           "imageUrl": null
         },
         {
@@ -7621,804 +7771,24 @@
           "wordCount": null,
           "title": "Ribosomal proteins, miRNAs, and extracellular vesicles in myelodysplastic syndromes: molecular regulation and biomarker potential",
           "imageUrl": null
-        },
-        {
-          "id": "pubmed:42660417",
-          "author": "Hui Cao",
-          "description": "AIMS: To appraise, and grade by strength of evidence, whether somatic genomic mosaicism contributes to chronic kidney disease (CKD) progression, and to separate mosaicism arising within kidney tissue from clonal alterations arising in blood.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42660417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260908225412&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": 1584,
-          "title": "Somatic genomic mosaicism in chronic kidney disease progression: A graded appraisal of renal epithelial injury, cellular senescence, and therapeutic implications",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42660417",
-          "author": "Hui Cao",
-          "description": "AIMS: To appraise, and grade by strength of evidence, whether somatic genomic mosaicism contributes to chronic kidney disease (CKD) progression, and to separate mosaicism arising within kidney tissue from clonal alterations arising in blood.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42660417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260907225356&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Somatic genomic mosaicism in chronic kidney disease progression: A graded appraisal of renal epithelial injury, cellular senescence, and therapeutic implications",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658470",
-          "author": "Yun Kyu Lee",
-          "description": "CONCLUSIONS: In this biopsy-based cohort, CHIP was not significantly associated with hepatic histology severity or fibrosis progression. Given the limited number of CHIP carriers and progression events, clinically meaningful associations cannot be excluded and larger, longer-term longitudinal studies are warranted.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658470/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260907225356&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Clonal hematopoiesis of indeterminate potential and metabolic dysfunction-associated steatotic liver disease: Korean biopsy cohort",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260907225356&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42660417",
-          "author": "Hui Cao",
-          "description": "AIMS: To appraise, and grade by strength of evidence, whether somatic genomic mosaicism contributes to chronic kidney disease (CKD) progression, and to separate mosaicism arising within kidney tissue from clonal alterations arising in blood.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42660417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260906224251&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Somatic genomic mosaicism in chronic kidney disease progression: A graded appraisal of renal epithelial injury, cellular senescence, and therapeutic implications",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658470",
-          "author": "Yun Kyu Lee",
-          "description": "CONCLUSIONS: In this biopsy-based cohort, CHIP was not significantly associated with hepatic histology severity or fibrosis progression. Given the limited number of CHIP carriers and progression events, clinically meaningful associations cannot be excluded and larger, longer-term longitudinal studies are warranted.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658470/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260906224251&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Clonal hematopoiesis of indeterminate potential and metabolic dysfunction-associated steatotic liver disease: Korean biopsy cohort",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260906224251&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42660417",
-          "author": "Hui Cao",
-          "description": "AIMS: To appraise, and grade by strength of evidence, whether somatic genomic mosaicism contributes to chronic kidney disease (CKD) progression, and to separate mosaicism arising within kidney tissue from clonal alterations arising in blood.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42660417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260905224439&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Somatic genomic mosaicism in chronic kidney disease progression: A graded appraisal of renal epithelial injury, cellular senescence, and therapeutic implications",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658470",
-          "author": "Yun Kyu Lee",
-          "description": "CONCLUSIONS: In this biopsy-based cohort, CHIP was not significantly associated with hepatic histology severity or fibrosis progression. Given the limited number of CHIP carriers and progression events, clinically meaningful associations cannot be excluded and larger, longer-term longitudinal studies are warranted.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658470/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260905224439&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Clonal hematopoiesis of indeterminate potential and metabolic dysfunction-associated steatotic liver disease: Korean biopsy cohort",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260905224439&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657946",
-          "author": "Qiao Yuan",
-          "description": "Not available.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657946/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260905224439&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Response to comment on: \"Ligature-induced periodontitis promotes Dnmt3a(R878H)-driven clonal hematopoiesis\"",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657788",
-          "author": "Albain Chansavang",
-          "description": "Low variant allele frequency (VAF) variants identified during germline testing may represent constitutional mosaicism or acquired somatic events restricted to hematopoietic cells. Although clonal hematopoiesis of indeterminate potential (CHIP) has emerged as an important source of interpretative pitfalls in hereditary cancer testing, its potential impact on the interpretation of CDKN1B variants has not been specifically emphasized. We aimed to determine whether low-VAF CDKN1B variants detected...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657788/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260905224439&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Low-frequency CDKN1B variants in pituitary testing: a diagnostic pitfall",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42660417",
-          "author": "Hui Cao",
-          "description": "AIMS: To appraise, and grade by strength of evidence, whether somatic genomic mosaicism contributes to chronic kidney disease (CKD) progression, and to separate mosaicism arising within kidney tissue from clonal alterations arising in blood.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42660417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260904224632&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Somatic genomic mosaicism in chronic kidney disease progression: A graded appraisal of renal epithelial injury, cellular senescence, and therapeutic implications",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658470",
-          "author": "Yun Kyu Lee",
-          "description": "CONCLUSIONS: In this biopsy-based cohort, CHIP was not significantly associated with hepatic histology severity or fibrosis progression. Given the limited number of CHIP carriers and progression events, clinically meaningful associations cannot be excluded and larger, longer-term longitudinal studies are warranted.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658470/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260904224632&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Clonal hematopoiesis of indeterminate potential and metabolic dysfunction-associated steatotic liver disease: Korean biopsy cohort",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260904224632&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657946",
-          "author": "Qiao Yuan",
-          "description": "Not available.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657946/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260904224632&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Response to comment on: \"Ligature-induced periodontitis promotes Dnmt3a(R878H)-driven clonal hematopoiesis\"",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657788",
-          "author": "Albain Chansavang",
-          "description": "Low variant allele frequency (VAF) variants identified during germline testing may represent constitutional mosaicism or acquired somatic events restricted to hematopoietic cells. Although clonal hematopoiesis of indeterminate potential (CHIP) has emerged as an important source of interpretative pitfalls in hereditary cancer testing, its potential impact on the interpretation of CDKN1B variants has not been specifically emphasized. We aimed to determine whether low-VAF CDKN1B variants detected...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657788/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260904224632&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Low-frequency CDKN1B variants in pituitary testing: a diagnostic pitfall",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42660417",
-          "author": "Hui Cao",
-          "description": "AIMS: To appraise, and grade by strength of evidence, whether somatic genomic mosaicism contributes to chronic kidney disease (CKD) progression, and to separate mosaicism arising within kidney tissue from clonal alterations arising in blood.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42660417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260903224520&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Somatic genomic mosaicism in chronic kidney disease progression: A graded appraisal of renal epithelial injury, cellular senescence, and therapeutic implications",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658470",
-          "author": "Yun Kyu Lee",
-          "description": "CONCLUSIONS: In this biopsy-based cohort, CHIP was not significantly associated with hepatic histology severity or fibrosis progression. Given the limited number of CHIP carriers and progression events, clinically meaningful associations cannot be excluded and larger, longer-term longitudinal studies are warranted.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658470/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260903224520&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Clonal hematopoiesis of indeterminate potential and metabolic dysfunction-associated steatotic liver disease: Korean biopsy cohort",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260903224520&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657946",
-          "author": "Qiao Yuan",
-          "description": "Not available.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657946/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260903224520&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Response to comment on: \"Ligature-induced periodontitis promotes Dnmt3a(R878H)-driven clonal hematopoiesis\"",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657788",
-          "author": "Albain Chansavang",
-          "description": "Low variant allele frequency (VAF) variants identified during germline testing may represent constitutional mosaicism or acquired somatic events restricted to hematopoietic cells. Although clonal hematopoiesis of indeterminate potential (CHIP) has emerged as an important source of interpretative pitfalls in hereditary cancer testing, its potential impact on the interpretation of CDKN1B variants has not been specifically emphasized. We aimed to determine whether low-VAF CDKN1B variants detected...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657788/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260903224520&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Low-frequency CDKN1B variants in pituitary testing: a diagnostic pitfall",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656754",
-          "author": "Xin Chen",
-          "description": "Gout is a chronic inflammatory arthritis driven by monosodium urate (MSU) crystal deposition. Its global prevalence is rising steadily. Only a minority of hyperuricemic individuals develop gout, and flares often recur despite controlled serum urate, pointing to mechanisms beyond simple crystal-induced inflammation. This review synthesizes evidence that trained immunity-the persistent epigenetic and metabolic reprogramming of innate immune cells-underpins these paradoxes. MSU crystals and soluble...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656754/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260903224520&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Trained immunity in gout: epigenetic and metabolic reprogramming of innate immune memory",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656750",
-          "author": "Junlin Li",
-          "description": "Coronary artery disease (CAD) and malignancy frequently coexist in aging populations and share multiple risk factors, including smoking, obesity, diabetes, dyslipidemia, chronic inflammation, and metabolic dysfunction. However, increasing evidence suggests that CAD-malignancy comorbidity cannot be fully explained by epidemiological coincidence alone, although its causal direction remains difficult to establish because of shared risk factors, surveillance bias, reverse causality, cancer stage,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656750/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260903224520&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Molecular basis of coronary artery disease-malignancy comorbidity: inflammation, immunometabolism, thrombosis, and cardio-oncology translation",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42660417",
-          "author": "Hui Cao",
-          "description": "AIMS: To appraise, and grade by strength of evidence, whether somatic genomic mosaicism contributes to chronic kidney disease (CKD) progression, and to separate mosaicism arising within kidney tissue from clonal alterations arising in blood.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42660417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260902224807&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Somatic genomic mosaicism in chronic kidney disease progression: A graded appraisal of renal epithelial injury, cellular senescence, and therapeutic implications",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658470",
-          "author": "Yun Kyu Lee",
-          "description": "CONCLUSIONS: In this biopsy-based cohort, CHIP was not significantly associated with hepatic histology severity or fibrosis progression. Given the limited number of CHIP carriers and progression events, clinically meaningful associations cannot be excluded and larger, longer-term longitudinal studies are warranted.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658470/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260902224807&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Clonal hematopoiesis of indeterminate potential and metabolic dysfunction-associated steatotic liver disease: Korean biopsy cohort",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260902224807&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657946",
-          "author": "Qiao Yuan",
-          "description": "Not available.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657946/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260902224807&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Response to comment on: \"Ligature-induced periodontitis promotes Dnmt3a(R878H)-driven clonal hematopoiesis\"",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657788",
-          "author": "Albain Chansavang",
-          "description": "Low variant allele frequency (VAF) variants identified during germline testing may represent constitutional mosaicism or acquired somatic events restricted to hematopoietic cells. Although clonal hematopoiesis of indeterminate potential (CHIP) has emerged as an important source of interpretative pitfalls in hereditary cancer testing, its potential impact on the interpretation of CDKN1B variants has not been specifically emphasized. We aimed to determine whether low-VAF CDKN1B variants detected...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657788/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260902224807&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Low-frequency CDKN1B variants in pituitary testing: a diagnostic pitfall",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656754",
-          "author": "Xin Chen",
-          "description": "Gout is a chronic inflammatory arthritis driven by monosodium urate (MSU) crystal deposition. Its global prevalence is rising steadily. Only a minority of hyperuricemic individuals develop gout, and flares often recur despite controlled serum urate, pointing to mechanisms beyond simple crystal-induced inflammation. This review synthesizes evidence that trained immunity-the persistent epigenetic and metabolic reprogramming of innate immune cells-underpins these paradoxes. MSU crystals and soluble...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656754/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260902224807&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Trained immunity in gout: epigenetic and metabolic reprogramming of innate immune memory",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656750",
-          "author": "Junlin Li",
-          "description": "Coronary artery disease (CAD) and malignancy frequently coexist in aging populations and share multiple risk factors, including smoking, obesity, diabetes, dyslipidemia, chronic inflammation, and metabolic dysfunction. However, increasing evidence suggests that CAD-malignancy comorbidity cannot be fully explained by epidemiological coincidence alone, although its causal direction remains difficult to establish because of shared risk factors, surveillance bias, reverse causality, cancer stage,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656750/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260902224807&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Molecular basis of coronary artery disease-malignancy comorbidity: inflammation, immunometabolism, thrombosis, and cardio-oncology translation",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42652626",
-          "author": "Loizos Hadjigeorgiou",
-          "description": "Circulating tumor DNA (ctDNA) is a promising non-invasive biomarker for detecting minimal residual disease (MRD) and predicting recurrence after curative treatment, yet evidence in esophageal squamous cell carcinoma (ESCC), esophageal adenocarcinoma (EAC), and gastric cancer has largely been examined within individual tumor types. In this scoping review, we mapped this evidence across all three malignancies and clarified key methodological and clinical considerations. Following the PRISMA-ScR...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42652626/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260902224807&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Circulating Tumor DNA for Minimal Residual Disease Detection and Recurrence Prediction in Upper Gastrointestinal Cancers: A Scoping Review",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42660417",
-          "author": "Hui Cao",
-          "description": "AIMS: To appraise, and grade by strength of evidence, whether somatic genomic mosaicism contributes to chronic kidney disease (CKD) progression, and to separate mosaicism arising within kidney tissue from clonal alterations arising in blood.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42660417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260901224121&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Somatic genomic mosaicism in chronic kidney disease progression: A graded appraisal of renal epithelial injury, cellular senescence, and therapeutic implications",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658470",
-          "author": "Yun Kyu Lee",
-          "description": "CONCLUSIONS: In this biopsy-based cohort, CHIP was not significantly associated with hepatic histology severity or fibrosis progression. Given the limited number of CHIP carriers and progression events, clinically meaningful associations cannot be excluded and larger, longer-term longitudinal studies are warranted.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658470/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260901224121&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Clonal hematopoiesis of indeterminate potential and metabolic dysfunction-associated steatotic liver disease: Korean biopsy cohort",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260901224121&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657946",
-          "author": "Qiao Yuan",
-          "description": "Not available.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657946/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260901224121&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Response to comment on: \"Ligature-induced periodontitis promotes Dnmt3a(R878H)-driven clonal hematopoiesis\"",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657788",
-          "author": "Albain Chansavang",
-          "description": "Low variant allele frequency (VAF) variants identified during germline testing may represent constitutional mosaicism or acquired somatic events restricted to hematopoietic cells. Although clonal hematopoiesis of indeterminate potential (CHIP) has emerged as an important source of interpretative pitfalls in hereditary cancer testing, its potential impact on the interpretation of CDKN1B variants has not been specifically emphasized. We aimed to determine whether low-VAF CDKN1B variants detected...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657788/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260901224121&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Low-frequency CDKN1B variants in pituitary testing: a diagnostic pitfall",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656754",
-          "author": "Xin Chen",
-          "description": "Gout is a chronic inflammatory arthritis driven by monosodium urate (MSU) crystal deposition. Its global prevalence is rising steadily. Only a minority of hyperuricemic individuals develop gout, and flares often recur despite controlled serum urate, pointing to mechanisms beyond simple crystal-induced inflammation. This review synthesizes evidence that trained immunity-the persistent epigenetic and metabolic reprogramming of innate immune cells-underpins these paradoxes. MSU crystals and soluble...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656754/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260901224121&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Trained immunity in gout: epigenetic and metabolic reprogramming of innate immune memory",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656750",
-          "author": "Junlin Li",
-          "description": "Coronary artery disease (CAD) and malignancy frequently coexist in aging populations and share multiple risk factors, including smoking, obesity, diabetes, dyslipidemia, chronic inflammation, and metabolic dysfunction. However, increasing evidence suggests that CAD-malignancy comorbidity cannot be fully explained by epidemiological coincidence alone, although its causal direction remains difficult to establish because of shared risk factors, surveillance bias, reverse causality, cancer stage,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656750/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260901224121&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Molecular basis of coronary artery disease-malignancy comorbidity: inflammation, immunometabolism, thrombosis, and cardio-oncology translation",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42652626",
-          "author": "Loizos Hadjigeorgiou",
-          "description": "Circulating tumor DNA (ctDNA) is a promising non-invasive biomarker for detecting minimal residual disease (MRD) and predicting recurrence after curative treatment, yet evidence in esophageal squamous cell carcinoma (ESCC), esophageal adenocarcinoma (EAC), and gastric cancer has largely been examined within individual tumor types. In this scoping review, we mapped this evidence across all three malignancies and clarified key methodological and clinical considerations. Following the PRISMA-ScR...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42652626/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260901224121&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Circulating Tumor DNA for Minimal Residual Disease Detection and Recurrence Prediction in Upper Gastrointestinal Cancers: A Scoping Review",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42660417",
-          "author": "Hui Cao",
-          "description": "AIMS: To appraise, and grade by strength of evidence, whether somatic genomic mosaicism contributes to chronic kidney disease (CKD) progression, and to separate mosaicism arising within kidney tissue from clonal alterations arising in blood.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42660417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260831232327&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Somatic genomic mosaicism in chronic kidney disease progression: A graded appraisal of renal epithelial injury, cellular senescence, and therapeutic implications",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658470",
-          "author": "Yun Kyu Lee",
-          "description": "CONCLUSIONS: In this biopsy-based cohort, CHIP was not significantly associated with hepatic histology severity or fibrosis progression. Given the limited number of CHIP carriers and progression events, clinically meaningful associations cannot be excluded and larger, longer-term longitudinal studies are warranted.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658470/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260831232327&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Clonal hematopoiesis of indeterminate potential and metabolic dysfunction-associated steatotic liver disease: Korean biopsy cohort",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260831232327&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657946",
-          "author": "Qiao Yuan",
-          "description": "Not available.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657946/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260831232327&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": 1016,
-          "title": "Response to comment on: \"Ligature-induced periodontitis promotes Dnmt3a(R878H)-driven clonal hematopoiesis\"",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42657788",
-          "author": "Albain Chansavang",
-          "description": "Low variant allele frequency (VAF) variants identified during germline testing may represent constitutional mosaicism or acquired somatic events restricted to hematopoietic cells. Although clonal hematopoiesis of indeterminate potential (CHIP) has emerged as an important source of interpretative pitfalls in hereditary cancer testing, its potential impact on the interpretation of CDKN1B variants has not been specifically emphasized. We aimed to determine whether low-VAF CDKN1B variants detected...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657788/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260831232327&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": 1401,
-          "title": "Low-frequency CDKN1B variants in pituitary testing: a diagnostic pitfall",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42656754",
-          "author": "Xin Chen",
-          "description": "Gout is a chronic inflammatory arthritis driven by monosodium urate (MSU) crystal deposition. Its global prevalence is rising steadily. Only a minority of hyperuricemic individuals develop gout, and flares often recur despite controlled serum urate, pointing to mechanisms beyond simple crystal-induced inflammation. This review synthesizes evidence that trained immunity-the persistent epigenetic and metabolic reprogramming of innate immune cells-underpins these paradoxes. MSU crystals and soluble...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656754/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260831232327&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Trained immunity in gout: epigenetic and metabolic reprogramming of innate immune memory",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656750",
-          "author": "Junlin Li",
-          "description": "Coronary artery disease (CAD) and malignancy frequently coexist in aging populations and share multiple risk factors, including smoking, obesity, diabetes, dyslipidemia, chronic inflammation, and metabolic dysfunction. However, increasing evidence suggests that CAD-malignancy comorbidity cannot be fully explained by epidemiological coincidence alone, although its causal direction remains difficult to establish because of shared risk factors, surveillance bias, reverse causality, cancer stage,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656750/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260831232327&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Molecular basis of coronary artery disease-malignancy comorbidity: inflammation, immunometabolism, thrombosis, and cardio-oncology translation",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42652626",
-          "author": "Loizos Hadjigeorgiou",
-          "description": "Circulating tumor DNA (ctDNA) is a promising non-invasive biomarker for detecting minimal residual disease (MRD) and predicting recurrence after curative treatment, yet evidence in esophageal squamous cell carcinoma (ESCC), esophageal adenocarcinoma (EAC), and gastric cancer has largely been examined within individual tumor types. In this scoping review, we mapped this evidence across all three malignancies and clarified key methodological and clinical considerations. Following the PRISMA-ScR...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42652626/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260831232327&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Circulating Tumor DNA for Minimal Residual Disease Detection and Recurrence Prediction in Upper Gastrointestinal Cancers: A Scoping Review",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42660417",
-          "author": "Hui Cao",
-          "description": "AIMS: To appraise, and grade by strength of evidence, whether somatic genomic mosaicism contributes to chronic kidney disease (CKD) progression, and to separate mosaicism arising within kidney tissue from clonal alterations arising in blood.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42660417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260830232300&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Somatic genomic mosaicism in chronic kidney disease progression: A graded appraisal of renal epithelial injury, cellular senescence, and therapeutic implications",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658470",
-          "author": "Yun Kyu Lee",
-          "description": "CONCLUSIONS: In this biopsy-based cohort, CHIP was not significantly associated with hepatic histology severity or fibrosis progression. Given the limited number of CHIP carriers and progression events, clinically meaningful associations cannot be excluded and larger, longer-term longitudinal studies are warranted.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658470/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260830232300&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Clonal hematopoiesis of indeterminate potential and metabolic dysfunction-associated steatotic liver disease: Korean biopsy cohort",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260830232300&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657946",
-          "author": "Qiao Yuan",
-          "description": "Not available.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657946/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260830232300&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Response to comment on: \"Ligature-induced periodontitis promotes Dnmt3a(R878H)-driven clonal hematopoiesis\"",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657788",
-          "author": "Albain Chansavang",
-          "description": "Low variant allele frequency (VAF) variants identified during germline testing may represent constitutional mosaicism or acquired somatic events restricted to hematopoietic cells. Although clonal hematopoiesis of indeterminate potential (CHIP) has emerged as an important source of interpretative pitfalls in hereditary cancer testing, its potential impact on the interpretation of CDKN1B variants has not been specifically emphasized. We aimed to determine whether low-VAF CDKN1B variants detected...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657788/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260830232300&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Low-frequency CDKN1B variants in pituitary testing: a diagnostic pitfall",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656754",
-          "author": "Xin Chen",
-          "description": "Gout is a chronic inflammatory arthritis driven by monosodium urate (MSU) crystal deposition. Its global prevalence is rising steadily. Only a minority of hyperuricemic individuals develop gout, and flares often recur despite controlled serum urate, pointing to mechanisms beyond simple crystal-induced inflammation. This review synthesizes evidence that trained immunity-the persistent epigenetic and metabolic reprogramming of innate immune cells-underpins these paradoxes. MSU crystals and soluble...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656754/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260830232300&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Trained immunity in gout: epigenetic and metabolic reprogramming of innate immune memory",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656750",
-          "author": "Junlin Li",
-          "description": "Coronary artery disease (CAD) and malignancy frequently coexist in aging populations and share multiple risk factors, including smoking, obesity, diabetes, dyslipidemia, chronic inflammation, and metabolic dysfunction. However, increasing evidence suggests that CAD-malignancy comorbidity cannot be fully explained by epidemiological coincidence alone, although its causal direction remains difficult to establish because of shared risk factors, surveillance bias, reverse causality, cancer stage,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656750/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260830232300&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Molecular basis of coronary artery disease-malignancy comorbidity: inflammation, immunometabolism, thrombosis, and cardio-oncology translation",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42652626",
-          "author": "Loizos Hadjigeorgiou",
-          "description": "Circulating tumor DNA (ctDNA) is a promising non-invasive biomarker for detecting minimal residual disease (MRD) and predicting recurrence after curative treatment, yet evidence in esophageal squamous cell carcinoma (ESCC), esophageal adenocarcinoma (EAC), and gastric cancer has largely been examined within individual tumor types. In this scoping review, we mapped this evidence across all three malignancies and clarified key methodological and clinical considerations. Following the PRISMA-ScR...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42652626/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260830232300&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Circulating Tumor DNA for Minimal Residual Disease Detection and Recurrence Prediction in Upper Gastrointestinal Cancers: A Scoping Review",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42660417",
-          "author": "Hui Cao",
-          "description": "AIMS: To appraise, and grade by strength of evidence, whether somatic genomic mosaicism contributes to chronic kidney disease (CKD) progression, and to separate mosaicism arising within kidney tissue from clonal alterations arising in blood.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42660417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829232506&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Somatic genomic mosaicism in chronic kidney disease progression: A graded appraisal of renal epithelial injury, cellular senescence, and therapeutic implications",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658470",
-          "author": "Yun Kyu Lee",
-          "description": "CONCLUSIONS: In this biopsy-based cohort, CHIP was not significantly associated with hepatic histology severity or fibrosis progression. Given the limited number of CHIP carriers and progression events, clinically meaningful associations cannot be excluded and larger, longer-term longitudinal studies are warranted.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658470/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829232506&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Clonal hematopoiesis of indeterminate potential and metabolic dysfunction-associated steatotic liver disease: Korean biopsy cohort",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829232506&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657946",
-          "author": "Qiao Yuan",
-          "description": "Not available.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657946/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829232506&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Response to comment on: \"Ligature-induced periodontitis promotes Dnmt3a(R878H)-driven clonal hematopoiesis\"",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657788",
-          "author": "Albain Chansavang",
-          "description": "Low variant allele frequency (VAF) variants identified during germline testing may represent constitutional mosaicism or acquired somatic events restricted to hematopoietic cells. Although clonal hematopoiesis of indeterminate potential (CHIP) has emerged as an important source of interpretative pitfalls in hereditary cancer testing, its potential impact on the interpretation of CDKN1B variants has not been specifically emphasized. We aimed to determine whether low-VAF CDKN1B variants detected...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657788/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829232506&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Low-frequency CDKN1B variants in pituitary testing: a diagnostic pitfall",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656754",
-          "author": "Xin Chen",
-          "description": "Gout is a chronic inflammatory arthritis driven by monosodium urate (MSU) crystal deposition. Its global prevalence is rising steadily. Only a minority of hyperuricemic individuals develop gout, and flares often recur despite controlled serum urate, pointing to mechanisms beyond simple crystal-induced inflammation. This review synthesizes evidence that trained immunity-the persistent epigenetic and metabolic reprogramming of innate immune cells-underpins these paradoxes. MSU crystals and soluble...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656754/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829232506&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Trained immunity in gout: epigenetic and metabolic reprogramming of innate immune memory",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656750",
-          "author": "Junlin Li",
-          "description": "Coronary artery disease (CAD) and malignancy frequently coexist in aging populations and share multiple risk factors, including smoking, obesity, diabetes, dyslipidemia, chronic inflammation, and metabolic dysfunction. However, increasing evidence suggests that CAD-malignancy comorbidity cannot be fully explained by epidemiological coincidence alone, although its causal direction remains difficult to establish because of shared risk factors, surveillance bias, reverse causality, cancer stage,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656750/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829232506&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Molecular basis of coronary artery disease-malignancy comorbidity: inflammation, immunometabolism, thrombosis, and cardio-oncology translation",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42652626",
-          "author": "Loizos Hadjigeorgiou",
-          "description": "Circulating tumor DNA (ctDNA) is a promising non-invasive biomarker for detecting minimal residual disease (MRD) and predicting recurrence after curative treatment, yet evidence in esophageal squamous cell carcinoma (ESCC), esophageal adenocarcinoma (EAC), and gastric cancer has largely been examined within individual tumor types. In this scoping review, we mapped this evidence across all three malignancies and clarified key methodological and clinical considerations. Following the PRISMA-ScR...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42652626/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829232506&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Circulating Tumor DNA for Minimal Residual Disease Detection and Recurrence Prediction in Upper Gastrointestinal Cancers: A Scoping Review",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42660417",
-          "author": "Hui Cao",
-          "description": "AIMS: To appraise, and grade by strength of evidence, whether somatic genomic mosaicism contributes to chronic kidney disease (CKD) progression, and to separate mosaicism arising within kidney tissue from clonal alterations arising in blood.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42660417/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829012824&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Somatic genomic mosaicism in chronic kidney disease progression: A graded appraisal of renal epithelial injury, cellular senescence, and therapeutic implications",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658470",
-          "author": "Yun Kyu Lee",
-          "description": "CONCLUSIONS: In this biopsy-based cohort, CHIP was not significantly associated with hepatic histology severity or fibrosis progression. Given the limited number of CHIP carriers and progression events, clinically meaningful associations cannot be excluded and larger, longer-term longitudinal studies are warranted.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658470/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829012824&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Clonal hematopoiesis of indeterminate potential and metabolic dysfunction-associated steatotic liver disease: Korean biopsy cohort",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829012824&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657946",
-          "author": "Qiao Yuan",
-          "description": "Not available.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657946/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829012824&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Response to comment on: \"Ligature-induced periodontitis promotes Dnmt3a(R878H)-driven clonal hematopoiesis\"",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657788",
-          "author": "Albain Chansavang",
-          "description": "Low variant allele frequency (VAF) variants identified during germline testing may represent constitutional mosaicism or acquired somatic events restricted to hematopoietic cells. Although clonal hematopoiesis of indeterminate potential (CHIP) has emerged as an important source of interpretative pitfalls in hereditary cancer testing, its potential impact on the interpretation of CDKN1B variants has not been specifically emphasized. We aimed to determine whether low-VAF CDKN1B variants detected...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657788/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829012824&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Low-frequency CDKN1B variants in pituitary testing: a diagnostic pitfall",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656754",
-          "author": "Xin Chen",
-          "description": "Gout is a chronic inflammatory arthritis driven by monosodium urate (MSU) crystal deposition. Its global prevalence is rising steadily. Only a minority of hyperuricemic individuals develop gout, and flares often recur despite controlled serum urate, pointing to mechanisms beyond simple crystal-induced inflammation. This review synthesizes evidence that trained immunity-the persistent epigenetic and metabolic reprogramming of innate immune cells-underpins these paradoxes. MSU crystals and soluble...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656754/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829012824&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Trained immunity in gout: epigenetic and metabolic reprogramming of innate immune memory",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656750",
-          "author": "Junlin Li",
-          "description": "Coronary artery disease (CAD) and malignancy frequently coexist in aging populations and share multiple risk factors, including smoking, obesity, diabetes, dyslipidemia, chronic inflammation, and metabolic dysfunction. However, increasing evidence suggests that CAD-malignancy comorbidity cannot be fully explained by epidemiological coincidence alone, although its causal direction remains difficult to establish because of shared risk factors, surveillance bias, reverse causality, cancer stage,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656750/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829012824&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Molecular basis of coronary artery disease-malignancy comorbidity: inflammation, immunometabolism, thrombosis, and cardio-oncology translation",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42652626",
-          "author": "Loizos Hadjigeorgiou",
-          "description": "Circulating tumor DNA (ctDNA) is a promising non-invasive biomarker for detecting minimal residual disease (MRD) and predicting recurrence after curative treatment, yet evidence in esophageal squamous cell carcinoma (ESCC), esophageal adenocarcinoma (EAC), and gastric cancer has largely been examined within individual tumor types. In this scoping review, we mapped this evidence across all three malignancies and clarified key methodological and clinical considerations. Following the PRISMA-ScR...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42652626/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260829012824&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Circulating Tumor DNA for Minimal Residual Disease Detection and Recurrence Prediction in Upper Gastrointestinal Cancers: A Scoping Review",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658470",
-          "author": "Yun Kyu Lee",
-          "description": "CONCLUSIONS: In this biopsy-based cohort, CHIP was not significantly associated with hepatic histology severity or fibrosis progression. Given the limited number of CHIP carriers and progression events, clinically meaningful associations cannot be excluded and larger, longer-term longitudinal studies are warranted.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658470/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260828045238&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Clonal hematopoiesis of indeterminate potential and metabolic dysfunction-associated steatotic liver disease: Korean biopsy cohort",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260828045238&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657946",
-          "author": "Qiao Yuan",
-          "description": "Not available.",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657946/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260828045238&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Response to comment on: \"Ligature-induced periodontitis promotes Dnmt3a(R878H)-driven clonal hematopoiesis\"",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42657788",
-          "author": "Albain Chansavang",
-          "description": "Low variant allele frequency (VAF) variants identified during germline testing may represent constitutional mosaicism or acquired somatic events restricted to hematopoietic cells. Although clonal hematopoiesis of indeterminate potential (CHIP) has emerged as an important source of interpretative pitfalls in hereditary cancer testing, its potential impact on the interpretation of CDKN1B variants has not been specifically emphasized. We aimed to determine whether low-VAF CDKN1B variants detected...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42657788/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260828045238&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Low-frequency CDKN1B variants in pituitary testing: a diagnostic pitfall",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656754",
-          "author": "Xin Chen",
-          "description": "Gout is a chronic inflammatory arthritis driven by monosodium urate (MSU) crystal deposition. Its global prevalence is rising steadily. Only a minority of hyperuricemic individuals develop gout, and flares often recur despite controlled serum urate, pointing to mechanisms beyond simple crystal-induced inflammation. This review synthesizes evidence that trained immunity-the persistent epigenetic and metabolic reprogramming of innate immune cells-underpins these paradoxes. MSU crystals and soluble...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656754/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260828045238&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Trained immunity in gout: epigenetic and metabolic reprogramming of innate immune memory",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42656750",
-          "author": "Junlin Li",
-          "description": "Coronary artery disease (CAD) and malignancy frequently coexist in aging populations and share multiple risk factors, including smoking, obesity, diabetes, dyslipidemia, chronic inflammation, and metabolic dysfunction. However, increasing evidence suggests that CAD-malignancy comorbidity cannot be fully explained by epidemiological coincidence alone, although its causal direction remains difficult to establish because of shared risk factors, surveillance bias, reverse causality, cancer stage,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42656750/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260828045238&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Molecular basis of coronary artery disease-malignancy comorbidity: inflammation, immunometabolism, thrombosis, and cardio-oncology translation",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42652626",
-          "author": "Loizos Hadjigeorgiou",
-          "description": "Circulating tumor DNA (ctDNA) is a promising non-invasive biomarker for detecting minimal residual disease (MRD) and predicting recurrence after curative treatment, yet evidence in esophageal squamous cell carcinoma (ESCC), esophageal adenocarcinoma (EAC), and gastric cancer has largely been examined within individual tumor types. In this scoping review, we mapped this evidence across all three malignancies and clarified key methodological and clinical considerations. Following the PRISMA-ScR...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42652626/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1TSNW3JJ2DCkNHmqtItKm189ayyfigsz0lfhc8yQ7h2yfXzYrl&fc=20220608003622&ff=20260828045238&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Circulating Tumor DNA for Minimal Residual Disease Detection and Recurrence Prediction in Upper Gastrointestinal Cancers: A Scoping Review",
-          "imageUrl": null
         }
       ]
     },
     {
       "title": "#cancer#tumor#evolution#somatic",
       "feedUrl": "https://pubmed.ncbi.nlm.nih.gov/rss/search/1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs/?limit=15&utm_campaign=pubmed-2&fc=20220608010801",
-      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&utm_medium=rss&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_campaign=pubmed-2&ff=20261024230202&v=2.20.1&utm_source=axios",
+      "siteUrl": "https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&ff=20261025230143&fc=20220608010801&utm_source=axios&v=2.20.1&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&utm_medium=rss",
       "articles": [
+        {
+          "id": "pubmed:42901446",
+          "author": "Paula Casas Ramos",
+          "description": "Background/objectives Cancer negatively impacts the physical, psychological, social, and spiritual dimensions of individuals. In musculoskeletal sarcomas, medical care prioritizes somatic aspects. The primary objective was to assess the impact of a musculoskeletal sarcoma diagnosis on anxiety, depression, and health-related quality of life (HRQoL). Secondary objectives included analyzing the one-year evolution of these variables and the predominant coping profile. Methods A prospective...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42901446/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-20T10:00:00.000Z",
+          "wordCount": null,
+          "title": "[Translated article] Impact of the diagnosis of a musculoskeletal sarcoma and its treatment outcomes on patients' mood, anxiety, quality life and coping strategies",
+          "imageUrl": null
+        },
         {
           "id": "pubmed:42901446",
           "author": "Paula Casas Ramos",
@@ -8457,6 +7827,16 @@
           "publishedOn": "2026-10-20T10:00:00.000Z",
           "wordCount": null,
           "title": "[Translated article] Impact of the diagnosis of a musculoskeletal sarcoma and its treatment outcomes on patients' mood, anxiety, quality life and coping strategies",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42893057",
+          "author": "Yijun Tian",
+          "description": "Somatic androgen receptor (AR) alterations including gene amplification, point mutations, and the AR-V7 splice variant occur in 50-70% of patients with metastatic castration-resistant prostate cancer (mCRPC) and drive resistance to AR-pathway inhibitors (ARPIs) in metastatic castration-resistant prostate cancer (mCRPC). However, current liquid biopsy approaches typically require separate cell-free DNA (cfDNA) and cfRNA workflows to evaluate these distinct alteration classes, increasing sample...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42893057/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "A novel multiplex digital PCR assay for simultaneous quantification of androgen receptor amplification, mutations, and splice variants in cell-free nucleic acids from metastatic castration-resistant prostate cancer",
           "imageUrl": null
         },
         {
@@ -8527,6 +7907,26 @@
           "publishedOn": "2026-10-18T10:00:00.000Z",
           "wordCount": null,
           "title": "A novel multiplex digital PCR assay for simultaneous quantification of androgen receptor amplification, mutations, and splice variants in cell-free nucleic acids from metastatic castration-resistant prostate cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42880233",
+          "author": "Min-Hwan Sohn",
+          "description": "Cancer genomes harbor extensive somatic genetic and epigenetic variation, yet large portions of the genome remain inaccessible to conventional reference-based analyses. Here, we demonstrate that pairing a near-telomere-to-telomere (near-T2T) diploid assembly of a donor with deep short- and long-read sequencing of their melanoma reveals that 16% of somatic variants localize to sequences absent from GRCh38, with satellite repeats acting as hotspots for UV-associated mutagenesis. Centromere...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42880233/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "A telomere-to-telomere map of somatic mutation burden and functional impact in a cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42877550",
+          "author": "Şerife Emre Ünsal",
+          "description": "Therapy-related myeloid neoplasms (t-MNs), which develop following cytotoxic chemotherapy or radiotherapy, remain one of the most significant clinical challenges in modern hematology due to their aggressive clinical course and poor survival outcomes. The traditional paradigm regarded the development of t-MNs as a consequence of de novo genetic damage induced by anticancer therapies. However, recent data concerning genomics and clonal evolution have fundamentally transformed our understanding of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42877550/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Silent, but not innocent: the emerging role of clonal hematopoiesis in predicting therapy-related myeloid neoplasms",
           "imageUrl": null
         },
         {
@@ -8723,6 +8123,16 @@
           "id": "pubmed:42871719",
           "author": "Atri Choksi",
           "description": "Circulating tumor DNA (ctDNA), obtained serially during cancer treatment, can capture tumor burden trends to help interpret response and detect resistance to systemic therapy for patients with advanced disease. Traditionally, tumor-informed assays track somatic variants identified from an initial tumor biopsy and have demonstrated prognostic utility for early-stage disease. However, tumor-informed ctDNA assays are potentially limited by logistical and methodologic considerations in the setting...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42871719/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Concordance of tumor-informed and tumor-agnostic ctDNA assays for treatment response monitoring in advanced solid tumors",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42871719",
+          "author": "Atri Choksi",
+          "description": "Circulating tumor DNA (ctDNA), obtained serially during cancer treatment, can capture tumor burden trends to help interpret response and detect resistance to systemic therapy for patients with advanced disease. Traditionally, tumor-informed assays track somatic variants identified from an initial tumor biopsy and have demonstrated prognostic utility for early-stage disease. However, tumor-informed ctDNA assays are potentially limited by logistical and methodologic considerations in the setting...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42871719/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261024230202&v=2.20.1",
           "publishedOn": "2026-10-14T10:00:00.000Z",
           "wordCount": null,
@@ -8827,6 +8237,16 @@
           "publishedOn": "2026-10-14T10:00:00.000Z",
           "wordCount": null,
           "title": "Concordance of tumor-informed and tumor-agnostic ctDNA assays for treatment response monitoring in advanced solid tumors",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42856273",
+          "author": "Eftychia Chatziioannou",
+          "description": "Genomic events and their timing that grant a primary tumour the competence to disseminate remain poorly defined. We performed sequencing of 247 stage I/II primary cutaneous melanomas (CMs) and 60 matched metastases without intervening therapy from a prospectively followed registry cohort with a median followup of 92 months, integrating copy-number, mutational, protein and spatial-transcriptomic analyses. Relapse was not distinguished by oncogenic point mutations, which were largely shared...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42856273/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-10T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Genomic correlates of metastatic competence and progression in human melanoma",
           "imageUrl": null
         },
         {
@@ -8967,6 +8387,16 @@
           "publishedOn": "2026-10-10T10:00:00.000Z",
           "wordCount": null,
           "title": "Genomic correlates of metastatic competence and progression in human melanoma",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42845306",
+          "author": "Timmy Ma",
+          "description": "Tissues of higher organisms are maintained by hierarchies of stem and progenitor cell compartments regulated by homeostatic feedback. Somatic mutations generate genetically distinct clones whose evolutionary success depends not only on their fitness but also on the tissue architecture in which they arise. In previous work, we showed that this hierarchical organization creates invasion barriers that prevent advantageous mutants originating in downstream compartments from expanding unless their...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42845306/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Hierarchical tissue structure creates history-dependent barriers to clonal invasion",
           "imageUrl": null
         },
         {
@@ -9137,6 +8567,16 @@
           "publishedOn": "2026-10-08T10:00:00.000Z",
           "wordCount": null,
           "title": "Hierarchical tissue structure creates history-dependent barriers to clonal invasion",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42839864",
+          "author": "Resham Mawalkar",
+          "description": "Calreticulin gene (CALR) mutations are seen in 25%-30% of myeloproliferative neoplasms (MPNs). We report outcomes and high-risk genomic signatures in 149 patients with CALR-mutated MPN. CALR-mutated essential thrombocythaemia (n = 106) progressed to myelofibrosis (n = 40) at a median of 20.4 years, and 20-year overall survival (OS) was 81%. In 83 patients with myelofibrosis, the median leukaemia-free survival (LFS) was 12.9 years, and OS was 13.9 years. Median survival after leukaemia...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42839864/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Outcome heterogeneity in CALR-mutated myeloproliferative neoplasms",
           "imageUrl": null
         },
         {
@@ -9317,6 +8757,16 @@
           "publishedOn": "2026-10-07T10:00:00.000Z",
           "wordCount": null,
           "title": "Outcome heterogeneity in CALR-mutated myeloproliferative neoplasms",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42828750",
+          "author": "Dale M Watt",
+          "description": "Cancer develops through an evolutionary process driven by mutation and selective pressures imposed by the microenvironment. To be translationally relevant, experimental models must recapitulate these clinical complexities. In this Primer, we consider how different mouse-modeling strategies can be aligned with human tumor evolution, focusing on mutation order, the emergence and competition of initially rare mutant clones within genetically mosaic tissues, and microenvironmental context. By...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42828750/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Modeling human tumor evolution in mice",
           "imageUrl": null
         },
         {
@@ -9527,6 +8977,36 @@
           "publishedOn": "2026-10-03T10:00:00.000Z",
           "wordCount": null,
           "title": "Modeling human tumor evolution in mice",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42820819",
+          "author": "Qi Zhang",
+          "description": "Mosaic loss of the Y chromosome (mLOY) is a male‑specific somatic loss of the Y chromosome that is predominantly observed in peripheral blood leukocytes, but can also be found in other tissue types. It represents one of the most common male-specific somatic mutations, particularly prevalent in aging individuals. Accumulating evidence shows that mLOY markedly increases the incidence, progression, and adverse prognosis of multiple diseases, including, but not limited to, myocardial fibrosis, lung...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42820819/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Mosaic Loss of the Y Chromosome: Mechanisms and Diseases",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42820749",
+          "author": "Luca Mannino",
+          "description": "CONCLUSIONS: Overall, EGG links epitope prioritization to tumor systems biology and evolutionary rationale, prioritizing biologically contextualized cancer vaccine candidates from SNVs, indels, fusions, and splicing-derived epitopes while streamlining dataset analysis. EGG is available from GitHub at https://github.com/fhaive/epitope_generation_gateway.",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42820749/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Epitope Generation Gateway: A biological context-dependent approach to cancer vaccine development",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42820733",
+          "author": "Meng Liu",
+          "description": "Somatic mutations contribute to tumorigenesis through mutation, selection, and clonal expansion within the native host. Quantifying oncogenic fitness-the extent to which specific somatic mutations promote tumorigenesis-is vital to understanding cancer initiation, progression, and therapeutic response. Perturbation of tumorigenesis by experimental alteration of oncogenes and tumor suppressors in genetically engineered mouse models has long served to inform human cancer research and such...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42820733/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-10-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Cancer evolution in its native host: oncogenic selection and epistasis revealed by human tumor genomes",
           "imageUrl": null
         },
         {
@@ -10073,6 +9553,16 @@
           "id": "pubmed:42802335",
           "author": "Giuseppe G Loscocco",
           "description": "Calreticulin (CALR)-mutated myeloproliferative neoplasms (MPNs) are generally associated with favourable outcomes, yet considerable heterogeneity persists across the disease course. Mawalkar et al. provide long-term data across essential thrombocythaemia (ET), post-ET myelofibrosis (MF) and primary MF, highlighting the prognostic relevance of additional somatic mutations. The contribution of co-mutational context, variant allele frequency (VAF), disease origin and timing of molecular assessment...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42802335/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-09-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "CALR-mutated myeloproliferative neoplasms: Refining molecular risk beyond the driver",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42802335",
+          "author": "Giuseppe G Loscocco",
+          "description": "Calreticulin (CALR)-mutated myeloproliferative neoplasms (MPNs) are generally associated with favourable outcomes, yet considerable heterogeneity persists across the disease course. Mawalkar et al. provide long-term data across essential thrombocythaemia (ET), post-ET myelofibrosis (MF) and primary MF, highlighting the prognostic relevance of additional somatic mutations. The contribution of co-mutational context, variant allele frequency (VAF), disease origin and timing of molecular assessment...",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42802335/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261024230202&v=2.20.1",
           "publishedOn": "2026-09-27T10:00:00.000Z",
           "wordCount": null,
@@ -10337,6 +9827,16 @@
           "publishedOn": "2026-09-27T10:00:00.000Z",
           "wordCount": null,
           "title": "CALR-mutated myeloproliferative neoplasms: Refining molecular risk beyond the driver",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42793013",
+          "author": "Eliezer Kopf",
+          "description": "BACKGROUND/OBJECTIVES: Retinoic acid receptor γ (RARγ), encoded by RARG, is increasingly recognized as a cancer-associated regulator through aberrant expression in multiple solid tumors and recurrent gene rearrangements in acute myeloid leukemia. While the oncogenic relevance of RARγ is well established, the potential involvement of its N-terminal activation function-1 (AF1) domain in human cancer remains poorly characterized. Previous biochemical studies demonstrated that phosphorylation of...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42793013/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-09-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Rare Cancer-Associated Mutations May Affect the AF1 Phosphoregulatory Domain of RARgamma",
           "imageUrl": null
         },
         {
@@ -10617,6 +10117,16 @@
           "publishedOn": "2026-09-26T10:00:00.000Z",
           "wordCount": 529,
           "title": "Rare Cancer-Associated Mutations May Affect the AF1 Phosphoregulatory Domain of RARgamma",
+          "imageUrl": null
+        },
+        {
+          "id": "pubmed:42787686",
+          "author": "Roni Haas",
+          "description": "Multifocal prostate cancer is a prevalent phenomenon, with most cases remaining uncharacterized from a genomic perspective. A patient presented with bilateral prostate cancer. On systematic biopsy, two indistinguishable clinicopathologic lesions were detected. Whole-genome sequencing displayed somatically unrelated tumors with distinct driver CNA regions, suggesting independent origins of the two tumors. We demonstrated that similar clinicopathologic multifocal tumors, which might be interpreted...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42787686/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261025230143&v=2.20.1",
+          "publishedOn": "2026-09-25T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Divergent evolution in bilateral prostate cancer: a case study",
           "imageUrl": null
         },
         {
@@ -13767,686 +13277,6 @@
           "publishedOn": "2026-09-01T10:00:00.000Z",
           "wordCount": null,
           "title": "Evolution of malignant tumors as neoorgan and predictions of future scenarios resulting from inappropriate treatment",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261004000818&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261002233831&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20261001235335&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260930235647&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260930235647&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260929234859&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260929234859&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260929000150&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260929000150&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260927232600&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260927232600&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260925232008&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260925232008&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260924231555&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": 529,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260923225851&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260923225851&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260922230759&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260922230759&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260920230837&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260920230837&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260919231230&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260919231230&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260918225811&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260918225811&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260917230043&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260917230043&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260916231428&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260916231428&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260915230943&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260915230943&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260914231324&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260914231324&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260913231110&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260913231110&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260912225721&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260912225721&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260911225734&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260910224939&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260910224939&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260909225519&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260909225519&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260908225412&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260908225412&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260907225356&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": 1435,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260907225356&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": 1931,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260906224251&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260906224251&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260905224439&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260905224439&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260904224632&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260904224632&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260903224520&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260903224520&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260902224807&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260902224807&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260901224121&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260901224121&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260831232327&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260831232327&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": 1931,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260830232300&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260830232300&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260829232506&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260829232506&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658760",
-          "author": "Madison Caballero",
-          "description": "Mutations are the source of evolutionary novelty but also the cause of genetic diseases and cancer. Mutation rates are known to be heterogeneous along the genome, however the extent to which local mutation rates vary among individuals in a population and are genetically determined is unknown. To test this, we analyzed the chromosomal distribution of somatic mutations in cell lines from 1,662 individuals, controlling for the confounding effects of DNA replication timing on local mutation rates...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658760/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260829012824&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Genetic control of local mutation rates",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260829012824&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
-          "imageUrl": null
-        },
-        {
-          "id": "pubmed:42658220",
-          "author": "Nicola Fusco",
-          "description": "Liquid biopsy (LBx), particularly plasma circulating tumour DNA (ctDNA) analysis, has become an important use case of molecular pathology in solid tumours. While tissue remains the cornerstone of diagnosis, ctDNA testing provides a minimally invasive alternative using repeatable source of tumour-derived genomic information that complements tissue analysis when samples are unavailable, insufficient, outdated, or unlikely to capture tumour heterogeneity and evolution. In this expert opinion paper,...",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42658220/?utm_source=axios&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HuCGFZSJIJipW3YKC8lKs0LOntnvC4VTlDPv37z3kpJCsGYKs&fc=20220608010801&ff=20260828045238&v=2.20.1",
-          "publishedOn": "2026-08-27T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Liquid biopsy in solid tumours: expert opinion paper of the European society of pathology",
           "imageUrl": null
         }
       ]
